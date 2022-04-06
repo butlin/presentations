@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="217.14389mm"
+   height="97.62709mm"
+   viewBox="0 0 217.14389 97.62709"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="vo2max.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.79998597"
+     inkscape:cx="318.13058"
+     inkscape:cy="313.13049"
+     inkscape:window-width="1827"
+     inkscape:window-height="1057"
+     inkscape:window-x="85"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14245-5" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.881334,-65.816257)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44.318486,65.816257 V 148.5 H 172.64365"
+       id="path857" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.318486,148.5 c 0,0 24.143652,-63.501116 74.084634,-64.162585 49.94098,-0.661468 49.94098,-0.330734 49.94098,-0.330734"
+       id="path1041"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="59.201557"
+       y="161.39865"
+       id="text2101"><tspan
+         sodipodi:role="line"
+         id="tspan2099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="59.201557"
+         y="161.39865">exercise intensity</tspan></text>
+    <g
+       id="g14245"
+       transform="rotate(-90,19.805246,100.62732)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="6.2839642"
+         y="114.4343"
+         id="text6493"><tspan
+           sodipodi:role="line"
+           id="tspan6491"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="6.2839642"
+           y="114.4343">VO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="22.159241"
+         y="118.73385"
+         id="text9723"><tspan
+           sodipodi:role="line"
+           id="tspan9721"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="22.159241"
+           y="118.73385">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="8.2683735"
+         y="103.18931"
+         id="text13079"><tspan
+           sodipodi:role="line"
+           id="tspan13077"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="8.2683735"
+           y="103.18931">.</tspan></text>
+    </g>
+    <g
+       id="g14245-5"
+       transform="translate(182.93528,-26.542677)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="6.2839642"
+         y="114.4343"
+         id="text6493-3"><tspan
+           sodipodi:role="line"
+           id="tspan6491-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="6.2839642"
+           y="114.4343">VO  max.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="22.159241"
+         y="118.73385"
+         id="text9723-8"><tspan
+           sodipodi:role="line"
+           id="tspan9721-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="22.159241"
+           y="118.73385">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="8.2683735"
+         y="103.18931"
+         id="text13079-5"><tspan
+           sodipodi:role="line"
+           id="tspan13077-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="8.2683735"
+           y="103.18931">.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-14.215419"
+         y="189.26428"
+         id="text19058"><tspan
+           sodipodi:role="line"
+           id="tspan19056"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="-14.215419"
+           y="189.26428">Created for MEDI2101</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 185.87305,84.072809 H 44.979955"
+       id="path14457" />
+  </g>
+</svg>

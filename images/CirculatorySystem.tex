@@ -1,0 +1,52 @@
+% Circulatory system
+\begin{tikzpicture}[scale=0.65,rounded corners=0.1pt,]
+	\small
+	\draw[minimum width= 4cm]
+		(4,0) node[draw] (OtherOrgans) 	{Other systemic organs}
+		(4,1) node[draw] (Bone)			{Bone}
+		(4,2) node[draw] (Skeletal)		{Skeletal muscle}
+		(4,3) node[draw] (HeartMuscle)		{Heart muscle}
+		(4,4) node[draw] (Brain)			{Brain}
+		(4,5) node[draw] (Skin)			{Skin}
+		(4,6) node[draw] (Kidneys)		{Kidneys}
+		(4,7) node[draw] (Liver)			{Liver}
+		(4,8) node[draw] (Digestive)		{Digestive system}
+		(0,9.5) node[minimum width= 3cm, draw] (RA) {Right atrium}
+		(8,9.5) node[minimum width= 3cm, draw] (LV) {Left ventricle}
+		(0,10.5) node[minimum width= 3cm, draw] (RV) {Right ventricle}
+		(8,10.5) node[minimum width= 3cm, draw] (LA) {Left atrium}
+		(4,12) node[minimum width=2cm, draw] (Lungs)		{Lungs};
+
+	\draw[dashed,minimum width=8cm, minimum height=1.5cm,thick]
+		(4,10) node[draw] (Heart) {Heart};
+
+	\begin{scope}[->,ultra thick,rounded corners=8pt]
+		\begin{scope}[red]
+			\draw (Lungs) -- (8,11.5) node[midway,sloped,above,text width=2cm,text centered] {pulmonary vein} -- (LA) ;
+			\draw (LA) -- (LV);
+			\draw (LV) -- (8,8) -- (Digestive);
+			\draw (LV) -- (8,7) -- (Liver);
+			\draw (LV) -- (8,6) -- (Kidneys);
+			\draw (LV) -- (8,5) -- (Skin);
+			\draw (LV) -- (8,4) -- (Brain);
+			\draw (LV) -- (8,3) -- (HeartMuscle);
+			\draw (LV) -- (8,2) -- (Skeletal);
+			\draw (LV) -- (8,1) -- (Bone);
+			\draw (LV) -- (8,0) node[midway,sloped,below] {systemic arterial system} -- (OtherOrgans);
+		\end{scope}
+		\begin{scope}[blue]
+			\draw (RV) -- (0,11.5) -- (Lungs) node[midway,sloped,above,text width=2cm,text centered] {pulmonary artery};
+			\draw (RA) -- (RV);
+			\draw (OtherOrgans) -- (0,0)  -- (RA) node[midway,sloped,above] {systemic venous system};
+			\draw (Bone) -- (0,1) -- (RA);
+			\draw (Skeletal) -- (0,2) -- (RA);
+			\draw (HeartMuscle) -- (0,3) -- (RA);
+			\draw (Brain) -- (0,4) -- (RA);
+			\draw (Skin) -- (0,5) -- (RA);
+			\draw (Kidneys) -- (0,6) -- (RA);
+			\draw (Liver) -- (0,7) -- (RA);
+			\draw (Digestive) -- (0,8) -- (RA);
+			\draw (Digestive) -- (Liver); %node[midway,left,black] {hepatic portal vein};
+		\end{scope}
+	\end{scope}
+\end{tikzpicture}

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.99924mm"
+   height="138.8316mm"
+   viewBox="0 0 198.99924 138.8316"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ventilation_perfusion.svg"
+   inkscape:export-filename="C:\Users\MQ20073221\Desktop\ventilation_perfusion.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path877"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path880"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path871"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path874"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path874-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Sstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path877-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path880-9" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="251.06276"
+     inkscape:cy="642.38874"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.5092723,-73.341179)">
+    <path
+       style="fill:#00c8ff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.437499,108.47917 c 0,0 10.583333,-3.02381 14.741072,-15.497029 4.157737,-12.473215 28.726189,-4.91369 28.726189,-4.91369 0,0 12.47322,20.410719 19.27679,21.166669 6.80357,0.75595 -62.744051,-0.75595 -62.744051,-0.75595 z"
+       id="path1246"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:#00c8ff;fill-opacity:1;stroke:#00c8ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path1232"
+       sodipodi:type="arc"
+       sodipodi:cx="102.9985"
+       sodipodi:cy="128.13393"
+       sodipodi:rx="54.617558"
+       sodipodi:ry="23.8125"
+       sodipodi:start="3.2159088"
+       sodipodi:end="3.19678"
+       sodipodi:arc-type="slice"
+       d="m 48.531693,126.3659 a 54.617558,23.8125 0 0 1 58.261517,-21.98693 54.617558,23.8125 0 0 1 50.70838,25.29578 54.617558,23.8125 0 0 1 -57.77652,22.22887 54.617558,23.8125 0 0 1 -51.260979,-25.08318 l 54.534409,1.31349 z" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.494312,196.16964 c 0,0 59.909225,-59.53125 119.440478,0"
+       id="path833" />
+    <path
+       id="path833-6"
+       d="m 59.905023,133.18025 c 0,0 36.096724,47.05805 88.824407,-1.88988"
+       style="fill:none;stroke:#00c8ff;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path833-4"
+       d="m 39.494312,196.16964 c 0,0 59.909222,-59.53125 119.440478,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-9)"
+       d="m 100.02114,81.717603 c 0,0 -69.787305,76.201347 3.25412,76.437457 47.37989,0.15316 11.28021,-31.4482 6.19528,-77.949361"
+       id="path833-4-9"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="130.40179"
+       y="125.86607"
+       id="text1270"><tspan
+         sodipodi:role="line"
+         id="tspan1268"
+         x="130.40179"
+         y="125.86607"
+         style="stroke-width:0.264583">Combined aveolar</tspan><tspan
+         sodipodi:role="line"
+         x="130.40179"
+         y="133.80357"
+         style="stroke-width:0.264583"
+         id="tspan1272">space of the lungs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="99.67572"
+       y="187.09822"
+       id="text1276"><tspan
+         sodipodi:role="line"
+         id="tspan1274"
+         x="99.67572"
+         y="187.09822"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Lung capillary</tspan><tspan
+         sodipodi:role="line"
+         x="99.67572"
+         y="195.03572"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1278">network</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#bcaf00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.199405,161.77379 97.608215,0"
+       id="path1280" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.22917"
+       y="163.28571"
+       id="text1284"><tspan
+         sodipodi:role="line"
+         id="tspan1282"
+         x="140.22917"
+         y="163.28571"
+         style="stroke-width:0.264583">alveolar membrane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.4017854"
+       y="91.848213"
+       id="text1296"><tspan
+         sodipodi:role="line"
+         id="tspan1294"
+         x="3.4017854"
+         y="91.848213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">VENTILATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.6824491"
+       y="212.04463"
+       id="text1300"><tspan
+         sodipodi:role="line"
+         id="tspan1298"
+         x="2.6824491"
+         y="212.04463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">PERFUSION</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send)"
+       d="m 93.947708,155.34822 v 14.74107"
+       id="path1302"
+       inkscape:transform-center-x="0.37797619"
+       inkscape:transform-center-y="2.6458333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.006813"
+       y="160.2648"
+       id="text1450"><tspan
+         sodipodi:role="line"
+         id="tspan1448"
+         x="88.006813"
+         y="160.2648"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">gas exchange</tspan><tspan
+         id="tspan910"
+         sodipodi:role="line"
+         x="88.006813"
+         y="168.2023"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">(diffusion)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.77084"
+       y="80.130951"
+       id="text1288"><tspan
+         sodipodi:role="line"
+         id="tspan1286"
+         x="113.77084"
+         y="80.130951"
+         style="stroke-width:0.264583">bulk flow of air (V)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="167.19653"
+       y="74.759384"
+       id="text1454"><tspan
+         sodipodi:role="line"
+         id="tspan1452"
+         x="167.19653"
+         y="74.759384"
+         style="stroke-width:0.264583">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.96773"
+       y="205.71077"
+       id="text1292"><tspan
+         sodipodi:role="line"
+         id="tspan1290"
+         x="132.96773"
+         y="205.71077"
+         style="stroke-width:0.264583">bulk flow of blood (Q)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="195.77493"
+       y="199.51669"
+       id="text1464"><tspan
+         sodipodi:role="line"
+         id="tspan1462"
+         x="195.77493"
+         y="199.51669"
+         style="stroke-width:0.264583">.</tspan></text>
+    <path
+       inkscape:transform-center-y="2.6458333"
+       inkscape:transform-center-x="0.37797619"
+       id="path1302-9"
+       d="m 104.00261,154.83776 v 14.74107"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart-2);marker-end:url(#Arrow1Send-9)" />
+  </g>
+</svg>
