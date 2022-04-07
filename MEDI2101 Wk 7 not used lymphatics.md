@@ -274,7 +274,7 @@
 %   \frame{
 %     \startsubframe%
 %     \only<presentation>{\small}
-%     \tableslide{%
+%     \tableslide{
 % \begin{tabular}{lcccccc}
 % \hline
 %           & \multicolumn{3}{c}{primary} & \multicolumn{3}{c}{secondary}\\
