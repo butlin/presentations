@@ -81,7 +81,7 @@ Partial pressures of oxygen and carbon dioxide in the body.
     <td></td>
     <td> 40 </td></tr>
   <tr>
-    <td> P$_{{CO}_2}$ (%) </td>
+    <td> P$_{CO_2}$ (%) </td>
     <td> 40 </td>
     <td>$\longleftarrow$</td>
     <td> 46 </td>
