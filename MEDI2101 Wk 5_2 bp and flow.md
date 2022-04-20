@@ -3,11 +3,12 @@
 ### Block 2: Cardiovascular System
 # LO2.2: Blood pressure and flow
 (Week 5, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 ---
 ## LO2.2.4 Describe the pressure changes that occur during the cardiac cycle and relate these to blood flow through the heart and vessels.

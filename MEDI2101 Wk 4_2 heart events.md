@@ -3,11 +3,12 @@
 ### Block 2: Cardiovascular System
 # LO2.1: Electrical and mechanical events of the heart
 (Week 4, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 ---
 ## LO2.1.4 Describe the conduction of electrical signals through the heart.

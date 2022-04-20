@@ -185,11 +185,12 @@ body.dark .reveal h6 {
     font-size: 1.77em; 
     border-bottom: 2px solid #C6007E;
     padding-bottom:16px;
+    data-id: "title";
 }
 
 .reveal h2 {
     margin: 200px 0px 200px 0px;
-    data-id: title;
+    data-id: "title";
     border-bottom: 2px solid #C6007E;
 }
 
@@ -203,7 +204,7 @@ body.dark .reveal h6 {
     font-size: .9em;
     padding-bottom:10px;
     border-bottom: 2px solid #C6007E;
-    data-id: "subtitle";
+    content: data-id:("subtitle");
     /* background-color: #373A36;  */
 }
 
@@ -220,7 +221,7 @@ h2.author, h3.date {
 
 h2.learningoutcome {
     margin: 200px 0px 200px 0px;
-    data-id: title;
+    data-id: "title";
 }
 
 .level2 h1 {
@@ -259,7 +260,7 @@ p.citation {
     padding: 0px;
     margin: 0px;
     width:100%; 
-    font-style: italic;
+    /* font-style: italic; */
     font-size: 0.4em;
     color: #C6007E;
     text-align:right;
@@ -270,7 +271,7 @@ p.citationleft {
     left: 0px;
     bottom: 0px;
     width: 100%; 
-    font-style: italic;
+    /* font-style: italic; */
     font-size: 0.4em;
     color: #C6007E;
     text-align: left;

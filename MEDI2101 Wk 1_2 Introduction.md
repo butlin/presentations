@@ -2,10 +2,12 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Unit overview
 (Week 1, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
-Macquarie Medical School
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
+
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 --
 <!-- .slide:  data-background-image="images/AboriginalAustralia1.png" -->
@@ -18,21 +20,22 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 
 --
 <!-- .slide: data-background-color="#373A36" -->
-<h1 style="color:white">Mark Butlin:</h1>
-<h1 style="color:white">Top 0.025% (number 7 of 28,135 researchers) in
-  arterial pressure.</h1>
-<h1 class="no-toc-progress fragment" style="color:white">No ranking in respiratory physiology.</h1>
+<p style="color:white">Mark Butlin:</p>
+<p style="color:white">Top 0.025% (number 7 of 28,135 researchers) in
+  arterial pressure.</p>
+<p class="no-toc-progress fragment" style="color:white">No ranking in respiratory physiology.</p>
 <p>&nbsp</p>
 <p class="citation"><a
     href="https://expertscape.com/ex/arterial+pressure">https://expertscape.com/ex/arterial+pressure</a>
 </p>
 
 --
-<h2>Using Echo360 for live lectures.</h2>
+### Using Echo360 for live lectures.
+####
 
 --
-<h3>Live lectures in Echo360</h3>
-<h4>Taking notes</h4>
+### Live lectures in Echo360
+#### Taking notes
 <img src="images/Echo360TakingNotes.png">
 
 --
@@ -68,7 +71,8 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <p class="fragment">Zoom will be used for anatomy classes to facilitate the interactive "tutorial style" approach to those classes.</p>
 
 --
-<h2>Unit description and outcomes</h2>
+### Unit description and outcomes
+####
 
 --
 <h3>Unit description</h3>
@@ -97,7 +101,8 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 
 --
 
-<h2>Unit difficulty</h2>
+### Unit difficulty
+####
 
 --
 <!-- .slide: data-background-image="images/Internal_organs - cardiorespiratory.png" data-background-size="70%" -->
@@ -120,7 +125,8 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <img src="images/MEDI2101_pastgrades.png" width="50%">
 
 --
-<h2>Unit overview</h2>
+### Unit overview
+####
 
 --
 <!-- .slide: data-background-image="images/MEDI2101 Table Overview_1.png" data-background-size="100%" -->
@@ -196,7 +202,8 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <img src="images/questionmark.png">
 
 --
-<h2>Assessment tasks</h2>
+### Assessment tasks
+####
 
 --
 <h3>Assessment tasks</h3>

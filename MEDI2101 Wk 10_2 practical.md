@@ -2,11 +2,12 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # Week 10, Practical: Physiological measurement in the diseased state
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 --
 ### Learning Evaluation of Unit

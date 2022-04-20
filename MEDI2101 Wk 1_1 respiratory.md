@@ -1,29 +1,44 @@
 <!-- .slide: id="MEDI2101Wk1_1" -->
 # MEDI2101 <br>Cardiovascular and Respiratory System.
-##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA)
-Macquarie Medical School
+##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
+
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
+
+--
+### MEDI2101. Cardiovascular and Respiratory System
+#### Blocks
+
+- **Block 1 (week 1 to 3):** Respiratory system
+- **Block 2 (week 4 to 7):** Cardiovascular system
+- **Block 3 (week 8 and 9):** Cardiovascular and respiratory integration
+- **Block 4 (week 10 to 12):** Cardiovascular and respiratory system in disease
+- **Block 5 (week 13 and exam period):** Review and assess
 
 ---
 
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 1: Respiratory System
-##### Dr Mark Butlin (PhD, BE, SFHEA)
-Macquarie Medical School
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
+
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 ---
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.1: "Reason" for the cardiovascular and respiratory system
 (Week 1, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 ---
 ## LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus.

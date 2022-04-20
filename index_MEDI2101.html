@@ -39,7 +39,7 @@
 			    <div class="slides">
                     <section data-markdown="MEDI2101 Wk 1_1 respiratory.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 1_2 Introduction.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
-                    <section data-markdown="MEDI2101 Wk 2_1 Respiratory ventilation.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
+                    <!-- <section data-markdown="MEDI2101 Wk 2_1 Respiratory ventilation.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 2_2 Respiratory gas exchange.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 3_1 respiratory_regulation1.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 3_2 respiratory_regulation2.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
@@ -58,7 +58,7 @@
                     <section data-markdown="MEDI2101 Wk 10 COPD.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 10_2 practical.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
                     <section data-markdown="MEDI2101 Wk 11.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
-                    <section data-markdown="MEDI2101 Wk 12 ISH.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section>
+                    <section data-markdown="MEDI2101 Wk 12 ISH.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:"></section> -->
                 </div>
             </div>
 
@@ -68,6 +68,7 @@
         <script src="plugin/highlight/highlight.js"></script>
         <script src="plugin/math/math.js"></script>
         <script src="plugin/menu/menu.js"></script>
+        <script src="plugin/pdfexport/pdfexport.js"></script>
         <script src="plugin/zoom/zoom.js"></script>
 
         <script>
@@ -108,7 +109,7 @@
                 //     { src: 'plugin/toolbar/toolbar.js' }
                 // ],
                 // Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealMath, RevealHighlight, RevealMenu, RevealNotes ],
+				plugins: [PdfExport, RevealMarkdown, RevealMath, RevealHighlight, RevealMenu, RevealNotes ],
                 menu: {
                     // Specifies which side of the presentation the menu will
                     // be shown. Use 'left' or 'right'.
@@ -131,7 +132,7 @@
                     // element will be used.
                     // Note: that a section data-menu-title attribute or an element
                     // with a menu-title class will take precedence over this option
-                    titleSelector: 'h1, h2, h3',
+                    titleSelector: 'h1, h2',
 
                     // If slides do not have a matching title, attempt to use the
                     // start of the text content as the title instead
@@ -154,13 +155,18 @@
                     custom: [
                     {
                         title: 'Go to week...',
-                        icon: '<i class="fa fa-external-link">',
-                        src: 'MEDI2101 Wk.html'
+                        icon: '<i class="far fa-folder">',
+                        src: 'menu_MEDI2101week.html'
                     },
                     {
                         title: 'Other links',
-                        icon: '<i class="fa fa-external-link">',
-                        src: 'MEDI2101 menu links.html'
+                        icon: '<i class="fa fa-laptop">',
+                        src: 'menu_MEDI2101links.html'
+                    },
+                    {
+                        title: 'Help',
+                        icon: '<i class="fa fa-info">',
+                        src: 'menu_help.html'
                     }
                     ],
 
@@ -251,58 +257,5 @@
                 }
             });
         </script>
-
-        <!-- <script>
-            // Multiple presentation setup
-            let MEDI2101 = new Reveal( document.querySelector( '.MEDI2101' ), {
-				embedded: true,
-				progress: false,
-				keyboardCondition: 'focused',
-				plugins: [ RevealHighlight ]
-			} );
-			MEDI2101.on( 'slidechanged', () => {
-				console.log( 'MEDI2101 slide changed' );
-			} );
-			MEDI2101.initialize();
-
-			let MEDI7042 = new Reveal( document.querySelector( '.MEDI7042' ), {
-				embedded: true,
-				progress: false,
-				keyboardCondition: 'focused',
-				plugins: [ RevealMarkdown, RevealMath ]
-			} );
-			MEDI7042.initialize().then( () => {
-				MEDI7042.slide(1);
-			} );
-			MEDI7042.on( 'slidechanged', () => {
-				console.log( 'MEDI7042 slide changed' );
-			} );
-
-            let MEDI8100 = new Reveal( document.querySelector( '.MEDI8100' ), {
-				embedded: true,
-				progress: false,
-				keyboardCondition: 'focused',
-				plugins: [ RevealMarkdown, RevealMath ]
-			} );
-			MEDI8100.initialize().then( () => {
-				MEDI8100.slide(1);
-			} );
-			MEDI8100.on( 'slidechanged', () => {
-				console.log( 'MEDI8100 slide changed' );
-			} );
-
-            let BPVF = new Reveal( document.querySelector( '.BPVF' ), {
-				embedded: true,
-				progress: false,
-				keyboardCondition: 'focused',
-				plugins: [ RevealMarkdown, RevealMath ]
-			} );
-			BPVF.initialize().then( () => {
-				BPVF.slide(1);
-			} );
-			BPVF.on( 'slidechanged', () => {
-				console.log( 'BPVF slide changed' );
-			} );
-        </script> -->
     </body>
 </html>

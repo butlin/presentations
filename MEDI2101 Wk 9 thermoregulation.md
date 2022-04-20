@@ -3,13 +3,14 @@
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.2: Thermoregulation
 (Week 9, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-based partially on the lecture of Dr Karen Peebles, Department of Health Professions.
+Based partially on the lecture of Dr Karen Peebles, Department of Health Professions.
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
+<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System

@@ -6351,11 +6351,11 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:snap-global="false"
-     inkscape:current-layer="g24525"
+     inkscape:current-layer="layer17"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="85"
-     inkscape:cy="511.87098"
+     inkscape:cy="510.4686"
      inkscape:cx="25.944146"
      inkscape:zoom="0.71307031"
      showgrid="false"
@@ -8816,7 +8816,7 @@
        xml:space="preserve"><tspan
          x="521.58441"
          y="226.50494"
-         id="tspan13146">Intercostal a.</tspan></text>
+         id="tspan15025">Intercostal a.</tspan></text>
     <text
        x="521.58441"
        y="262.55063"
@@ -8898,7 +8898,7 @@
        style="font-size:12.6667px;line-height:1;font-family:Arial;text-align:start;writing-mode:lr-tb;inline-size:140.542;display:inline;stroke-width:0.999999"><tspan
          x="486.89359"
          y="347.86533"
-         id="tspan13148">Superior mesenteric a.</tspan></text>
+         id="tspan15027">Superior mesenteric a.</tspan></text>
     <text
        x="486.48929"
        y="330.10272"
@@ -13288,7 +13288,6 @@
      id="layer17"
      inkscape:label="PTT"
      style="display:inline"
-     sodipodi:insensitive="true"
      transform="translate(-93.601242,-19.11605)">
     <path
        style="fill:none;stroke:#000000;stroke-width:4.00001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.00002, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DotS);marker-mid:url(#Arrow1Send);marker-end:url(#DotS)"
@@ -13332,7 +13331,7 @@
        id="path21861" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.0001px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       style="font-style:normal;font-weight:normal;font-size:33.71234039px;line-height:1.25;font-family:'Atkinson Hyperlegible';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="477.51376"
        y="272.0614"
        id="text24401"><tspan
@@ -13340,20 +13339,20 @@
          id="tspan24399"
          x="477.51376"
          y="272.0614"
-         style="stroke-width:1">transit time</tspan></text>
+         style="stroke-width:1;-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-family:'Atkinson Hyperlegible';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:33.71234039px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">transit time</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6561px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888"
-       x="415.41522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7123px;line-height:0%;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888"
+       x="401.41522"
        y="564.63055"
        id="text5031"><tspan
          sodipodi:role="line"
          id="tspan5033"
-         x="415.41522"
+         x="401.41522"
          y="564.63055"
-         style="font-size:26.9716px;line-height:1.25;font-family:sans-serif;stroke-width:3.888">PWV =</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7123px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:3.888">PWV =</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.2493px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.71234039px;line-height:0%;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        xml:space="preserve"
        id="text10112-0-1"
        y="542.78809"
@@ -13361,10 +13360,10 @@
          id="tspan10114-9-7"
          y="542.78809"
          x="533.46594"
-         style="font-family:sans-serif;stroke-width:3.888">distance</tspan></text>
+         style="font-family:'Atkinson Hyperlegible';stroke-width:3.888;-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:33.71234039px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">distance</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6561px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.71234039px;line-height:0%;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.888;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="515.37311"
        y="580.00934"
        id="text5027-2"><tspan
@@ -13372,23 +13371,11 @@
          id="tspan5029-2"
          x="515.37311"
          y="580.00934"
-         style="font-size:26.9716px;line-height:1.25;font-family:sans-serif;stroke-width:3.888">transit time</tspan></text>
+         style="font-size:33.71234039px;line-height:1.25;font-family:'Atkinson Hyperlegible';stroke-width:3.888;-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">transit time</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 512.9241,553.2406 H 675.60134"
        id="path24463" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.0001px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-       x="361.83441"
-       y="-271.16724"
-       id="text24485"
-       transform="rotate(67)"><tspan
-         sodipodi:role="line"
-         id="tspan24483"
-         x="361.83441"
-         y="-271.16724"
-         style="stroke-width:1">distance</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13419,15 +13406,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.0001px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-       x="361.83441"
-       y="-271.16724"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7123px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="336.60126"
+       y="-272.73709"
        id="text24523"
        transform="rotate(67)"><tspan
          sodipodi:role="line"
          id="tspan24521"
-         x="361.83441"
-         y="-271.16724"
-         style="stroke-width:1">distance</tspan></text>
+         x="336.60126"
+         y="-272.73709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7123px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">distance</tspan></text>
   </g>
 </svg>
