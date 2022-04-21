@@ -1,7 +1,7 @@
 # Presentation workflow
 
 ## Making presentation
-1. Edit files in butlin/presentation as per normal.
+1. Edit files in /presentation as per normal.
 2. To view:
    1. Open the relevent html file in browser and refresh on each change, or
    2. In VisualCode Studio, Ctl-Shft-P -> Live server: Open with liver server, will update view automatically.
@@ -13,7 +13,7 @@ To upload to butlin github, use Github desktop (seems simpler than VisualCode pr
 
 <a href="https://butlin.github.io/presentations/">Webpage linking to presentations</a>
 
-To change the root webpage, edit index.md.
+If a new presentation, add a new "talk" or "teaching" item in butlin.github.io
 
 ## Create Powerpoint backup
 
