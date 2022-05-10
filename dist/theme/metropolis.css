@@ -299,6 +299,21 @@ p.citationleft {
     text-align: left;
 }
 
+p.citationside{
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  left: 100%;
+  right: auto;
+  pointer-events: none;
+  text-align: right;
+  writing-mode: vertical-rl;
+  transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
+  /* font-style: italic; */
+  font-size: 0.3em;
+  color: #C6007E;
+}
+
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
 .reveal video,
