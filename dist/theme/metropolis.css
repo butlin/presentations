@@ -260,6 +260,17 @@ h1.titleslide {
 }
 
 /*********************************************
+ * MAKE A SINGLE SLIDE SCROLLABEL
+ * by adding <section class="scrollable">
+ *********************************************/
+.scrollable {
+    /* bottom: 0px; */
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+    height: 500px
+}
+
+/*********************************************
  * OTHER
  *********************************************/
 .speaker-notes:before {

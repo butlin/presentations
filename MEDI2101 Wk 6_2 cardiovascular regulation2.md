@@ -7,8 +7,7 @@
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
-<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
 ## LO2.3.4 Outline the key steps of the baroreceptor reflex, include the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, arteriolar and myocardial targets, and the resulting systemic changes.
