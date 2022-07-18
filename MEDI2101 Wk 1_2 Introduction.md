@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk1_2" -->  
+<!-- .slide: id="MEDI2101Wk1_2" data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Unit overview
 (Week 1, Lecture 2)
@@ -20,7 +20,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 --
 <!-- .slide: data-background-color="#373A36" -->
 <p style="color:white">Mark Butlin:</p>
-<p style="color:white">Top 0.025% (number 7 of 28,135 researchers) in
+<p style="color:white">Top 0.025% (number 9 of 35,307 researchers) in
   arterial pressure.</p>
 <p class="no-toc-progress fragment" style="color:white">No ranking in respiratory physiology.</p>
 <p>&nbsp</p>
@@ -28,29 +28,25 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
     href="https://expertscape.com/ex/arterial+pressure">https://expertscape.com/ex/arterial+pressure</a>
 </p>
 
---
-### Using Echo360 for live lectures.
-####
-
---
+<!-- --
 ### Live lectures in Echo360
 #### Taking notes
-<img src="images/Echo360TakingNotes.png">
+<img src="images/Echo360TakingNotes.png"> -->
 
---
+<!-- --
 <h3>Live lectures in Echo360</h3>
 <h4>Posting questions</h4>
-<img src="images/Echo360PostingQuestions.png">
+<img src="images/Echo360PostingQuestions.png"> -->
 
---
+<!-- --
 <h3>Live lectures in Echo360</h3>
 <h4>Posting questions</h4>
 <p>Questions are anonymous to your peers.</p>
 <p>It is not <em>completely</em> anonymous - teaching staff can go into the system to find out who
   posted what.</p>
-<p>Impolite posting will not be tolerated.</p>
+<p>Impolite posting will not be tolerated.</p> -->
 
---
+<!-- --
 <h3>Live lectures in Echo360</h3>
 <h4>Why Echo360? (and not Zoom)</h4>
 <ul>
@@ -67,7 +63,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   <li>I can't see you all!</li>
   <li>No green screen effect (apologies for the drab background)</li>
 </ul>
-<p class="fragment">Zoom will be used for anatomy classes to facilitate the interactive "tutorial style" approach to those classes.</p>
+<p class="fragment">Zoom will be used for anatomy classes to facilitate the interactive "tutorial style" approach to those classes.</p> -->
 
 --
 ### Unit description and outcomes
@@ -121,7 +117,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 --
 <h3>Past grades</h3>
 <h4></h4>
-<img src="images/MEDI2101_pastgrades.png" width="50%">
+<img src="images/MEDI2101_pastgrades.png" width="75%">
 
 --
 ### Unit overview
@@ -153,13 +149,14 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <ul>
 
 --
-<h3>Unit structure</h3>
-<h4>Lectures</h4>
-<ul>
-  <li>on-line</li>
-  <li>live via Echo360</li>
-  <li>recorded for review (Echo360)</li>
-</ul>
+### Unit structure
+#### Lectures
+
+- Lectures will be conducted in person.<br>(Likely to be more engaging in person, possibly more benefit?)
+  - Please ask questions. Put your hand up. If I don't see you - shout out.
+- Lectures will be simulcast via Zoom.
+  - You are welcome to ask questions via the chat function in Zoom.
+- Lecture recordings will be available via Echo360 the day after the lecture.
 
 --
 <h3>Unit structure</h3>
@@ -180,11 +177,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h3>Unit structure</h3>
 <h4>Practicals - anatomy (Weeks 1 to 6)</h4>
 <ul>
-  <li>On-line</li>
-  <li>Use time slot for Practical 2 for weeks 1 through 6</li>
-  <ul>
-    <li>Ignore Practical 1 timetable.</li>
-  </ul>
+  <li>Practical 1: Wet lab. Weeks 3 and 6. Bring lab coat.</li>
+  <li>Practical 2: Workshop. Weeks 1, 2, 4 and 5.</li>
   <li> <b>Make sure to do the pre-work.</b> Without doing the pre-work, you will not get much
     value out of the on-line classes.</li>
   <li> On-line anatomy quiz each week (Week 1 through 6) to help you test your knowledge.</li>
@@ -194,11 +188,26 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
     <li>During lecture time.</li>
   </ul>
 </ul>
+--
+<h3>Unit structure</h3>
+<h4>Practicals - anatomy (Weeks 1 to 6)</h4>
 
+<h5>&nbsp;</h5>
+<h5>Cardiovascular and respiratory anatomy - a mini-unit within a unit</h5>
+<p>Delivered through the series of anatomy workshops (12 hours face-to-face)<br>+ on-line / self-paced study.</p>
+
+<img src="images/people_MiraStrkalj.png" width="10%" align="left">Dr Mirjana Strkalj.<br>Anatomy Teaching Lead.
 --
 <h3>Unit structure</h3>
 <h4>Practicals - Physiological measurement (Weeks 7 to 10)</h4>
-<img src="images/questionmark.png">
+
+Learning physiology through doing.
+
+- Learning how to take some non-invasive cardiovascular and respiratory measurements.
+- Provoking the body and observing the cardiovascular and respiratory response.
+- Deducing <em>how</em> the response occurred.
+
+Collection of data for Asessment Task 3.
 
 --
 ### Assessment tasks
@@ -209,8 +218,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h4>Assessment task 1: Formative quiz (0%). Due week 3.</h4>
 <p>On-line in iLearn.</p>
 <p>Reviews some of the respiratory component (physiology and anatomy) of MEDI2101.</p>
-<p>0% assessment task, but <b>compulsory to complete to pass the unit.</b></p>
-<p>Feedback:</p>
+<p>0% assessment task, but it provides written feedback on working out specific answers where people might make mistakes (e.g., in a final exam).</p>
 <ul>
   <li> Feedback is provided with each question.</li>
   <li> The mark will also provide you feedback on whether you are tracking well so far.</li>
@@ -218,11 +226,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 <h3>Assessment tasks</h3>
-<h4>Assessment Task 2: Anatomy test (25%). During lecture, week 7.</h4>
+<h4>Assessment Task 2: Anatomy test (20%). During lecture, week 7.</h4>
 <ul>
-  <li> On-line anatomy quiz.</li>
-  <li> Created by Dr Mirjana Strkalj</li>
-  <li> It is likely to be hard.</li>
+  <li> Anatomy quiz delivered during the 1st hour of the week 7 lecture.</li>
+  <li> Created by Dr Mirjana Strkalj.</li>
+  <li> It is likely to be challenging.</li>
 </ul>
 
 --
@@ -230,50 +238,66 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h4>Assessment Task 3: Manuscript (35%) Due week 8 and 12</h4>
 <p>Three parts:</p>
 <ol>
-  <li> <b>Figure for an introduction</b> Flow diagram explaining your hypothesis for what will
+  <li> <b>Figure for an introduction.</b> Flow diagram explaining your hypothesis for what will
     happen in the experiment (Due week 8).
-  <li> <b>Conducting experiment</b> Hopefully in class during physiological measurement practical.
-    If not, a video demonstration will be provided and a data set and results placed on iLearn.
-  <li> <b>Discussion</b> Discussion of results, limitations, and conclusion. (Due week 12)
+  <li> <b>Conducting experiment.</b> In class during physiological measurement practical. Not assessed, but will be beneficial because:
+  <ul>
+    <li>you will get to see and experience the physiology you will be talking about.</li>
+    <li>teaching staff will likely guide you toward the correct thinking.</li>
+  </ul>
+  <li> <b>Discussion.</b> Discussion of results, limitations, and conclusion. (Due week 12)
 </ol>
 
 --
 <h3>Assessment tasks</h3>
-<h4>Assessment Task 4: Exam (40%). Held during exam period.</h4>
-<p>The final exam was able to be held on campus last year and the same is planned for this year as
-  well.</p>
-<p>However, if restrictions do not allow for an on-campus exam, an on-line equivalent will be put in
-  place</p>
+<h4>Assessment Task 4: Exam (45%). Held during exam period.</h4>
+<p>Traditional final examination during examination period.</p>
 <p> </p>
-<p>Week 13 has been left open as a review week.</p>
+<p>Week 13 is a review week.<br>(No new content, and no teaching activities.)</p>
+
+--
+<!-- .slide:  data-background-image="images/studiosity.png" data-background-position="right" data-background-size="contain" -->
+<h3>Assessment tasks</h3>
+<h4>Free help</h4>
+
+- <a href="https://students.mq.edu.au/support/study/writing/studiosity">Studiosity</a><br>(External service. Free sessions for Macquarie University students)
+- <a href="https://students.mq.edu.au/support/study/writing/writewise">WriteWise</a><br>(Macquarie free service.)
+- <a href="https://ilearn.mq.edu.au/enrol/index.php?id=16580">StudyWise</a><br>(Macquarie free course.)
+
+Relatively new tool:
+
+- <a href="https://students.mq.edu.au/support/technology/systems/ilearn/assignments-grades">Turn-it-in Draft Coach</a><br>Check grammar, citations, and similarity<br><b>before</b> submitting your assessment task.
 
 --
 <h3>Assessment tasks</h3>
 <h4>Accessibility support</h4>
-<p>If you are someone with an on-going health condition, disability and/or are a carer of a person with a disability, please consider contacting Accessibility Support and Services early during session to put in an Individual Education Access Plan for MEDI2101.</p>
+<p>If you are someone with an on-going health condition, disability and/or are a carer of a person with a disability, please consider contacting <a href="https://students.mq.edu.au/support/accessibility-disability">Accessibility Support and Services</a> early during session to put in an Individual Education Access Plan for MEDI2101.</p>
 <p>You are welcome to contact me (you do not need to provide details) so that I can follow up with Accessibility Support to make sure they have put in place your Individual Education Access Plan in MEDI2101.</p>
 
 --
 <!-- .slide: data-auto-animate -->
-<h3>Open (virtual) door</h3>
+<h3>Open virtual and real door</h3>
 <h4></h4>
 
 <span class="r-stack">
-<img class="fragment" src="images/MEDI2101 iLearn header.png">
-<img class="fragment" src="images/Discord.png" width="90%">
-<img class="fragment" src="images/markbutlin_contact.png">
+<img class="fragment" src="images/MEDI2101 iLearn header.png" alt="Contact Mark Butlin through the iLearn Q&A forum or iLearn private message to unit convenor.">
+<img class="fragment" src="images/Discord.png" width="75%" alt="There is a MEDI2101 Discord server.">
+<img class="fragment" src="images/markbutlin_bookmeeting.png" alt="You can also use the online booking system to make an appointment to see Mark Butlin either via videoconference or in person.">
 </span>
 
 --
 <h3>Activities this week.</h3>
-<h4></h4>
+<h4>(4 hours face-to-face. Approx. 4¼ hours of self-paced activities.</h4>
 
 <ul>
-<li> <b>Complete on-line activity:</b> Cardiorespiratory physical concepts of pressure, flow and
-  resistance</li>
-<li> <b>Read:</b> PHYS149 lecture notes</li>
-<li> <b>Read:</b> Guyton and Hall, Chapter 41</li>
 <li> <b>Complete anatomy preparation worksheet:</b> Upper respiratory</li>
 <li> <b>Attend and engage with:</b> Upper respiratory anatomy class</li>
-<li> <b>Complete anatomy formative quiz:</b> Upper respiratory</li>
+<ul>
+  <li> <b>Complete in-class anatomy formative quiz:</b> Upper respiratory</li>
+</ul>
+<li> <b>Attend this lecture</b></li>
+<li> <b>Read:</b> PHYS1210 lecture notes</li>
+<li> <b>Complete on-line activity:</b> Cardiorespiratory physical concepts of pressure, flow and
+  resistance</li>
+<li> <b>Read:</b> Guyton and Hall, Chapter 41</li>
 </ul>

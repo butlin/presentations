@@ -17,15 +17,14 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 - **Block 5 (week 13 and exam period):** Review and assess
 
 ---
-
+<!-- .slide: data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 1: Respiratory System
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
-<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
 #### MEDI2101 Cardiovascular and Respiratory System.
@@ -36,14 +35,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-<img src="images/lgbtqi_safe_space.jpg" alt="LGBTQI+ Inclusive Equitable Diverse Accepting Welcoming Safe Space for Everyone" align="right" width=17%>
-<a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus.
 
 --
-
 <!-- .slide: data-background-image="images/Methicillin-resistant_Staphylococcus_aureus_10047.jpg" data-background-opacity="0.3" -->
 ### The root function of the cardiorespiratory system
 #### &nbsp;
@@ -175,6 +173,7 @@ exchange surfaces.
 <p class="fragment" style="color:white;font-size:1.5em">Frogs eliminate carbon dioxide 2.5 times as fast through their skin as they do through their lungs.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.2 Describe the oxygen cascade and the steps that it comprises, mapping the key factors that influence gas exchange between the atmosphere and arterial blood.
 
 --
@@ -259,6 +258,7 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 <p class="citation">Figure created for MEDI2101</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.3 Identify the mechanism for movement of carbon dioxide from venous blood to alveoli to the atmosphere.
 
 --
@@ -282,6 +282,7 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 <p style="color:white;font-size:1.5em">Later in this unit we will address the mechanical bulk movement of gases in air (ventilation) and in fluid (blood flow).</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.4 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature.
 
 --
@@ -541,6 +542,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 </figure>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.5 Define the following terms and understand the relationships between them (as they relate to the cardiovascular and respiratory systems): pressure, pressure gradient, flow, velocity of flow, resistance and radius.
 
 --
@@ -562,9 +564,11 @@ If you do not understand the concepts of pressure, flow, resistance and radius i
     * can alter radius of airway, increasing resistance, decreasing air flow
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.6 Explain the relationships between atmospheric pressure, water vapour pressure and the partial pressures of individual gases and comprehend the relationship between the pressure of a gas and the volume in which it is contained.
 <p class="citation">See this week's on-line activity in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.7 Outline the main anatomy of the upper respiratory system and explain the function of each structure.
 <p class="citation">See anatomy material in iLearn and attend anatomy class.</p>
