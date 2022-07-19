@@ -157,6 +157,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 - Lectures will be simulcast via Zoom.
   - You are welcome to ask questions via the chat function in Zoom.
 - Lecture recordings will be available via Echo360 the day after the lecture.
+- PDF of slides available by link from left hand menu, then "Print to PDF".
+
+--
+### Unit structure
+#### Lectures
+
+<video width="66%" data-autoplay src="images/pdf_version_of_slides_instructions.mp4"></video>
 
 --
 <h3>Unit structure</h3>
@@ -177,8 +184,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h3>Unit structure</h3>
 <h4>Practicals - anatomy (Weeks 1 to 6)</h4>
 <ul>
-  <li>Practical 1: Wet lab. Weeks 3 and 6. Bring lab coat.</li>
-  <li>Practical 2: Workshop. Weeks 1, 2, 4 and 5.</li>
+  <li><b>Timetabled "Practical 1":</b> Anatomy wet lab (weeks 3 and 6). Bring lab coat.</li>
+  <li><b>Timetabled "Practical 2":</b> Anatomy dry lab (weeks 1, 2, 4 and 5).</li>
   <li> <b>Make sure to do the pre-work.</b> Without doing the pre-work, you will not get much
     value out of the on-line classes.</li>
   <li> On-line anatomy quiz each week (Week 1 through 6) to help you test your knowledge.</li>
@@ -197,9 +204,15 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>Delivered through the series of anatomy workshops (12 hours face-to-face)<br>+ on-line / self-paced study.</p>
 
 <img src="images/people_MiraStrkalj.png" width="10%" align="left">Dr Mirjana Strkalj.<br>Anatomy Teaching Lead.
+
+
+
+
 --
 <h3>Unit structure</h3>
 <h4>Practicals - Physiological measurement (Weeks 7 to 10)</h4>
+
+Timetabled "Practical 2":</b> Physiology practicals (weeks 7 to 10).
 
 Learning physiology through doing.
 
