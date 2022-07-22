@@ -300,17 +300,6 @@ Relatively new tool:
 
 --
 <h3>Activities this week.</h3>
-<h4>(4 hours face-to-face. Approx. 4¼ hours of self-paced activities.</h4>
+<h4></h4>
 
-<ul>
-<li> <b>Complete anatomy preparation worksheet:</b> Upper respiratory</li>
-<li> <b>Attend and engage with:</b> Upper respiratory anatomy class</li>
-<ul>
-  <li> <b>Complete in-class anatomy formative quiz:</b> Upper respiratory</li>
-</ul>
-<li> <b>Attend this lecture</b></li>
-<li> <b>Read:</b> PHYS1210 lecture notes</li>
-<li> <b>Complete on-line activity:</b> Cardiorespiratory physical concepts of pressure, flow and
-  resistance</li>
-<li> <b>Read:</b> Guyton and Hall, Chapter 41</li>
-</ul>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513&notifyeditingon=1#section-5"> MEDI2101 iLearn Week 1</a>

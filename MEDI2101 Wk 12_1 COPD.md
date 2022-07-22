@@ -1,17 +1,8 @@
-<!-- .slide: id="MEDI2101Wk10" -->
-#### MEDI2101 Cardiovascular and Respiratory System.
-# Block 4: Cardiovascular and respiratory system in disease
-##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
-
-Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
-
-<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
-
----
+<!-- .slide: id="MEDI2101Wk12" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
-# LO4.1: Diseases of the respiratory system. Chronic Obstructive Pulmonary Disease
-(Week 10)
+# LO4.4: Diseases of the respiratory system. Chronic Obstructive Pulmonary Disease
+(Week 12)
 ##### Guest lecturer: Professor Alvin Ing (Clinical Program Head, Cardiovascular & Respiratory Program)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -20,7 +11,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 --
-### MEDI2101 Cardiovascular and Respiratory System
+<!-- ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 10
 
 - **Attend and engage with:** lectures on diseases of the respiratory system, chronic obstructive pulmonary disease (welcome!)
@@ -35,7 +26,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <li>automatic blood pressure device, if you have access to one.</li>
 <li>a drinking straw.</li>
 </ul>
-</span>
+</span> -->
 
 --
 ### Learning Evaluation of Unit
