@@ -13,13 +13,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 7
 
-- **Complete AT2:** Anatomy test (tick!)
-- **Attend and engage with:** Fluid exchange at the capillaries (welcome!)
-- **Complete on-line activity:** The lymphatic system and lymphedema
-- **Read:** Guyton & Hall, Chapter 16
-- **Attend and engage with:** Physiological measurement - Introduction to some respiratory and cardiovascular instrumentation
-  - Thursday 9am and 11am MEDI2101 classes are cancelled this week to accommodate an assessment task in another unit and Dr Butlin's timetable clash. Please attend one of the other classes, or the special one week only Friday 2pm class.
-- GAMSAT
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-13"> MEDI2101 iLearn Week 7</a>
+
 
 ---
 ## LO2.4.1 Describe the structure of a capillary network and identify types of capillaries according to degree of permeability.

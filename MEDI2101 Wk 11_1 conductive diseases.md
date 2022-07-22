@@ -13,11 +13,8 @@ MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattaga
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 11
 
--   **Attend and engage with:** lectures on diseases of the heart, heart failure (welcome!)
--   **Read:** Gazewood et al. <em>Heart failure with preserved ejection fraction: diagnosis and management</em>, American Family Physician, (2017).
--   **Complete on-line activity:** Quiz on week's reading.
--   No practical this week.
--   **Extension reading:** Guyton & Hall, Chapter 22
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-18"> MEDI2101 iLearn Week 11</a>
+
 
 --
 ### Learning Evaluation of Unit

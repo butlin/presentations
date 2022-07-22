@@ -13,13 +13,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 2
 
-- **Attend and engage with:** lectures on ventilation and gas exchange (welcome!)
-- **Complete on-line activity:** The scientific method in the context of (bio)medical investigation
-- **Read:** Guyton & Hall, Chapter 38 and 40
-- Anatomy
-  - **Complete anatomy preparation worksheet:** Lower respiratory anatomy
-  - **Attend and engage with:** Lower respiratory anatomy class
-  - **Complete anatomy formative quiz:** Lower respiratory anatomy
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-5"> MEDI2101 iLearn Week 2</a>
 
 ---
 ## LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation

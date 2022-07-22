@@ -11,28 +11,32 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mqwellbeing.png" alt="Contact Macquarie University Wellbeing" align="right" width=9%></a>
 
 --
-<!-- ### MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 10
+###  MEDI2101 Cardiovascular and Respiratory System
+#### To do in Week 12
 
-- **Attend and engage with:** lectures on diseases of the respiratory system, chronic obstructive pulmonary disease (welcome!)
-- **Read:** Rabe et al. <em>Chronic Obstructive Pulmonary Disease</em>, The Lancet, (2017).
-- **Complete on-line activity:** Quiz on week's reading.
-- **Attend and engage with:** Physiological measurement in the diseased state
-
-<span class="fragment">
-<p>Things that would be helpful to bring along to this week's "practical":</p>
-<ul>
-<li>stop watch, watch with a second hand, or timer on your phone.</li>
-<li>automatic blood pressure device, if you have access to one.</li>
-<li>a drinking straw.</li>
-</ul>
-</span> -->
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-20"> MEDI2101 iLearn Week 12</a>
 
 --
 ### Learning Evaluation of Unit
 ####
 <p>&nbsp;</p>
 <p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br>Link to survey on iLearn landing page.<br><b>Wait until week 12</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
+
+---
+### Learning Experience of Teaching
+####
+<p>&nbsp;</p>
+<p class="citation"><b>Last week</b> you had the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>This week</b> you have an opportunity to tell me <b>what you think of me</b>.</p>
+
+--
+### Learning & Teaching Awards
+#### 
+<p>&nbsp</p>
+<p>&nbsp</p>
+<h5>Please consider voting for your favourite unit convenor/lecturer/tutor/demonstrator.</h5>
+<p>&nbsp</p>
+
+<h5>(It does not have to be me!)</h5>
 
 --
 ## LO4.1.1 Communicate the causative mechanisms behind Chronic Obstructive Pulmonary Disease (COPD).

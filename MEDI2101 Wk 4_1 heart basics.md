@@ -28,13 +28,7 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <h3 > MEDI2101 Cardiovascular and Respiratory System</h3>
 <h4 >To do in Week 4</h4>
 
-- **Attend and engage with:** lectures on the heart (welcome!)
-- **Complete on-line activity:** Wigger's Diagram
-- **Read:** Guyton & Hall, Chapters 9, 10 and 11
-- Anatomy
-  - **Complete anatomy preparation worksheet:** Anatomy of the heart
-  - **Attend and engage with:** Anatomy of the heart class
-  - **Complete anatomy formative quiz:** Anatomy of the heart
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-9"> MEDI2101 iLearn Week 4</a>
 
 --
 <h3 > MEDI2101 AT1 Formative Quiz (0%)</h3>

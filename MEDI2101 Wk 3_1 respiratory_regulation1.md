@@ -13,14 +13,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 3
 
--   **Attend and engage with:** lectures on respiratory regulation (welcome!)
--   **Complete on-line activity:** Arterial blood gases and acidosis and alkalosis
--   **Read:** Guyton & Hall, Chapter 42
--   **Complete assessmen task 1:** Formative on-line quiz
--   Anatomy
-    -   **Complete anatomy preparation worksheet:** Respiratory anatomy review
-    -   **Attend and engage with:** Respiratory anatomy review class
-    -   **Complete anatomy formative quiz:** Respiratory anatomy review
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-8"> MEDI2101 iLearn Week 3</a>
 
 ---
 

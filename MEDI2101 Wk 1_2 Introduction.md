@@ -302,4 +302,4 @@ Relatively new tool:
 <h3>Activities this week.</h3>
 <h4></h4>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513&notifyeditingon=1#section-5"> MEDI2101 iLearn Week 1</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-5"> MEDI2101 iLearn Week 1</a>

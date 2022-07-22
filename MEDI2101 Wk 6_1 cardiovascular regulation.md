@@ -13,13 +13,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 6
 
-- **Attend and engage with:** lectures on the cardiovascular regulation (welcome!)
-- **Complete on-line activity:** Renal control of blood pressure
-- **Read:** Guyton & Hall, Chapters 17, 18, 19
-- Anatomy
-  - **Complete anatomy preparation worksheet:** Anatomy - revision
-  - **Attend and engage with:** Anatomy - revision class
-  - **Complete anatomy formative quiz:** Anatomy - revision
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-11"> MEDI2101 iLearn Week 6</a>
+
 --
 <!-- .slide: data-auto-animate -->
 ### Assessment task 2: Anatomy test

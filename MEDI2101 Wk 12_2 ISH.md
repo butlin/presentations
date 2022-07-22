@@ -9,33 +9,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
---
-###  MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 12
-
-- **Attend and engage with:** lectures on the Isolated Systolic Hypertension (welcome!)
-- **Read:** Mancia & Giannattasio, <em>Diagnostic and therapeutic problems of isolated systolic hypertension</em>, Journal of Hypertension, (2015).
-- **Complete on-line activity:** Quiz on week's reading.
-- **Submit:** Assessment Task 3.1 - manuscript discussion section
--  No practical this week.
-
----
-### Learning Experience of Teaching
-####
-<p>&nbsp;</p>
-<p class="citation"><b>Last week</b> you had the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>This week</b> you have an opportunity to tell me <b>what you think of me</b>.</p>
-
---
-### Learning & Teaching Awards
-#### 
-<p>&nbsp</p>
-<p>&nbsp</p>
-<h5>Please consider voting for your favourite unit convenor/lecturer/tutor/demonstrator.</h5>
-<p>&nbsp</p>
-
-<h5>(It does not have to be me!)</h5>
-
-
 ---
 ## LO4.3.1 Using hypertension as an example, define the concepts of a risk factor, morbidity and mortality.
 

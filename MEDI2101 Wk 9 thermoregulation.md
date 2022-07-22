@@ -15,19 +15,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 9
 
-- **Attend and engage with:** lecture on thermoregulation (welcome!)
-- **Complete on-line activity:** Extremes of thermoregulation
-- **Read:** Guyton & Hall, Chapter 74
-- **Attend and engage with:** Physiological measurement - data collection for AT3
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-16"> MEDI2101 iLearn Week 9</a>
 
-<span class="fragment">
-<p>Things that would be helpful to bring along to this week's "practical":</p>
-<ul>
-<li>stop watch, watch with a second hand, or timer on your phone.</li>
-<li>automatic blood pressure device, if you have access to one.</li>
-<li>a non-fragile object that you can place in your hand to squeeze (hair brush handle, bundled up thick socks, table leg, stress ball).</li>
-</ul>
-</span>
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System

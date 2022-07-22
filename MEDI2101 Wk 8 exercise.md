@@ -30,11 +30,8 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 8
 
-- **Attend and engage with:** lecture on introduction to exercise cardiorespiratory physiology (welcome!)
-- **Complete on-line activity:** Exercise, a modifiable lifestyle factor to reduce cardiovascular risk
-- **Read:** Guyton & Hall, Chapter 85 (pay attention to the lecture learning outcomes, and read relevant sections of Chapter 85)
-- **Attend and engage with:** Physiological measurement - Autonomic function
-- **Submit:** Assessment Task 3.1 - manuscript figure
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-15"> MEDI2101 iLearn Week 8</a>
+
 
 <span class="fragment">
 <p>Things that would be helpful to bring along to this week's "practical":</p>

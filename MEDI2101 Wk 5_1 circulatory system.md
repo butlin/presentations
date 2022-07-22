@@ -19,52 +19,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 5
 
-- **Attend and engage with:** lectures on the circulatory system, blood pressure and blood flow (welcome!)
-- **Complete on-line activity:** The constituents of blood
-- **Read:** Guyton & Hall, Chapter 14
-- Anatomy
-  - **Complete anatomy preparation worksheet:** Anatomy of the blood vessels
-  - **Attend and engage with:** Anatomy of the blood vessels
-  - **Complete anatomy formative quiz:** Anatomy of the blood vessels
-
---
-<p style="font-size:1.5em">We are... on-line</p>
-
-The University has now committed to this session's teaching being on-line.
-
-For MEDI2101:
-
-- <b>Lectures</b>
-  - Continued on-line live with "MEDI2101 catch-up" in Echo360.
-- <b>Anatomy classes (this week and next week)</b>
-  - Continue to be on-line.
--   <b>Physiological measurement classes (weeks 7 to 10)</b> 
-    -   On-line during the same time-slot as your anatomy classes.
-- <b>Assessment task 2 (Anatomy test)</b> 
-  - On-line as planned. More details on format next week.
-- <b>Assessment task 3 (Introduction Figure, and Discussion section)</b> 
-  - On-line submission as planned.
-- <b>Assessment task 4 (Final exam)</b>
-  - ...
-
---
-<p style="font-size:1.5em">We are... on-line... on Discord</p>
-
-<img src="images/Discord.png" width=100%>
-
-Invite: <a href="<https://discord.gg/KR5WAqc5ST">https://discord.gg/KR5WAqc5ST</a>
-
-(Invite link also at the top of the MEDI2101 iLearn site.)
-
-
---
-### We are... on-line... on iLearn
-#### (and e-mail, and one-on-one video meeting on request)
-
-<img src="images/MEDI2101 iLearn header.png" width=100%>
-
-- **E-mail:** <a href="mailto:mark.butlin@mq.edu.au">mark.butlin@mq.edu.au</a>
-- **One-on-one Zoom video conversation:** e-mail <a href="mailto:mark.butlin@mq.edu.au">mark.butlin@mq.edu.au</a> or use "Private message to unit convenor" in iLearn to request a meeting.
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-10"> MEDI2101 iLearn Week 5</a>
 
 --
 <!-- .slide: data-auto-animate -->
