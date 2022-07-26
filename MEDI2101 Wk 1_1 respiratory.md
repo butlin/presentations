@@ -61,7 +61,7 @@ And yet they live.
 * **Energy conversion**
     * A sufficient supply of oxygen is required for the aerobic respiratory machinery (e.g. Kreb's Cycle) and to convert stored energy.
 * **Gas exchange**
-    * Cellular metabolism generates carbon dioxide (\(CO_2\) must be removed from the cell; \ce{O2} must be able to enter the cell.
+    * Cellular metabolism generates carbon dioxide must be removed from the cell; oxygen must be able to enter the cell.
 
 --
 
