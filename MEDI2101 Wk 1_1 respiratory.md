@@ -397,7 +397,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
         <p>The fish heart has the formation of chambers with a priming chamber (atrium) and larger main chamber (ventricle), showing the rudimentary components of half the mammalian heart.</p>
         <ul>
             <li> Simple circular flow of blood.</li>
-            <li> <b>Venous blood</b> interfaces with <b>water</b> within the gills for interchange of blood gases <O<sub>2</sub> and CO<sub>2</sub>.</li>
+            <li> <b>Venous blood</b> interfaces with <b>water</b> within the gills for interchange of blood gases oxygen and carbon dioxide.</li>
         </ul>
     </figcaption>
 </figure>
