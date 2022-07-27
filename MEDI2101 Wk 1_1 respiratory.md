@@ -26,6 +26,23 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
+<aside class="notes">
+<p>Set-up checklist:</p>
+<ul>
+<li>Room mic on.</li>
+<li>Projecting correct content to correct screen.</li>
+<li>Zoom:</li>
+<ul>
+    <li>Correct mic and camera.</li>
+    <li>Capturing projected screen.</li>
+    <li>Live transcript on.</li>
+    <li>Chat screen visible.</li>
+    <li>Focus mode on, speaker video spotlighted.</li>
+    <li>RECORDING ON.</li>
+</ul>
+</ul>
+</aside>
+
 ---
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
