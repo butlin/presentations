@@ -71,7 +71,7 @@ Respiration in multi-cellular life can be used to refer to two different things:
 <figure>
   <img src="images/UpperAndLowerRespiratory.png" alt="" width="40%">
   <figcaption>
-    Referring to the bulk movement of air into, and out of, the lungs (specifically, alveoli) from the surrounding atmosphere.
+   <p>Referring to the bulk movement of air into, and out of, the lungs (specifically, alveoli) from the surrounding atmosphere.</p>
 
 - Upper respiratory tract
   - Mouth (oral) cavity (air and food)
@@ -284,7 +284,7 @@ The respiratory mucosa lining the conducting airways conditions air before it re
 - **Warming** 
   - Air is warmed to 37<sup>o</sup>C so core body temp is maintained and to protect the alveoli.
 - **Humidifying** 
-  - Water vapor is added to 100% humidity so the exchange epithelium doesn’t dry
+  - Water vapor is added to 100% humidity so the exchange epithelium doesn’t dry.
 - **Filtering** 
   - Removal of particles and pathogens to protect the body from inflammation and infection.
     
@@ -453,11 +453,6 @@ Speech (or just vocal noise) requires three main processes to work together:
 1. Air must be in motion (muscles of respiration and clear airways).
 1. Vibrations must be established in the air stream (vocal cords).
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
-    
---
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/VocalCords.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
 
 ---
 ## LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
@@ -745,3 +740,13 @@ we can calculate the minute ventilation
 \end{equation}
 
 <p class="fragment">There is not much more I can teach you about this - but it is important.<p>
+
+--
+<!-- .slide: data-background="#373A36" -->
+
+<p style="color:white;font-size:1.5em">Vocalisation</p>
+
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/VocalCords.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
