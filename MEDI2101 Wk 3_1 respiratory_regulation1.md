@@ -15,6 +15,22 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-8"> MEDI2101 iLearn Week 3</a>
 
+--
+###
+#### A lot of work?
+
+- In theory, each 10 credit point unit should have around 10 to 12 hours of content / work each week (including time to complete assessments).
+- I have tried to put together the best material to help you progress toward a medical / clinical career.
+- Nothing is compulsory. As an adult learner, you can decide whether you engage a lot or a little.
+
+--
+###
+#### Anatomy quizzes - or anything else missed?
+
+Please send me a private message through the iLearn private message system.
+
+I am very happy to extend the closing time on any of the anatomy formative quizzes if you have not completed them.
+
 ---
 
 Respiration changes in response to the physiological status and surrounding environment. That is a **change** in the physiology or environment needs to be **detected** and a response invoked as a result. The inputs that regulate respiration include:
@@ -199,7 +215,7 @@ Effective functioning of body processes require rather narrow ranges of these pa
   </tr>
 </table>
 
-<p class="fragment">Acidosis and alkalosis each be subclassified as respiratory or metabolic in origin. This is the subject of the on-line module this week.</p>
+<p class="fragment">Acidosis and alkalosis can each be subclassified as respiratory or metabolic in origin.<br>This is the subject of the on-line module this week.</p>
 
 <p class="fragment">If blood oxygen, carbon dioxide, and pH is pathological when outside a normal range, there must be sensors in the body that detect abnormalities to feedback to the respiratory and cardiovascular system to bring these gases / pH back into the normal range.</p>
 
@@ -213,7 +229,7 @@ Effective functioning of body processes require rather narrow ranges of these pa
 
 **Note:** In the context of this learning outcome we are discussing chemoreceptor feedback to breathing regulation.
 
-**Chemoreceptors also feedback to the cardiovascsular centres of the brain.** More on this in Week 6.
+**Chemoreceptors also feedback to the cardiovascular centres of the brain.** More on this in Week 6.
 
 --
 <!-- .slide: data-auto-animate -->
@@ -281,7 +297,7 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
   <img data-id="PCC" src="images/PeripheralChemreceptorCarbondioxide2.png" alt="" width="35%">
   <figcaption>
 <p>Sensitive to change in arterial blood CO<sub>2</sub>
-<p>Lower arterial pO<sub>2</sub> increases peripheral chemoreceptor senitivity to pCO<sub>2</sub> 
+<p>Lower arterial pO<sub>2</sub> increases peripheral chemoreceptor sensitivity to pCO<sub>2</sub> 
   </figcaption>
 </figure>
 <p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
@@ -295,7 +311,7 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
   <img data-id="PCC" src="images/PeripheralChemreceptorCarbondioxide3.png" alt="" width="35%">
   <figcaption>
 <p>Sensitive to change in arterial blood pCO<sub>2</sub>
-<p>Lower arterial pO<sub>2</sub> increases peripheral chemoreceptor senitivity to pCO<sub>2</sub> 
+<p>Lower arterial pO<sub>2</sub> increases peripheral chemoreceptor sensitivity to pCO<sub>2</sub> 
 <p>Decreased pH (pH lowered by increased CO<sub>2</sub> and the bicarbonate reaction) increases sensitivity to pCO<sub>2</sub> (leftward shift in curve)</p>
 <p class="fragment">Respiratory sensitivity of peripheral chemoreceptors to pCO<sub>2</sub> is 7$\times$ greater and 5$\times$ more rapid than central chemoreceptors.</p>
   </figcaption>
@@ -421,7 +437,7 @@ Apnoea can be:
 ### Reflex inputs to the respiratory centre
 #### Increased ventilation - irritant receptors
 
-**Irritant receptors in the lungs** stimulated by harmful chemicals (e.g. ammonia, sulfur dioxide).
+**Irritant receptors in the lungs** stimulated by harmful chemicals (e.g. ammonia, sulphur dioxide).
 
 Irritant receptor stimulation results in reflex hyperventilation and bronchospasm, reducing likelihood of harmful chemicals entering the alveoli.
 

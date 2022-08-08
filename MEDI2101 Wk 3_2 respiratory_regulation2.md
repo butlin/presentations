@@ -234,4 +234,4 @@ What is one mechanism that increases oxygen intake during walking?
 ---
 ## LO1.1.7 / LO1.2.8 Outline the main anatomy of the upper and lower respiratory system and explain the function of each structure.
 
-<p class="citation">Review. See anatomy material in iLearn and on-line anatomy class.</p>
+<p class="citation">Review. See anatomy material in iLearn and attend anatomy practical.</p>
