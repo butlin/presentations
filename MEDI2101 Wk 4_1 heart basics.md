@@ -12,11 +12,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Block 2: Cardiovascular System
 # LO2.1: The heart - basics
 (Week 4, Lecture 1)
-##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
 
@@ -25,16 +25,16 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <p class="citation"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745">https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745</a></p>
 
 --
-<h3 > MEDI2101 Cardiovascular and Respiratory System</h3>
-<h4 >To do in Week 4</h4>
+<h3>MEDI2101 Cardiovascular and Respiratory System</h3>
+<h4>To do in Week 4</h4>
 
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-9"> MEDI2101 iLearn Week 4</a>
 
 --
-<h3 > MEDI2101 AT1 Formative Quiz (0%)</h3>
-<h4 >Overview of marks</h4>
+<h3>MEDI2101 Cardiovascular and Respiratory System</h3>
+<h4>Overview of marks</h4>
 
-<img class="r-stretch" src="images/MEDI2101_marks_week4.png">
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-2">Assessment Task 1 marks overview</a>
 
 ---
 ## LO2.1.1 Relate the gross anatomy of the heart to the function of the heart.

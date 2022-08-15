@@ -342,8 +342,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   </div>
   <div class='description'>
     <p>The various intervals of the ECG. The length of these intervals gives information on whether there are normal conduction pathways in the heart, or some pathology.</p>
-    <p>(The exact length of "normal" ECG intervals, and the diagnosis of heart conditions from the ECG is beyond the scope of MEDI2101.</p>
-    <p>The exact interval times are provided here only as extension information.)</p>
+    <p>(The exact length of "normal" ECG intervals, and the diagnosis of heart conditions from the ECG will be touched on in the block on the cardiovascular and respiratory system in disease.)</p>
   </div>
   <div class='credit'>
     <p><a href="https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/">https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/</a></p>
@@ -394,25 +393,26 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
      <li>  ischaemic injury to the cardiac muscle</li>
      <li> ...and many other conditions.</li>
 </ul>
+<p>More details to be provided in Cardiovascular and Respiratory System in Disease block.</p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/ECG_example.png" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/ECG_example.png" data-background-size="contain" data-visibility="hidden"-->
 <p>Normal</p>
 <p>sinus</p>
 <p>rhythm</p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/ECG_example_isolated_ventricular_ectopics.png" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/ECG_example_isolated_ventricular_ectopics.png" data-background-size="contain" data-visibility="hidden"-->
 <p>Isolated</p>
 <p>ventricular</p>
 <p>ectopics</p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/Myocardial_infaction_ECG.png" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/Myocardial_infaction_ECG.png" data-background-size="contain" data-visibility="hidden"-->
 <p>Myocardial infarction</p>
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
+<!-- .slide: data-auto-animate data-background="#111111" data-visibility="hidden" -->
 <p style="font-size:1.0ex;color:white">Extension information (not part of MEDI2101 assessable material). For those that are interested in more information about the use of the ECG in diagnoses of heart conditions, this video gives a succinct summary. <a href="https://www.youtube.com/watch?v=XCmtP7597PI">www.handwrittentutorials.com</a></p>
 
 <video data-autoplay data-src="images/ECG3-SegmentsIntervalsDiseases.mp4"></video>
