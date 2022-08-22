@@ -19,7 +19,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 5
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-10"> MEDI2101 iLearn Week 5</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-10">MEDI2101 iLearn Week 5</a>
+
+--
+### MEDI2101 Cardiovascular and Respiratory System
+#### Assesssment Task 2: Anatomy test
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-12">Assessment Task 2 description in iLearn</a>
 
 --
 <!-- .slide: data-auto-animate -->
