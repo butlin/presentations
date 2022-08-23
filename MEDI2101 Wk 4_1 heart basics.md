@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk4_1" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk4_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 2: Cardiovascular System
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
@@ -8,6 +8,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.1: The heart - basics
@@ -19,8 +20,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
-
-<!-- .slide: daa-auto-animate data-background="#111111" -->
+<!-- .slide: data-auto-animate-restart data-background="#111111" -->
 <video data-autoplay data-src="images/heart_mayo_clinic.mp4"></video>
 <p class="citation"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745">https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745</a></p>
 
@@ -37,6 +37,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-2">Assessment Task 1 marks overview</a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.1 Relate the gross anatomy of the heart to the function of the heart.
 
 --
@@ -194,6 +195,7 @@ $\begin{eqnarray}
 <p class="citation"></p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.2 Identify that there are three types of myocardial cells: (1) contractile, (2) auto-rhythmic, and (3) conductive.
 
 --    
@@ -279,7 +281,8 @@ $\begin{eqnarray}
   <li> do not contribute to the measured electrocardiogram (ECG)</li>
 </ul>
 
----   
+---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.3 Compare and contrast action potentials of myocardial auto-rhythmic and contractile cells (and recognise that these differ from action potentials in nerves and other types of muscle).
 
 --

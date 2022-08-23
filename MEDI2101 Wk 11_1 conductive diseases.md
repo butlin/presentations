@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk11" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.2: Diseases of the heart. Conductive diseases.

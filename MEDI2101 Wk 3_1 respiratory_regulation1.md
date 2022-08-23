@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk3_1" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk3_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.3: Respiratory regulation inputs
@@ -32,7 +32,7 @@ Please send me a private message through the iLearn private message system.
 I am very happy to extend the closing time on any of the anatomy formative quizzes if you have not completed them.
 
 ---
-
+<!-- .slide: data-auto-animate-restart -->
 Respiration changes in response to the physiological status and surrounding environment. That is a **change** in the physiology or environment needs to be **detected** and a response invoked as a result. The inputs that regulate respiration include:
 
 - **higher order brain centres** responding to environmental stressors.
@@ -41,10 +41,10 @@ Respiration changes in response to the physiological status and surrounding envi
 - **other sensory nerves** 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.3.1 Know the normal levels of the three arterial blood parameters that are monitored and used to regulate ventilation: (1) oxygen, (2) carbon dioxide, and (3) pH levels.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Why gases in blood -- this is a respiratory lecture? (Review)
 
@@ -61,7 +61,6 @@ Respiration changes in response to the physiological status and surrounding envi
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Why gases in blood -- this is a respiratory lecture? (Review)
 
@@ -125,7 +124,6 @@ Partial pressures of oxygen and carbon dioxide in the body.
 Concentration of carbon dioxide effects fluid pH.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Carbon dioxide in blood
 
@@ -138,7 +136,6 @@ Dissolving of carbon dioxide in blood (water):
 <p class="fragment">carbon dioxide + water $\longrightarrow$ carbonic acid $\longrightarrow$ hydrogen ions + bicarbonate ions</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Carbon dioxide in blood
 Carriage of carbon dioxide by haemoglobin:
@@ -148,7 +145,6 @@ $\mathrm{CO}_2 + \mathrm{Hb} \longleftrightarrow \mathrm{HbCO}_2$
 carbon dioxide + haemoglobin $\\longleftrightarrow$ carbaminohaemoglobin
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Oxygen in blood
 
@@ -158,7 +154,6 @@ Oxygen is carried in two ways in the blood:
 1. dissolved in plasma
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 ####
 We have established that:
@@ -172,7 +167,6 @@ Effective functioning of body processes require rather narrow ranges of these pa
 <p class="citation"><sup>1</sup> We will not go into the chemistry in this unit. This is covered in more details in the renal unit. If you are a chemistry lover, see Chapter 31 of the Guyton and Hall textbook.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Arterial blood gases and pH
 #### Normal ranges of arterial blood gases, pH and bicarbonate
 
@@ -220,10 +214,10 @@ Effective functioning of body processes require rather narrow ranges of these pa
 <p class="fragment">If blood oxygen, carbon dioxide, and pH is pathological when outside a normal range, there must be sensors in the body that detect abnormalities to feedback to the respiratory and cardiovascular system to bring these gases / pH back into the normal range.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.3.2 Identify that central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### 
 
@@ -232,7 +226,6 @@ Effective functioning of body processes require rather narrow ranges of these pa
 **Chemoreceptors also feedback to the cardiovascular centres of the brain.** More on this in Week 6.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 ####  Peripheral chemoreceptors
 
@@ -258,7 +251,6 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
 <p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Peripheral chemoreceptors
 
@@ -276,7 +268,6 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Peripheral chemoreceptors
 
@@ -289,7 +280,6 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
 <p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Peripheral chemoreceptors
 
@@ -303,7 +293,6 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
 <p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Peripheral chemoreceptors
 
@@ -319,7 +308,6 @@ Peripheral chemoreceptors are located in the carotid and aortic bodies.
 <p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Central chemoreceptors
 
@@ -336,7 +324,6 @@ Centres in the brain that regulate breathing, in addition to receiving signals f
 <p style="color:white;font-size:1.5em">Then how do the central chemoreceptors modify ventilation in response to partial pressures of blood gases?</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Chemoreceptor input to the respiratory centre
 #### Central chemoreceptors
 
@@ -369,6 +356,7 @@ The chemosensing pathway provides a negative feedback loop for changes in oxygen
 </aside>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.3.3 Understand the receptors and reflexes affecting respiratory centres: stretch (Hering-Breuer); juxtacapillary; irritant; proprioceptors; thermoreceptors; pain; cough and sneezing; deglutation.
 
 --
@@ -386,7 +374,6 @@ The sum total of any particular involuntary activity.
 <p style="color:white;font-size:1.5em">What are some reflexes that would influence breathing / ventilation?</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Hering-Breuer reflex
 
@@ -395,7 +382,6 @@ The sum total of any particular involuntary activity.
 -  **Only activated during hyperinflation** (tidal volume > 3$\times$ normal tidal volume).
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Apnoea
 
@@ -413,7 +399,6 @@ Apnoea can be:
 <p class="fragment">After cessation of apnoea, there is usually a reflex response of increased breathing rate / tidal volume, as blood oxygen would have depleted and carbon dioxide increased, stimulating the chemoreceptors.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Increased ventilation
 
@@ -467,7 +452,6 @@ Immediately activated with dynamic exercise, causing increased breathing rate/vo
 **Thermoreceptors**, mostly cutaneous, responding to body temperature outside of the normal range. Both increased *and* decreased body temperature can cause increased ventilation.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Increased ventilation - pain receptors
 
@@ -480,7 +464,6 @@ Also can cause a hyperventillatory response.
 <p class="citation">Robert Weis, <a href="https://commons.wikimedia.org/wiki/File:Children%27s_pain_scale.JPG">https://commons.wikimedia.org/wiki/File:Children%27s_pain_scale.JPG</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Cough reflex
 -  Protective reflex caused by irritation of parts of the respiratory tract beyond nose like larynx, trachea and bronchi.
@@ -497,7 +480,6 @@ Also can cause a hyperventillatory response.
 <p style="color:white">Similar reflex to a cough, but initiated by irritation of the nasal mucus membrane.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Deglutation reflex
 
@@ -516,7 +498,6 @@ Also can cause a hyperventillatory response.
 <p class="citation"><a href="https://www.youtube.com/watch?v=Ri8bBhw9msQ">https://www.youtube.com/watch?v=Ri8bBhw9msQ</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Respiratory receptors and reflexes: summary
 
@@ -580,7 +561,6 @@ Also can cause a hyperventillatory response.
 </table>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Respiratory receptors and reflexes: summary
 
@@ -614,7 +594,6 @@ Also can cause a hyperventillatory response.
 <p>&nbsp</p>
 <p class="citation">*These receptors may only cause increased breathing rate / volume. Hyperventilation would only occur in the more extreme cases, with continued hyperventilation reducing lung pCO<sub>2</sub>, causing hypocapnia - a low pCO<sub>2</sub> in blood.</p>
 --
-<!-- .slide: data-auto-animate -->
 ### Reflex inputs to the respiratory centre
 #### Respiratory receptors and reflexes: summary
 

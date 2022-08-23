@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk2_2" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk2_2-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.2: Basics of the respiratory system - gas exchange
@@ -10,10 +10,10 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
       
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.4 Communicate the factors that determine the rate of diffusion of a gas across a membrane.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 #### Main anatomical elements of the respiratory airway
 
@@ -28,7 +28,6 @@ The movement of air as a whole from the surrounding atmosphere into and out of t
 <p class="citation">Wikimedia Commons</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 #### Main anatomical elements of the respiratory airway
 
@@ -45,7 +44,6 @@ Capillaries are the smallest of blood vessels and are around the diameter of a s
 <p class="citation">Wikimedia Commons</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 ####
 
@@ -59,7 +57,6 @@ Capillaries are the smallest of blood vessels and are around the diameter of a s
 <p class="citation">Modified from Wikimedia Commons</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 ####
 
@@ -88,7 +85,6 @@ D\approx \dfrac{\Delta P \times A \times S}{d \times \sqrt{MW}}
 </table>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 ####
 
@@ -102,7 +98,6 @@ D\approx \dfrac{\Delta P \times A \times S}{d \times \sqrt{MW}}
 <p class="citation">Modified from <a href="https://upload.wikimedia.org/wikipedia/commons/8/8b/Alveoli.svg">https://upload.wikimedia.org/wikipedia/commons/8/8b/Alveoli.svg</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 ####
 
@@ -117,7 +112,6 @@ Absorption of oxygen into blood <span style="color:red">at rest</span> and <span
 <p class="citation">Figure 40-4, <em>Guyton and Hall Textbook of Medical Physiology</em></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Diffusion of a gas across a membrane
 ####
 
@@ -132,10 +126,10 @@ Absorption of oxygen into blood <span style="color:red">at rest</span> and <span
 <p class="citation">Figure 40-5, <em>Guyton and Hall Textbook of Medical Physiology</em></p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.5 Explain the clinical quantification of gas exchange in terms of the ventilation-perfusion ratio.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Ventilation-perfusion ratio
 ####
 
@@ -145,7 +139,6 @@ In broad terms:
 - Increased lung perfusion increases the effective "surface area" (blood) exposed to the area for gas exchange, increasing diffusion of oxygen into and carbon dioxide out of blood.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Ventilation-perfusion ratio
 ####
 
@@ -160,14 +153,12 @@ Increased lung perfusion increases the effective "surface area" (blood) exposed 
 <p class="citation">Original content created for MEDI2101.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Ventilation-perfusion ratio
 ####
 
 $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\mathrm{blood\~flow}} = \dfrac{\dot V_{A}}{\dot Q}$
 
 --
-<!-- .slide: data-auto-animate -->
 $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\mathrm{blood\~flow}} = \dfrac{\dot V\_{A}}{\dot Q}$
 
 
@@ -178,7 +169,6 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 <p class="fragment">Therefore blood will not be oxygenated and cells will not receive the oxygen required to live.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\mathrm{blood\~flow}} = \dfrac{\dot V\_{A}}{\dot Q}$
 
 <p class="r-fit-text">What does it mean if the ventilation-perfusion ratio reaches a very large number (becoming infinite)?</p>
@@ -188,7 +178,6 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 <p class="fragment">Therefore blood will not be oxygenated and cells will not receive the oxygen required to live.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\mathrm{blood\~flow}} = \dfrac{\dot V\_{A}}{\dot Q}$
 
 <p class="r-fit-text">What does it mean if the ventilation-perfusion ratio reaches a very large number (becoming infinite)?</p>
@@ -196,7 +185,6 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 <p class="r-fit-text">Also, blood is not circulating so there is no bulk movement of oxygen to where it is needed in the body!</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Ventilation-perfusion ratio
 ####
 
@@ -208,7 +196,6 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 <p class="fragment" data-fragment-index="1">This also makes sense if we know the average normal ventilation rate is around 4 L/min and the cardiac output is 5 L/min ($\frac{4\mathrm{~L/min}}{5\mathrm{~L/min}}=0.8$).</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Ventilation-perfusion ratio
 ####
 
@@ -227,16 +214,19 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 <p class="fragment">    We will be revisiting the ventilation-perfusion ratio in the unit content on homeostasis in exercise, and in chronic obstructive pulmonary disease.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.6 Summarise the five steps of the scientific method (identify a question, formulate a hypothesis, make a testable prediction, conduct an experiment and analyse the results).
 
 <p class="citation">See on-line tutorial in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.7 Relate the principles of falsification and Occam’s Razor to the scientific method in the context of (bio)medical investigation.
 
 <p class="citation">See on-line tutorial in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.8 Outline the main anatomy of the lower respiratory system and explain the function of each structure.
 
 <p class="citation">See anatomy material in iLearn and attend anatomy class.</p>

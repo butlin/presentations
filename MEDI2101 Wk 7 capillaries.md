@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk7" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk7"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.4: Capillary fluid exchange
@@ -17,10 +17,10 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.1 Describe the structure of a capillary network and identify types of capillaries according to degree of permeability.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Capillaries (Revision)
 ####
 
@@ -42,7 +42,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Capillaries (Revision)
 ####
 
@@ -54,7 +53,6 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 **Average blood flow across a capillary bed.** The intermittent flow in individual capillaries averaged across a capillary bed in an area of tissue results in a continuous (generally) non-pulsatile flow of blood through the tissue.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Capillaries (Revision)
 ####
 
@@ -77,7 +75,6 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Capillaries (Revision)
 ####
 
@@ -101,10 +98,10 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 </div>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.2 Describe caveolae and intercellular clefts and their function within capillaries.
   
 --
-<!-- .slide: data-auto-animate -->
 ### Endothelial cells of capillaries: caveloae and intercellular clefts
 ####
 
@@ -133,7 +130,6 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Endothelial cells of capillaries: caveloae and intercellular clefts
 ####
 
@@ -171,10 +167,10 @@ Nature of the endothelium and capillary pores varies between organs
 <p class="citation" style="color:white">Endothelial cell later from the inner surface of the blood vessels in a rat brain.<br>The cells have been stained for the tight-junction-associated protein zonula occludens-1 (green) and the nuclei using DAPI (blue).<br>(DANIEL SCHROEN, CELL APPLICATION INC./SCIENCE PHOTO LIBRARY)</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.3 Describe the principle of diffusion in the context of transfer of material across the endothelium of capillaries.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Diffusion
 
@@ -192,7 +188,6 @@ Blood solutes pass from areas of high concentration to areas of low concentratio
 <p class="citation">Diffusion is a concept we have already covered in the respiratory block of the unit (diffusion of gases across the alveolar wall).<br>It is the same mechanism here</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Permeability of the endothelium
 
@@ -206,16 +201,14 @@ The size of the fenestrae of the capillaries regulates what plasma contents can 
 </ul>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Permeability of the endothelium - Effect of molecule size
 <p>Example in skeletal muscle <span style="font-size:16px">(remembering that capillaries in different tissues have different permeability)</span>.</p>
 <img src='images/EndothelialPermeability_Pappenheimer.png' width='55%'>
 <p>&nbsp;</p>
-<p class="citation">Pappenheimer, J. R. Passage of molecules through capillary walls. Physiological Reviews, 1953, 33, 387-423.</p>
+<p class="citationside">Image: Pappenheimer, J. R. Passage of molecules through capillary walls. Physiological Reviews, 1953, 33, 387-423.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Lipid-soluble material
 
@@ -226,7 +219,6 @@ Therefore, lipid-soluble material can travel through any area of the capillary w
 <p class="fragment">What is lipid soluble? Oxygen and carbon dioxide.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Lipid insoluble material
 
@@ -240,7 +232,6 @@ Substances that are soluble in water but not in lipids can only travel through c
 <p class="fragment"> What is lipid insoluble (but water soluble)? sodium ions, chloride ions, glucose.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Use Starling's hypothesis to calculate the net flow across the capillary wall
 
@@ -257,7 +248,6 @@ Starling forces:
 \end{equation}
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Use Starling's hypothesis to calculate the net flow across the capillary wall
 \begin{equation}
@@ -265,10 +255,9 @@ Starling forces:
 \end{equation}
 
 <img src="images/CapillaryPressures_GuytonAndHall.png" width="75%">
-<p class="citation">Guyton and Hall Textbook of Medical Physiology.</p>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Use Starling's hypothesis to calculate the net flow across the capillary wall
 
@@ -306,10 +295,9 @@ Forces across the capillary wall at the <em>arterial</em> end of capillaries
       </tr>
 </table>
 <p>&nbsp;</p>
-<p class="citation">Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
+<p class="citation">Source: Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Use Starling's hypothesis to calculate the net flow across the capillary wall
 
@@ -347,10 +335,9 @@ Forces across the capillary wall at the <span style="color:blue"><em>venous</em>
       </tr>
 </table>
 <p>&nbsp;</p>
-<p class="citation">Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
+<p class="citation">Source: Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Bulk flow and Starling's hypothesis
 
@@ -376,7 +363,6 @@ Forces across the capillary wall at the <span style="color:blue"><em>venous</em>
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Bulk flow and Starling's hypothesis
 
@@ -412,10 +398,9 @@ Average forces across the capillary wall over the length of the capillary (Princ
       </tr>
 </table>
 <p>&nbsp;</p>
-<p class="citation">Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
+<p class="citation">Source: Adapted from Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Transfer of material across the endothelium
 #### Bulk flow and Starling's hypothesis
 
@@ -430,10 +415,10 @@ Average forces across the capillary wall over the length of the capillary (Princ
 <p style="color:white;font-size:1.5em">But where does the fluid from the <br>0.3 mmHg outward pressure go?</p>
 <p style="color:white;font-size:1.5em" class="fragment">LO2.4.6 Describe the function of the lymphatic system and broadly its anatomy.</p>
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.4 Understand that understanding of physiology is constantly evolving with new evidence, and apply this understanding specifically to the Starling hypothesis.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### Historical understanding: Starling-Landis model
 
@@ -451,17 +436,15 @@ Average forces across the capillary wall over the length of the capillary (Princ
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### Historical understanding: Starling-Landis model
 
 <p>Example in skeletal muscle <span style="font-size:16px">(remembering that capillaries in different tissues have different permeability)</span>.</p>
 <img src='images/EndothelialPermeability_Pappenheimer.png' width='55%'>
 <p>&nbsp;</p>
-<p class="citation">Pappenheimer, J. R. Passage of molecules through capillary walls. Physiological Reviews, 1953, 33, 387-423.</p>
+<p class="citationside">Image: Pappenheimer, J. R. Passage of molecules through capillary walls. Physiological Reviews, 1953, 33, 387-423.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### Problems with the hypothesis
 <ul>
@@ -473,7 +456,6 @@ Average forces across the capillary wall over the length of the capillary (Princ
 <sup>2</sup>Michel, C.C. and M.E. Phillips, Steady-state fluid filtration at different capillary pressures in perfused frog mesenteric capillaries. J Physiol, 1987. 388: p. 421-35.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### The endothelial glycocalyx
 
@@ -481,19 +463,17 @@ Average forces across the capillary wall over the length of the capillary (Princ
 
 <img src='images/glycocalyx_RegulationOfEndothelialBarrier.png' width="50%">
 
-<p class="citation">Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
+<p class="citationside">Image: Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### The endothelial glycocalyx
 
 <img src="images/RevisedStarlingPrinciple_RegulationOfEndothelialBarrier.png" width="75%">
 
-<p class="citation">Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
+<p class="citationside">Image: Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Revising the Starling hypothesis
 #### The revised Starling Principle
 
@@ -504,16 +484,19 @@ Average forces across the capillary wall over the length of the capillary (Princ
 <p class="citation">Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.5 List the constituents of the interstitium.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.6 Describe the function of the lymphatic system and broadly its anatomy.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.4.7 Define lymphodema and identify the common causes of the condition.
 
 <p class="citation">See this week's on-line module in iLearn.</p>

@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk12" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk12"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.3: Diseases of the vascular system. <br>Isolated Systolic Hypertension
@@ -10,6 +10,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO4.3.1 Using hypertension as an example, define the concepts of a risk factor, morbidity and mortality.
 
 --
@@ -19,7 +20,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="fragment" style="font-size:1.5em">What is "high"</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Morbidity
 
@@ -28,7 +28,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <b>Hypertension example:</b> High blood pressure is a morbidity associated with hypertension. There may be other <em>co-morbidities</em> such as atherosclerosis of the coronary arteries, high cholesterol, etc.
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Mortality
 
@@ -41,7 +40,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">*U.S. Department of Health and Human Services, <a href="https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_09-508.pdf">National Vital Statistics Reports, (2019) 68:9.</a></p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Risk
 
@@ -53,7 +51,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">*<a href="https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045868">https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045868</a></p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Risk factor
 
@@ -68,7 +65,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="fragment" style="font-size:1.5em">What is "high"</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What is high?
 <div class='media'>
@@ -84,7 +80,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What is high?
 
@@ -95,7 +90,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">Sundström J et al Association of blood pressure in late adolescence with subsequent mortality: cohort study of Swedish male conscripts. BMJ. 2011. 22(342):d643.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Guidelines
 
@@ -105,7 +99,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 - European Society of Cardiology/European Society of Hypertension (ESC/ESH)
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension - guidelines
 <table>
 <tr>
@@ -214,7 +207,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 <p class="citation"><a href="http://dx.doi.org/10.5694/mja16.00526">Brachial arterial blood pressure cut-off values for different grades of hypertension according to the guidelines of the:  Australian National Heart Foundation (ANHF)</a>; <a href="https://doi.org/10.1016/j.jacc.2017.11.006">American College of Cardiology/American Heart Association (ACC/AHA)</a>; and the <a href="https://doi.org/10.1093/eurheartj/ehy339">European Society of Cardiology/European Society of Hypertension (ESC/ESH)</a>.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### When do you measure blood pressure?
 <img src='images/ABPM_example1.png' width="100%">
@@ -223,7 +215,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 <p class="citation">Courtesy of the Blood Pressure and Vascular Function Laboratory, Macquarie University.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### When do you measure blood pressure?
 <img src='images/ABPM_example2.png' width="100%">
@@ -232,7 +223,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 <p class="citation">Courtesy of the Blood Pressure and Vascular Function Laboratory, Macquarie University.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### When do you measure blood pressure?
 
@@ -249,7 +239,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### When do you measure blood pressure?
 
@@ -267,7 +256,6 @@ GPs and cardiologists in Australia have a choice of guidelines!
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What causes hypertension?
 
@@ -284,14 +272,12 @@ We can largely answer this question from what we have learnt in the unit by aski
 <p class="citation">* Heart rate and stroke volume do not generally increase chronically as a cause of hypertension.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What causes autonomic dysfunction, increased artery stiffness, and kidney dysfunction?
 
 <img class='r-stretch' src='images/can_of_worms.svg'>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What causes autonomic dysfunction, increased artery stiffness, and kidney dysfunction?
 
@@ -304,7 +290,6 @@ We can largely answer this question from what we have learnt in the unit by aski
 <p class="citation">* Definition to come shortly.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What causes autonomic dysfunction, increased artery stiffness, and kidney dysfunction?
 
@@ -317,7 +302,6 @@ Risk factors <em>for developing</em> hypertension:
 - high cholesterol
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What causes autonomic dysfunction, increased artery stiffness, and kidney dysfunction?
 
@@ -336,7 +320,6 @@ Hypertension is a risk factor for...
 
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### What are the signs of hypertension?
 
@@ -345,7 +328,6 @@ Have a think how a typical patient will present to the GP if they have high bloo
 <span class="fragment">High blood pressure has no symptoms.</span>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Hypertension
 #### Types of hypertension
 
@@ -356,10 +338,10 @@ Hypertension can be divided into either being "essential" or "secondary".
 <b>Secondary hypertension:</b> Chronically high blood pressure with an identified cause. Makes up 5 to 10\% of hypertension cases. e.g. renal disease; renal artery stenosis; primary hyperaldosteronism; drug-induced hypertension (common side effect of the contraceptive pill) etc.
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO4.3.2 Define isolated systolic hypertension and communicate why this type of hypertension is particularly important.
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Isolated systolic hypertension
 ####
 
@@ -373,7 +355,6 @@ diastolic pressure < 90 mmHg
 <p class="citation">In Europe / Australia.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Isolated systolic hypertension
 ####
 
@@ -390,17 +371,16 @@ diastolic pressure < 90 mmHg
 </div>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO4.3.3 Understand the role of capacitance in the large arteries in turning pulsatile flow into non pulsatile flow.
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### Compliant arteries act as a capacitor, storing and releasing energy
 
 <img class="r-stretch" src="images/Windkessel_effect.gif">
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### The heart: a pulsatile flow source
 
@@ -415,7 +395,6 @@ diastolic pressure < 90 mmHg
 \end{equation}
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### The heart: a pulsatile flow source
 
@@ -432,7 +411,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### The capillaries: a non-pulsatile flow bed
 
@@ -450,7 +428,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### The capillaries: a non-pulsatile flow bed
 
@@ -467,7 +444,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### Large arteries get stiffer with age
 
@@ -478,7 +454,6 @@ diastolic pressure < 90 mmHg
 <p class="citation">Butlin, M. & Avolio, A.P. <em>Age-related changes in the mechanical properties of arteries</em> in Mechanical properties of aging soft tissue, Springer, 2014, 37--74. Original data from Langewouters, G. J. et al. J Biomech, 1984, 17:425--35.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arterial capacitance and the *Windkessel* effect
 #### Stiff arteries reduce the *Windkessel* effect
 
@@ -494,10 +469,10 @@ diastolic pressure < 90 mmHg
 ### <span style="color:white">Stiff large arteries</span>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO4.3.4 Describe the role of arteriosclerosis in isolated systolic hypertension (and how arteriosclerosis is different to atherosclerosis).
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### is different to atherosclerosis
 
@@ -515,7 +490,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### is different to atherosclerosis
 
@@ -533,7 +507,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### is different to atherosclerosis
 
@@ -564,7 +537,6 @@ diastolic pressure < 90 mmHg
 </div>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### Causes
 
@@ -577,7 +549,6 @@ diastolic pressure < 90 mmHg
 </ul>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### Risk factors
 
@@ -591,7 +562,6 @@ Risk factors for developing arteriosclerosis
 - high cholesterol
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Arteriosclerosis
 #### Independent predictor of cardiovascular mortality
 
@@ -603,9 +573,9 @@ Risk factors for developing arteriosclerosis
 <p class="citation">Vlachopoulos, C et al. <wm>Prediction of cardiovascular events and all-cause mortality with arterial stiffness: a systematic review and meta-analysis</em>. J Am Coll Cardiol, 2010, 55:1318--27.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO4.3.5 Identify and describe the mechanism of the main treatments for hypertension, including lifestyle changes and broad antihypertensive medication drug classes.
 --
-<!-- .slide: data-auto-animate  -->
 ### Treatment of hypertension
 ####
 
@@ -614,7 +584,6 @@ Stiffening of large arteries is irreversible (no treatment)*.
 <p class="citation">A small study has shown regular exercise can reverse it, and there is a wealth of research being undertaken to understand the disease in the hope that we can one day treat it.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Treatment of hypertension
 #### Mechanism of anti-hypertensive drugs
 
@@ -656,7 +625,6 @@ Stiffening of large arteries is irreversible (no treatment)*.
 <p class="citation">ACE: angiotensin converting enzyme. ARB: angiotensin receptor blocker.</p>
 
 --
-<!-- .slide: data-auto-animate  -->
 ### Treatment of hypertension
 #### Treatment with lifestyle changes
 
@@ -689,7 +657,7 @@ Lifestyle changes are often *extremely* effective in treating hypertension, some
 <p class="citation">Created for MEDI2101.</p>
 
 ---
-<!-- .slide: id="MEDI2101Wk13" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk13" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 5: Review and assess
 ### Week 13: Review

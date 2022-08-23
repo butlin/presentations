@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk12" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk12" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.4: Diseases of the respiratory system. Chronic Obstructive Pulmonary Disease

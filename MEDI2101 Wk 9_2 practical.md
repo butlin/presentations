@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk9prac" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # Week 9, Practical: Physiological measurement data collection for AT3

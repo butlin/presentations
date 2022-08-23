@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk8prac" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk8_2prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # Week 8, Practical: Autonomic function tests

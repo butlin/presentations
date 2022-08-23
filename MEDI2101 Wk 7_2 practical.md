@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk7prac" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk7prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # Week 7, Practical: Introduction to some respiratory and cardiovascular instrumentation

@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk8" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk8-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 3: Cardiovascular and respiratory integration
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
@@ -8,6 +8,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.1: Introduction to exercise cardiorespiratory physiology
@@ -56,10 +57,10 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-21" target="\_blank">Description of AT4 Final Exam on iLearn.</a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.1.1 Communicate the difference between the three metabolic systems of skeletal muscle during exercise.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Metabolic systems of skeletal muscle
 #### Summary of the three systems
 
@@ -99,7 +100,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </table>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Metabolic systems of skeletal muscle
 #### 
 
@@ -108,7 +108,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <p class="citation" data-id="book">Guyton & Hall Textbook of Medical Phyiology. Figure 85.1.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Metabolic systems of skeletal muscle
 #### 
 
@@ -117,7 +116,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 <p class="citation" data-id="book">Modified from Guyton & Hall Textbook of Medical Phyiology. Figure 85.1.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Metabolic systems of skeletal muscle
 #### 
 
@@ -137,7 +135,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Metabolic systems of skeletal muscle
 #### 
 
@@ -154,10 +151,10 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </div>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.1.2 Link respiratory oxygen absorption to body oxygen consumption and cardiac output (Fick Principle).
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption
 ####
 
@@ -173,14 +170,12 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 \end{align}
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption
 #### Fick principle
 
 <img data-id="fick" class="r-stretch" src="images/FickPrinciple.svg">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption 
 #### Fick principle
 
@@ -207,7 +202,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption
 #### Fick principle
 
@@ -226,7 +220,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption
 #### Fick principle
 
@@ -251,7 +244,6 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Oxygen absorption and oxygen consumption
 #### Fick principle
 
@@ -272,10 +264,10 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.1.3 Describe the limit of pulmonary ventilation (maximum <span style="font-family:'Arial'">V̇</span>O<sub>2</sub>) and its limiting factors.
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 ####
 
@@ -287,7 +279,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p class="citation"><a href="https://www.youtube.com/watch?v=fn3Yr-LS_l0">Memorial Hermann, https://www.youtube.com/watch?v=fn3Yr-LS_l0</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 ####
 
@@ -300,7 +291,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p>&nbsp;</p>
 <p class="citation"><a href="https://montenbaik.com/2014/09/frecuencia-cardiaca-y-zonas-de-entrenamiento/">https://montenbaik.com/2014/09/frecuencia-cardiaca-y-zonas-de-entrenamiento/</a></p>
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 ####
 
@@ -326,7 +316,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -336,7 +325,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -358,7 +346,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -374,7 +361,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p class="citation">Chapter 85, Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 <ul>
@@ -402,7 +388,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 
 <p>Unknown if the increased lung capillary vascularisation is a training effect, or an effect of self-selection (those with greater oxygen diffusion capacity might succeed in the relevant sports).</p>
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -424,7 +409,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -451,7 +435,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p class="citation">Chapter 85, Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -503,7 +486,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p class="citation">Chapter 85, Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -525,7 +507,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -537,7 +518,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p>The ability of blood vessels supplying skeletal muscle to vasodilate (local autoregulation) in response to exercising skeletal muscle increases blood flow to the muscle, increasing oxygen delivery, increasing potential [O<sub>2</sub>]<sub>cellular</sub>.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -559,7 +539,6 @@ It can be used as a measure of someone's cardiovascular fitness.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### <span style="font-family:'Arial'">V̇</span>O<sub>2</sub> max.
 #### Rate limiting components
 
@@ -568,10 +547,10 @@ It can be used as a measure of someone's cardiovascular fitness.
 <p class="citation" data-id="reference">Modified from Buckley, Holmes & Mapp, Exercise on Prescription (1999).</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.1.4 Use the prior knowledge of the body's multiple receptors to describe responses to exercise, and the unique role of the baroreceptors during exercise.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Local autoregulation
 
@@ -582,14 +561,12 @@ Increased oxygen consumption and/or production of metabolites in skeletal muscle
 <p class="citation">LO2.2.7 Understand that there is local (regional) short-term and long-term autoregulation of blood flow and the mechanisms driving that regulation (oxygen, metabolic, and myogenic theories; angiogenesis and collateral circulation).</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Local autoregulation
 
 <img class="r-stretch" src="images/regional_flow_exercise.png">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Changes to venous return
 
@@ -605,7 +582,6 @@ Increased oxygen consumption and/or production of metabolites in skeletal muscle
 LO2.3.2 Explain how venous return to the heart impacts cardiac output and blood volume (Frank-Starling law of the heart; the three atrial reflexes (Bainbridge reflex, volume reflex, cardiopulmonary baroreceptors).</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Body receptors
 
@@ -645,7 +621,6 @@ LO 1.3.3 Understand the receptors and reflexes affecting respiratory centres<br>
 LO 2.3.3 Describe the differential sympathetic and parasympathetic innervation of the heart and systemic vasculature, including a description of the vasomotor centre of the brain.<br>
 LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, the arteriolar and myocardial targets, and the local and systemic changes.</p>
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Motor cortex and other higher order centres
 
@@ -663,7 +638,6 @@ LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimul
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Resetting of the baroreceptors
 
@@ -673,7 +647,6 @@ LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimul
 <p class="citation">SNA: sympathetic nerve activity; RSNA: renal SNA; MAP: mean arterial pressure.<br><a href="http://doi.org/10.3389/fnins.2017.00461">Dampney Roger A. L., Resetting of the Baroreflex Control of Sympathetic Vasomotor Activity during Natural Behaviors, Frontiers in Neuroscience, (2017), 11:461.</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cardiorespiratory regulation in exercise
 #### Resetting of the baroreceptors
 
@@ -686,5 +659,6 @@ LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimul
 <p class="citation">SNA: sympathetic nerve activity; RSNA: renal SNA; MAP: mean arterial pressure.<br><a href="http://doi.org/10.3389/fnins.2017.00461">Dampney Roger A. L., Resetting of the Baroreflex Control of Sympathetic Vasomotor Activity during Natural Behaviors, Frontiers in Neuroscience, (2017), 11:461.</a></p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.1.5 Discuss the role of exercise as a modifiable lifestyle factor to reduce risk of cardiovascular events
 <p class="citation">See this week's on-line module in iLearn.</p>

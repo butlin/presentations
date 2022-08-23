@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk10" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk10"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 4: Cardiovascular and respiratory system in disease
 ##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA) (he/him)

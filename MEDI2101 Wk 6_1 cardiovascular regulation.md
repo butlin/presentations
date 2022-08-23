@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk6_1" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk6_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.3: Cardiovascular regulation. <br>Part 1.
@@ -16,18 +16,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-11"> MEDI2101 iLearn Week 6</a>
 
 --
-<!-- .slide: data-auto-animate -->
-### Assessment task 2: Anatomy test
-####
-
-A similar test last year was able to be completed by students last year in 20 to 30 minutes.
-
-You will have to keep a steady pace, but the 40 minutes provided to complete the test allows for page load times etc.
-
-<p class="citation"><a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-11" target="_blank" rel="noopener noreferrer">See iLearn</a></p>
-
---
-<!-- .slide: data-auto-animate -->
 ###  Assessment task 3.1: Manuscript figure
 ####
 
@@ -73,7 +61,6 @@ You will have to keep a steady pace, but the 40 minutes provided to complete the
 
 
 --
-<!-- .slide: data-auto-animate -->
 ### Open (virtual) door
 ####
 
@@ -84,13 +71,12 @@ You will have to keep a steady pace, but the 40 minutes provided to complete the
 </span>
 
 ---
-
+<!-- .slide: data-auto-animate-restart -->
 **Cardiovascular regulation:** a mechanism that alters blood flow (and pressure) to maintain optimal perfusion. 
 
 Requires an <em>input</em> (measurement) and an <em>output</em> (action).
 
 --
-<!-- .slide: data-auto-animate -->
 ### Blood pressure cannot be controlled directly.
 
 Therefore, we either need to alter stroke volume ($SV$) or heart rate ($HR$) to alter cardiac output ($CO$), change total peripheral resistance ($TPR$)<span class="fragment" data-fragment-index="1">, or increase or decrease blood volume.</span>
@@ -110,10 +96,10 @@ $\begin{equation}
 <p class="fragment" data-fragment-index="2">All of the cardiovascular regulatory pathways must result in a change in one or more of these factors (SV, HR, TPR, and/or blood volume).</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.1 Explain how venous return to the heart can be altered (respiratory pump; skeletal muscle pump; abdominal compression reflex; sympathetic stimulation of the systemic veins).
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 ####
 
@@ -131,7 +117,6 @@ $\begin{equation}
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 ####
 
@@ -150,7 +135,6 @@ Venous return can be increased through a number of mechanisms:
 </span>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Respiratory pump (a.k.a. thoracic pump)
 
@@ -170,14 +154,12 @@ Venous return can be increased through a number of mechanisms:
 --
 <!-- .slide: data-auto-animate data-background="#111111" -->
 <video data-autoplay data-src="images/respiratorypump.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=RVYKlsoEEMU">www.youtube.com/watch?v=RVYKlsoEEMU</a></p>
+<p class="citationside">Source: <a href="https://www.youtube.com/watch?v=RVYKlsoEEMU">www.youtube.com/watch?v=RVYKlsoEEMU</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 <img src="images/BPRespiratoryWavesRat.png" width="100%">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Skeletal muscle pump
 
@@ -197,7 +179,6 @@ Mechanism of increased venous return during movement (especially <em>dynamic</em
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Abdominal compression reflex
 Central nervous system output can cause skeletal muscle contraction, especially abdominal muscle.
@@ -209,7 +190,6 @@ Evidence for this mechanism: if the majority of skeletal muscle is fundamentally
 <p class="citation">*Guyton and Hall Textbook of Medical Physiology, Chapter 18.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Sympathetic stimulation of systemic veins
 The venous system is a large reservoir of blood volume. Vasoconstriction of the veins increases the effective blood volume in the arterial system and also increases return of blood to the heart.
@@ -227,7 +207,6 @@ The venous system is a large reservoir of blood volume. Vasoconstriction of the 
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Sympathetic stimulation of systemic veins
 
@@ -257,7 +236,6 @@ Increasing arterial pressure will increase arterial blood flow:
 \end{equation} -->
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### The effect of gravity, and hydrostatic pressure
 
@@ -268,10 +246,10 @@ As the venous system is very compliant, a change in body position can alter the 
 When standing, there is a greater hydrostatic pressure (greater weight of the fluid) toward the feet than there is closer to the heart. This means that when we stand, the compliant venous system is more distended, and there is an increased blood volume in the lower extremities. This also impacts on venous return of blood to the heart, as the flow of blood must overcome the hydrostatic pressure within the column of fluid that is the veins.
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.2 Explain how venous return to the heart impacts cardiac output and blood volume (Frank-Starling law of the heart; the three atrial reflexes (Bainbridge reflex, volume reflex, cardiopulmonary baroreceptors))
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Frank-Starling law of the heart
 
@@ -280,7 +258,6 @@ When standing, there is a greater hydrostatic pressure (greater weight of the fl
 An increase in the return of blood from the venous system (venous return) causes a greater volume of blood in the ventricle at the end of diastole (end diastolic volume), in turn increasing the contraction force of the heart muscle fibers (cardiac contractility), and therefore the greater the stroke volume and cardiac output.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Frank-Starling law of the heart
 
@@ -298,7 +275,6 @@ An increase in the return of blood from the venous system (venous return) causes
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Frank-Starling law of the heart
 **What is cardiac contractility?** The strength of contraction of the myocardial fibres.
@@ -316,7 +292,6 @@ Increased cardiac contractility decreases end systolic volume, therefore increas
 \end{equation}
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Atrial reflex: The Bainbridge Reflex alters heart rate and cardiac contractility
 
@@ -332,7 +307,6 @@ An additional 15% increase in heart rate in response to increased atrial pressur
 </span>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Atrial reflex: The Volume Reflex altering blood volume
 
@@ -362,7 +336,6 @@ Stretch of the atria feeds through to the:
 <p class="fragment">Both mechanisms increase <span style="color:red">fluid loss</span> (via the kidneys), <span style="color:red">decreasing blood volume and therefore blood pressure</span></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Atrial natriuetic peptide
 
@@ -374,7 +347,6 @@ Not grouped under the Volume Reflex, but also is a heart mechanism of controllin
 Also causes vasodilation (decrease in total peripheral resistance).
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Atrial and pulmonary artery stretch receptors<br>(cardiopulmonary baroreceptors)
 
@@ -392,7 +364,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 <p class="citation">* This is distinct from what is termed, simply, "the baroreceptors" located in the aorta and carotid artery.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Summary
 
@@ -420,7 +391,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Altered venous return to the heart
 #### Summary
 
@@ -450,10 +420,10 @@ These receptors have a **negative feedback** to the central nervous system in re
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.3 Describe the differential sympathetic and parasympathetic innervation of the heart and systemic vasculature, including a description of the vasomotor centre of the brain.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 ####
 
@@ -471,7 +441,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Vasomotor centre of the brain*
 
@@ -488,7 +457,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Vasomotor centre of the brain*
 
@@ -533,7 +501,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to the heart
 
@@ -569,7 +536,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
      
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to the heart
 
@@ -588,7 +554,6 @@ These receptors have a **negative feedback** to the central nervous system in re
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to peripheral arteries
 
@@ -604,7 +569,6 @@ where:
 - $r$ radius of the tube
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to peripheral arteries
 
@@ -623,7 +587,6 @@ where:
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to peripheral arteries
 
@@ -658,7 +621,6 @@ where:
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 
 \begin{equation}
 MAP\uparrow~=CO\times TPR\uparrow
@@ -671,7 +633,6 @@ MAP\uparrow~=CO\times TPR\uparrow
 </ul>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Sympathetic and parasympathetic nervous input to peripheral arteries
 
@@ -698,7 +659,6 @@ MAP\uparrow~=CO\times TPR\uparrow
   </div>
 </div>
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Rate of response
 
@@ -711,7 +671,6 @@ The central nervous system very rapidly alters blood pressure
 <p class="fragment" style="font-size:1.5em">How are such rapid changes in blood pressure made?</p>      
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Rate of response
 
@@ -726,16 +685,14 @@ A rapid rise in blood pressure is invoked by:
 <p class="fragment" style="font-size:1.5em">Why are such rapid changes in blood pressure required?</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Overview of sympathetic and parasympathetic drivers of blood pressure
 
 <img src="images/SNAandPNA_Sherwoord.png" width="80%">
 <p>&nbsp;</p>
-<p class="citation">Sherwood L. Human Physiology: From Cells to Systems. 4th Ed</p>
+<p class="citationside">Image: Sherwood L. Human Physiology: From Cells to Systems. 4th Ed</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Sympathetic and parasympathetic innervation
 #### Physiological example: Vasovagal syncope
 
@@ -754,4 +711,4 @@ A rapid rise in blood pressure is invoked by:
 <img src="images/ValsalvaVasovagalFigure1.png">
 <!-- <img class="fragment" src="images/ValsalvaVasovagalFigure2.png"> -->
 </span>
-<p class="citation">Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>

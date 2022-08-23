@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk2_1" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk2_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.2: Basics of the respiratory system - ventilation
@@ -19,7 +19,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ## LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### 
 The 5 major functions of the respiratory system are to:
@@ -34,7 +33,6 @@ The 5 major functions of the respiratory system are to:
 <p class="fragment">All of these functions, other than vocalisation, are to facilitate (or in the case of pH, a result of) respiration.</p>
   
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### 
 <figure>
@@ -52,7 +50,6 @@ The 5 major functions of the respiratory system are to:
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### 
 
@@ -64,7 +61,6 @@ Respiration in multi-cellular life can be used to refer to two different things:
 <p class="fragment">When we are talking about the movement of air through the lungs, we are addressing part of the pathway of external respiration, not cellular respiration.</p>
     
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of air
 
@@ -87,7 +83,6 @@ Respiration in multi-cellular life can be used to refer to two different things:
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -104,7 +99,6 @@ Functions of the nose
 </figure>
     
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -119,7 +113,6 @@ Function of the pharynx
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -141,7 +134,6 @@ The larynx contains the epiglottis (diversion of food) and the vocal cords (forc
 <p class="citation">National Cancer Institute, an agency part of the National Institutes of Health</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -154,7 +146,6 @@ The larynx contains the epiglottis (diversion of food) and the vocal cords (forc
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach.</em></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -176,7 +167,6 @@ where:
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -260,7 +250,6 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 <!-- .slide: data-auto-animate data-background-image="images/LungBranches.png" data-background-size="contain" -->
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conduction of Air
 
@@ -275,7 +264,6 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -289,7 +277,6 @@ The respiratory mucosa lining the conducting airways conditions air before it re
   - Removal of particles and pathogens to protect the body from inflammation and infection.
     
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -298,7 +285,6 @@ The mucosal lining also **traps** and **transports** some **pathogens**.
 The **ciliary beat** that removes mucous (and trapped pathogens) relies on the thin saline secreted by epithelial cells of the respiratory system.
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -328,7 +314,6 @@ The **ciliary beat** that removes mucous (and trapped pathogens) relies on the t
 <p class="citation"><a href="https://www.youtube.com/watch?v=1Q8RL1g9txk">https://www.youtube.com/watch?v=1Q8RL1g9txk</a></p>
     
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -343,7 +328,6 @@ An air pressure is needed to overcome this surface tension (Laplace Law).
 <p class="fragment">If the mucosal fluid was pure water, a pressure of 18 cmH<sub>2</sub>O would be required to keep the alveoli open (<em>Guyton and Hall Textbook of Medical Physiology</em>).
     
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -376,7 +360,6 @@ An air pressure is needed to overcome this surface tension (Laplace Law).
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Conditioning of air and protection from inhaled substances
 
@@ -407,7 +390,6 @@ $\dfrac{2T\downarrow}{R}=P\downarrow$
 </table>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Gas exchange between air and blood
 
@@ -418,7 +400,6 @@ $\dfrac{2T\downarrow}{R}=P\downarrow$
  This will be covered in greater detail in the following lecture.
       
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### pH regulation
   
@@ -435,7 +416,6 @@ When carbon dioxide is dissolved in blood (water):
 <p class="fragment">Increasing the concentration of H<sup>+</sup> increases the acidity (decreases pH) and vice versa.</p>
   
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### pH regulation
   
@@ -444,7 +424,6 @@ By altering the rate of ventilation, the rate of CO<sub>2</sub> movement our of 
 Regulation of ventilation (and pH) will be covered next week.
 
 --
-<!-- .slide: data-auto-animate -->
 ### The five major functions of the respiratory system
 #### Vocalisation
       
@@ -455,6 +434,7 @@ Speech (or just vocal noise) requires three main processes to work together:
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
 
 --
@@ -495,7 +475,6 @@ Exhalation is <b>nominally passive</b> (i.e. a relaxation of muscles), but may i
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
   
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 Isolating the action of the diaphragm.
@@ -508,7 +487,6 @@ Isolating the action of the diaphragm.
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 Isolating the action of the diaphragm.
@@ -521,7 +499,6 @@ As it contracts, it flattens and decreases intrapleural pressure, increasing the
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 Isolating the action of the diaphragm.
@@ -534,7 +511,6 @@ Upon relaxation, the diaphragm curves upward once more, increasing intrapleural 
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -553,7 +529,6 @@ P_1\cdot V_1 = P_2 \cdot V_2
 \end{equation}
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -577,7 +552,6 @@ P_1\cdot V_1 = P_2 \cdot V_2
 <p class="citation"><a href="https://www.youtube.com/watch?v=N5xft2fIqQU">https://www.youtube.com/watch?v=N5xft2fIqQU</a></p>
   
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -593,7 +567,6 @@ $P_1\cdot V_1 = P_2 \cdot V_2$
 
   
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -606,7 +579,6 @@ $P_1\cdot V_1 = P_2 \cdot V_2$
 <p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the lungs, out to the surrounding atmosphere).</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -624,7 +596,6 @@ $P_1\cdot V_1 = P_2 \cdot V_2$
 </figure>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -647,7 +618,6 @@ This in turn decreases lung pressure, and flow of air into the lungs follows.
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 ####
 
@@ -664,7 +634,6 @@ When alveolar pressure rises above atmospheric pressure, there is an outward flo
 <p class="citation"><em>Guyton and Hall Textbook of Medical Physiology</em></p>
   
 --
-<!-- .slide: data-auto-animate -->
 ### Pressure-volume changes during normal breathing
 #### Collapsed Lung
 <figure>
@@ -682,10 +651,10 @@ That is, the lung collapses.
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
     
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.2.3 Describe the four pulmonary volumes and the four pulmonary lung capacities.
 
 --
-<!-- .slide: data-auto-animate -->
 ### The four pulmonary volumes and four pulmonary capacities
 #### 
 
@@ -698,7 +667,6 @@ That is, the lung collapses.
 <p class="citation">Modified from <a href="https://commons.wikimedia.org/wiki/File:Lungvolumes.svg">https://commons.wikimedia.org/wiki/File:Lungvolumes.svg</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### The four pulmonary volumes and four pulmonary capacities
 #### The pulmonary volumes
 
@@ -712,7 +680,6 @@ That is, the lung collapses.
   - the amount of air left in the lungs after a maximal breath out. For an adult, around 1.2 L.
 
 --
-<!-- .slide: data-auto-animate -->
 ### The four pulmonary volumes and four pulmonary capacities
 #### The pulmonary volumes
 
@@ -722,7 +689,6 @@ That is, the lung collapses.
 - **total lung capacity** = vital capacity + residual volume
 
 --
-<!-- .slide: data-auto-animate -->
 ### The four pulmonary volumes and four pulmonary capacities
 #### Minute respiratory volume, or minute ventilation
 

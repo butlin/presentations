@@ -205,15 +205,49 @@ Column 2 Content
 
 .reveal h1 {
     font-size: 1.77em; 
-    border-bottom: 2px solid #C6007E;
+    /* border-bottom: 2px solid #C6007E; */
     padding-bottom:16px;
     data-id: "title";
+    /* text-transform: uppercase; */
+        background-image: linear-gradient(-225deg,
+                #231557 0%,
+                #44107a 29%,
+                #ff1361 67%,
+                #fff800 100%);
+        background-size: auto auto;
+        background-clip: border-box;
+        /* background-size: 200% auto; */
+        color: #fff;
+        background-clip: text;
+        text-fill-color: transparent;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: textclip 2s linear infinite;
+        display: inline-block;
+        /* font-size: 190px; */
 }
 
 .reveal h2 {
     margin: 200px 0px 200px 0px;
     data-id: "title";
     border-bottom: 2px solid #C6007E;
+    /* text-transform: uppercase; */
+    background-image: linear-gradient(-225deg,
+            #231557 0%,
+            #44107a 29%,
+            #ff1361 67%,
+            #fff800 100%);
+    background-size: auto auto;
+    background-clip: border-box;
+    /* background-size: 200% auto; */
+    color: #fff;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    /* font-size: 190px; */
 }
 
 .reveal h3 {
@@ -312,9 +346,9 @@ p.citationleft {
 
 p.citationside{
   position: absolute;
-  top: 50%;
+  top: 30%;
   bottom: auto;
-  left: 100%;
+  left: 102%;
   right: auto;
   pointer-events: none;
   text-align: right;

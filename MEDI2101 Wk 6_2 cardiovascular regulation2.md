@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk6_2" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk6_2" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.3: Cardiovascular regulation. <br>Part 2.
@@ -10,6 +10,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.4 Outline the key steps of the baroreceptor reflex, include the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, arteriolar and myocardial targets, and the resulting systemic changes.
 
 --
@@ -37,14 +38,12 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 ####
 <img src="images/BaroreceptorSherwood.png" width="66%">
-<p class="citation">Sherwood L. Human Physiology: From Cells to Systems. 4th Ed</p>
+<p class="citationside">Image: Sherwood L. Human Physiology: From Cells to Systems. 4th Ed</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 ####
 <div class='media'>
@@ -60,7 +59,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 ####
 <div class='media'>
@@ -85,7 +83,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <img src="images/ValsalvaVasovagalFigure1.png">
 <img class="fragment" src="images/ValsalvaVasovagalFigure2.png">
 </div>
-<p class="citation">Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citation">Data/images souce: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">Valsalva maneuver (blowing against a closed system with an open glottis) to change intrathoracic pressure. Large systemic effects on sympathetic and parasympathetic output driven by and driving blood pressure (systolic blood pressure, SBP), cardiac output (heart rate HR, stroke volume SV), and total peripheral resistance (TPR) changes.</aside>
 
 --
@@ -93,7 +91,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Baroreceptor reflex
 #### Physiological example 2: Orthostatic challenge
 <p>&nbsp;</p>
-<p class="citation">Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">{A normal response to standing up from a supine (laying down) position. There is an initial blood pressure drop (due to gravity effect is increase systemic venous pooling of blood, decreasing venous return, see Section \\ref{sec:venousreturn}). The blood pressure drop invokes the baroreceptors. Resulting sympathetic increase / parasympathetic withdrawal increases heart rate (and cardiac contractility) and blood pressure is normalised.</aside>
 
 --
@@ -101,11 +99,10 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Baroreceptor reflex
 #### Physiological example 2: Orthostatic challenge
 <p>&nbsp;</p>
-<p class="citation">Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">If baroreceptor feedback and autonomic processing is abnormal, either orthostatic hypotension (sustained blood pressure drop) or orthostatic tachycardia (sustained heart rate increase) may occur. This plot presents a case of tachycardic response to moving from supine to upright (this time by use of a tilt-table).</aside>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 #### Baroreceptors and short-term control of arterial blood pressure
 
@@ -116,7 +113,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">Cowley AW Jr et al. Role of baroreceptor reflex in daily control of arterial blood pressure and other variables in dogs. Circ Res. 1973;32(5):564-76.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 #### Baroreceptors and long-term control of arterial blood pressure
 **The argument *against* long-term blood pressure control by baroreceptors**
@@ -126,7 +122,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Baroreceptor reflex
 #### Baroreceptors and long-term control of arterial blood pressure
 **The argument *for* long-term blood pressure control by baroreceptors**
@@ -138,6 +133,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, the arteriolar and myocardial targets, and the local and systemic changes.
 
 --
@@ -159,6 +155,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="fragment">We don't need any more information as we have covered chemoreceptors in Week 3, and the sympathetic and parasympathetic effect of the heart and blood vessels in the first lecture today.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.6 Understand the concept of transmural pressure, why this is important in cerebral ischaemia, and how this is related to the Cushing reflex.
 
 --
@@ -193,7 +190,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p style="color:white">At a transmural pressure of zero<br>(critical closing pressure),<br>blood will not be able to flow to the brain tissue.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cerebral ischaemia
 #### Causes of cerebral ischaemia
 
@@ -202,7 +198,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 - <b>Cushing reflex</b> increased intracranial pressure above brain arterial blood pressure
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cerebral ischaemia
 #### Cushing reflex
 
@@ -214,7 +209,6 @@ If the intracranial pressure reaches or exceeds the critical closing pressure of
 </blockquote
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cerebral ischaemia
 #### Response to cerebral ischaemia
 
@@ -241,7 +235,6 @@ $\begin{equation}
 
 
 --
-<!-- .slide: data-auto-animate -->
 ### Cerebral ischaemia
 #### Response to cerebral ischaemia
 
@@ -257,7 +250,6 @@ Why is intracranial pressure instead of venous pressure in this equation?
 <p class="citation fragment" data-fragment-index="2">* Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-<!-- .slide: data-auto-animate -->
 <blockquote>
 <p><b>"The greedy brain"</b></p>
 <p><em>If</em> the vasomotor centre is directly and fully invoked, parasympathetic output ceases and sympathetic outflow is maximal.</p>
@@ -267,13 +259,13 @@ Why is intracranial pressure instead of venous pressure in this equation?
           <li> Systemic blood pressure can reach 250 mmHg for periods of up to 10 minutes*.</li>
         </ul>
 </blockquote>
-<p class="citation">*Guyton and Hall Textbook of Medical Physiology}</p>
+<p class="citation">*Guyton and Hall Textbook of Medical Physiology.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.7 Understand how changes in blood volume alter systemic arterial blood pressure
 
 --
-<!-- .slide: data-auto-animate -->
 ### Blood volume and systemic arterial blood pressure
 #### 
 
@@ -286,7 +278,6 @@ If total blood volume is increased, blood pressure will increase.
 <p class="fragment">This is not a rapid method to alter blood pressure, as it takes a longer period of time to alter blood volume (as opposed to altering venous return, or chemosensor and baroreceptor feedback).</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Blood volume and systemic arterial blood pressure
 #### Functions of the kidneys
 <ul>
@@ -304,10 +295,8 @@ If total blood volume is increased, blood pressure will increase.
 </ul>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Blood volume and systemic arterial blood pressure
 #### The Renin-Angiotensin System (RAS)
-<!-- .slide: data-auto-animate -->
 
 <ul>
   <li> Falling blood volume, or reduced blood flow (e.g. through sympathetic stimulation of  vascular smooth muscle) to the kidneys, induces renin secretion from the kidneys into the blood</li>
@@ -320,10 +309,10 @@ If total blood volume is increased, blood pressure will increase.
 <p class="citation">See this week's on-line module in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.8 Recognise that there is hormonal control of blood pressure.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Hormonal control of blood pressure
 #### Norepinephrine and epinephrine (noradrenaline and adrenaline)
 
@@ -334,7 +323,6 @@ Vasoconstrictor nerve terminals release predominantly norephinephrine, a potent 
 
 
 --
-<!-- .slide: data-auto-animate -->
 ### Hormonal control of blood pressure
 #### Norepinephrine and epinephrine (noradrenaline and adrenaline)
 
@@ -348,7 +336,6 @@ Vasoconstrictor nerve terminals release predominantly norephinephrine, a potent 
 <p class="citation">* Epinephrine can cause vasodilation because it also has a beta-adrenergic receptor stimulatory effect, which dilates rather than constricts certain vessels.<br>It has only a weak constriction effect on blood vessels of skeletal muscles.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Hormonal control of blood pressure
 #### Antidiruetic hormone (ADH) or vasopressin
 
@@ -369,6 +356,7 @@ Induced by:
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.9 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
 
 --
@@ -378,11 +366,10 @@ Induced by:
 <p class="citationleft">Sherwood L. Human Physiology<br>From Cells to Systems. 4th Ed.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Consider the time course
 <img src="images/MAPoverviewTiming.png" width="42%">
-<p class="citation">Guyton and Hall Textbook of Medical Physiology.</p>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/fishtankheater.jpg" data-background-opacity="0.5"-->
@@ -394,7 +381,6 @@ Baroreflex, chemoreceptors, and the Cushing reflex are closed-loop feedback syst
 </blockquote>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Feedback loops - overshoot and undershoot (oscillations)
 
@@ -412,7 +398,6 @@ Baroreflex, chemoreceptors, and the Cushing reflex are closed-loop feedback syst
 </span>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Feedback loops - overshoot and undershoot (oscillations)
 
@@ -442,7 +427,6 @@ When the Cushing reflex is activated and blood flow is restored to the brain, th
 <p class="citationleft">Sherwood L. Human Physiology: From Cells to Systems. 4th Ed.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -456,7 +440,6 @@ $\begin{align}
 $ \mathrm{MAP} \propto \mathrm{blood\~volume} $
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -469,7 +452,6 @@ Venous return mechanisms (where venous return is altered, e.g. by sympathetic st
 </ul>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -481,7 +463,6 @@ Other mechanisms that alter blood pressure:
 </ul>
   
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -498,7 +479,6 @@ Other mechanisms that alter blood pressure:
 <p style="color:white">There must be a reason (cause, an input to the central nervous system) for the changes in sympathetic and parasympathetic outflow to occur.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -541,10 +521,12 @@ Other mechanisms that alter blood pressure:
 There are many receptors throughout the body that signal to the central nervous system and result in changes in sympathetic and parasympathetic outflow. This table is a list (that is not exhaustive) of some of those things that alter sympathetic and parasympathetic activity. Some of these will be familiar from the respiratory regulation material (Week 3).
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.7 Understand how changes in blood volume alter systemic arterial blood pressure
 <p class="citation">Covered only briefly in this lecture.<br>See this week's anatomy material in iLearn</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.3.10 Identify cardiovascular and respiratory anatomy using surface body markers.
 
 <p class="citation">and review of LO2.1.8 Name and identify the major anatomy of the mediastinum and the heart and explain the function of each structure, and <br>LO2.2.9 Name and identify the anatomy of the major blood vessels.<br>LO2.3.9 also covered in part in Week 3 anatomy material.<br>See this week's anatomy material in iLearn and attend this week's anatomy class.</p>

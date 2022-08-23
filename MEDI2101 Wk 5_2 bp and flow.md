@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk5_2" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk5_2"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.2: Blood pressure and flow
@@ -10,16 +10,15 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.4 Describe the pressure changes that occur during the cardiac cycle and relate these to blood flow through the heart and vessels.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Systemic arterial pressure over the cardiac cycle
 ####
 <img data-id="waves" src='images/waves.png' width='85%'>
-
+<p class="citationside">Image: Avolio AP, Butlin M, Walsh A. Arterial blood pressure measurement and pulse wave analysis–their role in enhancing cardiovascular assessment. 2010; 31 : R1–47.</p>
 --
-<!-- .slide:  data-auto-animate -->
 ### Systemic arterial pressure over the cardiac cycle
 ####
 
@@ -32,12 +31,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
     <p>Note that the incisura in the aortic waveform (caused by the closing of the aortic valve) is co-incident in approximate timing with the dichrotic notch in the radial waveform, even though the dichrotic notch is <em>not</em> caused by the closing of the aortic valve.</p>
   </div>
   <div class='credit'>
-    <p>Avolio AP, Butlin M, Walsh A. Arterial blood pressure measurement and pulse wave analysis–their role in enhancing cardiovascular assessment. 2010; 31 : R1–47.</p>
   </div>
 </div>
+    <p class="citationside">Image: Avolio AP, Butlin M, Walsh A. Arterial blood pressure measurement and pulse wave analysis–their role in enhancing cardiovascular assessment. 2010; 31 : R1–47.</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Systemic arterial pressure over the cardiac cycle
 #### 
 
@@ -55,7 +53,6 @@ $\begin{eqnarray}
 <p class="fragement">The mean arterial pressure (MAP) is the statistical mean of the wave (i.e. the average).<br>We do not need to <em>estimate</em> MAP (using the "1/3rd rule") if we have the waveform - we can find the average to get the true mean.</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Systemic arterial pressure over the cardiac cycle
 #### Blood pressure throughout the systemic circulation
 
@@ -74,16 +71,16 @@ $\begin{eqnarray}
 </div>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Systemic arterial pressure over the cardiac cycle
 #### Blood pressure throughout the systemic circulation
 <img data-id="waves" src='images/waves.png' width='80%'>
+<p class="citationside">Image: Avolio AP, Butlin M, Walsh A. Arterial blood pressure measurement and pulse wave analysis–their role in enhancing cardiovascular assessment. 2010; 31 : R1–47.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.5 Explain the relationship of blood flow, pressure gradients and resistance and use Poiseuille's Law to explain the factors that influence resistance.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Blood flow, pressure gradients and resistance
 ####
 
@@ -96,9 +93,9 @@ $\begin{eqnarray}
     <p>That is, a fluid (liquid or gas) will travel from a region of higher pressure to a region of lower pressure.</p>
   </div>
   <div class='credit'>
-    <p><a href="https://sites.psu.edu/musingsofameteorologist/2013/02/05/how-does-air-move/">https://sites.psu.edu/musingsofameteorologist/2013/02/05/how-does-air-move/</a></p>
   </div>
 </div>
+<p class="citationside">Image source: <a href="https://sites.psu.edu/musingsofameteorologist/2013/02/05/how-does-air-move/">https://sites.psu.edu/musingsofameteorologist/2013/02/05/how-does-air-move/</a></p>
 
 --
 <!-- .slide: data-auto-animate -->
@@ -192,9 +189,9 @@ flow = \dfrac{P_1 - P_2}{resistance}
 <p class="fragment" data-fragment-index="1">Increases vessel radius (e.g. sympathetic inhibition), decreases resistance, increasing flow.</p>
   </div>
   <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
   </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 <aside class="notes">Flow is proportional to the pressure difference. If we consider the venous system near atmospheric pressure (0 mmHg, though actually pressure in the venous system is a little higher than this), then the driving force for blood flow is the arterial pressure minus 0 mmHg. Sympathetic stimulation changes the resistances of vessels. Increased resistance decreases flow and decreased resistance increases flow. The pressure at which there is zero flow is called the critical closing pressure (this is more applicable in the intracrannial space - more on this later).</aside>
 
@@ -218,15 +215,15 @@ flow = \dfrac{P_1 - P_2}{resistance}
     <p>The arterioles have highly variable resistance, and therefore can regulate the pressure drop, and thus blood flow across this segment.</p>
   </div>
   <div class='credit'>
-    <p>Medical Colouring in Book</p>
   </div>
 </div>
+<p class="citationside">Image: Medical Colouring in Book</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.6 Define mean arterial pressure (MAP) and explain the relationship between MAP, cardiac output and total peripheral resistance.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### MAP, CO and total peripheral resistance
 ####
 
@@ -249,7 +246,6 @@ flow = \dfrac{P_1 - P_2}{resistance}
 </table>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### MAP, CO and TPR
 #### (Mean arterial pressure, cardiac output and total peripheral resistance)
 
@@ -260,7 +256,6 @@ $\begin{align}
 \end{align}$
 
 --
-<!-- .slide:  data-auto-animate -->
 ### MAP, CO and TPR
 #### (Mean arterial pressure, cardiac output and total peripheral resistance)
 
@@ -273,10 +268,10 @@ It can be modified by:
 - combined regional changes in regulation at the pre-capillary area
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.7 Understand that there is local (regional) short-term and long-term autoregulation of blood flow and the mechanisms driving that regulation (oxygen, metabolic, and myogenic theories; angiogenesis and collateral circulation).
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 ####
 
@@ -287,7 +282,6 @@ However, different organs need different blood flow according to the activity an
 Therefore, there must be **regional** as well as **systemic** regulation of blood flow.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 ####
 
@@ -296,7 +290,6 @@ Autoregulation describes the ability of local tissue to counter local blood flow
 Autoregulation exists to some extent in all tissues, but is very strong in the brain (cerebral autoregulation) and in the coronary circulation.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 ####
 
@@ -307,10 +300,10 @@ Autoregulation exists to some extent in all tissues, but is very strong in the b
   <div class='description'>
     <p>Decreasing the oxygen carrying capacity of blood (decrease atmospheric pO<sub>2</sub>, pneumonia, carbon monoxide poisoning) causes an increase in <b>local</b> blood flow, often enough to compensate for the loss of oxygen.</p>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
+  <div class='credit'
   </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
 <!-- .slide:  data-auto-animate data-background-image="images/Sprinter_at_starting_block.jpg"-->
@@ -324,7 +317,6 @@ During exercise, skeletal muscle can have as much as a 10 times greater oxygen d
 <p class="fragment">The precise <em>mechanism</em> behind regional control of blood flow is unknown - but we have some theories...</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Theories for local autoregulation mechanism
 
@@ -338,7 +330,6 @@ During exercise, skeletal muscle can have as much as a 10 times greater oxygen d
 **Vasodilators:** adenosine (through increased ATP degradation), adenosine phosphates, carbon dioxide, potassium ions, hydrogen ions (from lactic acid)
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Theories for local autoregulation mechanism
 
@@ -349,7 +340,6 @@ Oxygen is required for smooth muscle contraction.
 Therefore, absence of oxygen means smooth muscle cannot contract i.e. dilation and lower resistance.
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Theories for local autoregulation mechanism
 
@@ -362,7 +352,6 @@ Therefore, absence of oxygen means smooth muscle cannot contract i.e. dilation a
 1. $\downarrow$ blood flow
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Theories for local autoregulation mechanism
 
@@ -381,7 +370,6 @@ i.e. direct myogenic response of smooth muscle to stretch decreases vessel diame
 <p style="color:white;font-size:1.5em" class="fragment">Most likely a combination of all four theories.</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Hyperaemic response - Reactive hyperaemia
 
@@ -399,12 +387,11 @@ i.e. direct myogenic response of smooth muscle to stretch decreases vessel diame
       </ul>
   </div>
   <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
   </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Hyperaemic response - Reactive hyperaemia
 
@@ -419,12 +406,11 @@ i.e. direct myogenic response of smooth muscle to stretch decreases vessel diame
     <!-- <p>NO is also involved in the inhibition of platelet aggregation and leukocyte adhesion.}% The conversion of l-arginine to NO is prevented by analogues of l-arginine, such as N G -monomethyl-l-arginine (l-NMMA) and N $\omega$-nitro-l-arginine methyl ester (l-NAME)</p> -->
   </div>
   <div class='credit'>
-    <p>Butlin, M. Structural and functional effects on large artery stiffness: An in-vivo experimental investigation. PhD Thesis, UNSW, 2007.</p>
   </div>
 </div>
+    <p class="citationside">Image: Butlin, M. Structural and functional effects on large artery stiffness: An in-vivo experimental investigation. PhD Thesis, UNSW, 2007.</p>
 
 --
-<!-- .slide:  data-auto-animate -->
 ### Local (regional) blood flow autoregulation
 #### Hyperaemic response - Active hyperaemia
 
@@ -441,19 +427,20 @@ i.e. direct myogenic response of smooth muscle to stretch decreases vessel diame
     </ul>
   </div>
   <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
   </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology.</p>
 
 <!-- LO2.2.? Be familiar with the Korotkoff sounds and palpation of the pulse in order to estimate brachial arterial systolic and diastolic pressure.]{Measurement of blood pressure: Korotkoff sounds and palpation of the pulse}  Attend this week's practical activity. -->
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.8 Recall the constituents of blood and their general function with detailed knowledge of red blood cells and haemoglobin.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
 ---
-
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.2.9 Name and identify the anatomy of the major blood vessels.
 
 <p class="citation">See anatomy material in iLearn and attend this week's anatomy class.</p>

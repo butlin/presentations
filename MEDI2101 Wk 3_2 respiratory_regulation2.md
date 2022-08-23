@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk3_2" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk3_2"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.3: The respiratory centre and respiratory regulation output
@@ -11,6 +11,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.3.4 Recognise the respiratory centre role in regulating respiration.
 
 --
@@ -228,10 +229,12 @@ What is one mechanism that increases oxygen intake during walking?
 <p class="fragment">The vasomotor cortex would also be engaged during exercise - more on this later in the unit.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.3.5 Be able to identify the primary acid-base disturbances (respiratory and metabolic acidosis and alkalosis).
 <p class="citation">See on-line module in iLearn.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO1.1.7 / LO1.2.8 Outline the main anatomy of the upper and lower respiratory system and explain the function of each structure.
 
 <p class="citation">Review. See anatomy material in iLearn and attend anatomy practical.</p>

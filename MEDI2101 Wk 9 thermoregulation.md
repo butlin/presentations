@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk9" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.2: Thermoregulation
@@ -36,7 +36,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-18" target="\_blank">Description of AT3.2 Manuscript discussion, in iLearn.</a>
 
 --
-<!-- .slide: data-auto-animate -->
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking back on: Assessment task 3.1
 
@@ -49,7 +48,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   - Assessment Task description: "Some of the references in the manuscript may also be helpful for the assessment task."
 
 --
-<!-- .slide: data-auto-animate -->
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking back on: Assessment task 3.1
 
@@ -63,7 +61,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking back on: Assessment task 3.1
 
@@ -80,10 +77,10 @@ Frank-**Starling** mechanism.
 </div>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.2.1 State what normal body temperatures are and the consequences when temperature moves outside those ranges.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Normal body temperature
 ####
 
@@ -106,7 +103,6 @@ Nominally, it is said that core body temperature is 37.5°C.
 <p class="citation">* Chapter 74, Guyton & Hall Textbook of Medical Physiology.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Normal body temperature
 ####
 
@@ -121,7 +117,6 @@ Nominally, it is said that core body temperature is 37.5°C.
 <p>Measuring body temperatures is a vital sign.</p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Normal body temperature
 #### Body temperature varies with site of measurement
 
@@ -144,10 +139,10 @@ Nominally, it is said that core body temperature is 37.5°C.
 <p class="r-fit-text">under all sorts of environmental conditions.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.2.2 Describe heat balance and the types of heat transfer.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermal balance
 #### The heat balance equation
 
@@ -156,7 +151,6 @@ heat storage = metabolism - work - evaporation ± conduction ± convection ± ra
 <img class="r-stretch" src="images/heatGuyton.png">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermal balance
 #### Metabolism
 
@@ -169,7 +163,6 @@ heat storage = <span style="color:red">metabolism</span> - work - evaporation ±
 {"font": {"size": 12, "color": "#444", "family": "\"Droid Sans\", sans-serif"}, "title": "An ounce of a smaller creature gulps more air than an ounce of a bigger creature.", "width": 839, "xaxis": {"type": "log", "range": [-3.0487233614159743, 3.6466006736099374], "ticks": "", "title": "Weight (kg)", "nticks": 0, "showgrid": false, "showline": false, "tickfont": {"size": 10, "color": "black", "family": "\"Verdana\", monospace"}, "tickmode": "auto", "zeroline": false, "autorange": true, "tickangle": "auto", "titlefont": {"size": 12, "color": "black", "family": "\"Verdana\", monospace"}, "showexponent": "all", "exponentformat": "B", "showticklabels": true}, "yaxis": {"type": "log", "range": [-1.5149943233393786, 1.108512075871814], "ticks": "", "title": "Metabolic Rate per kg  (Liters of O2 \/ hour \/ kg)", "nticks": 0, "showgrid": true, "showline": false, "tickfont": {"size": 10, "color": "black", "family": "\"Verdana\", monospace"}, "tickmode": "auto", "zeroline": false, "autorange": true, "gridcolor": "white", "gridwidth": 1, "tickangle": "auto", "titlefont": {"size": 12, "color": "black", "family": "\"Verdana\", monospace"}, "showexponent": "all", "exponentformat": "B", "showticklabels": true}, "height": 606, "autosize": true, "dragmode": "zoom", "hovermode": "closest", "titlefont": {"size": 17, "color": "#444", "family": "\"Open sans\", verdana, arial, sans-serif"}, "separators": ".,", "annotations": [{"x": -2.6197887582883936, "y": 0.812913356642855, "ax": 0, "ay": -35, "text": "Etruscan Shrew", "xref": "x", "yref": "y"}, {"x": 3.1880843737149376, "y": -0.8239087409443184, "ax": 0, "ay": 38, "text": "African Elephant"}, {"x": 1.8573324964312683, "y": -0.6478174818886374, "ax": 78, "ay": -101, "text": "YOU ARE HERE"}, {"x": -1.3419886033428876, "y": 0.2671717284030138, "ax": 41, "ay": -47, "text": "Meadow Vole"}, {"x": 0.30102999566398114, "y": -0.5850266520291818, "ax": -38, "ay": 45, "text": "Platypus"}, {"x": 0.32221929473391925, "y": -0.22184874961635637, "ax": 47, "ay": -61, "text": "Rabbit"}, {"x": -2.3490537642996583, "y": 0.6405359660495402, "ax": -34, "ay": 35, "text": "Bat"}, {"x": -0.3372421683184258, "y": -0.05551732784983136, "ax": 42, "ay": -55, "text": "Squirrel"}, {"x": 2.0125575933970565, "y": -0.7276517793900111, "ax": 38, "ay": -48, "text": "Lion"}, {"x": 2.1553360374650614, "y": -0.7212463990471709, "ax": 44, "ay": -57, "text": "Tiger"}, {"x": 0.5405508867303208, "y": -0.6212463161061196, "ax": -50, "ay": 59, "text": "Armadillo"}, {"x": 1.785311962776077, "y": -0.3318126159012845, "ax": 33, "ay": -39, "text": "Deer"}, {"x": 0.6569885617347905, "y": -0.24175172171102055, "ax": 35, "ay": -50, "text": "Fox"}, {"x": -1.657804646582211, "y": 0.19929243344676548, "ax": -56, "ay": 56, "text": "Deer Mouse"}], "hidesources": false, "plot_bgcolor": "rgb(213, 226, 233)", "paper_bgcolor": "rgb(213, 226, 233)"}-->
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermal balance
 #### Metabolism - Work
 
@@ -213,7 +206,6 @@ heat storage = metabolism - work <span style="color:red">- evaporation</span> ±
 <p class="citation"><a href="https://thingsishouldprobablyknow.blogspot.com/2011/11/how-is-feels-like-temperature.html">Things I Probably Should Know. "How is the "feels like" temperature calculated?"</a></p>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermal balance
 #### Evaporation - panting and salivation
 
@@ -280,7 +272,6 @@ heat storage = metabolism - work - evaporation ± conduction ± convection <span
 Electromagnetic radiation transferred beetwen objects that are not in contact.
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermal balance
 #### Radiation
 
@@ -301,7 +292,6 @@ Electromagnetic radiation transferred beetwen objects that are not in contact.
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 <img class="r-stretch" src="images/HeatGainDissipation.png">
 <p class="citation"><a href="https://www.aspetar.com/journal/upload/PDF/2016310114011.pdf">Gerrard, D. Testing the waters: Highlighting the safety of open water swimmers, Aspetar Sports Medicine Journal.</a></p>
 
@@ -311,6 +301,7 @@ Electromagnetic radiation transferred beetwen objects that are not in contact.
 <p class="r-fit-text">under all sorts of environmental conditions.</p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.2.3 Describe the cardiovascular and respiratory mechanisms involved in body temperature regulation.
 
 --
@@ -387,7 +378,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 <img data-id="flow" src="images/negative_feedback_thermoregulation_afferent.svg" width="50%" style="float:right">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### Afferent pathway
 
@@ -451,7 +441,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 <img data-id="flow" src="images/negative_feedback_thermoregulation_effect.svg" width="50%" style="float:right">
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors)
 
@@ -484,7 +473,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 </table>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors): skin blood vessels
 
@@ -533,7 +521,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors): endocrine
 
@@ -586,7 +573,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors): piloerection and shivering
 
@@ -632,7 +618,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors): brown adipose tissue
 
@@ -687,7 +672,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 </div>
 
 --
-<!-- .slide: data-auto-animate -->
 ### Thermoregulation
 #### End modifiers of body temperature (effectors): sweat glands
 
@@ -733,5 +717,6 @@ Intracellular recordings from the preoptic anterior hypothalamus
 <p class="citation"><a href="https://courses.lumenlearning.com/suny-ap2/chapter/energy-and-heat-balance/">Lumen Learning, Module 8: Metabolism and Nutrition. Energy and Heat Balance</a></p>-->
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO3.2.4 Apply understanding of thermoregulation to real life examples of extreme temperature challenges.
 <p class="citation">Touching on:<br>heat stroke<br>Raynaud's disease<br>and Anna Bägenholm who was trapped in freezing water for 80 minutes with no air and survived.<br><br>See this week's on-line module in iLearn.</p>

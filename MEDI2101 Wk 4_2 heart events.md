@@ -1,4 +1,4 @@
-<!-- .slide: id="MEDI2101Wk4_2" -->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk4_2"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
 # LO2.1: Electrical and mechanical events of the heart
@@ -10,6 +10,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.4 Describe the conduction of electrical signals through the heart.
 
 --
@@ -114,6 +115,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation"><a href="http://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.5 Identify the waves, segments and intervals of an electrocardiogram (ECG) and relate these electrical events to the mechanical events of the cardiac cycle.
 
 --
@@ -418,6 +420,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <video data-autoplay data-src="images/ECG3-SegmentsIntervalsDiseases.mp4"></video>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.6 Define the following key terms and explain the relationship between them: (i) stroke volume, (ii) cardiac output, and (iii) heart rate.
 
 --
@@ -517,6 +520,7 @@ $\begin{align}
 <aside class="notes">## LO2.1.7 Define the following key terms and explain the relationships between them: after-load, pre-load, arterial resistance, contractility, ejection fraction, end diastolic volume. ### Left ventricular dynamics</aside>
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.7 Be familiar with the Wiggers' Diagram relating left heart pressures and volumes with heart sounds and the electrocardiogram.
 <p class="citation">See this week's on-line module in iLearn.</p>
 
@@ -528,6 +532,7 @@ $\begin{align}
 <img src="images/Wiggers_Diagram10.png" width="40%">
 
 ---
+<!-- .slide: data-auto-animate-restart -->
 ## LO2.1.8 Name and identify the major anatomy of the thoracic wall, viscera, and the internal and external anatomy of the heart.
 
 <p class="citation">See anatomy material in iLearn and attend this week's anatomy class.</p>
