@@ -32,10 +32,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p> $\longrightarrow$ vasomotor complex $\longrightarrow$ </p>
 <p>Output: <span style="color:red">$\downarrow$ sympathetic drive</span><br><span style="color:red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\uparrow$ parasympathetic drive</span></p>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 ### Baroreceptor reflex
@@ -69,10 +67,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
     <p>Baroreflex response curve.</p>
     <p>Different levels of blood pressure activate the baroreflex complex to a different extent.</p>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 <!-- .slide: data-auto-animate-->
@@ -83,7 +79,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <img src="images/ValsalvaVasovagalFigure1.png">
 <img class="fragment" src="images/ValsalvaVasovagalFigure2.png">
 </div>
-<p class="citation">Data/images souce: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citationside">Data/images souce: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">Valsalva maneuver (blowing against a closed system with an open glottis) to change intrathoracic pressure. Large systemic effects on sympathetic and parasympathetic output driven by and driving blood pressure (systolic blood pressure, SBP), cardiac output (heart rate HR, stroke volume SV), and total peripheral resistance (TPR) changes.</aside>
 
 --
@@ -91,7 +87,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Baroreceptor reflex
 #### Physiological example 2: Orthostatic challenge
 <p>&nbsp;</p>
-<p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citationside">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">{A normal response to standing up from a supine (laying down) position. There is an initial blood pressure drop (due to gravity effect is increase systemic venous pooling of blood, decreasing venous return, see Section \\ref{sec:venousreturn}). The blood pressure drop invokes the baroreceptors. Resulting sympathetic increase / parasympathetic withdrawal increases heart rate (and cardiac contractility) and blood pressure is normalised.</aside>
 
 --
@@ -99,7 +95,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Baroreceptor reflex
 #### Physiological example 2: Orthostatic challenge
 <p>&nbsp;</p>
-<p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
+<p class="citationside">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">If baroreceptor feedback and autonomic processing is abnormal, either orthostatic hypotension (sustained blood pressure drop) or orthostatic tachycardia (sustained heart rate increase) may occur. This plot presents a case of tachycardic response to moving from supine to upright (this time by use of a tilt-table).</aside>
 
 --
@@ -523,7 +519,7 @@ There are many receptors throughout the body that signal to the central nervous 
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO2.3.7 Understand how changes in blood volume alter systemic arterial blood pressure
-<p class="citation">Covered only briefly in this lecture.<br>See this week's anatomy material in iLearn</p>
+<p class="citation">Covered only briefly in this lecture.<br>See this week's online module in iLearn</p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->

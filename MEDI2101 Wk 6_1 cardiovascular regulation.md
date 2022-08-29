@@ -16,59 +16,22 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-11"> MEDI2101 iLearn Week 6</a>
 
 --
-###  Assessment task 3.1: Manuscript figure
+###  Assessment Task 3 Part A: Manuscript figure
 ####
 
-<table border="1" bordercolor=#76232F>
-    <colgroup>
-        <col span="1" style="background-color: #D6D2C4;">
-        <col style="background-color: #D6D2C4;">
-    </colgroup>
-    <thead>
-    <tr>
-    <th>category</th>
-    <th>%</th>
-    <th>outstanding (HD, 85-100)</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td><span data-id="stim">stimuli</span></td>
-    <td>15%</td>
-    <td>Stimuli correctly identified, clearly communicated and reasoning behind it presented with brevity.</td>
-    </tr><tr>
-    <td><span data-id="phys">physiology</span></td>
-    <td>50%</td>
-    <td>Physiology links stimuli to effect with a logical progression not missing any links.</td>
-    </tr><tr>
-    <td><span data-id="effect">effects</span></td>
-    <td>15%</td>
-    <td>Directional effects are all clearly and correctly identified and correspond to the expected physiological drivers.</td>
-    </tr><tr>
-    <td>presentation</td>
-    <td>10%</td>
-    <td>Layout of the figure promotes easy interpretation of the figure content.</td>
-    </tr><tr>
-    <td><span data-id="cap">caption</span></td>
-    <td>10%</td>
-    <td>Caption provides a descriptive and accurate summary of the figure in the context of the manuscript.</td>
-    </tr>
-    </tbody>
-</table>
-
-<p>&nbsp;</p>
-<p class="citation"><a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-13" target="\_blank" rel="noopener noreferrer">See iLearn</a></p>
-
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-14">Assessment description</a>
 
 --
-### Open (virtual) door
+### Open (physical and virtual) door
 ####
 
-<span class="r-stack">
-<img class="fragment" src="images/MEDI2101 iLearn header.png">
-<img class="fragment" src="images/Discord.png" width="90%">
-<img class="fragment" src="images/markbutlin_contact.png">
-</span>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">MEDI2101 Q&A Forum</a>
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">MEDI2101 iLearn private message</a>
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">Discord</a>
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">See Dr Butlin's availability and book a time (face to face or video conference)</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -77,7 +40,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 Requires an <em>input</em> (measurement) and an <em>output</em> (action).
 
 --
-### Blood pressure cannot be controlled directly.
+<!-- .slide: data-background="#111111" -->
+<p data-id="bp" style="color:white;font-size:1.5em">Blood pressure cannot be controlled directly.</p>
+
+--
+<p data-id="bp" style="font-size:1.5em">Blood pressure cannot be controlled directly.</h3>
 
 Therefore, we either need to alter stroke volume ($SV$) or heart rate ($HR$) to alter cardiac output ($CO$), change total peripheral resistance ($TPR$)<span class="fragment" data-fragment-index="1">, or increase or decrease blood volume.</span>
 
@@ -93,7 +60,7 @@ $\begin{equation}
 </span>
 
 
-<p class="fragment" data-fragment-index="2">All of the cardiovascular regulatory pathways must result in a change in one or more of these factors (SV, HR, TPR, and/or blood volume).</p>
+<p class="fragment" data-fragment-index="2">All of the cardiovascular regulatory pathways must result in a change in one or more of these factors (SV, HR, TPR, and/or blood volume) if there is a change in arterial blood pressure.</p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -111,10 +78,8 @@ $\begin{equation}
     <p>When thinking of venous return, it is usually referring to return of blood from the systemic vasculature via the inferior and superior vena cava to the right heart.</p>
     <p>However, this same flow must logically also return to the left heart after travelling through the pulmonary circulation.</p>
   </div>
-  <div class='credit'>
-    <p>Modified from BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Vena_Cava-ar.png">https://commons.wikimedia.org/wiki/File:Vena_Cava-ar.png</a></p>
-  </div>
 </div>
+<p class="citationside">Image modified from BruceBlaus, <a href="https://commons.wikimedia.org/wiki/File:Vena_Cava-ar.png">https://commons.wikimedia.org/wiki/File:Vena_Cava-ar.png</a></p>
 
 --
 ### Altered venous return to the heart
@@ -201,10 +166,8 @@ The venous system is a large reservoir of blood volume. Vasoconstriction of the 
   <div class='description'>
     <p></p>
   </div>
-  <div class='credit'>
-    <p>Created for MEDI2101</p>
-  </div>
 </div>
+<p class="citationside">Image created for MEDI2101.</p>
 
 --
 ### Altered venous return to the heart
@@ -217,9 +180,6 @@ The venous system is a large reservoir of blood volume. Vasoconstriction of the 
   <div class='description'>
     <p></p>
   </div>
-  <div class='credit'>
-    <p>Created for MEDI2101</p>
-  </div>
 </div>
 
 By shifting some of the blood volume from the venous to the arterial system it will increase pressure:
@@ -227,6 +187,8 @@ By shifting some of the blood volume from the venous to the arterial system it w
 \begin{equation}
   \mathrm{systemic\~arterial\~pressure} \propto \mathrm{systemic\~arterial\~volume}
 \end{equation}
+
+<p class="citationside">Image created for MEDI2101.</p>
 
 <!--
 Increasing arterial pressure will increase arterial blood flow:
@@ -333,7 +295,7 @@ Stretch of the atria feeds through to the:
     </span>
   </div>
 </div>
-<p class="fragment">Both mechanisms increase <span style="color:red">fluid loss</span> (via the kidneys), <span style="color:red">decreasing blood volume and therefore blood pressure</span></p>
+<p class="fragment">Both mechanisms increase <span style="color:red">fluid loss</span> (via the kidneys), <span style="color:red">decreasing blood volume and therefore blood pressure.</span></p>
 
 --
 ### Altered venous return to the heart
@@ -435,10 +397,8 @@ These receptors have a **negative feedback** to the central nervous system in re
     <p>Centers  that regulate the cardiovascular system are spread across the brain</p>
     <p>A large concentration of neurons controlling breathing and the cardiovascular system are centred in the lower brain, namely the medulla (5) and spinal cord (6).</p>
   </div>
-  <div class='credit'>
-    <p>By John A Beal, PhD, Dep't. of Cellular Biology \& Anatomy, Louisiana State University Health Sciences Center – Shreveport [Creactive Commons BY 2.5], via Wikimedia Commons</p>
-  </div>
 </div>
+<p class="citationside">Image: By John A Beal, PhD, Dep't. of Cellular Biology \& Anatomy, Louisiana State University Health Sciences Center – Shreveport [Creactive Commons BY 2.5], via Wikimedia Commons</p>
 
 --
 ### Sympathetic and parasympathetic innervation
@@ -451,10 +411,8 @@ These receptors have a **negative feedback** to the central nervous system in re
   <div class='description'>
     <p>* The vasomotor centre is <em>not</em> the motor cortex that controls skeletal muscle movement.<br>However, the motor cortex does communicate with the vasomotor centre, which is a pathway employed in exercise.</p>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 ### Sympathetic and parasympathetic innervation
@@ -472,10 +430,8 @@ These receptors have a **negative feedback** to the central nervous system in re
 <li> <b>sensory area</b> nucleus tractus solitarius in the posterolateral portions of the medulla and lower pons, <em>receives peripheral signals from the vagus and glossopharyngeal nerves</em>.</li>
 </ul>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 <!-- .slide: data-auto-animate   -->
@@ -494,11 +450,8 @@ These receptors have a **negative feedback** to the central nervous system in re
 </ul>
 <p class="fragment">Therefore, the vasomotor centre has influence over heart rate and cardiac contractility, altering cardiac output. Sympathetic system also innervates blood vessels.)</p>
 <p class="fragment">The vasomotor centre <em>processes inputs</em> to invoke these functional responses. <b>It does not invoke these responses without an input.</b></p>
-  </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 ### Sympathetic and parasympathetic innervation
@@ -530,10 +483,8 @@ These receptors have a **negative feedback** to the central nervous system in re
             </ul>
      </ul>
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology.</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
      
 --
 ### Sympathetic and parasympathetic innervation
@@ -548,10 +499,8 @@ These receptors have a **negative feedback** to the central nervous system in re
   CO=HR\times SV
 \end{equation}
   </div>
-  <div class='credit'>
-    <p>Guyton and Hall Textbook of Medical Physiology</p>
-  </div>
 </div>
+<p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
 ### Sympathetic and parasympathetic innervation
