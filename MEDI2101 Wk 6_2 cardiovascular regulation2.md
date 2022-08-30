@@ -411,7 +411,7 @@ When the Cushing reflex is activated and blood flow is restored to the brain, th
 <!-- .slide: data-auto-animate data-background-image="images/CirculatoryShock_Sherwood.png" data-background-size="contain" -->
 <div class='media'>
   <div class='picture'>
-    <h3>Bringing it all<br>together</h3>
+    <p>Bringing it all<br>together</p>
   </div>
   <div class='description'>
     <p style="text-align:right">Cardiovascular regulation<br>in clinical emergency<br>(simplified)</p>
@@ -423,7 +423,7 @@ When the Cushing reflex is activated and blood flow is restored to the brain, th
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/hemorrhage_Sherwood.png" data-background-size="contain" data-background-position="right"-->
-### Bringing it all together
+<p>Bringing it all together</p>
 <p>Response to haemorrhage</p>
 <p>&nbsp;</p>
 <p class="citationleft">Sherwood L. Human Physiology: From Cells to Systems. 4th Ed.</p>
