@@ -389,12 +389,12 @@ p.citationleft {
 
 p.citationside{
   position: absolute;
-  top: 30%;
+  top: 190px;
   bottom: auto;
-  left: 102%;
+  left: 100%;
   right: auto;
   pointer-events: none;
-  text-align: right;
+  text-align: left;
   writing-mode: vertical-rl;
   transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
   /* font-style: italic; */
