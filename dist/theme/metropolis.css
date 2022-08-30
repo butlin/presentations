@@ -251,17 +251,60 @@ Column 2 Content
 }
 
 .reveal h3 {
+    display: block;
+    margin-left: -50px;
+    padding-left: 50px;
+    margin-right: -50px;
+    padding-right: 50px;
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-bottom: 8px;
+    border: 0px solid #000000;
+    /* padding: 50px 50px 50px 8px 50px; */
+    width: 100%;
+    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); /* for opera 11.1 to 12.0 */ 
+    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); /* for firefox 3.6 to 15 */ background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-attachment: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-position: initial;
+    background-repeat: initial;
+    color: white;
+    font-family:'Atkinson Hyperlegible'">Face-to-face (4 hours)</span></span></span>
     font-size: 1.30em;
     data-id: "title";
-    /* background-color: #373A36;  */
 }
 
 .reveal h4 {
+    display: block;
+    margin-left: -50px;
+    padding-left: 50px;
+    margin-right: -50px;
+    padding-right: 50px;
+    margin-top: -15px;
+    padding-top: 15px;
+    padding-bottom: 4px;
+    border: 0px solid #000000;
+    /* padding: 50px 50px 50px 8px 50px; */
+    width: 100%;
+    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for opera 11.1 to 12.0 */
+    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for firefox 3.6 to 15 */
+    background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-attachment: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-position: initial;
+    background-repeat: initial;
+    color: white;
     font-size: .9em;
     padding-bottom:10px;
-    border-bottom: 2px solid #C6007E;
+    /* border-bottom: 2px solid #C6007E; */
     content: data-id:("subtitle");
-    /* background-color: #373A36;  */
 }
 
 h1.title {
