@@ -399,6 +399,7 @@ Baroreflex, chemoreceptors, and the Cushing reflex are closed-loop feedback syst
 </span>
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Bringing it all together
 #### Feedback loops - overshoot and undershoot (oscillations)
 
