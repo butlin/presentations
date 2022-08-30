@@ -150,27 +150,27 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <p class="fragment">We don't need any more information as we have covered chemoreceptors in Week 3, and the sympathetic and parasympathetic effect of the heart and blood vessels in the first lecture today.</p>
 
----
-<!-- .slide: data-auto-animate-restart -->
+--
+<!-- .slide: data-auto-animate-restart data-visibility="hidden" -->
 ## LO2.3.6 Understand the concept of transmural pressure, why this is important in cerebral ischaemia, and how this is related to the Cushing reflex.
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/bubble.jpg" -->
+<!-- .slide: data-auto-animate data-background-image="images/bubble.jpg" data-visibility="hidden" -->
 <h3 style="color:white">Cerebral ischaemia</h3>
 <h4 style="color:white">Transmural pressure</h4>
 
 <p style="color:white">The transmural pressure is the difference between<br>the pressure outside a container of flexible/elastic<br>material (for example, an artery) and that inside<br>the container.</p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/bubble2.png" -->
+<!-- .slide: data-auto-animate data-background-image="images/bubble2.png" data-visibility="hidden" -->
 <h3 style="color:white">Cerebral ischaemia</h3>
 <h4 style="color:white">Transmural pressure</h4>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/bubble3.png" -->
+<!-- .slide: data-auto-animate data-background-image="images/bubble3.png" data-visibility="hidden" -->
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/bubble4.png" -->
+<!-- .slide: data-auto-animate data-background-image="images/bubble4.png" data-visibility="hidden" -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -178,7 +178,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p style="color:white">In the case of a bubble (or a systemic artery)<br>it is the difference between the inside pressure<br>(blood pressure in an artery) and atmospheric<br>pressure (=0 mmHg).</p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/bubble5.png" -->
+<!-- .slide: data-background-image="images/bubble5.png" data-visibility="hidden" -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p style="color:white">The intracranial space has a positive pressure,<br>above atmospheric pressure (healthy range<br>approx. 7 to 20 mmHg), and high pressures<br>in pathology/injury.</p>
@@ -186,6 +186,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p style="color:white">At a transmural pressure of zero<br>(critical closing pressure),<br>blood will not be able to flow to the brain tissue.</p>
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Cerebral ischaemia
 #### Causes of cerebral ischaemia
 
@@ -194,6 +195,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 - <b>Cushing reflex</b> increased intracranial pressure above brain arterial blood pressure
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Cerebral ischaemia
 #### Cushing reflex
 
@@ -205,6 +207,7 @@ If the intracranial pressure reaches or exceeds the critical closing pressure of
 </blockquote
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Cerebral ischaemia
 #### Response to cerebral ischaemia
 
@@ -216,7 +219,7 @@ Mechanisms:
 - Possible other factors are involved such as lactic acid and other acidic substances in the vasomotor center.
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
+<!-- .slide: data-auto-animate data-background="#111111" data-visibility="hidden" -->
 <p style="color:white;font-size:1.5em">This direct vasomotor response is not invoked in everyday physiological events.</p>
 
 <p style="color:white;font-size:1.5em" class="fragment">Why?</p> 
@@ -231,6 +234,7 @@ $\begin{equation}
 
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Cerebral ischaemia
 #### Response to cerebral ischaemia
 
@@ -246,6 +250,7 @@ Why is intracranial pressure instead of venous pressure in this equation?
 <p class="citation fragment" data-fragment-index="2">* Guyton and Hall Textbook of Medical Physiology</p>
 
 --
+<!-- .slide: data-visibility="hidden" -->
 <blockquote>
 <p><b>"The greedy brain"</b></p>
 <p><em>If</em> the vasomotor centre is directly and fully invoked, parasympathetic output ceases and sympathetic outflow is maximal.</p>
@@ -259,7 +264,7 @@ Why is intracranial pressure instead of venous pressure in this equation?
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.7 Understand how changes in blood volume alter systemic arterial blood pressure
+## LO2.3.6 Understand how changes in blood volume alter systemic arterial blood pressure
 
 --
 ### Blood volume and systemic arterial blood pressure
@@ -306,7 +311,7 @@ If total blood volume is increased, blood pressure will increase.
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.8 Recognise that there is hormonal control of blood pressure.
+## LO2.3.7 Recognise that there is hormonal control of blood pressure.
 
 --
 ### Hormonal control of blood pressure
@@ -353,7 +358,7 @@ Induced by:
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.9 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
+## LO2.3.8 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/MAPoverview.png" data-background-size="contain" -->
@@ -523,6 +528,6 @@ There are many receptors throughout the body that signal to the central nervous 
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.10 Identify cardiovascular and respiratory anatomy using surface body markers.
+## LO2.3.9 Identify cardiovascular and respiratory anatomy using surface body markers.
 
 <p class="citation">and review of LO2.1.8 Name and identify the major anatomy of the mediastinum and the heart and explain the function of each structure, and <br>LO2.2.9 Name and identify the anatomy of the major blood vessels.<br>LO2.3.9 also covered in part in Week 3 anatomy material.<br>See this week's anatomy material in iLearn and attend this week's anatomy class.</p>
