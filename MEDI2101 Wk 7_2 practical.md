@@ -1,17 +1,27 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk7prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
-# Week 7, Practical: Introduction to some respiratory and cardiovascular instrumentation
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+# Week 7, Practical<br>Introduction to some respiratory and cardiovascular instrumentation
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 --
+### Resources
+####
+
+- <a href="https://bit.ly/2MkvaCT" target="_blank">Online spreadsheet</a>
+- <a href="https://flux.qa/X9D24Q" target="_blank">Quiz questions</a>
+
+Staff links:
+- <a href="https://ilearn.mq.edu.au/mod/lti/view.php?id=7081033" target="_blank">Quiz questions</a>
+- <a href="https://ilearn.mq.edu.au/mod/resource/view.php?id=7291776" target="_blank">ADInstruments LabChart settings file</a>
+
+--
 
 ### No learning outcomes? 
-#### We **LOVE** learning outcomes!
+#### But we **LOVE** learning outcomes!
 
 This class introduces the respiratory and cardiovascular devices that we will be using in MEDI2101 - and in Assessment Task 3.1 and 3.2.
 
@@ -26,6 +36,19 @@ you should:
 
 Doing this will help you write the discussion section of the manuscript (assessment task 3.2)
  
+--
+### Respect
+####
+
+Many of the activities will involve placing instrumentation on each other and observing each other's cardiovascular and respiratory signals.
+
+- You can only place instrumentation on someone **if they give you consent** to do so.
+  
+- It is perfectly **reasonable for someone to refuse consent**.
+  
+- **You do not have to have measurement taken** on you at all if you don't want to.<br>(This will not hinder your success in this unit.)
+
+- You may prefer to place instrumentation on yourself, rather than have someone else do it.
 
 --
 ### Blood pressure measurement
@@ -106,15 +129,24 @@ Doing this will help you write the discussion section of the manuscript (assessm
 <p class="citation">Avolio, A. P.; Butlin, M. & Winter, Cardiology: Blood pressure. The Physiological Measurement Handbook, CRC Press, 2014, 14-41.</p>
 
 --
+### Activity<br>Blood pressure measurement<br>10 minutes
+
+- Use the automatic sphygmomanometer to take a blood pressure measurement.
+- Simultaneously, place a stethoscope above the brachial artery, distal to the cuff. Note the sounds.
+
+Each person (who wishes to have their blood pressure taken), choose a number in <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>, and enter your blood pressure (as read by the automatic sphygmomanometer). 
+
+--
 
 ### 4 questions on blood pressure.
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<a href="https://flux.qa/X9D24Q" target="_blank">https://flux.qa/X9D24Q</a>
+
+(Keep the quiz open after answering. There will be more questions later in the practical.)
 
 --
-### Respiratory belt
-####
+### Activity<br>Respiratory belt<br>10 minutes
 
 <div class='media'>
   <div class='picture'>
@@ -124,6 +156,8 @@ Doing this will help you write the discussion section of the manuscript (assessm
     <ul>
       <li> The respiratory belt is placed just below the level of the diaphragm, stretching the respiratory belt a little before fastening the velcro.</li>
       <li> Start the data acquisition software and look at the respiratory signal that is being recorded.</li>
+      <li> Does it look like a respiratory signal? If not, adjust the belt.</li>
+      <li> Note the respiratory rate in <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>.
     </ul>
     <img src='images/respiratorybelt.jpg' width='50%'>
     <img src='images/adinstrumentsstart.jpg' width='40%'>
@@ -139,7 +173,7 @@ Doing this will help you write the discussion section of the manuscript (assessm
 ### 3 questions on respiratory measurement.
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<a href="https://flux.qa/X9D24Q" target="_blank">https://flux.qa/X9D24Q</a>
 
 --
 ### Electrocardiogram
