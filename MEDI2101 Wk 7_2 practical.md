@@ -1,7 +1,6 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk7prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
-### Block 2: Cardiovascular System
-# Week 7, Practical<br>Introduction to some respiratory and cardiovascular instrumentation
+# Week 7<br>Physiological measurement practical<br>&nbsp;<br>Introduction to some respiratory and cardiovascular instrumentation
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -176,6 +175,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 <a href="https://flux.qa/X9D24Q" target="_blank">https://flux.qa/X9D24Q</a>
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Electrocardiogram
 ####
 
@@ -200,6 +200,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 </div>
 
 --
+<!-- .slide: data-visibility="hidden" -->
 ### Electrocardiogram
 ####
 
@@ -221,40 +222,37 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 </div>
 
 --
-
+<!-- .slide: data-visibility="hidden" -->
 ### 4 questions on the electrocardiogram
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<p class="citation"><a href="https://flux.qa/X9D24Q">https://flux.qa/X9D24Q</a></p>
 
 --
-### Respiratory and cardiovascular variability
+### Activity<br>Pulse rate and blood oxygen saturation<br>10 minutes
 ####
 
 <div class='media'>
   <div class='picture'>
     <img src="images/Watercolour,_Chinese_doctor_feeling_the_pulse_of_a_patient_Wellcome_L0004700.jpg" width="100%">
-    <img src='images/bloodpressuremonitoromron.jpg' width='45%'>
     <img src='images/SpO2.jpg' width='45%'>
 
   </div>
   <div class='description'>
-    <p>Measure the following things and enter them in the spreadsheet (<a href="https://bit.ly/2MkvaCT">https://bit.ly/2MkvaCT</a>):</p>
+    <p>Using a photoplethysmography sensor, obtain your:</p>
     <ul>
-      <li> your respiratory rate </li>
-      <li> your heart rate </li>
-      <li> your blood pressure </li>
       <li> your arterial bood oxygen saturation (SpO<sub>2</sub>)
+      <li> your pulse rate </li>
     </ul>
-  </div>
-  <div class='credit'>
-    <p>Wellcome Collection gallery (2018-04-06): <a href="https://wellcomecollection.org/works/kpreuaus">https://wellcomecollection.org/works/kpreuaus</a></p>
+    <p>and enter those values into <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>.</p>
+    <p><b>Review the plots that have been generated in the spreadsheet.</b></p>
   </div>
 </div>
+<p class="citationside">Image source: Wellcome Collection gallery (2018-04-06): <a href="https://wellcomecollection.org/works/kpreuaus">https://wellcomecollection.org/works/kpreuaus</a></p>
 
 --
 
 ### 4 questions on cardiovascular and respiratory variability.
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<p><a href="https://flux.qa/X9D24Q">https://flux.qa/X9D24Q</a></p>
