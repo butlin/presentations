@@ -15,6 +15,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-13"> MEDI2101 iLearn Week 7</a>
 
+--
+###  Assessment Task 3 Part A: Manuscript figure
+####
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-15">Assessment description</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -42,7 +47,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </div>
 
 --
-### Capillaries (Revision)
+### Capillaries
 ####
 
 **Vasomotion**
@@ -53,7 +58,7 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 **Average blood flow across a capillary bed.** The intermittent flow in individual capillaries averaged across a capillary bed in an area of tissue results in a continuous (generally) non-pulsatile flow of blood through the tissue.
 
 --
-### Capillaries (Revision)
+### Capillaries
 ####
 
 <div class='media'>
@@ -500,3 +505,13 @@ Average forces across the capillary wall over the length of the capillary (Princ
 ## LO2.4.7 Define lymphodema and identify the common causes of the condition.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
+
+---
+<!-- .slide: data-auto-animate-restart -->
+Do your best to have a break this mid-session break.
+
+You have earned the break - the first half of MEDI2101 is the busiest, most intensive half.
+
+&nbsp;
+
+We look forward to welcoming you back in Week 8. The second half of the Cardiovascular and Respiratory unit is the most interesting half.
