@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk8-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk8" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 3: Cardiovascular and respiratory integration
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
@@ -13,36 +13,23 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.1: Introduction to exercise cardiorespiratory physiology
 (Week 8)
-##### Dr Mark Butlin (PhD, BE, SFHEA)
+##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
-Macquarie Medical School
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
-Faculty of Medicine, Health and Human Sciences, Macquarie University.
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 --
-### Feedback - Assessment Task 2: Anatomy
+### Feedback - Assessment Task 2: Anatomy test
 #### Dr Mirjana Strkalj
 
-<p>&nbsp;</p>
-<p class="citation"><a href="temp.html#marks" target="\_blank"
->Overview of marks</a></p>
+<!-- <p class="citation"><a href="temp.html#marks" target="\_blank">Overview of marks</a></p> -->
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 8
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-15"> MEDI2101 iLearn Week 8</a>
-
-
-<span class="fragment">
-<p>Things that would be helpful to bring along to this week's "practical":</p>
-<ul>
-<li>stop watch, watch with a second hand, or timer on your phone.</li>
-<li>automatic blood pressure device, if you have access to one.</li>
-<li>an area nearby your computer where you can lie down for 5 minutes (bring a pillow?).</li>
-<li>pen and paper.</li>
-</ul>
-</span>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-16"> MEDI2101 iLearn Week 8</a>
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
@@ -54,7 +41,7 @@ Faculty of Medicine, Health and Human Sciences, Macquarie University.
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Details on AT4 Final Exam
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-21" target="\_blank">Description of AT4 Final Exam on iLearn.</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25" target="\_blank">Description of AT4 Final Exam on iLearn.</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
