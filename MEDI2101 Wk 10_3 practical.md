@@ -1,7 +1,7 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9prac"-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
-# Week 9, Practical: Physiological measurement data collection for AT3
+# Week 9, Practical: Autonomic function tests
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -9,7 +9,53 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 --
-<!--
+### What is an autonomic function test?
+####
+
+Any test that interrogates autonomic function for the purposes of diagnosing dysfunction.
+
+**Types of tests include (but not limited to):**
+-   Valsalva maneuvre
+-   0.1 Hz breathing (Respiratory Sinus Arrhythmia)
+-   head-up tilt test
+-   active stand challenge
+-   isometric hand-grip test
+
+**Measurement devices:** Autonomic function tests are usually done using a lead II ECG and standard oscillometric automatic blood pressure cuff.
+
+Most tests measure both the heart rate and blood pressure **response** to a **challenge** i.e. how heart rate and blood pressure respond to a perturbation to the cardiovascular and respiratory system.
+
+--
+### Valsalva maneuvre
+####
+
+<span style="color:red">**Do not attempt this test if you have been diagnosed with high blood pressure, or have been diagnosed with an arrhythmia.**</span>
+
+1. Find your radial pulse and monitor your pulse. (This test is usually done with the nose clamped shut. But seeing as you have your finger on your pulse, you won't be doing that.)
+
+2. Close your mouth.
+
+3. Take a deep breath in then try to forcefully exhale (like you are blowing up a balloon) but keeping your mouth closed - that is, NOT letting air pass your lips.
+
+4. Take note of any changes in your pulse rate.
+
+5. Continue for roughly 10 to 15 seconds, then resume normal breathing.
+
+--
+### Valsalva maneuvre
+#### Demonstration with pulse and blood pressure tracking (Peñáz* technique)
+
+<p class="citation">*Peñáz, J. Photoelectric measurement of blood pressure, volume and flow in the finger. <em>Digest 10<sup>th</sup> Int Conf Med Biol Eng,</em> <b>1973</b>, 104.</p>
+
+--
+### 3 questions on the Valsalva maneuvre.
+####
+
+<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+
+<!-- ######################################### -->
+--
+
 ### Isometric hand-grip challenge
 #### Rest period
 
@@ -29,42 +75,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 10. At three minutes, the volunteer can release the hand-grip. Immediately start the blood pressure monitor. Record blood pressure, pulse rate, and respiratory rate at approximately 30 seconds and 90 seconds following release of the hand-grip. Enter those values into the spreadsheet.
 
 **Repeat for at least one more volunteer in your group.**
--->
-
-### Isometric hand-grip challenge
-#### You will need:
-
-- a stopwatch (e.g. on your phone) or clock with a second hand or second read-out
-- a non-fragile object that you can place in your hand to squeeze. e.g.
-  - hair brush handle (a larger handle will be more comfortable)
-  - bundled up thick socks (or multiple thin socks... I guess)
-  - table leg
-  - stress ball
-- if you have an automatic blood pressure machine, fit the cuff to your non-dominant arm.
-
---
-### Isometric hand-grip challenge
-#### Rest (baseline)
-
-**Rest (baseline)**
-
-1.  Get a feel for what your maximum grip strength is by squeezing your chosen object maximally.
-2.  Find a comfortable place to sit.
-3.  Each minute over 5 minutes, note your pulse rate (and blood pressure if you have a machine) and enter it into the spreadsheet: <https://bit.ly/2MkvaCT>
-4.  Note your respiratory rate and depth (qualitatively).
-
---
-### Isometric hand-grip challenge
-#### Hand grip challenge and recovery
-
-5. Squeeze and hold the force meter at approximately 30% of your previous maximum. This is an exercise - your muscles should begin to feel tired during this challenge.
-6. Every minute for three minutes, note your pulse rate (and blood pressure if you have a machine) and enter it into the spreadsheet. Note, qualitatively, your breathing rate and depth.
-7.  At three minutes, release the hand-grip. Record your pulse rate (and blood pressure) approximately 30 seconds and 90 seconds following release of the hand-grip. Enter those values into the spreadsheet.
-
---
-
-### Isometric hand-grip challenge
-#### Demonstration with pulse and blood pressure tracking
 
 --
 ### Isometric hand-grip challenge
