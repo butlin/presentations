@@ -45,7 +45,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 #### Active stand period (Keep the data acquisition system recording.)
 
 9. <b>Whilst the participant is still laying down on the bed</b>, start the blood pressure monitor.
-10. When the reading on the pressure value on the screen rises to about 120 mmHg, have the volunteer move quickly to a standing position.
+10. When the reading on the pressure value on the screen rises to about 120 mmHg, have the volunteer move quickly to a standing position and then <b>stay very still</b>.
 11. Enter the first blood pressure and pulse rate reading into the spreadsheet ( <https://bit.ly/2MkvaCT> ).
 <!-- 12. Take an ECG calculated heart rate value in the first 30 seconds of standing. Enter it into the spreadsheet. -->
 12. Take a respiratory rate value in the first 30 seconds of standing. Enter it into the spreadsheet.
