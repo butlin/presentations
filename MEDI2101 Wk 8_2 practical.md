@@ -58,6 +58,16 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 Repeat for at least one other volunteer in your group. Also enter that data into the spreadsheet.
 
 --
+### What now for Assessment Task 3, Part 2?
+####
+
+The unit convenor will be compiling the data across **all** the practical classes, and providing that data summary to you.
+
+You will be able to write up the Discussion section of the manuscript based on that data summary.
+
+Do not use the individual data from your group, or this practical today.
+
+--
 ### Introducing another device
 #### The Peñáz* technique of blood pressure measurement
 
