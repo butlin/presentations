@@ -11,11 +11,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
-
+--
 ### Feedback - Assessment Task 2: Anatomy test
 #### Dr Mirjana Strkalj
 
-<!-- <p class="citation"><a href="temp.html#marks" target="\_blank">Overview of marks</a></p> -->
+<img src="images/MEDI2101marks.png" width="100%">
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
