@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.2: Thermoregulation
@@ -11,23 +11,17 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
+
+### Feedback - Assessment Task 2: Anatomy test
+#### Dr Mirjana Strkalj
+
+<!-- <p class="citation"><a href="temp.html#marks" target="\_blank">Overview of marks</a></p> -->
+
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 9
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-16"> MEDI2101 iLearn Week 9</a>
-
-
---
-###  MEDI2101 Cardiovascular and Respiratory System
-#### Week 10 lecture: Guest Lecturer Clinical Professor Alvin Ing
-
-- Due to impacts of COVID on clinical workload, Clinical Professor Ing will no longer be available during the normal lecture time.
-<p>&nbsp;</p>
-- Currently attempting to arrange an alternative time slot on Tuesday afternoon. Will send out a message when time is confirmed with Clinical Professor Ing.
-<p>&nbsp;</p>
-
-- Please attend live if you are able to. Recording will be available through Echo360.
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-17"> MEDI2101 iLearn Week 9</a>
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
@@ -39,6 +33,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking back on: Assessment task 3.1
 
+Cannot say too much, as some people are yet to submit under special consideration.
+
+The aim is to have marks back to you as quickly as possible (single marker), to use that feedback in Assessment Task 3.2.
+
+<!-- isometric exercise feedback
 - Consider relative magnitude of contribution. e.g.
   - Venous return of blood: small blood volume in forearm + isometric exercise (negligible skeletal muscle pump) = very little effect on venous return of blood
   - and, (no marks deducted for Assessment Task 3.1) submaximal isometric exercise in one arm over three minutes unlikely to change systemic blood gases (no chemoreceptor response)
@@ -47,18 +46,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   - Chemoreceptors (actually not that applicable in this experiment) communicate to the respiratory centre <b>and the vasomotor center</b> of the brain.
   - Assessment Task description: "Some of the references in the manuscript may also be helpful for the assessment task."
 
---
-###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking back on: Assessment task 3.1
-
--   A few hints moving into Assessment Task 3.2:
-    -   Skeletal muscle doing work means **metabolism** and generation of metabolic products.
-    -   Assessment Task description: "Some of the references in the manuscript may also be helpful for the assessment task."
-
 <img src="images/KhuranaSetty1996.png" width="50%">
 <p>&nbsp;</p>
 <p class="citation">R. K. Khurana and A. Setty, "The value of the isometric hand-grip test-studies in various autonomic disorders," Clinical Autonomic
 Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p>
+-->
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
