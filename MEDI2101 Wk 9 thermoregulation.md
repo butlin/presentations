@@ -15,19 +15,9 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Feedback - Assessment Task 2: Anatomy test
 #### Dr Mirjana Strkalj
 
-<img src="images/MEDI2101marks.png" width="100%">
+Dichotomous modified Angoff method, passing score = 60%.
 
---
-###  MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 9
-
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-17"> MEDI2101 iLearn Week 9</a>
-
---
-###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking ahead to: Assessment task 3.2
-
-<a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-18" target="\_blank">Description of AT3.2 Manuscript discussion, in iLearn.</a>
+<img src="images/MEDI2101marks.png" width="80%">
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
@@ -44,13 +34,12 @@ The aim is to have marks back to you as quickly as possible (single marker), to 
 - A few hints moving into Assessment Task 3.2:
   - Skeletal muscle doing work means **metabolism** and generation of metabolic products.
   - Chemoreceptors (actually not that applicable in this experiment) communicate to the respiratory centre <b>and the vasomotor center</b> of the brain.
-  - Assessment Task description: "Some of the references in the manuscript may also be helpful for the assessment task."
+  - Assessment Task description: "Some of the references in the manuscript may also be helpful for the assessment task." -->
 
-<img src="images/KhuranaSetty1996.png" width="50%">
+<!-- <img src="images/KhuranaSetty1996.png" width="50%">
 <p>&nbsp;</p>
 <p class="citation">R. K. Khurana and A. Setty, "The value of the isometric hand-grip test-studies in various autonomic disorders," Clinical Autonomic
-Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p>
--->
+Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p> -->
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
@@ -67,6 +56,27 @@ Frank-**Starling** mechanism.
 <img class="fragment" data-fragment-index="2" src="images/Stalin.jpg" width="33%">
 
 </div>
+
+--
+###  MEDI2101 Cardiovascular and Respiratory System
+#### Looking ahead to: Assessment task 3.2
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-18" target="\_blank">Description of AT3.2 Manuscript discussion, in iLearn.</a>
+
+Data summary will be made available sometime this week (perhaps on the weekend).
+
+--
+###  MEDI2101 Cardiovascular and Respiratory System
+#### Looking further ahead to: Assessment Task 3 (Final Examination)
+
+Front page and second page of the final examination are <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25" target="\_blank"> available on iLearn</a>.
+
+
+--
+###  MEDI2101 Cardiovascular and Respiratory System
+#### To do in Week 9
+
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-17"> MEDI2101 iLearn Week 9</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
