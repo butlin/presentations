@@ -136,7 +136,7 @@ Nominally, it is said that core body temperature is 37.5°C.
 </div>
 
 --
-<!-- .slide: data-background-image="images/WorldTemperatures.gif" -->
+<!-- .slide: data-background-image="images/WorldTemperaturesAnimation.gif" -->
 <p class="r-fit-text">Core temperature is maintained (±0.6°C)</p>
 <p class="r-fit-text">under all sorts of environmental conditions.</p>
 
@@ -298,7 +298,7 @@ Electromagnetic radiation transferred beetwen objects that are not in contact.
 <p class="citation"><a href="https://www.aspetar.com/journal/upload/PDF/2016310114011.pdf">Gerrard, D. Testing the waters: Highlighting the safety of open water swimmers, Aspetar Sports Medicine Journal.</a></p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/WorldTemperatures.gif" -->
+<!-- .slide: data-auto-animate data-background-image="images/WorldTemperaturesAnimation.gif" -->
 <p class="r-fit-text">Core temperature is maintained (±0.6°C)</p>
 <p class="r-fit-text">under all sorts of environmental conditions.</p>
 
