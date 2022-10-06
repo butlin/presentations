@@ -1,8 +1,8 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
-# Week 9, Practical: Autonomic function tests
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+# Week 10, Practical: Autonomic function tests
+<!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -39,7 +39,7 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 
 4. Take note of any changes in your pulse rate.
 
-5. Continue for roughly 10 to 15 seconds, then resume normal breathing.
+5. Continue the forceful attempt to exhale (without exhalation) for roughly 10 to 15 seconds, then resume normal breathing.
 
 --
 ### Valsalva maneuvre
@@ -51,7 +51,7 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 ### 3 questions on the Valsalva maneuvre.
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<p class="citation"><a href="https://create.kahoot.it/login">Kahoot! quiz.</a></p>
 
 <!-- ######################################### -->
 --
@@ -67,6 +67,7 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 6. On the turn of each minute, start the blood pressure monitor. Enter the value of blood pressure and pulse rate in the spreadsheet.
 7. At the 30 second point of each minute, note the respiratory rate and enter that in the spreadsheet.
 
+--
 ### Isometric hand-grip challenge
 #### Hand-grip challenge and recovery
 
@@ -78,14 +79,18 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 
 --
 ### Isometric hand-grip challenge
-####
+#### Results
 
-<img src="images/isometric_handgrip_results.png" width="50%">
+<https://bit.ly/2MkvaCT>
+
+<!-- <img src="images/isometric_handgrip_results.png" width="50%"> -->
 
 --
 
 ### 5 questions on the isometric hand-grip challenge.
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
+<!-- <p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p> -->
+
+<p class="citation"><a href="https://create.kahoot.it/login">Kahoot! quiz.</a></p>
 
