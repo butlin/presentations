@@ -26,35 +26,6 @@ Any test that interrogates autonomic function for the purposes of diagnosing dys
 Most tests measure both the heart rate and blood pressure **response** to a **challenge** i.e. how heart rate and blood pressure respond to a perturbation to the cardiovascular and respiratory system.
 
 --
-### Valsalva maneuvre
-####
-
-<span style="color:red">**Do not attempt this test if you have been diagnosed with high blood pressure, or have been diagnosed with an arrhythmia.**</span>
-
-1. Find your radial pulse and monitor your pulse. (This test is usually done with the nose clamped shut. But seeing as you have your finger on your pulse, you won't be doing that.)
-
-2. Close your mouth.
-
-3. Take a deep breath in then try to forcefully exhale (like you are blowing up a balloon) but keeping your mouth closed - that is, NOT letting air pass your lips.
-
-4. Take note of any changes in your pulse rate.
-
-5. Continue the forceful attempt to exhale (without exhalation) for roughly 10 to 15 seconds, then resume normal breathing.
-
---
-### Valsalva maneuvre
-#### Demonstration with pulse and blood pressure tracking (Peñáz* technique)
-
-<p class="citation">*Peñáz, J. Photoelectric measurement of blood pressure, volume and flow in the finger. <em>Digest 10<sup>th</sup> Int Conf Med Biol Eng,</em> <b>1973</b>, 104.</p>
-
---
-### 3 questions on the Valsalva maneuvre.
-####
-
-<p class="citation"><a href="https://create.kahoot.it/login">Kahoot! quiz.</a></p>
-
-<!-- ######################################### -->
---
 
 ### Isometric hand-grip challenge
 #### Rest period
@@ -86,11 +57,34 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 <!-- <img src="images/isometric_handgrip_results.png" width="50%"> -->
 
 --
+### Valsalva maneuvre
+####
 
-### 5 questions on the isometric hand-grip challenge.
+<span style="color:red">**Do not attempt this test if you have been diagnosed with high blood pressure, or have been diagnosed with an arrhythmia.**</span>
+
+1. Find your radial pulse and monitor your pulse. (This test is usually done with the nose clamped shut. But seeing as you have your finger on your pulse, you won't be doing that.)
+
+2. Close your mouth.
+
+3. Take a deep breath in then try to forcefully exhale (like you are blowing up a balloon) but keeping your mouth closed - that is, NOT letting air pass your lips.
+
+4. Take note of any changes in your pulse rate.
+
+5. Continue the forceful attempt to exhale (without exhalation) for roughly 10 to 15 seconds, then resume normal breathing.
+
+--
+### Valsalva maneuvre
+#### Demonstration with pulse and blood pressure tracking (Peñáz* technique)
+
+<p class="citation">*Peñáz, J. Photoelectric measurement of blood pressure, volume and flow in the finger. <em>Digest 10<sup>th</sup> Int Conf Med Biol Eng,</em> <b>1973</b>, 104.</p>
+
+--
+
+### Questions on the Valsalva and isometric hand-grip challenge.
 ####
 
 <!-- <p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p> -->
 
 <p class="citation"><a href="https://create.kahoot.it/login">Kahoot! quiz.</a></p>
 
+<!-- data-background-iframe="https://jeopardylabs.com/play/weather" data-background-interactive -->
