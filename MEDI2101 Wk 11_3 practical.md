@@ -1,7 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk11prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
-# Week 10, Practical: Physiological measurement in the diseased state
+# Week 11, Practical: Physiological measurement in the diseased state
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -9,10 +9,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
 --
-### Learning Evaluation of Unit
-####
-<p>&nbsp;</p>
-<p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br>Link to survey on iLearn landing page.<br><b>Wait until week 12</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
+
+<span style="color:red">**If you have asthma or any other breathing difficulties, do NOT be a study volunteer in today's study.**</span>
 
 --
 ### Wall squat
@@ -52,36 +50,15 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 ####
 
 --
-### Breathing through a straw
-####
-<p>&nbsp;</p>
-<p class="citation">Demonstration with continuous cardiorespiratory tracking of changes when airway restricted.</p>
-
---
 ### Wall squat
 ####
-
-<span style="color:red">**Do not attempt this part of the exercise if you have asthma or any other breathing difficulties.**</span>
 
 <p>4. Whilst breathing through a straw, repeat the three minute wall squat. Measure heart rate, and blood pressure each minute. Note your respiratory rate. Enter the values in the spreadsheet: <a href="https://bit.ly/2MkvaCT">https&#x3A;//bit.ly/2MkvaCT</a>
 </p>
 
 --
 
-### 6 questions on the wall squat and breathing through the straw.
+### Jeopardy!
 ####
 
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
-
---
-
-### Some questions on ECG abnormalities
-####
-
-<p class="citation">This is tricky, but you have the knowledge to work these out for yourself - even though we have not talked about ECG abnormalities.<br><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
-
---
-### Learning Evaluation of Unit
-####
-<p>&nbsp;</p>
-<p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br>Link to survey on iLearn landing page.<br><b>Wait until week 12</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
+<a href="https://jeopardylabs.com/play/medi2101-week-11-practical" target="_blank">Let's play Jeopardy!</a>
