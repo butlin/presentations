@@ -39,8 +39,9 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <!-- Slides will be made available on the day of, or following the guest lecture. -->
 
-<embed src="../MEDI2101%20Wk%2011_2%20heart%20failure.pdf#toolbar=1" width="100%" height="400px">
 
-<p class="citation"><a href="../MEDI2101%20Wk%2011_2%20heart%20failure.pdf">Click here to download PDF.</a></p>
+<embed src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2011_2%20heart%20failure.pdf#toolbar=1" width="100%" height="400px">
+
+<p class="citation"><a href="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2011_2%20heart%20failure.pdf">Click here to download PDF.</a></p>
 
 
