@@ -37,12 +37,10 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Heart failure - slides
 #### Guest lecturer: Isabella Tan
 
-Slides will be made available on the day of, or following the guest lecture.
+<!-- Slides will be made available on the day of, or following the guest lecture. -->
 
-<!-- <iframe src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf#toolbar=1" width="100%" height="400px">
-    </iframe>
+<embed src="../MEDI2101%20Wk%2011_2%20heart%20failure.pdf#toolbar=1" width="100%" height="400px">
 
-<p class="citation"><a href="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf">Click here to download PDF.</a></p> -->
-
+<p class="citation"><a href="../MEDI2101%20Wk%2011_2%20heart%20failure.pdf">Click here to download PDF.</a></p>
 
 
