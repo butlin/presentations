@@ -2,7 +2,7 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.2: Thermoregulation
-(Week 9, Lecture 1)
+(Week 9)
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Based partially on the lecture of Dr Karen Peebles, Department of Health Professions.

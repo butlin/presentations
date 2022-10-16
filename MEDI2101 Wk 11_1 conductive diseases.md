@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11_1-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.2: Diseases of the heart. Conductive diseases.
@@ -22,34 +22,14 @@ MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattaga
 <p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>Wait until next week</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
 
 --
-### Assessment Task 4: Final examination
-####
-<p>&nbsp;</p>
-<p class="citation"><a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-21" target="\_blank">Details in iLearn</a><br>Including example of question formats.</p>
+### Heart conductive diseases - slides
+#### Guest lecturer: Bianca Coelha
 
---
-## LO4.2.1 Define heart failure
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
+Slides will be made available on the day of, or following the guest lecture.
 
---
-## LO4.2.2 Describe types of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
+<!-- <iframe src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf#toolbar=1" width="100%" height="400px">
+    </iframe>
 
---
-## LO4.2.3 Describe common causes and symptoms of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.4 Describe the pathophysiology of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.5 Understand the impact of heart failure on exercise capacity.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.5 Identify and describe the diagnostic tests and treatments for heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
+<p class="citation"><a href="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf">Click here to download PDF.</a></p> -->
 
 

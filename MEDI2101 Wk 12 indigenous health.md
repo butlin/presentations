@@ -20,9 +20,9 @@ Department of Health Sciences, Faculty of Medicine, Health and Human Sciences<br
 
 --
 ### MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 10
+#### To do in Week 12
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-17"> MEDI2101 iLearn Week 10</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-21"> MEDI2101 iLearn Week 12</a>
 
 --
 ### Learning Evaluation of Unit
@@ -31,36 +31,10 @@ Department of Health Sciences, Faculty of Medicine, Health and Human Sciences<br
 <p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>Wait until next week</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
 
 --
-### Assessment Task 4: Final examination
+### MEDI2101 Final examination (Assessment Task 4)
 ####
-<p>&nbsp;</p>
-<p class="citation"><a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-21" target="\_blank">Details in iLearn</a><br>Including example of question formats.</p>
 
---
-## LO4.2.1 Define heart failure
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.2 Describe types of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.3 Describe common causes and symptoms of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.4 Describe the pathophysiology of heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.5 Understand the impact of heart failure on exercise capacity.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
---
-## LO4.2.5 Identify and describe the diagnostic tests and treatments for heart failure.
-<p class="citation">Learning outcomes covered jointly between lecture of Dr Isabella Tan and this week's on-line reading/module.</p>
-
-
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25">Final examination details and front page available in iLearn.</a>
 
 ---
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk13" -->

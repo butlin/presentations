@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk2_2-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk2_2"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.2: Basics of the respiratory system - gas exchange
