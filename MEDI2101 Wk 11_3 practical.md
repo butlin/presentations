@@ -57,6 +57,14 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 </p>
 
 --
+### ECG demonstration
+####
+
+- Lead I ECG
+- Lead II ECG
+- artifacts - what else can the ECG leads detect?
+
+--
 
 ### Jeopardy!
 ####
