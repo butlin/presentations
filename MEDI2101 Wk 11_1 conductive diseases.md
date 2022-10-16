@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11_1-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.2: Diseases of the heart. Conductive diseases.
@@ -19,17 +19,19 @@ MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattaga
 ### Learning Evaluation of Unit
 ####
 <p>&nbsp;</p>
-<p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>Wait until next week</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p>
+<p class="citation"><b>This week</b> you have the opportunity to tell me <b>what you think of the unit</b>.<br><a href="https://ilearn.mq.edu.au/course/view.php?id=64513">Survey available from the right hand side on your iLearn home page.</a></p>
+
+<!-- <p>Wait until next week</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p> -->
 
 --
 ### Heart conductive diseases - slides
 #### Guest lecturer: Bianca Coelha
 
-Slides will be made available on the day of, or following the guest lecture.
+<!-- Slides will be made available on the day of, or following the guest lecture. -->
 
-<!-- <iframe src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf#toolbar=1" width="100%" height="400px">
+<iframe src="../MEDI2101%20Wk%2011_1%20conduction%20diseases.pdf#toolbar=1" width="100%" height="400px">
     </iframe>
 
-<p class="citation"><a href="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2010_2%20COPD.pdf">Click here to download PDF.</a></p> -->
+<p class="citation"><a href="../MEDI2101%20Wk%2011_1%20conduction%20diseases.pdf">Click here to download PDF.</a></p>
 
 
