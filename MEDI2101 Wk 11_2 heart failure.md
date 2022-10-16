@@ -35,7 +35,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 ### Heart failure - slides
-#### Guest lecturer: Isabella Tan
+#### Guest lecturer: Dr Isabella Tan
 
 <!-- Slides will be made available on the day of, or following the guest lecture. -->
 
