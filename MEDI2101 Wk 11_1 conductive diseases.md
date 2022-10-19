@@ -3,7 +3,7 @@
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.2: Diseases of the heart. Conductive diseases.
 (Week 11)
-##### Guest lecturer: Bianca Coelha
+##### Guest lecturer: Bianca Coelho
 
 MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -28,6 +28,8 @@ MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattaga
 #### Guest lecturer: Bianca Coelha
 
 <!-- Slides will be made available on the day of, or following the guest lecture. -->
+
+
 
 <embed src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2011_1%20conduction%20diseases.pdf#toolbar=1" width="100%" height="400px">
 
