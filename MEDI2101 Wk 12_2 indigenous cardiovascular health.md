@@ -1,7 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk12_2"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
-# LO4.3: Indigenous cardiorespiratory health
+# LO4.5: Indigenous cardiorespiratory health
 (Week 12, Lecture 2)
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
@@ -49,7 +49,7 @@ were likely to be substantial underestimates, and he eventually concluded that t
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO4.3.1 Display cognisance of the statistics of cardiovascular and respiratory disease as faced by indigenous Australians.
+## LO4.5.1 Display cognisance of the statistics of cardiovascular and respiratory disease as faced by indigenous Australians.
 
 --
 <!-- .slide: data-background-color="#373A36" -->
@@ -120,7 +120,7 @@ Cardiovascular related death rates (QLD, WA, SA, NT, 2002-2005)<br>by indigenous
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO4.3.2 Display cognisance of the cardiovascular and respiratory health barriers as faced by indigenous Australians.
+## LO4.5.2 Display cognisance of the cardiovascular and respiratory health barriers as faced by indigenous Australians.
 
 --
 
@@ -227,7 +227,7 @@ Cardiovascular related death rates (QLD, WA, SA, NT, 2002-2005)<br>by indigenous
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO4.3.3 Communicate awareness of improvements cardiovascular and respiratory disease in risk factors.
+## LO4.5.3 Communicate awareness of improvements cardiovascular and respiratory disease in risk factors.
 
 --
 ### Good news?
@@ -258,7 +258,7 @@ Cardiovascular related death rates (QLD, WA, SA, NT, 2002-2005)<br>by indigenous
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO4.3.4 Describe how you can be part of a positive change.
+## LO4.5.4 Describe how you can be part of a positive change in indigenous cardiovascular and respiratory health.
 
 --
 ### Your role
