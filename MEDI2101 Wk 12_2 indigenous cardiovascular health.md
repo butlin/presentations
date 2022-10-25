@@ -227,7 +227,7 @@ Cardiovascular related death rates (QLD, WA, SA, NT, 2002-2005)<br>by indigenous
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO4.5.3 Communicate awareness of improvements cardiovascular and respiratory disease in risk factors.
+## LO4.5.3 Communicate awareness of improvements in cardiovascular and respiratory disease risk factors.
 
 --
 ### Good news?
