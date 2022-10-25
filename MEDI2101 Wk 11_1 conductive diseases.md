@@ -24,6 +24,18 @@ MQ Health: Cardiology, <br>Macquarie University. On the land of the Wallumattaga
 <!-- <p>Wait until next week</b> to tell me <b>what you think of me</b> (a second survey will be made available next week).</p> -->
 
 --
+## Review: LO 2.1.3 Compare and contrast action potentials of myocardial auto-rhythmic and contractile cells (and recognise that these differ from action potentials).
+
+--
+## Review: LO 2.1.4 Describe the conduction of electrical signals through the heart.
+
+--
+## Review: LO 2.1.5 Identify the waves, segments and intervals of an electrocardiogram (ECG) and relate these electrical events to the mechanical events of the cardiac cycle.
+
+--
+## LO 4.3.1 Identify the normal, sinus rhythm electrocardiogram features, and identify in broad terms deviation from that normal electrocardiogram.
+
+--
 ### Heart conductive diseases - slides
 #### Guest lecturer: Bianca Coelha
 
