@@ -524,10 +524,12 @@ p.citationside{
     border-bottom: none; }
 
 .reveal sup {
-    vertical-align: super; }
+    vertical-align: super;
+    font-size: 0.7em; }
 
 .reveal sub {
-    vertical-align: sub; }
+    vertical-align: sub; 
+    font-size: 0.7em; }
 
 .reveal small {
     display: inline-block;

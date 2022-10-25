@@ -65,8 +65,17 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 - artifacts - what else can the ECG leads detect?
 
 --
-
 ### Jeopardy!
-####
+#### Get your buzzer ready
+
+Go to web address (on phone or laptop):
+
+<a href="https:justbuzz.in">justbuzz.in</a>
+
+Room: medi2101
+
+&nbsp;
+
+&nbsp;
 
 <a href="https://jeopardylabs.com/play/medi2101-week-11-practical" target="_blank">Let's play Jeopardy!</a>
