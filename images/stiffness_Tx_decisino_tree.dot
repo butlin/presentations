@@ -1,0 +1,31 @@
+digraph {
+    graph[center=true ranksep=2 splines=line]
+    // fontname="Atkinson Hyperlegible,Arial,sans-serif"
+    // node [style=filled,color="#D6D2C4"];
+
+    subgraph MEASURE {
+        MEASURE [label="measure blood pressure and arterial stiffness"]
+    }
+    
+    subgraph cluster_DIAGNOSE {
+        label="diagnosis"
+        color="grey"
+        BPHIGH [label="blood pressure high, arterial stiffness normal"]
+        ALLHIGH [label="blood pressure and arterial stiffness high"]
+        ASHIGH [label="blood pressure normal, arterial stiffness high"];
+        NORMAL [label="all normal"];
+    }
+    
+    subgraph cluster_TREAT {
+        label="treatment" 
+        color="red"
+        TREAT [label="treat blood pressure"];
+        NOTREAT  [label="do not treat blood pressure"]; 
+    }
+    
+    MEASURE -> {BPHIGH ALLHIGH ASHIGH NORMAL}
+    {BPHIGH ALLHIGH} -> TREAT
+    ASHIGH -> TREAT [label="maybe"];
+    ASHIGH -> NOTREAT [label="maybe"];
+    {NORMAL} -> {NOTREAT}
+}

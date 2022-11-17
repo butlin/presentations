@@ -58,10 +58,6 @@ Department of Health Sciences, Faculty of Medicine, Health and Human Sciences<br
 ### Indigenous health
 #### Guest lecturer: Dr John Hunter
 
-Slides will be made available on the day of, or following the guest lecture.
+<embed src="https://ilearn.mq.edu.au/mod/resource/view.php?id=7322376#toolbar=1" width="100%" height="400px">
 
-<!-- <embed src="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2011_1%20conduction%20diseases.pdf#toolbar=1" width="100%" height="400px">
-
-<p class="citation"><a href="https://github.com/butlin/presentations/blob/gh-pages/MEDI2101%20Wk%2011_1%20conduction%20diseases.pdf">Click here to download PDF.</a></p>
-
---> 
+<p class="citation"><a href="https://ilearn.mq.edu.au/mod/resource/view.php?id=7322376">Click here to download PDF.</a></p>
