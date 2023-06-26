@@ -3,12 +3,12 @@
 ### Block 1: Respiratory System
 # LO1.2: Basics of the respiratory system - gas exchange
 (Week 2, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
-      
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO1.2.4 Communicate the factors that determine the rate of diffusion of a gas across a membrane.

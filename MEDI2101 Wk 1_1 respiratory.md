@@ -1,6 +1,6 @@
 <!-- .slide: id="MEDI2101Wk1_1" -->
 # MEDI2101 <br>Cardiovascular and Respiratory System.
-##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Unit convenor: Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -24,8 +24,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <!-- .slide: data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 1: Respiratory System
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
-
+Dr Mark Butlin (PhD, BE, SFHEA) (he/him)<br>
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
@@ -51,9 +50,10 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
 # LO1.1: "Reason" for the cardiovascular and respiratory system
-(Week 1, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
+Week 1, Lecture 1
+
+Dr Mark Butlin (PhD, BE, SFHEA) (he/him)<br>
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
@@ -186,16 +186,66 @@ exchange surfaces.
 </figure>
 
 --
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
 
-<!-- .slide: data-background="#373A36" -->
+#### Reflection quiz
 
-<p style="color:white;font-size:1.5em">Why does a frog need to stay wet?</p>
-<p class="fragment" style="color:white;font-size:1.5em">Amphibians use their skin as a respiratory surface.</p>
-<p class="fragment" style="color:white;font-size:1.5em">Frogs eliminate carbon dioxide 2.5 times as fast through their skin as they do through their lungs.</p>
+<p>Go to <a href="https://buzzonk.com/" >https://buzzonk.com</a> and enter the code provided by the lecturer.</p>
+
+<p class="citation"><a href="https://buzzonk.com/">https://buzzonk.com</a></p>
+
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
+
+#### Reflection quiz
+
+Cellular respiration is:
+
+(A) the breakdown of organic molecules to produce ATP.
+(B) the bulk movement of air into and out of the lungs.
+(C) the movement of gases from the atmosphere down to the cells.
+(D) the use of lungs within a cell to bring air into the cell.
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
+
+#### Reflection quiz
+
+Why does a frog need to keep its skin wet?
+
+(A) Because slimy skin is protective from predators.
+
+(B) Because the frog would dehydrate otherwise.
+
+(C) To keep it cool through evaporative cooling.
+
+(D) To help it change into a prince or princess one day.
+
+<aside class="notes">Amphibians use their skin as a respiratory surface. Frogs eliminate carbon dioxide 2.5 times as fast through their skin as they do through their lungs.</aside>
+
+<p class="citation"><a href="https://buzzonk.com/">https://buzzonk.com</a></p>
+
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
+
+#### Reflection quiz
+
+Are you ready for the next learning outcome?
+
+(A) Yes.
+
+(B) No.
+
+(C) Have we started learning?
+
+(D) Will this question be in the exam?
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.1.2 Describe the oxygen cascade and the steps that it comprises, mapping the key factors that influence gas exchange between the atmosphere and arterial blood.
+## LO1.1.2 Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood.
 
 --
 
@@ -278,10 +328,6 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 
 <p class="citation">Figure created for MEDI2101</p>
 
----
-<!-- .slide: data-auto-animate-restart -->
-## LO1.1.3 Identify the mechanism for movement of carbon dioxide from venous blood to alveoli to the atmosphere.
-
 --
 ### Movement of carbon dioxide from venous blood to the atmosphere
 ####
@@ -302,9 +348,40 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 
 <p style="color:white;font-size:1.5em">Later in this unit we will address the mechanical bulk movement of gases in air (ventilation) and in fluid (blood flow).</p>
 
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.2 Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood.
+#### Reflection quiz
+
+Dalton's law describes:
+
+(A) the oxygen cascade.
+
+(B) the movement of carbon dioxide from higher to lower partial pressure regions.
+
+(C) that the total pressure of a gas mixture is the sum of the pressure of the gases in that mixture.
+
+(D) every action has an equal and opposite reaction.
+
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.2 Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood
+
+#### Reflection quiz
+
+How are you feeling?
+
+(A) Great.
+
+(B) OK so far.
+
+(C) You have scared me by introducing a law of gases in lecture 1.
+
+(D) The first learning outcome was ok, but this second one lost me.
+
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.1.4 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature.
+## LO1.1.3 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature.
 
 --
 
@@ -321,7 +398,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ####
 
 <figure>
-    <img src="images/circulation_simple.png" alt="Simple circulation of blood." width="50%">
+    <img src="images/circulation_simple.svg" alt="Simple circulation of blood." width="50%">
     <figcaption>The heart allows for the <em>circulation</em> of fluid (usually blood, but in the case of spiders, haemolymph) transporting oxygen received at the lungs to the cells, where the oxygen is used, and the fluid is then returned to the lungs again.
     </figcaption>
 </figure>
@@ -373,7 +450,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 #### Closed vs open circulatory system
 
 <figure>
-    <img src="images/ClosedVsOpenCirculatorySystem.jpg" alt="Closed vs open circulatory system" width="50%">
+    <img src="images/ClosedVsOpenCirculatorySystem.png" alt="Closed vs open circulatory system" width="50%">
     <figcaption>
         Closed system has an interconnecting system of vessels whereas the open system requires diffusion through other body compartments.
     </figcaption>
@@ -401,9 +478,9 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### Fish circulatory system and two chambered heart
 <figure>
-    <img src="images/Fish_circulatory_system_simple.png" alt="Fish circulatory system diagram." width="50%">
+    <img src="images/Fish_circulatory_system_simple.svg" alt="Fish circulatory system diagram." width="50%">
     <figcaption>
-        Schematic representation of the circulatory system of the fish.       
+        Schematic representation of the circulatory system of the fish.
     </figcaption>
 </figure>
 <p class="citation">Figure created for MEDI2101.</p>
@@ -413,7 +490,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### Fish circulatory system and two chambered heart
 <figure>
-    <img src="images/Fish_two_chamber_heart.png" alt="Two chambered fish heart." width="33%">
+    <img src="images/Fish_two_chamber_heart.svg" alt="Two chambered fish heart." width="33%">
     <figcaption>
         <p>The fish heart has the formation of chambers with a priming chamber (atrium) and larger main chamber (ventricle), showing the rudimentary components of half the mammalian heart.</p>
         <ul>
@@ -437,7 +514,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 <figure>
     <img src="images/HolmesSJ_BiologyOfFrog.jpg" alt="Holmes biology of the frog." width="50%">
     <figcaption>
-        A schematic of the frog vasculature from 1927 showing a connected, closed circulation and a heart that consists of several chambers.    
+        A schematic of the frog vasculature from 1927 showing a connected, closed circulation and a heart that consists of several chambers.
     </figcaption>
 </figure>
 <p class="citation">The biology of the frog by Holmes, Samuel J. (1927).</p>
@@ -447,7 +524,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### Circulatory system of the frog and the three chambered heart
 <figure>
-    <img src="images/heart_three_chamber.png" alt="Three chambered heart." width=40%">
+    <img src="images/heart_three_chamber.svg" alt="Three chambered heart." width=40%">
     <figcaption>
         <p>Amphibian heart consisting of three main chambers consisting of a left and right atrium and a common ventricle.</p>
         <ul>
@@ -463,7 +540,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### Circulatory system of the frog and the three chambered heart
 <figure>
-    <img src="images/frog_circulatory_system_simple.png" alt="Frog circulatory system diagram." width="50%">
+    <img src="images/frog_circulatory_system_simple.svg" alt="Frog circulatory system diagram." width="50%">
     <figcaption>
         Schematic representation of the frog circulatory system showing reduced partial pressure of oxygen in the systemic vasculature by mixing of oxygenated and de-oxygenated blood in the ventricle.
     </figcaption>
@@ -475,7 +552,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### The incomplete septum (turtle heart)
 <figure>
-    <img src="images/HeartTurtle.jpg" alt="" width="33%">
+    <img src="images/HeartTurtle.png" alt="Turtle heart, which as an incomplete ventricular septum." width="33%">
     <figcaption>
         The turtle heart also consists of three chambers, but the large chamber (ventricle) has an incomplete septum that when the heart muscle contracts partially closes, in effect dividing the ventricle momentarily into two ventricles.
     </figcaption>
@@ -486,7 +563,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### The complete septum, but blood mixing at anastomosed right and left aorta (crocodile)
 <figure>
-    <img src="images/HeartCrocodile.jpg" alt="Crocodile heart." width="50%">
+    <img src="images/HeartCrocodile.png" alt="Crocodile heart." width="40%">
     <figcaption>
         <p>In the crocodile we see a heart that is similar to that of the mammalian heart (four chambers).</p>
         <p>However, the crocodile retains (in evolutionary terms) two aorta that are symmetrical and lead out of the left and right hand sides of the heart.</p>
@@ -499,7 +576,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 ### Evolution and the heart
 #### Mammals
 <figure>
-    <img src="images/mammalian_circulatory_system_simple.png" alt="Mammalian circulatory system diagram" width="50%">
+    <img src="images/mammalian_circulatory_system_simple.svg" alt="Mammalian circulatory system diagram" width="50%">
     <figcaption>
         <p>The mammalian circulatory system has a pump (right heart) for the pulmonary circulation and another pump (left heart) for the systemic circulation.</p>
         <p>There is no mixing of the oxygenated and de-oxygenated blood, ensuring that the partial pressure of oxygen in the systemic vasculature is as high as the lungs can provide, increase the partial pressure difference in oxygen between arterial blood and the cells.</p>
@@ -562,9 +639,31 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
     </figcaption>
 </figure>
 
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.3 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature
+#### Reflection quiz
+
+
+--
+<!-- .slide: data-background="#D6D2C4" -->
+### LO1.1.3 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature
+
+#### Reflection quiz
+
+Why did the lecturer just teach us about evolution?
+
+(A) Because he is sneakily teaching embryology.
+
+(B) Because it assists in understanding the exchange of oxygen and carbon dioxide between blood and air.
+
+(C) Because he is an agnostic fence-sitter who believes in scientific evidence.
+
+(D) All of the above.
+
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.1.5 Define the following terms and understand the relationships between them (as they relate to the cardiovascular and respiratory systems): pressure, pressure gradient, flow, velocity of flow, resistance and radius.
+## LO1.1.4 Define the following terms and understand the relationships between them (as they relate to the cardiovascular and respiratory systems): pressure, pressure gradient, flow, velocity of flow, resistance and radius.
 
 --
 

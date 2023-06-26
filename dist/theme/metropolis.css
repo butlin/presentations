@@ -12,8 +12,8 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-    background: #f1f1f1;
-    background-color: #f1f1f1; 
+    background: #FDF5E6;
+    background-color: #FDF5E6; 
 }
 
 body.dark {
@@ -44,7 +44,7 @@ body.dark .reveal h6 {
     font-family: "Atkinson Hyperlegible", 'Open Sans', sans-serif;
     font-size: 32px;
     font-weight: normal;
-    color: #33474b; }
+    color: #000000; }
 
 ::selection {
     color: #fff;
@@ -60,6 +60,16 @@ body.dark .reveal h6 {
     line-height: 1.2;
     font-weight: inherit; }
 
+.reveal-viewport {
+    background: #f4f0e8;
+    /* background: -moz-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, white), color-stop(100%, #f7f2d3));
+    background: -webkit-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+    background: -o-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+    background: -ms-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+    background: radial-gradient(center, circle cover, white 0%, #f7f2d3 100%); */
+    background-color: #f4f0e8;
+}
 
 /*********************************************
  * TITLE SLIDE
@@ -109,10 +119,10 @@ Column 2 Content
 </div>
  *********************************************/
 .container{
-  display: flex;
+    display: flex;
 }
 .col {
-  flex: 1;
+    flex: 1;
 }
 
 /*********************************************
@@ -145,7 +155,7 @@ Column 2 Content
 /* @media (min-width: 1280px) {
     .content {
         display: grid;
-        grid-template-areas: 
+        grid-template-areas:
             "picture description"
             ". credit";
         grid-template-columns: auto 40%;
@@ -186,7 +196,7 @@ Column 2 Content
 .reveal h4,
 .reveal h5 {
     margin: 0 0 10px 0;
-    color: #33474b;
+    color: #000000;
     font-weight: normal;
     line-height: 1;
     letter-spacing: normal;
@@ -390,18 +400,18 @@ p.citationleft {
 }
 
 p.citationside{
-  position: absolute;
-  top: 190px;
-  bottom: auto;
-  left: 100%;
-  right: auto;
-  pointer-events: none;
-  text-align: left;
-  writing-mode: vertical-rl;
-  transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
-  /* font-style: italic; */
-  font-size: 0.3em;
-  color: #C6007E;
+    position: absolute;
+    top: 190px;
+    bottom: auto;
+    left: 100%;
+    right: auto;
+    pointer-events: none;
+    text-align: left;
+    writing-mode: vertical-rl;
+    transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
+    /* font-style: italic; */
+    font-size: 0.3em;
+    color: #C6007E;
 }
 
 /* Ensure certain elements are never larger than the slide itself */
@@ -530,7 +540,7 @@ p.citationside{
     font-size: 0.7em; }
 
 .reveal sub {
-    vertical-align: sub; 
+    vertical-align: sub;
     font-size: 0.7em; }
 
 .reveal small {
@@ -565,22 +575,22 @@ p.citationside{
  * IMAGES AND FIGURES
  *********************************************/
 figure {
-  class: r-stretch;
-  display: flex;
-  float: left;
-  /* width: 30%; */
-  text-align: left;
-  /* font-style: italic; */
-  font-size: smaller;
-  text-indent: 0;
-  /* border: thin silver solid; */
-  margin: 0em;
-  padding: 0em;
+    class: r-stretch;
+    display: flex;
+    float: left;
+    /* width: 30%; */
+    text-align: left;
+    /* font-style: italic; */
+    font-size: smaller;
+    text-indent: 0;
+    /* border: thin silver solid; */
+    margin: 0em;
+    padding: 0em;
 }
 figcaption {
-  padding: 0.5em;
-  flex: 1;
-  caption-side: inline-end;
+    padding: 0.5em;
+    flex: 1;
+    caption-side: inline-end;
 }
 
 /* .reveal section img { */

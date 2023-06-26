@@ -3,7 +3,7 @@
 ### Block 1: Respiratory System
 # LO1.2: Basics of the respiratory system - ventilation
 (Week 2, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
