@@ -2,7 +2,7 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.1: Indigenous cardiorespiratory health
-(Week 12, Lecture 2)
+(Week 10)
 ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.

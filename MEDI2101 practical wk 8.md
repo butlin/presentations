@@ -7,7 +7,12 @@
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
+<!--
+2022 AT3 - Active stand challenge
 --
 ### Active stand challenge
 ####
@@ -38,7 +43,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 8. With the volunteer supine, repeat each minute over 5 minutes:
    1. At the 30 second point of each minute, start the blood pressure monitor. Enter the value of blood pressure and pulse rate value in the spreadsheet ( <https://bit.ly/2MkvaCT> ).
    2. At the 30 second point of each minute, note the respiratory rate and enter that in the spreadsheet.
-   <!-- 3. At the 30 second point of each minute, note the heart rate as calculated from the ECG and enter that in the spreadsheet. -->
 
 --
 ### Active stand challenge
@@ -47,7 +51,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 9. <b>Whilst the participant is still laying down on the bed</b>, start the blood pressure monitor.
 10. When the reading on the pressure value on the screen rises to about 120 mmHg, have the volunteer move quickly to a standing position and then <b>stay very still</b>.
 11. Enter the first blood pressure and pulse rate reading into the spreadsheet ( <https://bit.ly/2MkvaCT> ).
-<!-- 12. Take an ECG calculated heart rate value in the first 30 seconds of standing. Enter it into the spreadsheet. -->
 12. Take a respiratory rate value in the first 30 seconds of standing. Enter it into the spreadsheet.
 13. Repeat blood pressure (and pulse rate) and respiratory rate measurements each minute for 5 minutes of standing.
 
@@ -93,11 +96,4 @@ Do not use the individual data from your group, or this practical today.
 --
 ### Active stand challenge<br>Demonstration with pulse and blood pressure tracking
 ####
-
-<!-- 
-### 5 questions on the active stand.
-####
-
-<p class="citation"><a href="https://flux.qa/Q525TY">https://flux.qa/Q525TY</a></p>
-
 -->

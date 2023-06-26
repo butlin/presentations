@@ -1,12 +1,17 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11prac"-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
-### Block 4: Cardiovascular and respiratory system in disease
-# Week 11, Practical: Physiological measurement in the diseased state
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+### Block 3: Cardiovascular and respiratory integration
+# Week 9, Practical: Exercise physiology
+<!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
+
+--
 
 --
 
@@ -55,27 +60,3 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 
 <p>4. Whilst breathing through a straw, repeat the three minute wall squat. Measure heart rate, and blood pressure each minute. Note your respiratory rate. Enter the values in the spreadsheet: <a href="https://bit.ly/2MkvaCT">https&#x3A;//bit.ly/2MkvaCT</a>
 </p>
-
---
-### ECG demonstration
-####
-
-- Lead I ECG
-- Lead II ECG
-- artifacts - what else can the ECG leads detect?
-
---
-### Jeopardy!
-#### Get your buzzer ready
-
-Go to web address (on phone or laptop):
-
-<a href="https:justbuzz.in">justbuzz.in</a>
-
-Room: medi2101
-
-&nbsp;
-
-&nbsp;
-
-<a href="https://jeopardylabs.com/play/medi2101-week-11-practical" target="_blank">Let's play Jeopardy!</a>
