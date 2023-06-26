@@ -1,26 +1,3 @@
-<!-- .slide: id="MEDI2101Wk1_1" -->
-# MEDI2101 <br>Cardiovascular and Respiratory System.
-##### Unit convenor: Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
-
-Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
-
-<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
-
---
-### MEDI2101. Cardiovascular and Respiratory System
-#### Blocks
-
-- **Block 1 (week 1 to 3):** Respiratory system
-- **Block 2 (week 4 to 7):** Cardiovascular system
-- **Block 3 (week 8 and 9):** Cardiovascular and respiratory integration
-- **Block 4 (week 10 to 12):** Cardiovascular and respiratory system in disease
-- **Block 5 (week 13 and exam period):** Review and assess
-
----
 <!-- .slide: data-auto-animate-restart -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 1: Respiratory System
@@ -28,6 +5,10 @@ Dr Mark Butlin (PhD, BE, SFHEA) (he/him)<br>
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
 <aside class="notes">
 <p>Set-up checklist:</p>
