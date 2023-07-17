@@ -3,7 +3,7 @@
 ### Block 1: Respiratory System
 # LO1.3: The respiratory centre and respiratory regulation output
 (Week 3, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 

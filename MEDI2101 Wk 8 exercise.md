@@ -1,7 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk8" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 3: Cardiovascular and respiratory integration
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -17,7 +17,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Block 3: Cardiovascular and respiratory integration
 # LO3.1: Introduction to exercise cardiorespiratory physiology
 (Week 8)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 

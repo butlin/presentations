@@ -3,7 +3,7 @@
 ### Block 2: Cardiovascular System
 # LO2.1: Electrical and mechanical events of the heart
 (Week 4, Lecture 2)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 

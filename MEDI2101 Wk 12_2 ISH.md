@@ -3,7 +3,7 @@
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.1: Diseases of the vascular system. <br>Isolated Systolic Hypertension
 (Week 10, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 

@@ -1,7 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk4_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 # Block 2: Cardiovascular System
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -17,7 +17,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Block 2: Cardiovascular System
 # LO2.1: The heart - basics
 (Week 4, Lecture 1)
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 

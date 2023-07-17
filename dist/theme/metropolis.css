@@ -213,12 +213,10 @@ Column 2 Content
     word-wrap: break-word; 
 }
 
-.reveal h1 {
+/* .reveal h1 {
     font-size: 1.77em; 
-    /* border-bottom: 2px solid #C6007E; */
     padding-bottom:16px;
     data-id: "title";
-    /* text-transform: uppercase; */
         background-image: linear-gradient(-225deg,
             #373A36 0%,
             #D6001C 25%,
@@ -227,7 +225,6 @@ Column 2 Content
             #373A36 100%);
         background-size: auto auto;
         background-clip: border-box;
-        /* background-size: 200% auto; */
         color: #fff;
         background-clip: text;
         text-fill-color: transparent;
@@ -235,11 +232,39 @@ Column 2 Content
         -webkit-text-fill-color: transparent;
         animation: textclip 2s linear infinite;
         display: inline-block;
-        /* font-size: 190px; */
+} */
+
+.reveal h1 {
+    display: block;
+    margin-left: -50px;
+    padding-left: 50px;
+    margin-right: -50px;
+    padding-right: 50px;
+    margin-top: -10px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    border: 0px solid #000000;
+    /* padding: 50px 50px 50px 8px 50px; */
+    width: 100%;
+    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for opera 11.1 to 12.0 */
+    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for firefox 3.6 to 15 */
+    background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-attachment: initial;
+    background-size: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-position: initial;
+    background-repeat: initial;
+    color: white;
+    font-size: 1.77em;
+    data-id: "title";
 }
 
 .reveal h2 {
-    margin: 200px 0px 200px 0px;
+    /* margin: 200px 0px 200px 0px; */
     data-id: "title";
     /* border-bottom: 2px solid #C6007E; */
     /* text-transform: uppercase; */
@@ -283,7 +308,6 @@ Column 2 Content
     background-position: initial;
     background-repeat: initial;
     color: white;
-    font-family:'Atkinson Hyperlegible'">Face-to-face (4 hours)</span></span></span>
     font-size: 1.30em;
     data-id: "title";
 }
