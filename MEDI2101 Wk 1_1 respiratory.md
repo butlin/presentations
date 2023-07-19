@@ -164,17 +164,7 @@ exchange surfaces.
     <p>Lungs are ingrowths of the body wall and connect to the outside by a series of tubes and small openings.</p>
     <p>Lungs exist in a number of terrestrial and air borne organisms where large size limits the ability of air to diffuse into the body.</p>
   </figcaption>
-</figure>
-
---
-<!-- .slide: data-background="#D6D2C4" -->
-### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
-
-#### Reflection quiz
-
-<p>Go to <a href="https://buzzonk.com/" >https://buzzonk.com</a> and enter the code provided by the lecturer.</p>
-
-<p class="citation"><a href="https://buzzonk.com/">https://buzzonk.com</a></p>
+</figure>d
 
 --
 <!-- .slide: data-background="#D6D2C4" -->
