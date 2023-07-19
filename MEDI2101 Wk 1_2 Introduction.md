@@ -199,218 +199,291 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p><strong>There are no tutorials </strong>in this unit, given the concentration on practical classes. On-line video / slide / reading / quiz material is provided each week in place of tutorials.</p>
 
 --
-### Unit overview
-####
+#### Unit overview
+#### Block 1: Respiratory system
 
-<script>
-  function toggleRows(rowIds) {
-    for (var i = 0; i < rowIds.length; i++) {
-      var row = document.getElementById(rowIds[i]);
-      if (row.style.display === "none") {
-        row.style.display = "table-row";
-      } else {
-        row.style.display = "none";
-      }
-    }
-  }
-</script>
-<span style="font-size:10pt">
-  <table style="width:100%" class="table-bordered table-hover">
-      <thead class="text-uppercase" style="font-size:small;">
-          <tr>
-              <th style="color:white" rowspan="2" bgcolor="#000000">Week</th>
-              <th style="color:white" rowspan="2" bgcolor="#000000">Topic</th>
-              <th colspan="3" style="color:white" bgcolor="#373A36">Face-to-face</th>
-              <th style="color:white" colspan="4" bgcolor="#AAAAAA">Self-paced</th>
-          </tr>
-          <tr>
-              <th style="color:white" bgcolor="#373A36">Lectures</th>
-              <th style="color:white" bgcolor="#373A36">Lectorial</th>
-              <th style="color:white" bgcolor="#373A36">Practical</th>
-              <th style="color:white" bgcolor="#AAAAAA">Online module</th>
-              <th style="color:white" bgcolor="#AAAAAA">Reading</th>
-              <th style="color:white" bgcolor="#AAAAAA">Assessment task</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <th bgcolor="#EAAED5">1-3</th>
-              <th colspan="7" bgcolor="#EAAED5" align="left"><button onclick="toggleRows(['block1_1', 'block1_2', 'block1_3'])"><b>1 Respiratory system</b></button></th>
-          </tr>
-                      <tr id="block1_1">
-              <th bgcolor="#EAAED5">1</th>
-              <th bgcolor="#EAAED5"><a href="./index_MEDI2101_block1.html#/MEDI2101Wk1_1" target="_blank">Introduction of concepts</a></th>
-              <td bgcolor="#EAAED5">1.1 "Reason" for the cardiovascular and respiratory system<br> - Unit introduction
-              </td>
-              <td bgcolor="#EAAED5">Upper respiratory anatomy</td>
-              <td></td>
-              <td bgcolor="#EAAED5">Cardiovascular and respiratory physical concepts: pressure, flow and resistance</td>
-              <td bgcolor="#EAAED5">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr id="block1_2">
-              <th bgcolor="#EAAED5">2</th>
-              <th bgcolor="#EAAED5"><a href="./index_MEDI2101_block1.html#/MEDI2101Wk2_1" target="_blank">Respiratory system</a></th>
-              <td bgcolor="#EAAED5">1.2 Ventilation<br> 1.3 Gas exchange</td>
-              <td bgcolor="#EAAED5">Lower respiratory anatomy</td>
-              <td></td>
-              <td bgcolor="#EAAED5">The scientific method in (bio)medical investigation<br> Knowledge for AT3</td>
-              <td bgcolor="#EAAED5">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr id="block1_3">
-              <th bgcolor="#EAAED5">3</th>
-              <th bgcolor="#EAAED5"><a href="./index_MEDI2101_block1.html#/MEDI2101Wk3_1" target="_blank">Respiratory regulation</a></th>
-              <td bgcolor="#EAAED5">1.4 The respiratory centre and regulation output<br> 1.5 Respiratory regulation
-                  inputs </td>
-              <td></td>
-              <td bgcolor="#EAAED5">Upper and lower respiratory anatomy (review)</td>
-              <td bgcolor="#EAAED5">Arterial blood gases and acidosis and alkalosis</td>
-              <td bgcolor="#EAAED5">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td bgcolor="#373A36"><a href="#section-6" style="color:white">AT1: Formative online quiz (0%)</a></td>
-          </tr>
-          <tr>
-              <th bgcolor="#F1A7B2">4-7</th>
-              <th colspan="7" bgcolor="#F1A7B2" align="left"><button onclick="toggleRows(['block2_1', 'block2_2', 'block2_3', 'block2_4', 'block2_5'])"><b>2 Cardiovascular system</b></button></th>
-          </tr>
-          <tr id="block2_1">
-              <th bgcolor="#F1A7B2">4</th>
-              <th bgcolor="#F1A7B2"><a href="./index_MEDI2101_block2.html#/MEDI2101Wk4_1" target="_blank">The heart</a></th>
-              <td bgcolor="#F1A7B2">2.1 Basics of the heart<br> 2.2 Intrinsic regulation of the heart</td>
-              <td bgcolor="#F1A7B2">The heart and mediastinum</td>
-              <td></td>
-              <td bgcolor="#F1A7B2">The Wigger's diagram</td>
-              <td bgcolor="#F1A7B2">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr id="block2_2">
-              <th bgcolor="#F1A7B2">5</th>
-              <th bgcolor="#F1A7B2"><a href="./index_MEDI2101_block2.html#/MEDI2101Wk5_1" target="_blank">Circulatory system</a></th>
-              <td bgcolor="#F1A7B2">2.3 Basics of the circulatory system<br> 2.4 Blood pressure and flow</td>
-              <td bgcolor="#F1A7B2">The major blood vessels</td>
-              <td></td>
-              <td bgcolor="#F1A7B2">The constituents of blood</td>
-              <td bgcolor="#F1A7B2">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr id="block2_3">
-              <th bgcolor="#F1A7B2">6</th>
-              <th bgcolor="#F1A7B2"><a href="./index_MEDI2101_block2.html#/MEDI2101Wk6_1" target="_blank">Cardiovascular regulation</a></th>
-              <td bgcolor="#F1A7B2">2.5 Cardiovascular regulation, part 1<br> 2.6 Cardiovascular regulation, part 2</td>
-              <td></td>
-              <td bgcolor="#F1A7B2">Anatomy review</td>
-              <td bgcolor="#F1A7B2">Renal regulation of acid-base balance</td>
-              <td bgcolor="#F1A7B2">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr id="block2_4">
-              <th bgcolor="#F1A7B2">7</th>
-              <th bgcolor="#F1A7B2"><a href="./index_MEDI2101_block2.html#/MEDI2101Wk7" target="_blank">The microcirculation and lymph flow</a></th>
-              <td bgcolor="#F1A7B2">AT2: Anatomy test<br> 2.7 Fluid exchange at the capillaries</td>
-              <td></td>
-              <td bgcolor="#F1A7B2">Introduction to some respiratory and cardiovascular instrumentation.</td>
-              <td bgcolor="#F1A7B2">The lymphatic system and lymphedema</td>
-              <td bgcolor="#F1A7B2">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td bgcolor="#373A36"><a href="#section-11" style="color: white;">AT2: Anatomy test during lecture
-                      period (20%)</a></td>
-          </tr>
-          <tr id="block2_5">
-              <td colspan="8">Midsession break</td>
-          </tr>
-          <tr>
-              <th bgcolor="#FF99DB">8-9</th>
-              <th colspan="7" bgcolor="#FF99DB" align="left"><button onclick="toggleRows(['block3_1', 'block3_2'])"><b>3 Cardiovascular and respiratory integration</b></button></th>
-          </tr>
-          <tr id="block3_1">
-              <th bgcolor="#FF99DB">8</th>
-              <th bgcolor="#FF99DB"><a href="./index_MEDI2101_block3.html#/MEDI2101Wk8" target="_blank">Exercise cardiovascular and respiratory
-                      physiology</a></th>
-              <td bgcolor="#FF99DB">3.1 Introduction to exercise cardiovascular and respiratory physiology</td>
-              <td></td>
-              <td style="color:white" bgcolor="#373A36">Physiological measurement data collection for AT3.2.</td>
-              <td bgcolor="#FF99DB">Exercise, a modifiable lifestyle factor to reduce cardiovascular risk</td>
-              <td bgcolor="#FF99DB">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td bgcolor="#373A36"><a href="#section-13" style="color:white">AT3.1 Hypothesis testing. Publication
-                      figure (10%)</a></td>
-          </tr>
-          <tr id="block3_2">
-              <th bgcolor="#FF99DB">9</th>
-              <th bgcolor="#FF99DB"><a href="./index_MEDI2101_block3.html#/MEDI2101Wk9" target="_blank">Cardiorespiratory homeostasis and thermal regulation</a></th>
-              <td bgcolor="#FF99DB">3.2 Cardiovascular homeostasis and thermal regulation</td>
-              <td></td>
-              <td bgcolor="#FF99DB">Thermoregulation</td>
-              <td bgcolor="#FF99DB">Extremes of thermoregulation</td>
-              <td bgcolor="#FF99DB">Guyton and Hall (<a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">See Leganto</a>)</td>
-              <td> </td>
-          </tr>
-          <tr>
-              <th bgcolor="#D6D2C4">10-12</th>
-              <th colspan="7" bgcolor="#D6D2C4" align="left"><button onclick="toggleRows(['block4_1', 'block4_2', 'block4_3'])"><b>4 Cardiovascular and respiratory system in disease</b></button></th>
-          </tr>
-          <tr id="block4_1">
-              <th bgcolor="#D6D2C4">10</th>
-              <th bgcolor="#D6D2C4"><a href="./index_MEDI2101_block4.html#/MEDI2101Wk10" target="_blank">Indigenous cardiorespiratory health</a></th>
-              <td bgcolor="#D6D2C4">4.5 Indigenous cardiovascular and respiratory health</td>
-              <td></td>
-              <td bgcolor="#D6D2C4">Autonomic function tests</td>
-              <td></td>
-              <td bgcolor="#D6D2C4"><a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">Reading provided in Leganto</a></td>
-              <td> </td>
-          </tr>
-          <tr id="block4_2">
-              <th bgcolor="#D6D2C4">11</th>
-              <th bgcolor="#D6D2C4"><a href="./index_MEDI2101_block4.html#/MEDI2101Wk11_1" target="_blank" style="">Heart conduction diseases.<br>Heart
-                      failure.</a></th>
-              <td bgcolor="#D6D2C4">4.3 Conduction diseases<br>4.4 Heart failure</td>
-              <td></td>
-              <td bgcolor="#D6D2C4">Electrical activity of the heart</td>
-              <td bgcolor="#D6D2C4">Heart failure</td>
-              <td bgcolor="#D6D2C4"><a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">Reading provided in Leganto</a></td>
-              <td> </td>
-          </tr>
-          <tr id="block4_3">
-              <th bgcolor="#D6D2C4">12</th>
-              <th bgcolor="#D6D2C4"><a href="./index_MEDI2101_block4.html#/MEDI2101Wk1_1" target="_blank">Chronic Obstructive Pulmonary Disease.<br>Isolated Systolic Hypertension</a>
-              </th>
-              <td bgcolor="#D6D2C4">4.1 Chronic obstructive pulmonary disease<br>4.2 Isolated Systolic Hypertension</td>
-              <td> </td>
-              <td bgcolor="#D6D2C4">Physiological measurement in the diseased state</td>
-              <td bgcolor="#D6D2C4">COPD. ISH.</td>
-              <td bgcolor="#D6D2C4"><a href="https://ap01.alma.exlibrisgroup.com/leganto/public/61MACQUARIE_INST/lists/32184454860002171?auth=SAML">Reading provided in Leganto</a></td>
-              <td bgcolor="#373A36"><a href="#section-18" style="color: white;">AT3.2: Hypothesis testing. Discussion
-                      (25%)</a></td>
-          </tr>
-          <tr>
-              <th style="color:white" bgcolor="#373A36">13-exam</th>
-              <th style="color:white" colspan="7" bgcolor="#373A36" align="left"><button onclick="toggleRows(['block5_1', 'block5_2'])"><b>5 Review and assess</b></button></th>
-          </tr>
-          <tr id="block5_1">
-              <td style="color:white" bgcolor="#373A36">13</td>
-              <td style="color:white" bgcolor="#373A36">Review</td>
-              <td style="color:white" bgcolor="#373A36">Q&amp;A</td>
-              <td></td>
-              <td></td>
-              <td> </td>
-              <td> </td>
-          </tr>
-          <tr id="block5_2">
-              <td style="color:white" bgcolor="#373A36">Exam period</td>
-              <td style="color:white" bgcolor="#373A36">Examination</td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td></td>
-              <td bgcolor="#373A36"><a href="#section-21" style="color: white;">AT4: Final exam (45%)</a></td>
-          </tr>
-      </tbody>
-  </table>
-</span>
+<table style="width:100%" class="table-bordered table-hover">
+  <thead class="text-uppercase">
+    <tr>
+      <th rowspan="2">Week</th>
+      <th colspan="2">Face-to-face</th>
+      <th rowspan="2">Self-paced</th>
+      <th rowspan="2">Assessment task</th>
+    </tr>
+    <tr>
+      <th>Week topic and lectures</th>
+      <th>Lectorials and practicals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th bgcolor="#D6D2C4">1</th>
+      <th bgcolor="#D6D2C4" align="left">
+        <h5>Introduction of concepts</h5>
+        1.1 "Reason" for the cardiovascular and respiratory system
+        <br>- Unit introduction</th>
+      <td bgcolor="#D6D2C4"><strong>Lectorial: </strong> Upper respiratory anatomy</td>
+      <td bgcolor="#D6D2C4"><strong>Module:</strong> Cardiovascular and respiratory physical concepts: pressure, flow and resistance
+        <br><strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th bgcolor="#D6D2C4">2</th>
+      <th bgcolor="#D6D2C4" align="left">
+        <h5>Respiratory system</h5>
+        1.2 Ventilation
+        <br>1.3 Gas exchange
+      </th>
+      <td bgcolor="#D6D2C4"><strong>Lectorial: </strong>Lower respiratory anatomy</td>
+      <td bgcolor="#D6D2C4"><strong>Module:</strong> The scientific method in (bio)medical investigation
+        <br>Knowledge for AT3
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th bgcolor="#D6D2C4">3</th>
+      <th bgcolor="#D6D2C4" align="left">
+        <h5>Respiratory regulation</h5>
+        1.4 The respiratory centre and regulation output
+        <br>1.5 Respiratory regulation inputs
+      </th>
+      <td bgcolor="#D6D2C4"><strong>Practical: </strong>Upper and lower respiratory anatomy (review)</td>
+      <td bgcolor="#D6D2C4"><strong>Module:</strong> Arterial blood gases and acidosis and alkalosis
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td style="color:white" bgcolor="#373A36">AT1: Formative online quiz (0%)</td>
+    </tr>
+  </tbody>
+</table>
+
+--
+#### Unit overview
+#### Block 2: Cardiovascular system
+
+<table style="width:100%" class="table-bordered table-hover">
+  <thead class="text-uppercase">
+    <tr>
+      <th rowspan="2">Week</th>
+      <th colspan="2">Face-to-face</th>
+      <th rowspan="2">Self-paced</th>
+      <th rowspan="2">Assessment task</th>
+    </tr>
+    <tr>
+      <th>Week topic and lectures</th>
+      <th>Lectorials and practicals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>4</th>
+      <th align="left">
+        <h5>The heart</h5>
+        2.1 Basics of the heart
+        <br>2.2 Intrinsic regulation of the heart
+      </th>
+      <td><strong>Lectorial: </strong>The heart and mediastinum</td>
+      <td><strong>Module:</strong> The Wigger's diagram
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <th align="left">
+        <h5>Circulatory system</h5>
+        2.3 Basics of the circulatory system
+        <br>2.4 Blood pressure and flow
+      </th>
+      <td><strong>Lectorial: </strong>The major blood vessels</td>
+      <td><strong>Module:</strong> The constituents of blood
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <th align="left">
+        <h5>Cardiovascular regulation</h5>
+        2.5 Cardiovascular regulation, part 1
+        <br>2.6 Cardiovascular regulation, part 2</th>
+      <td><strong>Practical: </strong>Anatomy review</td>
+      <td><strong>Module:</strong> Renal regulation of acid-base balance
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <th align="left">AT2: Anatomy test
+        <br>
+        <h5>The microcirculation and lymph flow</h5>
+        2.7 Fluid exchange at the capillaries
+      </th>
+      <td><strong>Practical: </strong> Introduction to some respiratory and cardiovascular instrumentation.</td>
+      <td><strong>Module:</strong> The lymphatic system and lymphedema
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td style="color:white" bgcolor="#373A36">AT2: Anatomy test during lecture period (20%)</td>
+    </tr>
+  </tbody>
+</table>
+
+--
+#### Unit overview
+#### Block 3: Cardiovascular and respiratory integration
+
+<table style="width:100%" class="table-bordered table-hover">
+  <thead class="text-uppercase">
+    <tr>
+      <th rowspan="2">Week</th>
+      <th colspan="2">Face-to-face</th>
+      <th rowspan="2">Self-paced</th>
+      <th rowspan="2">Assessment task</th>
+    </tr>
+    <tr>
+      <th>Week topic and lectures</th>
+      <th>Lectorials and practicals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th bgcolor="#D6D2C4">8</th>
+      <th bgcolor="#D6D2C4" align="left">AT2 special consideration: Supplementary anatomy test
+        <h5>3.1 Introduction to exercise cardiovascular and respiratory physiology</h5>
+      </th>
+      <td style="color:white" bgcolor="#373A36"><strong>Practical: </strong> Physiological measurement data collection for AT3.2.</td>
+      <td bgcolor="#D6D2C4"><strong>Module:</strong> Exercise, a modifiable lifestyle factor to reduce cardiovascular risk
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td style="color:white" bgcolor="#373A36">AT3.1 Hypothesis testing. Publication figure (10%)</td>
+    </tr>
+    <tr>
+      <th bgcolor="#D6D2C4">9</th>
+      <th bgcolor="#D6D2C4" align="left">
+        <h5>
+            3.2 Cardiorespiratory homeostasis and thermal regulation</h5>
+      </th>
+      <td bgcolor="#D6D2C4"><strong>Practical: </strong> Exercise physiology</td>
+      <td bgcolor="#D6D2C4"><strong>Module:</strong> Extremes of thermoregulation
+        <br>
+        <strong>Reading:</strong> Guyton and Hall (See Leganto)
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+--
+#### Unit overview
+#### Block 4: Cardiovascular and respiratory system in disease
+
+<table style="width:100%" class="table-bordered table-hover">
+  <thead class="text-uppercase">
+    <tr>
+      <th rowspan="2">Week</th>
+      <th colspan="2">Face-to-face</th>
+      <th rowspan="2">Self-paced</th>
+      <th rowspan="2">Assessment task</th>
+    </tr>
+    <tr>
+      <th>Week topic and lectures</th>
+      <th>Lectorials and practicals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>10</th>
+      <th align="left">
+        <h5>
+            4.1 Indigenous cardiovascular and respiratory health</h5>
+      </th>
+      <td><strong>Practical: </strong> Autonomic function tests</td>
+      <td><strong>Module:</strong> Intergenerational trauma and social determinants of health</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <th align="left">
+        <h5 style="">
+            4.2 Conduction diseases<br>4.4 Heart failure</h5>
+      </th>
+      <td><strong>Practical: </strong> Electrical activity of the heart</td>
+      <td><strong>Module:</strong> Heart failure
+        <br>
+        <strong>Reading:</strong> Journal article (See Leganto)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <th align="left">
+        <h5>
+            4.3 Chronic obstructive pulmonary disease<br>4.4 Isolated Systolic Hypertension</h5>
+      </th>
+      <td><strong>Practical: </strong> Respiratory physiology</td>
+      <td><strong>Module:</strong> COPD. ISH.
+        <br>
+        <strong>Reading:</strong> Journal article (See Leganto)</td>
+      <td style="color:white" bgcolor="#373A36">AT3.2: Hypothesis testing. Discussion (25%)
+      </td>
+    </tr>
+  </tbody>
+</thead>
+
+--
+#### Unit overview
+#### Block 5: Review and assess
+
+<table style="width:100%" class="table-bordered table-hover">
+  <thead class="text-uppercase">
+    <tr>
+      <th rowspan="2">Week</th>
+      <th colspan="2">Face-to-face</th>
+      <th rowspan="2">Self-paced</th>
+      <th rowspan="2">Assessment task</th>
+    </tr>
+    <tr>
+      <th>Week topic and lectures</th>
+      <th>Lectorials and practicals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td bgcolor="#D6D2C4">13</td>
+      <td bgcolor="#D6D2C4">Review
+        <br>Q&amp;A session in lecture</td>
+      <td bgcolor="#D6D2C4">-</td>
+      <td bgcolor="#D6D2C4">-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td bgcolor="#D6D2C4">Exam period</td>
+      <td bgcolor="#D6D2C4">Examination</td>
+      <td bgcolor="#D6D2C4">-</td>
+      <td bgcolor="#D6D2C4">-</td>
+      <td style="color:white" bgcolor="#373A36">AT4: Final exam (45%)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 --
 ### Teaching staff
 ####
+
+- **Unit convener / lecturer / physiology practicals:** Assoc. Prof. Mark Butlin<br>&nbsp;
+- **Guest lecturers:** Bianca Coehla; Dr Isabella Tan; Prof. Alvin Ing<br>&nbsp;
+- **Anatomy teaching leads:** Dr Mirjana Strkalj; Dr Linda Ban, Dr Daleen Raubenheimer<br>&nbsp;
+- **Anatomy teaching staff:** Rohit Harwad; Arshia Jamshidi; Sadhvi Naresh; Aleksander Strkalj<br>&nbsp;
+- **Physiology teaching staff:** Dr Peter Burke, James Cox
 
 --
 <h3>Assessment tasks</h3>
@@ -510,5 +583,4 @@ Relatively new tool:
 --
 <h3>Activities this week.</h3>
 <h4></h4>
-
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-5"> MEDI2101 iLearn Week 1</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=5"> MEDI2101 iLearn Week 1</a>

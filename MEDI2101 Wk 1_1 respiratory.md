@@ -182,47 +182,16 @@ exchange surfaces.
 
 #### Reflection quiz
 
-Cellular respiration is:
-
-(A) the breakdown of organic molecules to produce ATP.
-(B) the bulk movement of air into and out of the lungs.
-(C) the movement of gases from the atmosphere down to the cells.
-(D) the use of lungs within a cell to bring air into the cell.
 --
-<!-- .slide: data-background="#D6D2C4" -->
-### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b754021f524f73a6f606d4" data-background-interactive -->
 
-#### Reflection quiz
-
-Why does a frog need to keep its skin wet?
-
-(A) Because slimy skin is protective from predators.
-
-(B) Because the frog would dehydrate otherwise.
-
-(C) To keep it cool through evaporative cooling.
-
-(D) To help it change into a prince or princess one day.
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b757981f524f73a6f60786" data-background-interactive -->
 
 <aside class="notes">Amphibians use their skin as a respiratory surface. Frogs eliminate carbon dioxide 2.5 times as fast through their skin as they do through their lungs.</aside>
 
-<p class="citation"><a href="https://buzzonk.com/">https://buzzonk.com</a></p>
-
 --
-<!-- .slide: data-background="#D6D2C4" -->
-### LO1.1.1 Understand the root function of the cardiorespiratory system by comparing and contrasting surface diffusion, gills and lungs as respiratory apparatus
-
-#### Reflection quiz
-
-Are you ready for the next learning outcome?
-
-(A) Yes.
-
-(B) No.
-
-(C) Have we started learning?
-
-(D) Will this question be in the exam?
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b7589f1f524f73a6f607bf" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -334,31 +303,11 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 ### LO1.1.2 Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood.
 #### Reflection quiz
 
-Dalton's law describes:
-
-(A) the oxygen cascade.
-
-(B) the movement of carbon dioxide from higher to lower partial pressure regions.
-
-(C) that the total pressure of a gas mixture is the sum of the pressure of the gases in that mixture.
-
-(D) every action has an equal and opposite reaction.
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b75d791f524f73a6f60850" data-background-interactive -->
 
 --
-<!-- .slide: data-background="#D6D2C4" -->
-### LO1.1.2 Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood
-
-#### Reflection quiz
-
-How are you feeling?
-
-(A) Great.
-
-(B) OK so far.
-
-(C) You have scared me by introducing a law of gases in lecture 1.
-
-(D) The first learning outcome was ok, but this second one lost me.
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b75e871f524f73a6f60874" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -627,20 +576,7 @@ The heart allows for the *circulation* of fluid (usually blood, but in the case 
 
 
 --
-<!-- .slide: data-background="#D6D2C4" -->
-### LO1.1.3 Understand the limits and benefits of one, two, three, and four chamber hearts as found in nature
-
-#### Reflection quiz
-
-Why did the lecturer just teach us about evolution?
-
-(A) Because he is sneakily teaching embryology.
-
-(B) Because it assists in understanding the exchange of oxygen and carbon dioxide between blood and air.
-
-(C) Because he is an agnostic fence-sitter who believes in scientific evidence.
-
-(D) All of the above.
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64b761581f524f73a6f60987" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
