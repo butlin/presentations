@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Physiological limits in cuffless blood pressure estimation</title>
+        <meta name="description" content="Physiological limits in cuffless blood pressure estimation">
+        <meta name="author" content="Mark Butlin">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <link rel="stylesheet" href="dist/reset.css">
+        <link rel="stylesheet" href="dist/reveal.css">
+        <link rel="stylesheet" href="dist/theme/metropolis.css" id="theme">
+
+        <!-- Theme used for syntax highlighted code -->
+        <link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+
+        <!-- TOC-Progress plugin -->
+        <!-- <link rel="stylesheet" href="plugin/toc-progress/toc-progress.css"> -->
+
+        <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+        <script>
+            if (window.location.search.match(/print-pdf/gi)) {
+                var link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.type = 'text/css';
+                link.href = 'css/print/pdf.css';
+                document.getElementsByTagName('head')[0].appendChild(link);
+            }
+        </script>
+    </head>
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <section data-markdown data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:">
+                    <textarea data-template>
+                        <!-- .slide: data-auto-animate-restart -->
+                        # Physiological limits in cuffless blood pressure estimation
+                        ##### Mark Butlin
+                        <img src="images/BPAF_logo_and_name_black.webp" height="60px" align="left" style="padding-top:30px; padding-bottom:30px">
+                        <img src="images/logo_MQ_INT_HOR_RGB_POS.png" height="60px" align="right" alt="Macquarie University crest" style="padding-top:30px; padding-bottom:30px">
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p class="citation">&nbsp<br>IEEE EMBS 2023<br>Session: Recent Advances in Cuffless Blood Pressure Measurement<br>25th July 2023</p>
+
+                        --
+                        # Physiological limits in cuffless blood pressure estimation
+                        ##### Mark Butlin
+                        <img src="images/BPAF_logo_and_name_black.webp" height="60px" align="left" style="padding-top:30px; padding-bottom:30px">
+                        <img src="images/logo_MQ_INT_HOR_RGB_POS.png" height="60px" align="right" alt="Macquarie University crest" style="padding-top:30px; padding-bottom:30px">
+                        &nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+                        <h5>Disclosures</h5>
+                        <div class="container">
+                            <div class="col">
+                                <p>CardieX AtCor Medical</p>
+                                <ul>
+                                    <li>funding research assistant in group.</li>
+                                    <li>past contract research.</li>
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <p>Past collaborative efforts (unfunded) with:</p>
+                                <ul>
+                                    <li>Blumio</li>
+                                    <li>Fledge Innovation Laboratories</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        --
+                        ### We rarely <b>measure</b> blood pressure
+                        ####
+
+                        <img src="images/bp_invasive.webp" width="45%">
+                        <img src="images/bp_catheters.webp" width="50%">
+                        <p class="citation"><a href="https://www.medicaldevicecables.com">www.medicaldevicecables.com</a><br><a href="https://www.adinstruments.com">www.adinstruments.com</a></p>
+
+                        --
+                        ### We never <b>measure</b> blood pressure
+                        ####
+                        <img src="images/BP_Medical Times72_11_1944_Hales_flipped.jpg" width="300px">
+                        <p class="citation">Modified from <a href="https://archive.org/details/sim_medical-times_1944-11_72_11/page/314/mode/2up">Cultural Medicine. Stephen Hales - Father of Hemodynamics</a>. Medical Times. 1944;72(11):315-321.</p>
+
+                        --
+                        ### Most common blood pressure <b>estimation</b> method
+                        #### Oscillometric
+
+                        <img src="images/bp_measurement_photo.webp" width="19%">
+                        <img src="images/BP_Avolio2014Fig2_5.png" width="79%">
+                        <p class="citation">Avolio AP, Butlin M, Winter D. Cardiology: Blood pressure. In: The Physiological Measurement Handbook.
+                        CRC Press; 2014:13-41. doi:<a href="https:/doi.org/10.1201/b17831">10.1201/b17831</a></p>
+
+                        --
+                        ### Most common blood pressure <b>estimation</b> method
+                        #### Reference value (auscultation) is also an estimation
+
+                        <img src="images/Celler2015_fig4.webp" width="600px">
+                        <p class="citation">Celler BG, Basilakis J, Goozee K, Ambikairajah E. Non-Invasive measurement of blood pressure - Why we should look at BP
+                        traces rather than listen to Korotkoff sounds. In: 2015 37th Annual International Conference of the IEEE Engineering in
+                        Medicine and Biology Society (EMBC). IEEE; 2015:5964-5967. doi:<a href="https://doi.org/10.1109/EMBC.2015.7319750">10.1109/EMBC.2015.7319750</a></p>
+
+                        --
+                        ### Cuff based blood pressure is an estimation
+                        #### And not a great one at that
+                    
+                        <img src="images/rebesco2020_fig1.webp" width="50%">
+                        <p class="citation">Rebesco MR, Pinkston MC, Smyrnios NA, Weisberg SN. A Comparison of Non-Invasive Blood Pressure Measurement Strategies
+                        with Intra-Arterial Measurement. Prehosp Disaster Med. 2020 Oct;35(5):516-523. doi: <a href="https://doi.org/10.1017/S1049023X20000916">10.1017/S1049023X20000916</a></p>
+
+                        --
+                        ### Blood pressure estimation is still powerful as a diagnostic tool
+                        #### Even with poor accuracy
+                        J.W. Fisher, 1912:
+                        <blockquote>
+                        “The <b style="color:#c6007e">sphygmomanometer is indispensable</b> in life insurance examinations, and the time is not far distant when all
+                        progressive life insurance companies will require its use in all examinations of applicants for life insurance.”
+                        </blockquote>
+                        <p class="citation">Fisher JW. The diagnostic value of the sphygmomanometer in examinations for life insurance. JAMA. 1914; LXIII(20):1752.
+                        doi:<a href="https://doi.org/10.1001/jama.1914.02570200046013">10.1001/jama.1914.02570200046013</a></p>
+                        --
+                        ### Blood pressure estimation
+                        #### Reference value is usually also a blood pressure estimation
+
+                        <table style="font-size:large;">
+                            <tr>
+                                <th>blood pressure estimation</th>
+                                <th>reference</th>
+                            </tr>
+                            <tr>
+                                <td>auscultation</td>
+                                <td>comparison to a second person using auscultation</td>
+                            </tr>
+                            <tr>
+                                <td>oscillometric</td>
+                                <td>auscultation</td>
+                            </tr>
+                            <tr>
+                                <td>cuffless approaches</td>
+                                <td>auscultation or oscillometric</td>
+                            </tr>
+                        </table>
+                        &nbsp;<br>
+                        <center>
+                            <img src="images/Butlin2021_Figure1.jpg" width="75%" align="center">
+                        </center>
+                        <p class="citation">Butlin M, Tan I, Cox J, et al. Blood pressure measurement methodologies: present status and future prospects. Ram CVS,
+                        ed. Hypertension Journal. 2020;6(3):109-116. doi:<a href="10.15713/ins.johtn.0196">10.15713/ins.johtn.0196</a></p>
+
+                        --
+                        ### Blood pressure estimation
+                        #### Correlation with acutely measured (invasive) blood pressure
+
+                        <table style="font-size: large;">
+                            <tr>
+                                <th>method</th>
+                                <th></th>
+                                <th>strength of correlation with invasive blood pressure</th>
+                            </tr>
+                            <tr>
+                                <td>auscultation</td>
+                                <td></td>
+                                <td>fair (clinically useful)</td>
+                            </tr>
+                            <tr>
+                                <td>oscillometric</td>
+                                <td></td>
+                                <td>fair (clinically useful)</td>
+                            </tr>
+                            <tr>
+                                <td>cuffless approaches</td>
+                                <td>pulse wave velocity</td>
+                                <td>worse than auscultation / oscillometric</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>waveform features</td>
+                                <td>similar to, or worse than pulse wave velocity?</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>multi-regressional / machine learning models</td>
+                                <td>For acute blood pressure changes, likely no better than above.<br>May offer advantages in resting blood pressure prediction.</td>
+                            </tr>
+                        </table>
+                        &nbsp;<br>
+                        <center>
+                            <img src="images/Butlin2021_Figure1.jpg" width="40%" align="center">
+                        </center>
+                        <p class="citation">Butlin M, Tan I, Cox J, et al. Blood pressure measurement methodologies: present status and future
+                            prospects. Ram CVS,
+                            ed. Hypertension Journal. 2020;6(3):109-116. doi:<a href="10.15713/ins.johtn.0196">10.15713/ins.johtn.0196</a></p>
+
+                        --
+                        ### Challenges in cuffless blood pressure estimation
+                        #### You're all individuals! ... (I'm not)<sup>1</sup>
+                        <img src="images/butlin_2018_fig4.webp" width="35%">
+
+                        <p class="citation"><sup>1</sup>Monty Python, Life of Brian.<br>
+                        Butlin M, Shirbani F, Barin E, Tan I, Spronck B, Avolio AP. Cuffless estimation of blood pressure: importance of
+                        variability in blood pressure dependence of arterial stiffness across individuals and measurement sites. IEEE
+                        Transactions on Biomedical Engineering. 2018;65(11):2377-2383. doi:<a href="https://doi.org/10.1109/tbme.2018.2823333">10.1109/tbme.2018.2823333</a></p>
+                        --
+                        ### Challenges in cuffless blood pressure estimation
+                        #### (In)sensitivity of predictor variables
+                        <img src="images/bp_pwv_sensitivity.svg" width="66%" align="left">
+                        $$ \Delta BP_{1} = \Delta BP_{2} $$
+                        $$ \Delta PWV_{1} \ggg \Delta PWV_{2} $$
+
+                        --
+                        ### Estimation of systolic and diastolic blood pressure
+                        #### Requires multiple (at least two) independent predictors
+                        <img src="images/butlin_bpro_example.svg" width="35%" align="left">
+                        R<sup>2</sup>=0.99<br>
+                        Correlation between estimated systolic and diastolic blood pressure with the BPro cuffless blood pressure device.
+                        <p class="citation">M. Butlin, J.R. Cox, A. Avolio, I. Tan, Evaluation of BPro cuffless blood pressure device, Unpublished.</p>
+
+                        --
+                        ### Cuffless blood pressure accuracy
+                        #### Variability vs accuracy for mean of population
+                        <img src="images/butlin_bpro_ba.png" width="35%">
+                        <p class="citation">M. Butlin, J.R. Cox, A. Avolio, I. Tan, Evaluation of BPro cuffless blood pressure device, Unpublished.</p>
+
+                        --
+                        <!-- .slide: data-background="#373A36" -->
+                        <p style="color:white;font-size:1.5em">If cuffless blood pressure estimation is likely to have poor accuracy, does it have utility?</p>
+
+                        --
+                        ### Possible uses of cuffless blood pressure estimation
+                        #### Accounting for lower accuracy
+                        <div class="container">
+                            <div class="col">
+                                Use principles of regression to the mean:
+                                <ul>
+                                    <li>weekly or monthly resting blood pressure from multiple daily measures</li>
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <span class="fragment">
+                                Use for detection of <b>large</b> blood pressure changes without magnitude:
+                                <ul>
+                                    <li>absence / presence of nocturnal dipping<br>&nbsp;</li>
+                                    <li>acute <strong>large</strong> changes in blood pressure<br>(warning system)<br>&nbsp;</li>
+                                </ul>
+                            </span>
+                            </div>
+                        </div>
+
+                        --
+                        # Physiological limits in cuffless blood pressure estimation
+                        ##### Mark Butlin
+                        <img src="images/BPAF_logo_and_name_black.webp" height="60px" align="left" style="padding-top:30px; padding-bottom:30px">
+                        <img src="images/logo_MQ_INT_HOR_RGB_POS.png" height="60px" align="right" alt="Macquarie University crest" style="padding-top:30px; padding-bottom:30px">
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p class="citation">&nbsp<br>IEEE EMBS 2023<br>Session: Recent Advances in Cuffless Blood Pressure Measurement<br>25th
+                            July 2023</p>
+                    </textarea>
+                </section>
+            </div>
+        </div>
+
+        <script src="dist/reveal.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+        <script src="plugin/math/math.js"></script>
+        <script src="plugin/menu/menu.js"></script>
+        <script src="plugin/pdfexport/pdfexport.js"></script>
+        <script src="plugin/reveald3.js"></script>
+        <script src="plugin/zoom/zoom.js"></script>
+
+        <script>
+            // More info about initialization & config:
+            // - https://revealjs.com/initialization/
+            // - https://revealjs.com/config/
+
+            // =================================================================
+            // Enable auto-animate on all slides be default
+            // To disable on individual slide, add 
+            // <!-- .slide: data-auto-animate-restart -->
+            Reveal.on('ready', event => {
+                // Apply auto-animate to all slides
+                document.querySelectorAll('section').forEach(node => {
+                    node.setAttribute("data-auto-animate", "")
+                });
+            });
+            // =================================================================
+
+            Reveal.initialize({
+                hash: true,
+                controls: true,
+                progress: true,
+                history: true,
+                backgroundTransition: 'fade',
+                // parallaxBackgroundImage: '',
+                // parallaxBackgroundSize: '',
+                // parallaxBackgroundHorizontal: 200,
+                // parallaxBackgroundVertical: 50,
+                totalTime: 1200,
+                width: 960,
+                height: 540,
+                center: false,
+                transitionSpeed: 'slow',
+                autoAnimateDuration: 3.0,
+                showNotes: false,
+                // showNotes: 'separate-page',
+                pdfSeparateFragments: true,
+                showSlideNumber: false,
+                markdown: {
+                    smartypants: true
+                },
+                math: {
+                    mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+                    config: 'TeX-AMS_HTML-full',
+                    // pass other options into `MathJax.Hub.Config()`
+                    TeX: { Macros: { RR: "{\\bf R}" } }
+                },
+                // dependencies:
+                // [
+                //     { src: 'plugin/toolbar/toolbar.js' }
+                // ],
+                // Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ Reveald3, RevealMarkdown, RevealMath.KaTeX, RevealHighlight, RevealMenu, RevealNotes, RevealZoom ],
+                menu: {
+                    // Specifies which side of the presentation the menu will
+                    // be shown. Use 'left' or 'right'.
+                    side: 'left',
+
+                    // Specifies the width of the menu.
+                    // Can be one of the following:
+                    // 'normal', 'wide', 'third', 'half', 'full', or
+                    // any valid css length value
+                    width: 'wide',
+
+                    // Add slide numbers to the titles in the slide list.
+                    // Use 'true' or format string (same as reveal.js slide numbers)
+                    numbers: false,
+
+                    // Specifies which slide elements will be used for generating
+                    // the slide titles in the menu. The default selects the first
+                    // heading element found in the slide, but you can specify any
+                    // valid css selector and the text from the first matching
+                    // element will be used.
+                    // Note: that a section data-menu-title attribute or an element
+                    // with a menu-title class will take precedence over this option
+                    titleSelector: 'h1, h2, h3',
+
+                    // If slides do not have a matching title, attempt to use the
+                    // start of the text content as the title instead
+                    useTextContentForMissingTitles: false,
+
+                    // Hide slides from the menu that do not have a title.
+                    // Set to 'true' to only list slides with titles.
+                    hideMissingTitles: true,
+
+                    // Adds markers to the slide titles to indicate the
+                    // progress through the presentation. Set to 'false'
+                    // to hide the markers.
+                    markers: true,
+
+                    // Specify custom panels to be included in the menu, by
+                    // providing an array of objects with 'title', 'icon'
+                    // properties, and either a 'src' or 'content' property.
+                    custom: true,
+
+                    custom: [
+                    // {
+                    //     title: 'Go to week...',
+                    //     icon: '<i class="fa fa-external-link">',
+                    //     src: 'MEDI2101 Wk.html'
+                    // },
+                    {
+                        title: 'Other links',
+                        icon: '<i class="fa fa-laptop">',
+                        src: 'menu_links.html'
+                    }
+                    ],
+
+                    // Specifies the themes that will be available in the themes
+                    // menu panel. Set to 'true' to show the themes menu panel
+                    // with the default themes list. Alternatively, provide an
+                    // array to specify the themes to make available in the
+                    // themes menu panel, for example...
+                    //
+                    // [
+                    //     { name: 'Black', theme: 'dist/theme/black.css' },
+                    //     { name: 'White', theme: 'dist/theme/white.css' },
+                    //     { name: 'League', theme: 'dist/theme/league.css' },
+                    //     {
+                    //       name: 'Dark',
+                    //       theme: 'lib/reveal.js/dist/theme/black.css',
+                    //       highlightTheme: 'lib/reveal.js/plugin/highlight/monokai.css'
+                    //     },
+                    //     {
+                    //       name: 'Code: Zenburn',
+                    //       highlightTheme: 'lib/reveal.js/plugin/highlight/zenburn.css'
+                    //     }
+                    // ]
+                    // name: 'Metropolis', theme: 'dist/theme/metropolis.css',
+                    //
+                    // Note: specifying highlightTheme without a theme will
+                    // change the code highlight theme while leaving the
+                    // presentation theme unchanged.
+                    themes: false,
+
+                    // Specifies the path to the default theme files. If your
+                    // presentation uses a different path to the standard reveal
+                    // layout then you need to provide this option, but only
+                    // when 'themes' is set to 'true'. If you provide your own
+                    // list of themes or 'themes' is set to 'false' the
+                    // 'themesPath' option is ignored.
+                    themesPath: 'dist/theme/',
+
+                    // Specifies if the transitions menu panel will be shown.
+                    // Set to 'true' to show the transitions menu panel with
+                    // the default transitions list. Alternatively, provide an
+                    // array to specify the transitions to make available in
+                    // the transitions panel, for example...
+                    // ['None', 'Fade', 'Slide']
+                    transitions: false,
+
+                    // Adds a menu button to the slides to open the menu panel.
+                    // Set to 'false' to hide the button.
+                    openButton: true,
+
+                    // If 'true' allows the slide number in the presentation to
+                    // open the menu panel. The reveal.js slideNumber option must
+                    // be displayed for this to take effect
+                    openSlideNumber: false,
+
+                    // If true allows the user to open and navigate the menu using
+                    // the keyboard. Standard keyboard interaction with reveal
+                    // will be disabled while the menu is open.
+                    keyboard: true,
+
+                    // Normally the menu will close on user actions such as
+                    // selecting a menu item, or clicking the presentation area.
+                    // If 'true', the sticky option will leave the menu open
+                    // until it is explicitly closed, that is, using the close
+                    // button or pressing the ESC or m key (when the keyboard
+                    // interaction option is enabled).
+                    sticky: false,
+
+                    // If 'true' standard menu items will be automatically opened
+                    // when navigating using the keyboard. Note: this only takes
+                    // effect when both the 'keyboard' and 'sticky' options are enabled.
+                    autoOpen: true,
+
+                    // If 'true' the menu will not be created until it is explicitly
+                    // requested by calling RevealMenu.init(). Note this will delay
+                    // the creation of all menu panels, including custom panels, and
+                    // the menu button.
+                    delayInit: false,
+
+                    // If 'true' the menu will be shown when the menu is initialised.
+                    openOnInit: false,
+
+                    // By default the menu will load it's own font-awesome library
+                    // icons. If your presentation needs to load a different
+                    // font-awesome library the 'loadIcons' option can be set to false
+                    // and the menu will not attempt to load the font-awesome library.
+                    loadIcons: true
+                }
+            });
+        </script>
+    </body>
+</html>
