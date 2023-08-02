@@ -17,7 +17,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 2
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-5"> MEDI2101 iLearn Week 2</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=6" target="_blank"> MEDI2101 iLearn Week 2</a>
 
 ---
 ## LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
@@ -38,7 +38,9 @@ The 5 major functions of the respiratory system are to:
   
 --
 ### The five major functions of the respiratory system
-#### 
+
+#### 1. Conduction of air
+
 <figure>
   <img src="images/respiration.png" alt="" width="33%">
   <figcaption>
@@ -53,20 +55,14 @@ The 5 major functions of the respiratory system are to:
 </figure>
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
 
---
-### The five major functions of the respiratory system
-#### 
-
-Respiration in multi-cellular life can be used to refer to two different things:
-
+<!-- The five major functions of the respiratory system | Respiration in multi-cellular life can be used to refer to two different things:
 - **Cellular respiration**: The **intracellular reaction** of oxygen (O<sub>2</sub>) with organic molecules to produce carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O) and (importantly) energy (ATP).
 - **External respiration**: The **movement of gases** between the environment (air for land-dwelling life) and the body's cells to supply O<sub>2</sub> and remove CO<sub>2</sub>.
+When we are talking about the movement of air through the lungs, we are addressing part of the pathway of external respiration, not cellular respiration.-->
 
-<p class="fragment">When we are talking about the movement of air through the lungs, we are addressing part of the pathway of external respiration, not cellular respiration.</p>
-    
 --
 ### The five major functions of the respiratory system
-#### Conduction of air
+#### 1. Conduction of air
 
 <figure>
   <img src="images/UpperAndLowerRespiratory.png" alt="" width="40%">
@@ -88,7 +84,7 @@ Respiration in multi-cellular life can be used to refer to two different things:
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 <figure>
   <img src="images/gonzo.jpg" alt="" width="40%">
@@ -104,7 +100,7 @@ Functions of the nose
     
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 <figure>
   <img src="images/Respiratory_system_pharynx.svg" alt="" width="50%">
@@ -118,7 +114,7 @@ Function of the pharynx
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 <figure>
   <img src="images/larynx.jpg" alt="" width="25%">
@@ -139,7 +135,7 @@ The larynx contains the epiglottis (diversion of food) and the vocal cords (forc
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 <figure>
   <img src="images/LungBranches3.png" alt="" width="75%">
@@ -151,7 +147,7 @@ The larynx contains the epiglottis (diversion of food) and the vocal cords (forc
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 Airway resistance (\$R$\) and corollary of Poiseuille's law
 
@@ -172,7 +168,7 @@ where:
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 \begin{equation}
 R = \dfrac{8\mu L}{\pi r^4}
@@ -191,7 +187,7 @@ and inversely
 <span style="color:green">$\uparrow$</span> radius $\rightarrow$ <span style="color:green">$\downarrow$</span> resistance $\rightarrow$ <span style="color:green">$\uparrow$</span> flow
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.jpg" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" -->
 
 Which straw has the
 
@@ -202,7 +198,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 </p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.jpg" data-background-size="contain" data-background-opacity="0.3" -->
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
 
 Which straw has the
 
@@ -219,7 +215,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 </span>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.jpg" data-background-size="contain" data-background-opacity="0.3" -->
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
 
 Which straw has the
 
@@ -235,9 +231,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 </ul>
 </span>
 
---
-<!-- .slide: data-auto-animate data-background-image="images/LungBranches2.png" data-background-size="contain" -->
-
+<!-- slide: data-auto-animate data-background-image="images/LungBranches2.png" data-background-size="contain"
 <table border="0">
   <tr>
     <td width="80%"></td>
@@ -247,7 +241,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
     <td></td>
     <td><p class="fragment">$R = \dfrac{8\mu L}{\pi r^4}$</p></td>
   <tr>
-</table>
+</table>-->
 
 --
 
@@ -255,7 +249,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 
 --
 ### The five major functions of the respiratory system
-#### Conduction of Air
+#### 1. Conduction of Air
 
 <figure>
   <img src="images/LungBranches.png" alt="" width="60%">
@@ -269,7 +263,7 @@ $R = \dfrac{8\mu L}{\pi r^4}$
 
 --
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
+#### 2. Conditioning of air and protection from inhaled substances
 
 The respiratory mucosa lining the conducting airways conditions air before it reaches the alveoli.
 
@@ -282,16 +276,15 @@ The respiratory mucosa lining the conducting airways conditions air before it re
     
 --
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
+#### 2. Conditioning of air and protection from inhaled substances
 
 The mucosal lining also **traps** and **transports** some **pathogens**. 
 
 The **ciliary beat** that removes mucous (and trapped pathogens) relies on the thin saline secreted by epithelial cells of the respiratory system.
 
---
+<!--
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
-
+#### 2. Conditioning of air and protection from inhaled substances
 <figure>
   <img src="images/mucosallining.png" alt="" width="42%">
   <figcaption>
@@ -305,8 +298,8 @@ The **ciliary beat** that removes mucous (and trapped pathogens) relies on the t
 </ul>
   </figcaption>
 </figure>
-<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
-    
+<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p> -->
+
 --
 <!-- .slide: daa-auto-animate data-background="#111111" -->
 <video data-autoplay data-src="images/MucociliaryClearance.mp4"></video>
@@ -319,7 +312,7 @@ The **ciliary beat** that removes mucous (and trapped pathogens) relies on the t
     
 --
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
+#### 2. Conditioning of air and protection from inhaled substances
 
 The mucosal lining is a fluid. Therefore, there is a surface tension drawing the wetted surfaces together especially in the elastic, flexible alveoli.
 
@@ -333,7 +326,7 @@ An air pressure is needed to overcome this surface tension (Laplace Law).
     
 --
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
+#### 2. Conditioning of air and protection from inhaled substances
 
 <figure>
   <img src="images/Surfactant.jpg" alt="" width="50%">
@@ -365,7 +358,7 @@ An air pressure is needed to overcome this surface tension (Laplace Law).
 
 --
 ### The five major functions of the respiratory system
-#### Conditioning of air and protection from inhaled substances
+#### 2. Conditioning of air and protection from inhaled substances
 
 **Alveolar stability**
       
@@ -395,18 +388,18 @@ $\dfrac{2T\downarrow}{R}=P\downarrow$
 
 --
 ### The five major functions of the respiratory system
-#### Gas exchange between air and blood
+#### 3. Gas exchange between air and blood
 
- Oxygen needs to travel across the alveolar surface from the alveolar air into the blood stream.
- 
- Carbon dioxide needs to travel in the reverse direction.
- 
- This will be covered in greater detail in the following lecture.
-      
+Oxygen needs to travel across the alveolar surface from the alveolar air into the blood stream.
+
+Carbon dioxide needs to travel in the reverse direction.
+
+This will be covered in greater detail in the following lecture.
+
 --
 ### The five major functions of the respiratory system
-#### pH regulation
-  
+#### 4. pH regulation
+
 When carbon dioxide is dissolved in blood (water):
 
 \begin{equation}
@@ -418,24 +411,37 @@ When carbon dioxide is dissolved in blood (water):
 \end{equation}
 
 <p class="fragment">Increasing the concentration of H<sup>+</sup> increases the acidity (decreases pH) and vice versa.</p>
-  
+
 --
 ### The five major functions of the respiratory system
-#### pH regulation
-  
+#### 4. pH regulation
+
 By altering the rate of ventilation, the rate of CO<sub>2</sub> movement our of the blood can be modified, thereby changing blood pH. 
 
 Regulation of ventilation (and pH) will be covered next week.
 
 --
 ### The five major functions of the respiratory system
-#### Vocalisation
-      
+#### 5. Vocalisation
+
 Speech (or just vocal noise) requires three main processes to work together:
 
 1. Air must be in motion (muscles of respiration and clear airways).
 1. Vibrations must be established in the air stream (vocal cords).
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
+
+--
+
+#### LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
+
+#### Reflection quiz
+
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c2e31f524f73a6007dbf" data-background-interactive -->
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -443,7 +449,7 @@ Speech (or just vocal noise) requires three main processes to work together:
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/musclesofrespiration1.png" data-background-size="contain" data-background-position="right" -->
-  
+
 ### Pressure-volume changes during normal breathing
 ####
     
@@ -611,12 +617,12 @@ $P_1\cdot V_1 = P_2 \cdot V_2$
 <b>(B1)</b> The intra-pleural pressure is negative at rest. 
 
 <b>(B1-B2)</b> Inspiration.
-        
+
 The expanding thoracic cage, decreases intrapleural pressure. 
 
 This pressure is a partially transferred to the lungs and alveoli (partially, as the lung tissue is elastic). 
 
-This in turn decreases lung pressure, and flow of air into the lungs follows.    
+This in turn decreases lung pressure, and flow of air into the lungs follows.
   </figcaption>
 </figure>
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
@@ -636,15 +642,15 @@ When alveolar pressure rises above atmospheric pressure, there is an outward flo
   </figcaption>
 </figure>
 <p class="citation"><em>Guyton and Hall Textbook of Medical Physiology</em></p>
-  
---
+
+<!--
 ### Pressure-volume changes during normal breathing
 #### Collapsed Lung
 <figure>
   <img src="images/collapsedlung.png" alt="" width="40%">
   <figcaption>
 If the intrapleural space is punctured, the intrapleural pressure equalises to atmospheric pressure.
-      
+
 This means the intrapleural pressure would be equal to the lung pressure.
 
 The lack of a negative intrapleural pressure on the elastic tissue of the lung means that the elastic tissue recoils to its unstretched state.
@@ -653,7 +659,23 @@ That is, the lung collapses.
   </figcaption>
 </figure>
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
-    
+-->
+
+--
+#### LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cb641f524f73a60089b4" data-background-interactive -->
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cd3a1f524f73a600906f" data-background-interactive -->
+
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/VocalCords.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO1.2.3 Describe the four pulmonary volumes and the four pulmonary lung capacities.
@@ -712,11 +734,9 @@ we can calculate the minute ventilation
 <p class="fragment">There is not much more I can teach you about this - but it is important.<p>
 
 --
-<!-- .slide: data-background="#373A36" -->
 
-<p style="color:white;font-size:1.5em">Vocalisation</p>
+#### LO1.2.3 Describe the four pulmonary volumes and the four pulmonary lung capacities
+#### Review quiz
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/VocalCords.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9da0b1f524f73a600a74c" data-background-interactive -->
