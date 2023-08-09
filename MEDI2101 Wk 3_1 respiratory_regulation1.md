@@ -17,25 +17,32 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 3
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-8"> MEDI2101 iLearn Week 3</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=7"> MEDI2101 iLearn Week 3</a>
 
 --
 ###
 #### A lot of work?
 
 - In theory, each 10 credit point unit should have around 10 to 12 hours of content / work each week (including time to complete assessments).
-- I have tried to put together the best material to help you progress toward a medical / clinical career.
+- I have tried to put together the best combination of material for this unit topic.
 - Nothing is compulsory. As an adult learner, you can decide whether you engage a lot or a little.
 
 --
 ###
-#### Anatomy quizzes - or anything else missed?
+#### Feeling overwhelmed?
 
 Please send me a private message through the iLearn private message system.
 
-I am very happy to extend the closing time on any of the anatomy formative quizzes if you have not completed them.
+Or book a face-to-face or on-line visit with me using the link on iLearn.
 
----
+The unit staff are here to get you through this unit (not to fail you).
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
+
+--
 <!-- .slide: data-auto-animate-restart -->
 Respiration changes in response to the physiological status and surrounding environment. That is a **change** in the physiology or environment needs to be **detected** and a response invoked as a result. The inputs that regulate respiration include:
 
@@ -217,6 +224,14 @@ Effective functioning of body processes require rather narrow ranges of these pa
 
 <p class="fragment">If blood oxygen, carbon dioxide, and pH is pathological when outside a normal range, there must be sensors in the body that detect abnormalities to feedback to the respiratory and cardiovascular system to bring these gases / pH back into the normal range.</p>
 
+--
+
+#### LO1.3.1 Know the normal levels of the three arterial blood parameters that are monitored and used to regulate ventilation: (1) oxygen, (2) carbon dioxide, and (3) pH levels
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d30da41f524f73a606829f" data-background-interactive -->
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO1.3.2 Identify that central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing
@@ -234,7 +249,7 @@ Effective functioning of body processes require rather narrow ranges of these pa
 ####  Peripheral chemoreceptors
 
 <figure>
-  <img src="images/PeripheralChemoreceptors.png" alt="" width="30%">
+  <img src="images/PeripheralChemoreceptors.webp" alt="" width="30%">
   <figcaption>
 Peripheral chemoreceptors are located in the carotid and aortic bodies.
 <ul class="fragment">
@@ -349,7 +364,7 @@ carbon dioxide + water $\longrightarrow$ carbonic acid $\longrightarrow$ hydroge
 --
 <!-- .slide: data-background-image="images/fishtankheater.jpg" data-background-opacity="0.6" -->
 ### Chemoreceptor input to the respiratory centre
-####
+#### A pathway of homeostasis
 <div class="r-stack">
 <img class="fragment" src="images/negative_feedback_heater.svg" width="50%">
 <img class="fragment" src="images/negative_feedback_oxygen.svg" width="50%">
@@ -358,6 +373,17 @@ carbon dioxide + water $\longrightarrow$ carbonic acid $\longrightarrow$ hydroge
 <aside class="notes">
 The chemosensing pathway provides a negative feedback loop for changes in oxygen, carbon dioxide, and H<sup>+</sup> in blood by sensing these parameters, the feedback leading to a change in ventilation and an opposite change in that parameter. The figure gives the example of blood oxygen. A drop in blood oxygen would be detected by chemosensors, the signal fed to the respiratory centre, where the somatic neuronal output increases respiratory rate and tidal volume, increasing the partial pressure of O<sub>2</sub> in the alveoli, and therefore more oxygen will diffuse into blood (opposing the initial drop in blood oxygen).
 </aside>
+
+--
+
+#### LO1.3.2 Identify that central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d311561f524f73a6068810" data-background-interactive -->
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d311f91f524f73a60688cb" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -463,7 +489,7 @@ Immediately activated with dynamic exercise, causing increased breathing rate/vo
 
 Also can cause a hyperventillatory response.
 
-<img src="images/Childrens_pain_scale.jpg" width="66%">
+<img src="images/Childrens_pain_scale.webp" width="66%">
 
 <p class="citation">Robert Weis, <a href="https://commons.wikimedia.org/wiki/File:Children%27s_pain_scale.JPG">https://commons.wikimedia.org/wiki/File:Children%27s_pain_scale.JPG</a></p>
 
@@ -605,3 +631,11 @@ Also can cause a hyperventillatory response.
 
 
 <p class="citation">Created for MEDI2101</p>
+
+--
+
+#### LO1.3.3 Understand the receptors and reflexes affecting respiratory centres: stretch (Hering-Breuer); juxtacapillary; irritant; proprioceptors; thermoreceptors; pain; cough and sneezing; deglutation
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d314aa1f524f73a6068bfc" data-background-interactive -->

@@ -431,7 +431,6 @@ Speech (or just vocal noise) requires three main processes to work together:
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
 
 --
-
 #### LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
 
 #### Reflection quiz
@@ -439,9 +438,9 @@ Speech (or just vocal noise) requires three main processes to work together:
 
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c2e31f524f73a6007dbf" data-background-interactive -->
-
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
+
 
 ---
 <!-- .slide: data-auto-animate-restart -->

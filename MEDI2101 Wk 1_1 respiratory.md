@@ -15,6 +15,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <ul>
 <li>Room mic on.</li>
 <li>Projecting correct content to correct screen.</li>
+<li>Logged into Flux.</li>
 <li>Zoom:</li>
 <ul>
     <li>Correct mic and camera.</li>
