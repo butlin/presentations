@@ -363,22 +363,19 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   <div class='picture'>
     <img src='images/ECG_normal_intervals.jpg' width='100%'>
   </div>
-  <div class='description'>
-    <h3>Wait! What? A "U" wave?<h3>
-    <h3>What is the U wave?</h3>
-    <div class="fragment">
-      <p>Usually not present.
-      <p>Thought to indicate some kind of pathology.</p>
-      <p>Cause? Theories include:</p>
-      <ul>
-            <li>  repolarisation of the Purkinje fibres (unlikely given small volume of Purkinje fibres)</li>
-            <li>  late depolarisation or repolarisation of sections of the left ventricle, especially in left ventricular hypertrophy</li>
-      </ul>
-    </div>
-  </div>
-  <div class='credit'>
-    <p><a href="https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/">https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/</a></p>
-  </div>
+
+--
+### Wait! What? A "U" wave?
+#### What is the U wave?
+<p>Usually not present.
+<p>Thought to indicate some kind of pathology.</p>
+<p>Cause? Theories include:</p>
+<ul>
+      <li>  repolarisation of the Purkinje fibres (unlikely given small volume of Purkinje fibres)</li>
+      <li>  late depolarisation or repolarisation of sections of the left ventricle, especially in left ventricular hypertrophy</li>
+</ul>
+<div class='credit'>
+  <p><a href="https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/">https://ecgwaves.com/ecg-topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/</a></p>
 </div>
 
 --

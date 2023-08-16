@@ -32,14 +32,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h3>MEDI2101 Cardiovascular and Respiratory System</h3>
 <h4>To do in Week 4</h4>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-9"> MEDI2101 iLearn Week 4</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=8"> MEDI2101 iLearn Week 4</a>
 
---
+<!--
 <h3>MEDI2101 Cardiovascular and Respiratory System</h3>
 <h4>Overview of marks</h4>
-
 <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-2">Assessment Task 1 marks overview</a>
-
+-->
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO2.1.1 Relate the gross anatomy of the heart to the function of the heart.
@@ -198,6 +197,14 @@ $\begin{eqnarray}
 <img class="r-stretch" src="images/heart_layers.jpeg">
 <p class="citation"></p>
 
+--
+#### LO2.1.1 Relate the gross anatomy of the heart to the function of the heart
+
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc294a1f524f73a60ba264" data-background-interactive -->
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO2.1.2 Identify that there are three types of myocardial cells: (1) contractile, (2) auto-rhythmic, and (3) conductive.
@@ -284,6 +291,14 @@ $\begin{eqnarray}
   <li> smaller with fewer contractile fibres than myocardial <em>contractile</em> cells</li>
   <li> do not contribute to the measured electrocardiogram (ECG)</li>
 </ul>
+
+--
+
+#### LO2.1.2 Identify that there are three types of myocardial cells.
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2ad81f524f73a60ba2b4" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -463,3 +478,14 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 <img src="images/muscle_contraction.jpg" width="90%">
 
 <p>ATP: adenosine triphospate. ADP: adenosine diphosphate. Pi: phosphate. See Kreb's cycle.</p>
+
+--
+
+#### LO2.1.3 Compare and contrast action potentials of myocardial auto-rhythmic and contractile cells (and recognise that these differ from action potentials in nerves and other types of muscle).
+#### Reflection quiz
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2c481f524f73a60ba348" data-background-interactive -->
+
+--
+<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2dcf1f524f73a60ba3a2" data-background-interactive -->
