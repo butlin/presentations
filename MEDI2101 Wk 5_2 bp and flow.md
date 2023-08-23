@@ -10,7 +10,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
 ---
@@ -171,7 +170,7 @@ If we halve the radius of a vessel, we increase resistance by $2^{4}=16$, result
 </span>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.jpg" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" -->
 
 --
 <!-- .slide: data-auto-animate -->
@@ -181,8 +180,8 @@ If we halve the radius of a vessel, we increase resistance by $2^{4}=16$, result
 <div class='media'>
   <div class='picture'>
     <div class="r-stack">
-      <img src="images/flowandpressure0.jpg" width="100%">
-      <img class="fragment" data-fragment-index="1" src="images/flowandpressure1.jpg" width="100%">
+      <img src="images/flowandpressure0.webp" width="100%">
+      <img class="fragment" data-fragment-index="1" src="images/flowandpressure1.webp" width="100%">
     </div>
   </div>
   <div class='description'>
@@ -314,9 +313,9 @@ Autoregulation exists to some extent in all tissues, but is very strong in the b
 ### Local (regional) blood flow autoregulation
 #### Example
 
-During exercise, skeletal muscle can have as much as a 10 times greater oxygen demand and creates more carbon dioxide that needs to be removed, therefore requires greater blood flow. Vasodilation in the arteries supplying the skeletal muscle can in part facilitate this (along with increased cardiac output).
+During exercise, skeletal muscle can have as much as a 10 times greater oxygen consumpation and creates more carbon dioxide that needs to be removed, therefore requires greater blood flow. Vasodilation in the arteries supplying the skeletal muscle can in part facilitate this (along with increased cardiac output).
 
-<p class="fragment">At the same time, the brain requires a constant supply of blood, regardless of changes in cardiac output. Local vascular regulation ensures that the blood flow to the brain is constant, in the face of changes in blood pressure and cardiac output.</p>
+<p class="fragment">At the same time, the brain requires a constant supply of blood, regardless of changes in cardiac output. In this case, local vascular regulation ensures that the blood flow to the brain is constant, in the face of changes in blood pressure and cardiac output.</p>
 
 <p class="fragment">The precise <em>mechanism</em> behind regional control of blood flow is unknown - but we have some theories...</p>
 
@@ -349,11 +348,11 @@ Therefore, absence of oxygen means smooth muscle cannot contract i.e. dilation a
 
 **Metabolic theory**
 
-1. $\uparrow$ blood pressure
-1. $\uparrow$ blood flow
-1. $\downarrow$ decrease concentration of metabolites (due to greater volume passing through vessel bed)
-1. $\downarrow$ vasodilation ($\uparrow$) vasoconstriction
-1. $\downarrow$ blood flow
+1. $\uparrow$ blood pressure.
+1. $\uparrow$ blood flow.
+1. $\downarrow$ decrease concentration of metabolites (due to greater volume passing through vessel bed). Most metabolites are vasodilators.
+1. $\downarrow$ vasodilation ($\uparrow$) vasoconstriction.
+1. $\downarrow$ blood flow.
 
 --
 ### Local (regional) blood flow autoregulation

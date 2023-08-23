@@ -23,13 +23,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 5
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-10">MEDI2101 iLearn Week 5</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=9" target="_blank">MEDI2101 iLearn Week 5</a>
 
 --
 ### MEDI2101 Cardiovascular and Respiratory System
 #### Assesssment Task 2: Anatomy test
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-12">Assessment Task 2 description in iLearn</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=2" target="_blank">Assessment Task 2 description in iLearn</a>
 
 --
 ### History of the "discovery" of circulation
@@ -69,7 +69,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 **Smith papyrus**
 
-<img src="images/Smith_papyrus_counting_the_pulse.jpg">
+<img src="images/Smith_papyrus_counting_the_pulse.webp">
 
 <p><span style="color:#FE5F55;font-weight: bold;font-size: 70px;float: left;line-height: 60px;padding-right: 8px;margin-top: -3px">"</span>Counting the pulse<span style="color:#FE5F55;font-weight: bold;font-size: 70px;line-height: 60px;padding-right: 8px;margin-top: -3px">"</span></p>
 
@@ -89,7 +89,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p><span style="color:#FE5F55;font-weight: bold;font-size: 70px;float: left;line-height: 60px;padding-right: 8px;margin-top: -3px">"T</span>The vessels spread themselves over the body filling it with spirit, juice, and motion are all of them but branches of an original vessel. I protest I know now where it begins or where it ends, for in a circle there is neither a beginning nor an end.<span style="color:#FE5F55;font-weight: bold;font-size: 70px;float: right;line-height: 60px;padding-right: 8px;margin-top: -3px">"</span></p>
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/GalenDiagram.jpg" data-background-size="contain" data-background-position="right" -->
+<!-- .slide: data-auto-animate data-background-image="images/GalenDiagram.webp" data-background-size="contain" data-background-position="right" -->
 ### History of the "discovery" of circulation
 #### The influence of unscientific process and of Christianity<br>100--200 AD. Galen.
 
@@ -136,12 +136,10 @@ The main functions of the circulatory system are:
   -  carries hormones from endocrine glands to body cells
   -  carries immune cells, antibodies (in blood) to sites where
     needed
-<span class="fragment">
 - **regulation**
   -  helps regulate the pH of body fluid
   -  helps regulate body temperature
   -  regulates water content of cells
-</span>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -193,7 +191,7 @@ The main functions of the circulatory system are:
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/circulation_blood_vessels.svg' width='100%'>
+    <img src='images/circulation_blood_vessels.png' width='100%'>
   </div>
   <div class='description'>
     <p>There are five broad types of blood vessels. In order of travelling away from the heart:<p>
@@ -228,7 +226,7 @@ This is a limited occurrence in the human body:
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Blood_Flow_Through_the_Heart.jpg' width='100%'>
+    <img src='images/Blood_Flow_Through_the_Heart.webp' width='100%'>
   </div>
   <div class='description'>
     <p>Blood circulates from the heart, through arteries, through a capillary network, and into veins and then back to the heart.</p>
@@ -250,7 +248,7 @@ This is a limited occurrence in the human body:
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/circulation_blood_vessels.svg' width='100%'>
+    <img src='images/circulation_blood_vessels.png' width='100%'>
   </div>
   <div class='description'>
     <p>There are five broad types of blood vessels. In order of travelling away from the heart:<p>
@@ -272,7 +270,7 @@ This is a limited occurrence in the human body:
 ### The five major types of blood vessels
 #### Layers within the larger blood vessels
 
-<img src="images/ArteryVein.jpg" width="50%">
+<img src="images/ArteryVein.webp" width="50%">
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/p16_Artery.jpg" -->
@@ -291,7 +289,7 @@ This is a limited occurrence in the human body:
 - **Media** Contains load bearing components: elastin; collagen (collagen is 10-50 times stiffer than elastin); and smooth muscle cells. Collagen and elastic fibers allow vessels to stretch to prevent over expansion due to the pressure that is exerted on the walls.
 - **Adventitia** Strong outer covering of arteries and veins. Connective tissue and some collagen and elastin.
 
-<img src="images/ArteryVein.jpg" width="25%" align="right">
+<img src="images/ArteryVein.webp" width="25%" align="right">
 
 
 --
@@ -414,7 +412,7 @@ Compliance ($C$) is the ability to accommodate a volume ($V$) under a pressure (
 --
 <!-- .slide: data-auto-animate  -->
 <p>Capillary flow (shown here as nasal capillaries in response to a smell) is non-pulsatile.</p>
-<img data-id="pulsatile" src="images/capillary_flow.jpg" width="50%" align="lefts">
+<img data-id="pulsatile" src="images/capillary_flow.webp" width="50%" align="lefts">
 <p class="citation">Chaigneau E et al. Two-photon imaging of capillary blood flow in olfactory bulb glomeruli.<br>Proc Natl Acad Sci USA. 2003, 100:13081--6.</p>
 
 --
@@ -474,7 +472,7 @@ During times of high oxygen demand this can be mobilised (due to signals receive
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Capillaries.jpg' width='100%'>
+    <img src='images/Capillaries.webp' width='100%'>
   </div>
   <div class='description'>
     <ul>
@@ -492,7 +490,7 @@ During times of high oxygen demand this can be mobilised (due to signals receive
 ### The five major types of blood vessels
 #### Capillaries
 
-<img src='images/Capillary.jpg' width='33%' align="right">
+<img src='images/Capillary.webp' width='33%' align="right">
 <p>Capillaries are constructed of a single layer of squamous epithelial cells on a basement membrane.</p>
 <p>The vessels are barely large enough for a red blood cell to pass through (4 to 9 micrometres diameter).</p>
 <p>Capillary types classified by diameter and permeability:</p>
@@ -502,24 +500,3 @@ During times of high oxygen demand this can be mobilised (due to signals receive
     <li> <b>Sinusoidal</b> Large diameter with large fenestrae</li>
 </ul>
 <p>Fenestrated and sinusoidal capillaries allow absorption and filtration of water and ions from blood to other body cells.</p>
-
----
-<!-- .slide: data-auto-animate-restart -->
-### Student Experience Survey
-#### Have your say
-<div class='media'>
-  <div class='picture'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tHqQLwE7Wgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class='description'>
-    <ul>
-      <li><b>Check your email inbox</b> for the Student Experience Survey.</li>
-      <li>Help shape the future of higher education in Australia.</li>
-      <li><b>Complete for a chance to win $1000.</b></li>
-      <li>Survey closes this Sunday (28th August).</li>
-    </ul>
-    <img src="https://www.qilt.edu.au/images/default-source/logo/logo-sesf5a95673b2324b33824a175f9c336deb.svg?sfvrsn=509b1dab_2&quality=90&resize=1">
-  </div>
-  <div class='credit'>
-  </div>
-</div>
