@@ -78,11 +78,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <!-- .slide: data-auto-animate-->
 ### Baroreceptor reflex
 #### Physiological example 1: Valsalva maneuver (with faint)
-
-<div class="r-stack">
-<img src="images/ValsalvaVasovagalFigure1.png">
-<img class="fragment" src="images/ValsalvaVasovagalFigure2.png">
-</div>
+<img src="images/ValsalvaVasovagalFigure2.png">
 <p class="citationside">Data/images souce: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 <aside class="notes">Valsalva maneuver (blowing against a closed system with an open glottis) to change intrathoracic pressure. Large systemic effects on sympathetic and parasympathetic output driven by and driving blood pressure (systolic blood pressure, SBP), cardiac output (heart rate HR, stroke volume SV), and total peripheral resistance (TPR) changes.</aside>
 

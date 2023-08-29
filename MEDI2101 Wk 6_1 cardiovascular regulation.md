@@ -130,7 +130,7 @@ Mechanism of increased venous return during movement (especially <em>dynamic</em
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/skeletalmusclepump.jpg' width='80%'>
+    <img src='images/skeletalmusclepump.webp' width='80%'>
   </div>
   <div class='description'>
     <p>During skeletal muscle contraction (and shortening), the veins are compressed, increasing local pressure and increasing flow.</p>
@@ -651,11 +651,12 @@ A rapid rise in blood pressure is invoked by:
 </ul>
 
 --
-<!-- .slide: data-auto-animate-->
 ### Sympathetic and parasympathetic innervation
 #### Physiological example: Vasovagal syncope
-<span class="r-stack">
 <img src="images/ValsalvaVasovagalFigure1.png">
-<img class="fragment" src="images/ValsalvaVasovagalFigure2.png">
-</span>
+
+--
+### Sympathetic and parasympathetic innervation
+#### Physiological example: Vasovagal syncope
+<img src="images/ValsalvaVasovagalFigure2.png">
 <p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
