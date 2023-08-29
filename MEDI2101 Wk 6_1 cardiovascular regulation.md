@@ -17,25 +17,19 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 6
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-11"> MEDI2101 iLearn Week 6</a>
-
---
-###  Assessment Task 3 Part A: Manuscript figure
-####
-
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-14">Assessment description</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=10"> MEDI2101 iLearn Week 6</a>
 
 --
 ### Open (physical and virtual) door
 ####
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">MEDI2101 Q&A Forum</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">MEDI2101 Q&A Forum</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">MEDI2101 iLearn private message</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">MEDI2101 iLearn private message</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">Discord</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">Discord</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513">See Dr Butlin's availability and book a time (face to face or video conference)</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">See Dr Butlin's availability and book a time (face to face or video conference)</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -662,6 +656,6 @@ A rapid rise in blood pressure is invoked by:
 #### Physiological example: Vasovagal syncope
 <span class="r-stack">
 <img src="images/ValsalvaVasovagalFigure1.png">
-<!-- <img class="fragment" src="images/ValsalvaVasovagalFigure2.png"> -->
+<img class="fragment" src="images/ValsalvaVasovagalFigure2.png">
 </span>
 <p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>

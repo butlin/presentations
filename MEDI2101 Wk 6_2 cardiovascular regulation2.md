@@ -365,8 +365,10 @@ Induced by:
 ## LO2.3.8 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
 
 --
+### Bringing it all together
+####
+--
 <!-- .slide: data-auto-animate data-background-image="images/MAPoverview.png" data-background-size="contain" -->
-### Bringing it all<br>together
 <p>&nbsp;</p>
 <p class="citationleft">Sherwood L. Human Physiology<br>From Cells to Systems. 4th Ed.</p>
 
@@ -445,8 +447,7 @@ $\begin{align}
 
 $ \mathrm{MAP} \propto \mathrm{blood\~volume} $
 
---
-### Bringing it all together
+<!-- ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
 Venous return mechanisms (where venous return is altered, e.g. by sympathetic stimulation of the venous smooth muscle; skeletal muscle pump; respiratory pump;). For increased venous return (opposite for decreased venous return):
@@ -457,7 +458,6 @@ Venous return mechanisms (where venous return is altered, e.g. by sympathetic st
       <li> <b>Cardiopulmonary baroreceptors:</b> negative feedback, signal to the central nervous system, decreasing sympathetic and increasing parasympathetic outflow (effects across SV, HR, TPR, and longer term, blood volume).</li>
 </ul>
 
---
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
@@ -468,14 +468,14 @@ Other mechanisms that alter blood pressure:
   <li> <b>chemoreceptors:</b> negative feedback, signal to the central nervous system, decreasing sympathetic and increasing parasympathetic outflow (effects across SV, HR, TPR, and longer term, blood volume). Also cross-talk with respiratory system.</li>
 </ul>
   
---
+
 ### Bringing it all together
 #### Regulating mean arterial pressure: An overview
 
 <ul>
   <li> <b>renal control of blood volume:</b> controlled (primarily) by central nervous system sympathetic outflow. Slower acting for blood pressure control than baroreceptors and chemoreceptors as it alters blood volume.</li>
   <li> <b>hormonal control of blood pressure:</b> also controlled (primarily) by central nervous system sympathetic outflow. Different hormones act on different places (vasocronstrictors = TPR changes; renal acting = changes in blood volume)</li>
-</ul>
+</ul>-->
 
 --
 <!-- .slide: data-auto-animate data-background="#111111" -->
