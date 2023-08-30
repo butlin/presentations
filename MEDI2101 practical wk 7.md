@@ -253,8 +253,11 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 ### Let's play Jeopardy
 #### (sort of)
 
-<p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</p>
+<p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
 
 <img src="images/qr_buzzonk.png" width="200px">
+
+<label for="fname">Room code:</label>
+<input type="text" id="roomcode" name="roomcode">
 
 <p><a href="https://jeopardylabs.com/play/medi2101-week-7-practical">Jeopardy link</a></p>
