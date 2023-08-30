@@ -1,6 +1,6 @@
 # MEDI2101 <br>Cardiovascular and Respiratory System.
 # Practicals
-##### Unit convenor: Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+##### Unit convenor: Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -27,10 +27,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ####
 
 - <a href="https://bit.ly/2MkvaCT" target="_blank">Online spreadsheet</a>
-- <a href="https://flux.qa/X9D24Q" target="_blank">Quiz questions</a>
 
 Staff links:
-- <a href="https://ilearn.mq.edu.au/mod/lti/view.php?id=7081033" target="_blank">Quiz questions</a>
 - <a href="https://ilearn.mq.edu.au/mod/resource/view.php?id=7291776" target="_blank">ADInstruments LabChart settings file</a>
 
 --
@@ -152,17 +150,6 @@ Many of the activities will involve placing instrumentation on each other and ob
 Each person (who wishes to have their blood pressure taken), choose a number in <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>, and enter your blood pressure (as read by the automatic sphygmomanometer). 
 
 --
-
-### 4 questions on blood pressure.
-####
-
-<a href="https://flux.qa/X9D24Q" target="_blank">https://flux.qa/X9D24Q</a>
-
-(Keep the quiz open after answering. There will be more questions later in the practical.)
-
-<!-- BETTER IDEA FOR QUIZ????? data-background-iframe="https://jeopardylabs.com/play/weather" data-background-interactive -->
-
---
 ### Activity<br>Respiratory belt<br>10 minutes
 
 <div class='media'>
@@ -184,13 +171,6 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
     <p></p>
   </div>
 </div>
-
---
-
-### 3 questions on respiratory measurement.
-####
-
-<a href="https://flux.qa/X9D24Q" target="_blank">https://flux.qa/X9D24Q</a>
 
 --
 <!-- .slide: data-visibility="hidden" -->
@@ -270,7 +250,11 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 
 --
 
-### 4 questions on cardiovascular and respiratory variability.
-####
+### Let's play Jeopardy
+#### (sort of)
 
-<p><a href="https://flux.qa/X9D24Q">https://flux.qa/X9D24Q</a></p>
+<p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</p>
+
+<img src="images/qr_buzzonk.png" width="200px">
+
+<p><a href="https://jeopardylabs.com/play/medi2101-week-7-practical">Jeopardy link</a></p>
