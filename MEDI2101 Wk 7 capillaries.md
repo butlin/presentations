@@ -17,13 +17,13 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 7
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-13"> MEDI2101 iLearn Week 7</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=11"> MEDI2101 iLearn Week 7</a>
 
 --
-###  Assessment Task 3 Part A: Manuscript figure
+###  Assessment Task 3a: Manuscript figure
 ####
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-15">Assessment description</a>
+<a href="https://ilearn.mq.edu.au/mod/assign/view.php?id=7611983">Assessment description</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -35,7 +35,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Capillaries.jpg' width='100%'>
+    <img src='images/Capillaries.webp' width='100%'>
   </div>
   <div class='description'>
     <ul>
@@ -67,7 +67,7 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Capillaries.jpg' width='100%'>
+    <img src='images/Capillaries.webp' width='100%'>
   </div>
   <div class='description'>
         <p><b>Vasomotion regulation</b></p>
@@ -89,7 +89,7 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Capillary.jpg' width='100%'>
+    <img src='images/Capillary.webp' width='100%'>
   </div>
   <div class='description'>
     <p>Capillary wall consists of endothelial cells on a basement membrane.</p>
