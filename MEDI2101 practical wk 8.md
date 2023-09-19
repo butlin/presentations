@@ -1,8 +1,8 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk8prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
-# Week 8, Practical<br>Physiological measurement data collection for Part 2 of AT3
-##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him)
+# Week 8, Practical<br>Physiological measurement data collection for AT3b
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
