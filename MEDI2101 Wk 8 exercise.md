@@ -27,29 +27,24 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
---
-### Feedback - Assessment Task 2: Anatomy test
-#### Dr Mirjana Strkalj
-
-<!-- <p class="citation"><a href="temp.html#marks" target="\_blank">Overview of marks</a></p> -->
-
+<!-- ### Feedback - Assessment Task 2: Anatomy test
+#### Dr Mirjana Strkalj<p class="citation"><a href="temp.html#marks" target="\_blank">Overview of marks</a></p> -->
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 8
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-16"> MEDI2101 iLearn Week 8</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=12"> MEDI2101 iLearn Week 8</a>
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 8 - Submit assessment task 3.1
+#### To do in Week 8 - Submit assessment task 3a
 
 <img class="r-stretch" src="images/AT3_1 flow_diagram_example.png">
 
---
-###  MEDI2101 Cardiovascular and Respiratory System
+<!-- ###  MEDI2101 Cardiovascular and Respiratory System
 #### Details on AT4 Final Exam
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25" target="\_blank">Description of AT4 Final Exam on iLearn.</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25" target="\_blank">Description of AT4 Final Exam on iLearn.</a> -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -116,7 +111,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <div class='media'>
   <div class='picture'>
-    <img data-id='mcardle' src='images/energy_systems_mcardle.jpg' width='100%'>
+    <img data-id='mcardle' src='images/energy_systems_mcardle.png' width='100%'>
   </div>
   <div class='description'>
     <span class='fragment'>
@@ -135,7 +130,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 <div class='media'>
   <div class='picture'>
-    <img data-id='mcardle' src='images/energy_systems_mcardle_aerobic.jpg' width='100%'>
+    <img data-id='mcardle' src='images/energy_systems_mcardle_aerobic.png' width='100%'>
   </div>
   <div class='description'>
     <p>Any period of aerobic activity requires oxygen. </p>
@@ -315,8 +310,8 @@ It can be used as a measure of someone's cardiovascular fitness.
 #### Rate limiting components
 
 <div class="r-stack">
-<img class="fragment fade-out" data-fragment-index="0" src="images/FickPrinciple.svg" width="75%">
-<img class="fragment" data-fragment-index="0" src="images/FickPrinciple_vo2max.svg" width="75%">
+<img class="fragment fade-out" data-fragment-index="0" src="images/FickPrinciple.svg" width="66%">
+<img class="fragment" data-fragment-index="0" src="images/FickPrinciple_vo2max.svg" width="66%">
 </div>
 
 --
@@ -638,7 +633,7 @@ LO2.3.5 Outline the key steps of the chemoreceptor reflex, including the: stimul
 
 <p>The baroreceptors provide negative feedback, decreasing blood pressure in response to a blood pressure increase - not an ideal response during exercise.</p>
 
-<img data-id="dampney" src="images/Dampney2017A.jpg" width="100%">
+<img data-id="dampney" src="images/Dampney2017A.png" width="100%">
 <p class="citation">SNA: sympathetic nerve activity; RSNA: renal SNA; MAP: mean arterial pressure.<br><a href="http://doi.org/10.3389/fnins.2017.00461">Dampney Roger A. L., Resetting of the Baroreflex Control of Sympathetic Vasomotor Activity during Natural Behaviors, Frontiers in Neuroscience, (2017), 11:461.</a></p>
 
 --
