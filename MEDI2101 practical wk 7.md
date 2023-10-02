@@ -250,7 +250,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 
 --
 
-### Let's play Jeopardy
+### Let's play Jeopardy!
 #### (sort of)
 
 <p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>

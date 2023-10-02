@@ -1,7 +1,8 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
-# Week 9, Practical: Exercise physiology
+
+# Week 9, Practical: Autonomic function tests
 <!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -13,50 +14,173 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 
---
+### What is an autonomic function test?
 
-<span style="color:red">**If you have asthma or any other breathing difficulties, do NOT be a study volunteer in today's study.**</span>
-
---
-### Wall squat
 ####
 
-We are going to measure respiratory rate, heart rate, and blood pressure before and during a 3 minute wall squat.
+Any test that interrogates autonomic function for the purposes of diagnosing dysfunction.
 
-<p class="fragment">We are going to let Josh explain to us how to do a wall squat. Josh wears a bandana and is a funny guy.</p>
+**Types of tests include (but not limited to):**
+
+- Valsalva maneuvre
+- 0.1 Hz breathing (Respiratory Sinus Arrhythmia)
+- head-up tilt test
+- active stand challenge
+- isometric hand-grip test
+
+**Measurement devices:** Autonomic function tests are usually done using a lead II ECG and standard oscillometric automatic blood pressure cuff.
+
+Most tests measure both the heart rate and blood pressure **response** to a **challenge** i.e. how heart rate and blood pressure respond to a perturbation to the cardiovascular and respiratory system.
 
 --
-### Wall squat
+
+### Isometric hand-grip challenge (completed last week)
+#### Rest period
+
+1. Choose a volunteer.
+2. Get their maximum grip strength by starting the recording software and have the volunteer squeeze, with their dominant hand, the hand force meter maximally for 2 seconds. Read off the peak value of force achieved. Enter that value in the spreadsheet: <https://bit.ly/2MkvaCT>
+3. Have them sit down and place a blood pressure cuff on their non-dominant arm.
+4. Fit them with the respiratory belt.
+5. Start the recording software.
+6. On the turn of each minute, start the blood pressure monitor. Enter the value of blood pressure and pulse rate in the spreadsheet.
+7. At the 30 second point of each minute, note the respiratory rate and enter that in the spreadsheet.
+
+--
+
+### Isometric hand-grip challenge (completed last week)
+#### Hand-grip challenge and recovery
+
+8. After 5 minutes rest (and 5 blood pressure, pulse rate, and respiratory rate measurements), have the volunteer squeeze and hold the force metre at 30% of the maximum.
+9. Start the blood pressure cuff immediately. Every minute for three minutes, record blood pressure, pulse rate, and respiratory rate. **Watch the force metre on the recording software. Ensure the volunteer is maintaining 30% of their maximum hand-grip strength.**
+10. At three minutes, the volunteer can release the hand-grip. Immediately start the blood pressure monitor. Record blood pressure, pulse rate, and respiratory rate at approximately 30 seconds and 90 seconds following release of the hand-grip. Enter those values into the spreadsheet.
+
+**Repeat for at least one more volunteer in your group.**
+
+<!-- <img src="images/isometric_handgrip_results.png" width="50%"> -->
+
+--
+
+### Valsalva maneuvre
 ####
 
-<video data-autoplay data-src="images/wall squat exercise.mp4"></video>
+<span style="color:red">**Do not attempt this test if you have been diagnosed with high blood pressure, or have been diagnosed with an arrhythmia.**</span>
+
+1. Find your radial pulse and monitor your pulse. (This test is usually done with the nose clamped shut. But seeing as you have your finger on your pulse, you won't be doing that.)
+
+2. Close your mouth.
+
+3. Take a deep breath in then try to forcefully exhale (like you are blowing up a balloon) but keeping your mouth closed - that is, NOT letting air pass your lips.
+
+4. Take note of any changes in your pulse rate.
+
+5. Continue the forceful attempt to exhale (without exhalation) for roughly 10 to 15 seconds, then resume normal breathing.
+
+--
+
+### Active stand challenge
+####
+
+**Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.**
+
+--
+
+### Active stand challenge
+
+#### Set up
+
+1. Choose a volunteer*.
+2. Enter into the spreadsheet their:
+   1. age
+   2. sex
+   3. height
+   4. weight
+3. Have them lay down on the bed.
+4. Place a blood pressure cuff on their non-dominant arm.
+5. Fit them with the respiratory belt.
+6. Fit them with the pulse oximeter (in this experiment we are mainly concerned with the heart rate).
+7. Start the recording software. Check quality of all signals. Correct instrumentation if the signals are not good.
+
+<p class="citation"><b>*Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.</b></p>
+
+--
+
+### Active stand challenge
+
+#### Supine period
+
+8. With the volunteer supine, repeat each minute over 5 minutes:
+   1. At the 30 second point of each minute, start the blood pressure monitor. Enter the value of blood pressure in the spreadsheet ( <https://bit.ly/2MkvaCT> ).
+   2. At the 30 second point of each minute, note the respiratory rate and heart rate and enter that in the spreadsheet.
+
+--
+
+### Active stand challenge
+
+#### Active stand period (Keep the data acquisition system recording.)
+
+9. <b>Whilst the participant is still laying down on the bed</b>, start the blood pressure monitor.
+10. When the reading on the pressure value on the screen rises to about 120 mmHg, have the volunteer move quickly to a standing position and then <b>stay very still</b>.
+11. Enter the first blood pressure and pulse rate reading into the spreadsheet ( <https://bit.ly/2MkvaCT> ).
+12. Take a respiratory rate value in the first 30 seconds of standing. Enter it into the spreadsheet.
+13. Repeat blood pressure (and pulse rate) and respiratory rate measurements each minute for 3 minutes of standing.
+
+<!-- ### Active stand challenge
+
+#### Repeat
+
+Repeat for at least one other volunteer in your group. Also enter that data into the spreadsheet.
+
+### What now for Assessment Task 3, Part 2?
+
+####
+
+The unit convenor will be compiling the data across **all** the practical classes, and providing that data summary to you.
+
+You will be able to write up the Discussion section of the manuscript based on that data summary.
+
+Do not use the individual data from your group, or this practical today.-->
+--
+### Introducing another device
+
+#### The Peñáz* technique of blood pressure measurement
+
+<span class="fragment">
+<p><b>Strengths:</b></p>
+<ul>
+    <li> Tracks blood pressure (and pulse rate) continuously.</li>
+    <li> Records the blood pressure waveform not just systolic and diastolic blood pressure.</li>
+    <li> Having the waveform allows for estimation of other parameters such as stroke volume and total peripheral resistance.</li>
+</ul>
+</span>
+<span class="fragment">
+<p><b>Weaknesses:</b></p>
+<ul>
+    <li> Not particularly accurate at measuring blood pressure.</li>
+    <li> Even worse at estimating stroke volume.</li>
+    <li> Hard to estimate accuracy of total peripheral resistance calculation.</li>
+</ul>
+</span>
 <p>&nbsp;</p>
-<p class="citation">Josh Wilson <a href="https://www.youtube.com/watch?v=8XdGe7vm6HQ">https://www.youtube.com/watch?v=8XdGe7vm6HQ</a></p>
+<p class="citation">*Peñáz, J. Photoelectric measurement of blood pressure, volume and flow in the finger. <em>Digest 10<sup>th</sup> Int Conf Med Biol Eng,</em> <b>1973</b>, 104.</p>
 
 --
-### What do you think will happen to heart rate, respiratory rate, and blood pressure during the wall squat? (and why)
-####
+### Valsalva maneuvre and active stand
+
+#### Demonstration with pulse and blood pressure tracking (Peñáz* technique)
+
+<p class="citation">*Peñáz, J. Photoelectric measurement of blood pressure, volume and flow in the finger. <em>Digest 10<sup>th</sup> Int Conf Med Biol Eng,</em> <b>1973</b>, 104.</p>
 
 --
-### Wall squat
-####
 
-<p>1. Whilst seated and resting, measure your heart rate and blood pressure. Note your respiratory rate. Enter the values into the spreadsheet: <a href="https://bit.ly/2MkvaCT">https://bit.ly/2MkvaCT</a></p>
+### Let's play Jeopardy
 
-<span class="fragment">
-<p>2. Whilst doing a wall squat, measure your heart rate and blood pressure each minute for three minutes. Note your respiratory rate. Enter the values into the spreadsheet.</p>
-</span>
-<span class="fragment">
-<p>3. Rest for at least 3 minutes.</p>
-</span>
+#### (sort of)
 
---
-### If we did the same wall squat challenge, what do you think would happen to heart rate, respiratory rate and blood pressure if you were breathing through a straw at the same time? (and why)
-####
+<p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
 
---
-### Wall squat
-####
+<img src="images/qr_buzzonk.png" width="200px">
 
-<p>4. Whilst breathing through a straw, repeat the three minute wall squat. Measure heart rate, and blood pressure each minute. Note your respiratory rate. Enter the values in the spreadsheet: <a href="https://bit.ly/2MkvaCT">https&#x3A;//bit.ly/2MkvaCT</a>
-</p>
+<label for="fname">Room code:</label>
+<input type="text" id="roomcode" name="roomcode">
+
+<p><a href="https://jeopardylabs.com/play/medi2101-week-9-practical">Jeopardy link</a></p>
