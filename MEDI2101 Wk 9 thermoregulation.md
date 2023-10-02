@@ -15,21 +15,20 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
---
-### Feedback - Assessment Task 2: Anatomy test
+<!-- -- ### Feedback - Assessment Task 2: Anatomy test
 #### Dr Mirjana Strkalj
 
 Dichotomous modified Angoff method, passing score = 60%.
 
 <img src="images/MEDI2101marks.png" width="80%">
-
+-->
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking back on: Assessment task 3.1
+#### Looking back on: Assessment task 3a
 
 Cannot say too much, as some people are yet to submit under special consideration.
 
-The aim is to have marks back to you as quickly as possible (single marker), to use that feedback in Assessment Task 3.2.
+The aim is to have marks back to you as quickly as possible (single marker), to use that feedback in Assessment Task 3b.
 
 <!-- isometric exercise feedback
 - Consider relative magnitude of contribution. e.g.
@@ -47,7 +46,7 @@ Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p> -->
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking back on: Assessment task 3.1
+#### Looking back on: Assessment task 3q
 
 Frank-**Starling** mechanism.
 
@@ -63,7 +62,7 @@ Frank-**Starling** mechanism.
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking ahead to: Assessment task 3.2
+#### Looking ahead to: Assessment task 3b
 
 <a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-18" target="\_blank">Description of AT3.2 Manuscript discussion, in iLearn.</a>
 
