@@ -20,8 +20,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 Dichotomous modified Angoff method, passing score = 60%.
 
-<img src="images/MEDI2101marks.png" width="80%">
--->
+<img src="images/MEDI2101marks.png" width="80%">-->
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking back on: Assessment task 3a
@@ -46,7 +45,7 @@ Research, vol. 6, no. 4, pp. 211–218, Aug. 1996.</p> -->
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
-#### Looking back on: Assessment task 3q
+#### Looking back on: Assessment task 3a
 
 Frank-**Starling** mechanism.
 
@@ -64,22 +63,22 @@ Frank-**Starling** mechanism.
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking ahead to: Assessment task 3b
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=53730#section-18" target="\_blank">Description of AT3.2 Manuscript discussion, in iLearn.</a>
+<a href="https://ilearn.mq.edu.au/mod/assign/view.php?id=7612029" target="\_blank">Description of AT3b Manuscript discussion, in iLearn.</a>
 
-Data summary will be made available sometime this week (perhaps on the weekend).
+Data is available in iLearn. It is provided in the manuscript (PDF) in the iLearn AT3b description.
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### Looking further ahead to: Assessment Task 4 (Final Examination)
 
-Front page and second page of the final examination are <a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-25" target="\_blank"> available on iLearn</a>.
+The front page and the second page of the final examination are <a href="https://ilearn.mq.edu.au/mod/assign/view.php?id=7612061" target="\_blank"> available on iLearn</a>.
 
 
 --
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 9
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-17"> MEDI2101 iLearn Week 9</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=13"> MEDI2101 iLearn Week 9</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->

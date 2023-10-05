@@ -1,5 +1,19 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk10_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
+# Block 4: Cardiovascular and respiratory system in disease
+##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)<br>and guest lecturers
+
+Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
+
+<a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
+
+--
+
+#### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.1: Indigenous cardiorespiratory health
 (Week 10)
@@ -171,7 +185,7 @@ Cardiovascular related death rates (QLD, WA, SA, NT, 2002-2005)<br>by indigenous
 <li> Risk factors are prevalent.</li>
 <li> Follow up on risk factors is low.</li>
 </ul>
-<img src="images/Crinall2016_fig2.jpg" width=50% align="right">
+<img src="images/Crinall2016_fig2.png" width=50% align="right">
 
 <br><br><br><br><br><br>
 <p class="citation">Crinall B <em>et al.</em> <a href="https://pubmed.ncbi.nlm.nih.gov/27372907/">Cardiovascular disease risk in young Indigenous Australians: a snapshot of current preventive health care</a>. Aust N Z J Public Health. 2017 Oct;41(5):460-466.</p>
@@ -310,9 +324,3 @@ But also important in treatment of indigenous Australians. Health care personnel
 </div>
 
 <p class="fragment">Information is useful when it is integrated.</p>
-
-<p class="fragment">This is the last presentation slide for MEDI2101.</p>
-
-<p class="fragment">Integrate the information on the cardiovascular and respiratory system.<br>That is your knowledge now, to use in your careers ahead...</p>
-
-<p class="fragment" style="font-size:small">...and in the final exam.</p>
