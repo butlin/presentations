@@ -2,7 +2,7 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 
-# Week 10, Practical: Exercise physiology
+# Week 10, Practical: Physiology in the diseased state
 <!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -11,8 +11,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
-
---
 
 --
 
@@ -61,7 +59,7 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 
 --
 
-### If we did the same wall squat challenge, what do you think would happen to heart rate, respiratory rate and blood pressure if you were breathing through a straw at the same time? (and why)
+### If we did the same wall squat challenge whilst breathing through a straw, what do you think would happen to heart rate, respiratory rate and blood pressure? (and why)
 
 ####
 
@@ -73,3 +71,17 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 
 <p>4. Whilst breathing through a straw, repeat the three minute wall squat. Measure heart rate, and blood pressure each minute. Note your respiratory rate. Enter the values in the spreadsheet: <a href="https://bit.ly/2MkvaCT">https&#x3A;//bit.ly/2MkvaCT</a>
 </p>
+
+--
+
+### Let's play Jeopardy
+#### (sort of)
+
+<p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
+
+<img src="images/qr_buzzonk.png" width="200px">
+
+<label for="fname">Room code:</label>
+<input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
+
+<p><a href="https://jeopardylabs.com/play/medi2101-week-10">Jeopardy link</a></p>

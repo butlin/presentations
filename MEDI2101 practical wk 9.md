@@ -1,4 +1,4 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk9prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 3: Cardiovascular and respiratory integration
 
@@ -181,6 +181,6 @@ Do not use the individual data from your group, or this practical today.-->
 <img src="images/qr_buzzonk.png" width="200px">
 
 <label for="fname">Room code:</label>
-<input type="text" id="roomcode" name="roomcode">
+<input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
 
 <p><a href="https://jeopardylabs.com/play/medi2101-week-9-practical">Jeopardy link</a></p>
