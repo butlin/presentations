@@ -3,6 +3,7 @@
 # Block 4: Cardiovascular and respiratory system in disease
 ##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)<br>and guest lecturers
 
+
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
@@ -18,6 +19,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 # LO4.1: Indigenous cardiorespiratory health
 (Week 10)
 ##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
+
+##### Acknowledgement to Dr John Hunter, who provided some of the material in this lecture
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -63,7 +66,47 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 "Noel Butlin provided a fundamental reassessment of the size and nature of the Aboriginal economy and population before 1788... . He convincingly argued that the early estimates
 were likely to be substantial underestimates, and he eventually concluded that the pre-colonial population was between 1 and 1.5 million."
 
+<span class="fragment">By 1920, there were only 60,000 Aboriginal people remaining.</span>
+
 <p class="citation">Hunter, B. H., & Carmody, J. (2015). Estimating the Aboriginal Population in Early Colonial Australia: The Role of Chickenpox Reconsidered. Australian Economic History Review, 55(2), 112–138.<br>Butlin, N. G. (1983) <a href="https://multisearch.mq.edu.au/permalink/61MACQUARIE_INST/1c87tk9/alma9917928310802171">Our Original Aggression: Aboriginal Populations of Southeastern Australia 1788–1850</a> (Sydney: George Allen & Unwin).</p>
+
+--
+"They seemingly enjoy uninterrupted Health, and live to a great Age."
+
+<p class="citation">First Fleet Surgeon, John Worgan.</p>
+<p class="citation">(From Greg Blyton's, Reflections, Memories, and Sources: Healthier Times? Revisiting Indigenous Australian Health History", Health and History, 11(2):116-135.)</p>
+
+--
+"Indigenous Australians were a fine, athletic, and robust people; the equal of any in the world: I would refer to an Australian as the finest model of the human proportions I have ever met with; in muscular development combining perfect symmetry, activity and strength; while his head may be compared to an antique bust of a philosopher."
+
+<p class="citation">Charles Pickering, 1838.</p>
+<p class="citation">(From Greg Blyton's, Reflections, Memories, and Sources: Healthier Times? Revisiting Indigenous Australian Health History", Health and History, 11(2):116-135.)</p>
+
+--
+"In less than twenty years we have nearly swept them off the face of the earth. We have shot them down like dogs. In the guise of friendship we have issued corrosive sublimate in their damper and consigned whole tribes to the agonies of an excruciating death. We have made them drunkards, and infected them with diseases which have rotted the bones of their adults, and made such few children as are born amongst them a sorrow and a torture from the very instant of their birth. We have made them outcasts on their own land, and are rapidly consigning them to entire annihilation."
+
+<p class="citation">Wilson, E Argus 17th March 1856, in Harris, J. 2013, One Blood: Two hundred years of Aboriginal encounter with Christianity. Concilia Ltd. Brentford Square, p. 209.</p>
+
+--
+### Intergenerational trauma
+####
+
+- The transmission of unaddressed grief and loss caused by traumatic experiences being passed down through the generations.
+- Can also be passed on through generations through genetic changes.
+- Can manifest in: hypervigilance, low self-esteem, depression, anxiety, anger, self-destructive behaviours, violence, suicide.
+
+--
+
+### Intergenerational trauma - Trauma tree
+
+<img src="images/trauma_tree_john_hunter.png" width="45%">
+<p class="citationside">Image adapted by Dr John Hunter.</p>
+
+--
+<!-- .slide: data-background-color="#373A36" -->
+<p style="color:white; font-size:48pt;">Reflect.</p>
+<p style="color:white; font-size:28pt;">Cast the lens of health determinants over a rich culture based on the pillars of identity contrasted with dispoesssion, assimilation, and a culture of inter-generational trauma.</p>
+<p style="color:white; font-size:28pt;">How do you think this reflects in the nature of cardiorespiratory health for Indigenous Australians?</p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -156,6 +199,14 @@ services; the availability of transport to health services; delays in
 presentation; and language and cultural differences."*
 
 <p class="citation">*Gray C <em>et al.</em> <a href="https://healthbulletin.org.au/articles/review-of-cardiovascular-health-among-indigenous-australians/#fnl-10">Review of cardiovascular health among Indigenous Australians</a>. 2012. 12(4):1-36.</p>
+
+--
+
+"Every disease has two causes.<br>&nbsp;&nbsp;&nbsp;The first is pathophysiological;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the second, political."
+
+<img src="images/ramon-y-cajal.jpg" width="50%">
+
+<p class="citation">Ramon Cajal, 1899. Nobel Laureate. The "father" of neuroscience. Proved that independent nerve cells are the building blocks of the central nervous system.</p>
 
 --
 ### Health barriers
