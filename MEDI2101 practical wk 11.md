@@ -12,7 +12,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### ECG
 #### Volunteer
 
-Today's experiment requires only one volunteer. And they don't have to do any exercise.
+Today's experiment requires only one volunteer.
+
+They don't have to do any exercise.
+
+There are no contraindications this week.
 
 --
 ### ECG
