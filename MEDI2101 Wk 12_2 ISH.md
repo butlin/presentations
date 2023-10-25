@@ -2,7 +2,7 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.1: Diseases of the vascular system. <br>Isolated Systolic Hypertension
-(Week 10, Lecture 1)
+(Week 12, Lecture 2)
 ##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -17,7 +17,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ###  MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 12
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=64513#section-20"> MEDI2101 iLearn Week 12</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=16"> MEDI2101 iLearn Week 12</a>
 
 --
 ### Learning Evaluation of Unit
@@ -35,7 +35,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation"><b>Last week</b> you had the opportunity to tell me <b>what you think of the unit</b>.<br><br><b>This week</b> you have an opportunity to tell me <b>what you think of me</b>.</p> -->
 
---
+<!--
 ### Learning & Teaching Awards
 #### 
 <p>&nbsp</p>
@@ -43,7 +43,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h5>Please consider voting for your favourite unit convenor/lecturer/tutor/demonstrator... next year.</h5>
 <p>&nbsp</p>
 
-<h5>(It does not have to be me!)</h5>
+<h5>(It does not have to be me!)</h5> -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->

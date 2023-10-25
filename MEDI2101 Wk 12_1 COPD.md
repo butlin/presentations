@@ -2,7 +2,7 @@
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 4: Cardiovascular and respiratory system in disease
 # LO4.2: Diseases of the respiratory system. Chronic Obstructive Pulmonary Disease
-(Week 12)
+(Week 12, Lecture 1)
 ##### Guest lecturer: Professor Alvin Ing (Clinical Program Head, Cardiovascular & Respiratory Program)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
