@@ -264,7 +264,7 @@ GPs and cardiologists in Australia have a choice of guidelines!
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/abpm.jpg' width='100%'>
+    <img src='images/abpm.webp' width='100%'>
   </div>
   <div class='description'>
     <p>By wearing an ambulatory blood pressure monitor for 24 hours, the variation in blood pressure throughout the day and night can be captured. Routinely measuring blood pressure at home with an automatic blood pressure monitor also is useful in diagnosing hypertension by getting blood pressure "out of the clinic".</p>
@@ -453,7 +453,7 @@ diastolic pressure < 90 mmHg
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/capillary_flow.jpg' width='100%'>
+    <img src='images/capillary_flow.webp' width='100%'>
   </div>
   <div class='description'>
     <p>Blood flow in a capillary, and response to smell, showing non-pulsatile nature of flow.</p>
@@ -485,7 +485,7 @@ diastolic pressure < 90 mmHg
 
 <p>Increase in arterial stiffness as measured by material stiffness (E) and the arterial pulse wave velocity (PWV) with age.</p>
 
-<img src='images/AgeEandPWV.png' width='66%'>
+<img src='images/AgeEandPWV.png' width='60%'>
 <p>&nbsp;</p>
 <p class="citation">Butlin, M. & Avolio, A.P. <em>Age-related changes in the mechanical properties of arteries</em> in Mechanical properties of aging soft tissue, Springer, 2014, 37--74. Original data from Langewouters, G. J. et al. J Biomech, 1984, 17:425--35.</p>
 
