@@ -196,7 +196,7 @@ exchange surfaces.
 ### The oxygen cascade
 #### 
 
-**The function of the cardiorespiratory system (with regards to to oxygen)**
+**The function of the cardiorespiratory system (with regards to oxygen)**
 
 * Get the oxygen from atmospheric air to all of the body's cells.
 

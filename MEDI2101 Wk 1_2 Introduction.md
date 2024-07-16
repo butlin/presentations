@@ -136,29 +136,24 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 ### Learning opportunities
-#### 5 formats
+#### Face-to-face
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
-        <h5>Face-to-face</h5>
-      </td>
-    </tr>
-    <tr>
       <td>
           <h5>Lecture</h5>
       </td>
-      <td><p>Lectures are held each week. Live in person. Live via Zoom. Catch-up via Echo360 (next day).
+      <td><p>Lectures are held each week. Live in person. Simulcast live via Echo360. Catch-up via Echo360 (next day).
         <br>
-        Closed captioning is available both live (via Zoom) and through Echo360.</p>
+        Closed captioning is available through Echo360.</p>
       </td>
     </tr>
     <tr>
       <td>
           <h5>Lectorial</h5>
       </td>
-      <td><p>In weeks 1, 2, 4 and 5, a lecture style tutorial covering anatomy content.
+      <td><p>In weeks 1, 2, 3, 4 and 6, a lecture style tutorial covering anatomy content.
         <br>
         Lectorials are <strong>only offered in person, on campus</strong>. There is no Echo360 catch-up for the lectorials.</p>
       </td>
@@ -167,18 +162,21 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
       <td>
           <h5>Practical</h5>
       </td>
-      <td><p>In weeks 3 and 6, the practical will be in the wet-lab anatomy space for teaching and review of anatomy content.
+      <td><p>In weeks 5, the practical will be in the wet-lab anatomy space for teaching and review of anatomy content.
         <br>In weeks 7 to 12, the practicals will be on physiology with hands on taking of physiological measurements.
         <br>
         Practicals are <strong>only offered in person, on campus</strong>. There is no Echo360 catch-up for the practicals.
         </p>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <h5>Self-paced</h5>
-      </td>
-    </tr>
+    </tbody>
+    </table>
+
+--
+### Learning opportunities
+#### Self-paced
+<table>
+  <tbody>
     <tr>
       <td>
           <h5>On-line module</h5>
@@ -196,7 +194,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   </tbody>
 </table>
 <br>
-<p><strong>There are no tutorials </strong>in this unit, given the concentration on practical classes. On-line video / slide / reading / quiz material is provided each week in place of tutorials.</p>
+<p><strong>There are no tutorials </strong>in this unit, given the concentration on practical classes.<br>On-line video / slide / reading / quiz material is provided each week in place of tutorials.</p>
 
 --
 #### Unit overview
@@ -217,26 +215,26 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   </thead>
   <tbody>
     <tr>
-      <th bgcolor="#D6D2C4">1</th>
-      <th bgcolor="#D6D2C4" align="left">
+      <th>1</th>
+      <th align="left">
         <h5>Introduction of concepts</h5>
         1.1 "Reason" for the cardiovascular and respiratory system
         <br>- Unit introduction</th>
-      <td bgcolor="#D6D2C4"><strong>Lectorial: </strong> Upper respiratory anatomy</td>
-      <td bgcolor="#D6D2C4"><strong>Module:</strong> Cardiovascular and respiratory physical concepts: pressure, flow and resistance
+      <td><strong>Lectorial: </strong> Upper respiratory anatomy</td>
+      <td><strong>Module:</strong> Cardiovascular and respiratory physical concepts: pressure, flow and resistance
         <br><strong>Reading:</strong> Guyton and Hall (See Leganto)
       </td>
       <td></td>
     </tr>
     <tr>
-      <th bgcolor="#D6D2C4">2</th>
-      <th bgcolor="#D6D2C4" align="left">
+      <th>2</th>
+      <th align="left">
         <h5>Respiratory system</h5>
         1.2 Ventilation
         <br>1.3 Gas exchange
       </th>
-      <td bgcolor="#D6D2C4"><strong>Lectorial: </strong>Lower respiratory anatomy</td>
-      <td bgcolor="#D6D2C4"><strong>Module:</strong> The scientific method in (bio)medical investigation
+      <td><strong>Lectorial: </strong>Lower respiratory anatomy</td>
+      <td><strong>Module:</strong> The scientific method in (bio)medical investigation
         <br>Knowledge for AT3
         <br>
         <strong>Reading:</strong> Guyton and Hall (See Leganto)
@@ -244,14 +242,14 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
       <td></td>
     </tr>
     <tr>
-      <th bgcolor="#D6D2C4">3</th>
-      <th bgcolor="#D6D2C4" align="left">
+      <th>3</th>
+      <th align="left">
         <h5>Respiratory regulation</h5>
         1.4 The respiratory centre and regulation output
         <br>1.5 Respiratory regulation inputs
       </th>
-      <td bgcolor="#D6D2C4"><strong>Practical: </strong>Upper and lower respiratory anatomy (review)</td>
-      <td bgcolor="#D6D2C4"><strong>Module:</strong> Arterial blood gases and acidosis and alkalosis
+      <td><strong>Practical: </strong>Upper and lower respiratory anatomy (review)</td>
+      <td><strong>Module:</strong> Arterial blood gases and acidosis and alkalosis
         <br>
         <strong>Reading:</strong> Guyton and Hall (See Leganto)
       </td>
@@ -261,7 +259,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 </table>
 
 --
-#### Unit overview
+<!-- #### Unit overview -->
 #### Block 2: Cardiovascular system
 
 <table style="width:100%" class="table-bordered table-hover">
@@ -355,25 +353,25 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   </thead>
   <tbody>
     <tr>
-      <th bgcolor="#D6D2C4">8</th>
-      <th bgcolor="#D6D2C4" align="left">AT2 special consideration: Supplementary anatomy test
+      <th>8</th>
+      <th align="left">AT2 special consideration: Supplementary anatomy test
         <h5>3.1 Introduction to exercise cardiovascular and respiratory physiology</h5>
       </th>
       <td style="color:white" bgcolor="#373A36"><strong>Practical: </strong> Physiological measurement data collection for AT3.2.</td>
-      <td bgcolor="#D6D2C4"><strong>Module:</strong> Exercise, a modifiable lifestyle factor to reduce cardiovascular risk
+      <td><strong>Module:</strong> Exercise, a modifiable lifestyle factor to reduce cardiovascular risk
         <br>
         <strong>Reading:</strong> Guyton and Hall (See Leganto)
       </td>
       <td style="color:white" bgcolor="#373A36">AT3.1 Hypothesis testing. Publication figure (10%)</td>
     </tr>
     <tr>
-      <th bgcolor="#D6D2C4">9</th>
-      <th bgcolor="#D6D2C4" align="left">
+      <th>9</th>
+      <th align="left">
         <h5>
             3.2 Cardiorespiratory homeostasis and thermal regulation</h5>
       </th>
-      <td bgcolor="#D6D2C4"><strong>Practical: </strong> Exercise physiology</td>
-      <td bgcolor="#D6D2C4"><strong>Module:</strong> Extremes of thermoregulation
+      <td><strong>Practical: </strong> Exercise physiology</td>
+      <td><strong>Module:</strong> Extremes of thermoregulation
         <br>
         <strong>Reading:</strong> Guyton and Hall (See Leganto)
       </td>
@@ -479,17 +477,23 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Teaching staff
 ####
 
-- **Unit convener / lecturer / physiology practicals:** Assoc. Prof. Mark Butlin<br>&nbsp;
-- **Guest lecturers:** Bianca Coehla; Dr Isabella Tan; Prof. Alvin Ing<br>&nbsp;
-- **Anatomy teaching leads:** Dr Mirjana Strkalj; Dr Linda Ban, Dr Daleen Raubenheimer<br>&nbsp;
-- **Anatomy teaching staff:** Rohit Harwad; Arshia Jamshidi; Sadhvi Naresh; Aleksander Strkalj<br>&nbsp;
-- **Physiology teaching staff:** Dr Peter Burke, James Cox
+<img src="https://researchers.mq.edu.au/files-asset/131727585/MarkButlin2020.jpg?w=160&f=webp" height="150px">
+<img src="https://researchers.mq.edu.au/files-asset/226319223/20230214_120829.jpg?w=160&f=webp" height="150px">
+<img src="https://researchers.mq.edu.au/files-asset/125894114/Burke_1_.jpg?w=160&f=webp" height="150px">
+<img src="https://researchers.mq.edu.au/files-asset/92264223/isabella_tan_9377.jpg?w=160&f=webp" height="150px">
+<img src="https://researchers.mq.edu.au/files-asset/81381778/AJI_Headshot_passport.jpg?w=160&f=webp" height="150px"><br>&nbsp;<br>
+
+- **Unit convener / lecturer:** [Assoc. Prof. Mark Butlin](https://researchers.mq.edu.au/en/persons/mark-butlin)<br>&nbsp;
+- **Anatomy teaching leads:** Dr Jessica Madden; [Dr Linda Ban](https://researchers.mq.edu.au/en/persons/linda-ban)<br>&nbsp;
+<!-- - **Anatomy teaching staff:** Rohit Harwad; Arshia Jamshidi; Sadhvi Naresh; Aleksander Strkalj<br>&nbsp; -->
+- **Physiology teaching staff:** [Dr Linda Ban](https://researchers.mq.edu.au/en/persons/linda-ban), [Dr Peter Burke](https://researchers.mq.edu.au/en/persons/peter-burke), [Assoc. Prof. Mark Butlin](https://researchers.mq.edu.au/en/persons/mark-butlin)<br>&nbsp;
+- **Guest lecturers:** [Bianca Coehla](https://au.linkedin.com/in/bianca-coelho-1341831b?original_referer=https%3A%2F%2Fduckduckgo.com%2F); [Dr Isabella Tan](https://researchers.mq.edu.au/en/persons/isabella-tan); [Prof. Alvin Ing](https://researchers.mq.edu.au/en/persons/alvin-ing)<br>&nbsp;
 
 --
 <h3>Assessment tasks</h3>
 <h4>Assessment task 1: Formative quiz (0%). Due week 3.</h4>
 <p>On-line in iLearn.</p>
-<p>Available any time up until end of week 3.</p>
+<p>Due in week 3, but able to submit after <b>without</b> special consideration.</p>
 <p>No time limit.</p>
 <p>Reviews some of the respiratory component (physiology and anatomy) of MEDI2101.</p>
 <p>0% assessment task, but it provides written feedback on working out specific answers where people might make mistakes (e.g., in a final exam).</p>
@@ -503,7 +507,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h4>Assessment Task 2: Anatomy test (20%). During lecture, week 7.</h4>
 <ul>
   <li> Anatomy quiz delivered during the 1st hour of the week 7 lecture.</li>
-  <li> Created by Dr Mirjana Strkalj.</li>
+  <li> Closed book, timed.
   <li> Usually a challenging test, but always has high achievers.</li>
 </ul>
 
@@ -555,18 +559,15 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <h3>Assessment tasks</h3>
 <h4>Free help</h4>
 
-<!-- - <a href="https://students.mq.edu.au/support/study/writing/studiosity">Studiosity</a><br>(External service. Free sessions for Macquarie University students) -->
-- <a href="https://students.mq.edu.au/support/study/writing/writewise">WriteWise</a><br>(Macquarie free service.)
-- <a href="https://ilearn.mq.edu.au/enrol/index.php?id=16580">StudyWise</a><br>(Macquarie free course.)
-
-Relatively new tool:
-
+- <a href="https://students.mq.edu.au/support/study/writing/studiosity">Studiosity</a><br>External service. Free sessions for Macquarie University students
+- <a href="https://students.mq.edu.au/support/study/writing/writewise">WriteWise</a><br>Macquarie free service. One on one sessions. Advice for<br>assessments, beyond just written assessments.
+- <a href="https://ilearn.mq.edu.au/enrol/index.php?id=16580">StudyWise</a><br>Macquarie free course.
 - <a href="https://students.mq.edu.au/support/technology/systems/ilearn/assignments-grades">Turn-it-in Draft Coach</a><br>Check grammar, citations, and similarity<br><b>before</b> submitting your assessment task.
 
 --
 <h3>Assessment tasks</h3>
 <h4>Accessibility support</h4>
-<p>If you are someone with an on-going health condition, disability and/or are a carer of a person with a disability, please consider contacting <a href="https://students.mq.edu.au/support/accessibility-disability">Accessibility Support and Services</a> early during session to put in an Individual Education Access Plan for MEDI2101.</p>
+<p>If you are someone with an on-going health condition, disability and/or are a carer of a person with a disability, please consider contacting <a href="https://students.mq.edu.au/support/accessibility-disability">Accessibility Support and Services</a> early during session to put in an Individual Education Access Plan (IEAP) for MEDI2101.</p>
 <p>You are welcome to contact me (you do not need to provide details) so that I can follow up with Accessibility Support to make sure they have put in place your Individual Education Access Plan in MEDI2101.</p>
 
 --
@@ -575,12 +576,12 @@ Relatively new tool:
 <h4></h4>
 
 <span class="r-stack">
-<img class="fragment" src="images/MEDI2101 iLearn header.png" alt="Contact Mark Butlin through the iLearn Q&A forum or iLearn private message to unit convenor.">
-<img class="fragment" src="images/Discord.png" width="75%" alt="There is a MEDI2101 Discord server.">
-<img class="fragment" src="images/markbutlin_bookmeeting.png" alt="You can also use the online booking system to make an appointment to see Mark Butlin either via videoconference or in person.">
+<img class="fragment fade-out" data-fragment-index="0" src="images/MEDI2101 iLearn header.png" alt="Contact Mark Butlin through the iLearn Q&A forum or iLearn private message to unit convenor.">
+<img class="fragment current-visible" data-fragment-index="0" src="images/MEDI2101_Teams.png" alt="There is a MEDI2101 Discord server.">
+<img class="fragment" src="images/markbutlin_bookmeeting.png" alt="You can also use the online booking system to make an appointment to see Mark Butlin either via videoconference or in person." width="60%">
 </span>
 
 --
 <h3>Activities this week.</h3>
 <h4></h4>
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=5"> MEDI2101 iLearn Week 1</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359&section=5"> MEDI2101 iLearn Week 1</a>
