@@ -441,11 +441,6 @@ Speech (or just vocal noise) requires three main processes to work together:
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
 
---
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/VocalCords.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
-
 ---
 <!-- .slide: data-auto-animate-restart -->
 ## LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
@@ -749,3 +744,8 @@ we can calculate the minute ventilation
 
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9da0b1f524f73a600a74c" data-background-interactive -->
+
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/VocalCords.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
