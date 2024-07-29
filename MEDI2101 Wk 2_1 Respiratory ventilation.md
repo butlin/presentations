@@ -17,7 +17,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 2
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=6" target="_blank"> MEDI2101 iLearn Week 2</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359&section=6" target="_blank"> MEDI2101 iLearn Week 2</a>
 
 ---
 ## LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
@@ -28,11 +28,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 The 5 major functions of the respiratory system are to:
 
 
-- **conduct air** from atmosphere to alveoli and vice versa.
-- **condition the air** and protect the lungs from inhaled, problematic substances.
-- facilitate **gas exchange** with blood.
-- assist in **blood pH regulation**.
-- allow for **vocalisation** for communication.
+1. **conduct air** from atmosphere to alveoli and vice versa.
+1. **condition the air** and protect the lungs from inhaled, problematic substances.
+1. facilitate **gas exchange** with blood.
+1. assist in **blood pH regulation**.
+1. allow for **vocalisation** for communication.
     
 <p class="fragment">All of these functions, other than vocalisation, are to facilitate (or in the case of pH, a result of) respiration.</p>
   
@@ -329,7 +329,7 @@ An air pressure is needed to overcome this surface tension (Laplace Law).
 #### 2. Conditioning of air and protection from inhaled substances
 
 <figure>
-  <img src="images/Surfactant.jpg" alt="" width="50%">
+  <img src="images/surfactant.webp" alt="" width="50%">
   <figcaption>
 <div class="r-stack">
 <span class="fragment current-visible">
@@ -441,6 +441,10 @@ Speech (or just vocal noise) requires three main processes to work together:
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
 
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/VocalCords.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -568,7 +572,9 @@ How does Boyle's Law relate to inspiration?
 
 If we increase the volume of the lungs, it will reduce the pressure within the lungs.
 
-$P_1\cdot V_1 = P_2 \cdot V_2$
+$P_1\cdot V_1 = P_2 \downarrow \cdot V_2 \uparrow$
+
+$P_2$ is now less than atmospheric pressure.
 
 <p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the surrounding atmosphere, into the lungs).</p>
 <p class="fragment">This air movement is <b>bulk flow</b> because the entire gas mixture is moving (not individual gases, as in diffusion across a <em>partial pressure</em> gradient).</p>
@@ -583,7 +589,9 @@ How does Boyle's Law relate to exhalation?
 
 If we decrease the volume of the lungs, it will increase the pressure within the lungs.
 
-$P_1\cdot V_1 = P_2 \cdot V_2$
+$P_1\cdot V_1 = P_2 \uparrow \cdot V_2 \downarrow$
+
+$P_2$ is now greater than atmospheric pressure.
 
 <p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the lungs, out to the surrounding atmosphere).</p>
 
@@ -641,24 +649,21 @@ When alveolar pressure rises above atmospheric pressure, there is an outward flo
   </figcaption>
 </figure>
 <p class="citation"><em>Guyton and Hall Textbook of Medical Physiology</em></p>
-
-<!--
-### Pressure-volume changes during normal breathing
+<!-- ### Pressure-volume changes during normal breathing
 #### Collapsed Lung
 <figure>
   <img src="images/collapsedlung.png" alt="" width="40%">
   <figcaption>
-If the intrapleural space is punctured, the intrapleural pressure equalises to atmospheric pressure.
+If the intrapleural space is punctured, the intrapleural pressure equalises to atmospheric pressure. -->
 
-This means the intrapleural pressure would be equal to the lung pressure.
+<!-- This means the intrapleural pressure would be equal to the lung pressure.
 
 The lack of a negative intrapleural pressure on the elastic tissue of the lung means that the elastic tissue recoils to its unstretched state.
 
 That is, the lung collapses.
   </figcaption>
 </figure>
-<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
--->
+<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p> -->
 
 --
 #### LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
@@ -669,11 +674,6 @@ That is, the lung collapses.
 
 --
 <!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cd3a1f524f73a600906f" data-background-interactive -->
-
---
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/VocalCords.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -694,24 +694,34 @@ That is, the lung collapses.
 --
 ### The four pulmonary volumes and four pulmonary capacities
 #### The pulmonary volumes
-
-- **tidal volume**
-  - the amount of air inspired (or expired) in a single, normal breath. For an adult, tidal volume is around 0.5 litres.
-- **inspiratory reserve volume**
-  - on a big breath in, the maximum amount of air that can be inspired above the normal tidal volume. For an adult, around 3 litres.
-- **expiratory reserve volume**
-  - on a big breath out, the maximum amount of air that can be expired beyond the normal tidal volume. For an adult, around 1.1 L.
-- **residual volume**
-  - the amount of air left in the lungs after a maximal breath out. For an adult, around 1.2 L.
+<figure>
+  <img src="images/Lungvolumes2.svg" width="50%">
+  <figcaption>
+    <ul>
+      <li> <b>tidal volume</b> - the amount of air inspired (or expired) in a single, normal breath. For an adult, tidal volume is around 0.5 litres.</li>
+      <li> <b>inspiratory reserve volume</b> - on a big breath in, the maximum amount of air that can be inspired above the normal tidal volume. For an adult, around 3 litres.</li> 
+      <li> <b>expiratory reserve volume</b> - on a big breath out, the maximum amount of air that can be expired beyond the normal tidal volume. For an adult, around 1.1 L.</li>
+      <li> <b>residual volume</b> - the amount of air left in the lungs after a maximal breath out. For an adult, around 1.2 L.</li>0
+    </ul>
+  </figcaption>
+</figure>
+<p class="citation">Modified from <a href="https://commons.wikimedia.org/wiki/File:Lungvolumes.svg">https://commons.wikimedia.org/wiki/File:Lungvolumes.svg</a></p>
 
 --
 ### The four pulmonary volumes and four pulmonary capacities
-#### The pulmonary volumes
+#### The pulmonary capacities
 
-- **inspiratory capacity** = tidal volume + inspiratory reserve volume
-- **functional residual capacity** = expiratory reserve volume + residual volume
-- **vital capacity** = tidal volume + inspiratory reserve + expiratory reserve
-- **total lung capacity** = vital capacity + residual volume
+<figure>
+  <img src="images/Lungvolumes.svg" width="50%">
+  <figcaption>
+    <ul>
+      <li> <b>inspiratory capacity</b> =<br>tidal volume + inspiratory reserve volume<br>&nbsp;</li>
+      <li> <b>functional residual capacity</b> =<br>expiratory reserve volume + residual volume<br>&nbsp;</li>
+      <li> <b>vital capacity</b> =<br>tidal volume + inspiratory reserve + expiratory reserve<br>&nbsp;</li>
+      <li> <b>total lung capacity</b> =<br>vital capacity + residual volume</li>
+    </ul>
+  </figcaption>
+</figure>
 
 --
 ### The four pulmonary volumes and four pulmonary capacities
@@ -730,7 +740,7 @@ we can calculate the minute ventilation
 \dot{V} = V_T \times RR
 \end{equation}
 
-<p class="fragment">There is not much more I can teach you about this - but it is important.<p>
+<p class="fragment">There is not much more I can teach you about this formula - but it is important.<br>More important than respiratory rate and tidal volume alone.<p>
 
 --
 
