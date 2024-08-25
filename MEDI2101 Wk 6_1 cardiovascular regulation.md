@@ -268,13 +268,14 @@ An additional 15% increase in heart rate in response to increased atrial pressur
 
 --
 ### Altered venous return to the heart
-#### Atrial reflex: The Volume Reflex altering blood volume
+#### Atrial volume reflex
 
-Stretch of the atria feeds through to the:
+
+- Atrial stretch is sensed by strectch receptors in the endocardium of the atria.<br>(Sometimes referred to as <b>low pressure</b> baroreceptors.)
 
 <div class='media'>
   <div class='picture'>
-<p>1.  kidney afferent arterioles instigating dilation.</P>
+<p>1.  Causes release of Atrial Natriuretic Peptide (ANP), inducing natriuresis.</P>
 <ul>
   <li> <span style="color:green">$\downarrow$</span> kidney afferent arteriolar <span style="color:green">resistance</span> </li>
   <li> <span style="color:green">$\uparrow$</span> glomerular <span style="color:green">capillary pressure</span></li>
@@ -284,7 +285,7 @@ Stretch of the atria feeds through to the:
   </div>
   <div class='description'>
     <span class="fragment">
-    <p>2.  hypothalamus decreasing antidiuretic hormone.</p>
+    <p>2. Low pressure baroreceptors also signal directly to the hypothalamus of the brain. Decreases antidiuretic hormone production.</p>
     <ul>
       <li> <span style="color:red">$\downarrow$ antidiuretic hormone</span></li>
       <li> <span style="color:red">$\downarrow$ reabsorption of water</span> from tubules</li>
@@ -292,36 +293,19 @@ Stretch of the atria feeds through to the:
     </ul>
     </span>
   </div>
+  <p class="fragment">Both mechanisms increase <span style="color:red">fluid loss</span> (via the kidneys), <span style="color:red">decreasing blood volume and therefore blood pressure.</span></p>
 </div>
-<p class="fragment">Both mechanisms increase <span style="color:red">fluid loss</span> (via the kidneys), <span style="color:red">decreasing blood volume and therefore blood pressure.</span></p>
-
---
-### Altered venous return to the heart
-#### Atrial natriuetic peptide
-
-Not grouped under the Volume Reflex, but also is a heart mechanism of controlling blood volume:
-
-- Released by cells in the atria of the heart in response to distension of the atria (stretching of the atrial myocytes).
-- Promotes the loss of salt and water though the kidneys, reducing blood volume.
-
-Also causes vasodilation (decrease in total peripheral resistance).
-
---
-### Altered venous return to the heart
+<p class="citation">Antidiruetic hormone is also knows as vasopressin or arginine vasopressin or argipressin.</p>
+<!-- ### Altered venous return to the heart
 #### Atrial and pulmonary artery stretch receptors<br>(cardiopulmonary baroreceptors)
-
 The atria and pulmonary artery contain stretch receptors. 
-
 As pressure increases within an artery (or atrium), the vessel (or atrium) will stretch. 
-
 Therefore, these stretch receptors are called baroreceptors (baro = pressure, as in barometric). 
-
 The stretch receptors in the atrium and pulmonary artery are known specifically as <em>cardiopulmonary baroreceptors</em>*.
-
 These receptors have a **negative feedback** to the central nervous system in response to vessel wall stretch as a result of increase/decrease in blood pressure.
 
 <p>&nbsp;</p>
-<p class="citation">* This is distinct from what is termed, simply, "the baroreceptors" located in the aorta and carotid artery.</p>
+<p class="citation">* This is distinct from what is termed, simply, "the baroreceptors" located in the aorta and carotid artery.</p> -->
 
 --
 ### Altered venous return to the heart
@@ -341,8 +325,8 @@ These receptors have a **negative feedback** to the central nervous system in re
     <p><b>Negative feedback<br>(<span style="color:red">decreases arterial blood pressure</span>)</b></p>
     <ul>
       <li> <span style="color:red">decrease blood volume</span> through the atrial volume reflex.</li>
-      <li> <span style="color:red">decrease blood volume</span> through atrial natriuetic peptide release.</li>
-      <li> <span style="color:red">decrease stroke volume and heart rate</span> through activiation of the cardiopulmonary baroreceptors.</li>
+      <!--<li> <span style="color:red">decrease blood volume</span> through atrial natriuetic peptide release.</li>-->
+      <!--<li> <span style="color:red">decrease stroke volume and heart rate</span> through activiation of the cardiopulmonary baroreceptors.</li>-->
     </ul>
   </div>
   <div class='credit'>
