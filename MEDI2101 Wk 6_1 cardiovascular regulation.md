@@ -352,8 +352,8 @@ These receptors have a **negative feedback** to the central nervous system in re
     <p><b>Negative feedback<br>(<span style="color:green">increases arterial blood pressure</span>)</b></p>
     <ul>
       <li> <span style="color:green">increase blood volume</span> through the reduced atrial volume reflex.</li>
-      <li> <span style="color:green">increase blood volume</span> through reduced atrial natriuetic peptide release.</li>
-      <li> <span style="color:green">increase stroke volume and heart rate</span> through less activation of the cardiopulmonary baroreceptors.</li>
+      <!--<li> <span style="color:green">increase blood volume</span> through reduced atrial natriuetic peptide release.</li>-->
+      <!--<li> <span style="color:green">increase stroke volume and heart rate</span> through less activation of the cardiopulmonary baroreceptors.</li>-->
     </ul>
   </div>
   <div class='credit'>
