@@ -311,54 +311,7 @@ If total blood volume is increased, blood pressure will increase.
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.7 Recognise that there is hormonal control of blood pressure.
-
---
-### Hormonal control of blood pressure
-#### Norepinephrine and epinephrine (noradrenaline and adrenaline)
-
-<b>Vasoconstrictor: Norepinephrine</b>
-
-Vasoconstrictor nerve terminals release predominantly norephinephrine, a potent vasoconstrictor acting on alpha adrenergic receptors of vascular smooth muscle.
-
-
-
---
-### Hormonal control of blood pressure
-#### Norepinephrine and epinephrine (noradrenaline and adrenaline)
-
-<b>The adrenal medullae</b>
-<ul>
-  <li> sympathetic nerves also terminate in the adrenal medullae</li>
-  <li> stimulation causes secretion of both epinephrine and norepinephrine into the blood stream</li>
-  <li> therefore, these potent vasoconstrictors act systemically on most organs*</li>
-</ul>
-<p>&nbsp;</p>
-<p class="citation">* Epinephrine can cause vasodilation because it also has a beta-adrenergic receptor stimulatory effect, which dilates rather than constricts certain vessels.<br>It has only a weak constriction effect on blood vessels of skeletal muscles.</p>
-
---
-### Hormonal control of blood pressure
-#### Antidiruetic hormone (ADH) or vasopressin
-
-Produced by the hypothalamus (in the brain), transported to the pituitary gland where it is released into the blood.
-
-Induced by:
-<ul>
-<li> <b>hypovolemia</b> decreased blood volume caused by, for example, dehydration. Sensed by the cardiopulmonary baroreceptors and communicated to the hypothalamus.</li>
-<li> <b>hypovolemia</b> sensed by hypothalamic osmoreceptors in response to high extracellular osmolarity.</li>
-<li> <b>hypotension</b> sensed by the baroreceptors.</li>
-<li> <b>angiotensin II</b> increased in circulating blood.</li>
-</ul>
-  
-<span class="fragment">
-<p> Increases reabsorption of water from renal tubules, increasing blood volume, increasing extracellular fluid and decreasing extracellular osmolarity.</p>
-<p style="font-size:16px"> Causes vasoconstriction (only at very high concentrations, as may occur in severe hypovolemic shock).</p>
-</span>
-
-
----
-<!-- .slide: data-auto-animate-restart -->
-## LO2.3.8 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
+## LO2.3.7 Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
 
 --
 ### Bringing it all together
@@ -524,11 +477,9 @@ There are many receptors throughout the body that signal to the central nervous 
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.7 Understand how changes in blood volume alter systemic arterial blood pressure
-<p class="citation">Covered only briefly in this lecture.<br>See this week's online module in iLearn</p>
+## LO2.3.8 Provide an overview of the Renin Angiotensin Aldosterone System (RAAS) 
+<p class="citation">Touched no only briefly in this lecture.<br>See this week's online module in iLearn.</p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO2.3.9 Identify cardiovascular and respiratory anatomy using surface body markers.
-
-<p class="citation">and review of LO2.1.8 Name and identify the major anatomy of the mediastinum and the heart and explain the function of each structure, and <br>LO2.2.9 Name and identify the anatomy of the major blood vessels.<br>LO2.3.9 also covered in part in Week 3 anatomy material.<br>See this week's anatomy material in iLearn and attend this week's anatomy class.</p>
+## Anatomy lectorial: review.

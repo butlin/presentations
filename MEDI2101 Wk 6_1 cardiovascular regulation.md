@@ -17,19 +17,19 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 6
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=10"> MEDI2101 iLearn Week 6</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359&section=10"> MEDI2101 iLearn Week 6</a>
 
 --
 ### Open (physical and virtual) door
 ####
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">MEDI2101 Q&A Forum</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359">MEDI2101 Q&A Forum</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">MEDI2101 iLearn private message</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359">MEDI2101 iLearn private message</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">Discord</a>
+<a href="https://teams.microsoft.com/l/team/19%3ACRdCoOuI-rqUhSBOPIMr9XU7GzBz09oERpPV5BMBeCY1%40thread.tacv2/conversations?groupId=159d439c-d350-427e-8f19-b5f1dc2496ea&tenantId=82c514c1-a717-4087-be06-d40d2070ad52">MEDI2102 Microsoft Teams space</a>
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063">See Dr Butlin's availability and book a time (face to face or video conference)</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359">See Dr Butlin's availability and book a time (face to face or video conference)</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -485,8 +485,8 @@ These receptors have a **negative feedback** to the central nervous system in re
 <p class="citationside">Image: Guyton and Hall Textbook of Medical Physiology</p>
 
 --
-### Sympathetic and parasympathetic innervation
-#### Sympathetic and parasympathetic nervous input to peripheral arteries
+### Sympathetic innervation
+#### Sympathetic input to peripheral arteries
 
 Besides acting directly on the heart rate and cardiac contractility, the central nervous system (sympathetic and parasympathetic outputs) innervate the resistance (muscular) arteries of the body, changing their diameter and therefore their resistance.
 
@@ -500,8 +500,8 @@ where:
 - $r$ radius of the tube
 
 --
-### Sympathetic and parasympathetic innervation
-#### Sympathetic and parasympathetic nervous input to peripheral arteries
+### Sympathetic innervation
+#### Sympathetic input to peripheral arteries
 
 <div class='media'>
   <div class='picture'>
@@ -518,8 +518,8 @@ where:
 </div>
 
 --
-### Sympathetic and parasympathetic innervation
-#### Sympathetic and parasympathetic nervous input to peripheral arteries
+### Sympathetic innervation
+#### Sympathetic input to peripheral arteries
 
 <div class='media'>
   <div class='picture'>
@@ -564,8 +564,8 @@ MAP\uparrow~=CO\times TPR\uparrow
 </ul>
 
 --
-### Sympathetic and parasympathetic innervation
-#### Sympathetic and parasympathetic nervous input to peripheral arteries
+### Sympathetic innervation
+#### Sympathetic nervous input to peripheral arteries
 
 <div class='media'>
   <div class='picture'>
@@ -583,12 +583,37 @@ MAP\uparrow~=CO\times TPR\uparrow
     <li> metarterioles</li>
     <li> precapillary sphincters</li>
   </ul>
-  <p class="fragment" style="font-size:16px">Effect on large arteries...? The effect on large arteries is still not quantified. The theory is, as the large arteries are more elastic and contain much less smooth muscle, they do not play much of a role in blood flow regulation through changes in resistance.</li>
-  </div>
+  <p class="fragment" style="font-size:18px">The parasympathetic system does not innervate blood vessels, the exception being arterioles in the clitoris and penis, where parasympathetic stimulation causes release of the vasodilator, nitric oxide.</p>
   <div class='credit'>
     <p>Guyton and Hall Textbook of Medical Physiology</p>
   </div>
 </div>
+
+--
+### Sympathetic innervation
+#### Sympathetic nervous input to peripheral arteries
+Effect on large arteries...? The effect on large arteries is still not quantified. The theory is, as the large arteries are more elastic and contain much less smooth muscle, they do not play much of a role in blood flow regulation through changes in resistance.
+
+--
+### Sympathetic innervation
+#### Norepinephrine and epinephrine (noradrenaline and adrenaline)
+
+<h5>Vasoconstrictors</h5>
+<ul>
+  <li> Vasoconstrictor nerve terminals release predominantly norephinephrine, a potent vasoconstrictor acting on alpha adrenergic receptors of vascular smooth muscle.</li>
+</ul>
+<br>&nbsp;<br>
+<span class="fragment">
+<h5>The adrenal medullae</h5>
+<ul>
+  <li> sympathetic nerves also terminate in the adrenal medullae</li>
+  <li> stimulation causes secretion of both epinephrine and norepinephrine into the blood stream</li>
+  <li> therefore, these potent vasoconstrictors act systemically on most organs*</li>
+</ul>
+<p>&nbsp;</p>
+<p class="citation">* Epinephrine can cause vasodilation because it also has a beta-adrenergic receptor stimulatory effect, which dilates rather than constricts certain vessels.<br><b>It has only a weak constriction effect on blood vessels of skeletal muscles.</b></p>
+</span>
+
 --
 ### Sympathetic and parasympathetic innervation
 #### Rate of response
@@ -599,7 +624,7 @@ The central nervous system very rapidly alters blood pressure
 - Arterial pressure can be halved in 10 to 40 seconds
 
 <p>&nbsp;<p>
-<p class="fragment" style="font-size:1.5em">How are such rapid changes in blood pressure made?</p>      
+<p class="fragment" style="font-size:1.5em">How are such rapid changes in blood pressure made?</p>
 
 --
 ### Sympathetic and parasympathetic innervation
