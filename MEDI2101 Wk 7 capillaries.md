@@ -390,7 +390,7 @@ Forces across the capillary wall at the <span style="color:blue"><em>venous</em>
 
 $\begin{equation}\mathrm{net\~filtration\~pressure}=P_c + \Pi_{if} - P_{if} - \Pi_p\end{equation}$
 
-Average forces across the capillary wall over the length of the capillary (Principle of Starling equilibrium):
+Average forces across the capillary wall over the length of the capillary<br>(Principle of Starling equilibrium):
 
 <table>
       <tr>
@@ -523,12 +523,8 @@ Average forces across the capillary wall over the length of the capillary (Princ
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
----
-<!-- .slide: data-auto-animate-restart -->
-Do your best to have a break this mid-session break.
-
-You have earned the break - the first half of MEDI2101 is the busiest, most intensive half.
-
-&nbsp;
-
-We look forward to welcoming you back in Week 8. The second half of the Cardiovascular and Respiratory unit is the most interesting half.
+<!--<!-- .slide: data-auto-animate-restart 
+Do your best to have a break this mid-session break.<br>
+You have earned the break - the first half of MEDI2101 is the busiest, most intensive half.<br>
+&nbsp;<br>
+We look forward to welcoming you back in Week 8. The second half of the Cardiovascular and Respiratory unit is the most interesting half.-->
