@@ -10,20 +10,19 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
 --
 ### MEDI2101 Cardiovascular and Respiratory System
 #### To do in Week 7
 
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=11"> MEDI2101 iLearn Week 7</a>
+<a href="https://ilearn.mq.edu.au/course/view.php?id=77359&section=11"> MEDI2101 iLearn Week 7</a>
 
 --
 ###  Assessment Task 3a: Manuscript figure
 ####
 
-<a href="https://ilearn.mq.edu.au/mod/assign/view.php?id=7611983">Assessment description</a>
+<a href="https://ilearn.mq.edu.au/mod/assign/view.php?id=8175914)">Assessment description</a>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -54,12 +53,26 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### Capillaries
 ####
 
-**Vasomotion**
+<div class='media'>
+  <div class='picture'>
+    <img src='images/Capillaries.webp' width='100%'>
+  </div>
+  <div class='description'>
+
+<h6>Vasomotion</h6>
 
 Periodic contraction and release of smooth muscle in metarterioles and the precapillary sphincters causes intermittent flow and cessation of flow in individual capillaries.
 
 
-**Average blood flow across a capillary bed.** The intermittent flow in individual capillaries averaged across a capillary bed in an area of tissue results in a continuous (generally) non-pulsatile flow of blood through the tissue.
+<h6>Average blood flow across a capillary bed</h6>
+
+The intermittent flow in individual capillaries averaged across a capillary bed in an area of tissue results in a continuous (generally) non-pulsatile flow of blood through the tissue.
+
+  </div>
+  <div class='credit'>
+    <p>Tortora and Grabowski, Principles of Anatomy and Physiology.</p>
+  </div>
+</div>
 
 --
 ### Capillaries
@@ -70,13 +83,13 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
     <img src='images/Capillaries.webp' width='100%'>
   </div>
   <div class='description'>
-        <p><b>Vasomotion regulation</b></p>
+        <h6>Vasomotion regulation</h6>
         <p>Decreased tissue oxygen drives:</p>
           <ul>
             <li> more frequent periods of flow through individual capillaries.</li>
             <li> long periods of flow within each capillary</li>
           </ul>
-          <p>the net effect being increased blood flow to the tissue bed.</p>
+          <p>The net effect being increased blood flow to the tissue bed.</p>
   </div>
   <div class='credit'>
     <p>Tortora and Grabowski, Principles of Anatomy and Physiology.</p>
@@ -119,14 +132,16 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
     <img src='images/CapillaryCaveolae.png' width='100%'>
   </div>
   <div class='description'>
-    <p>Intercellular clefts</p>
+    <h6>Intercellular clefts</h6>
         <ul>
           <li> channel between adjacent endothelial cells</li>
           <li> width: $\approx$ 6 to 7 nm (slightly smaller than albumin)</li>
           <li> allow <em>transport of water and water soluble ions</em></li>
         </ul>
+        <p><br></p>
     <span class="fragment">
-        <p>Caveolae (<em>"small caves"</em>)<br>a.k.a. plasmalemmal vesicles<br>Made of caveolins, proteins associated with cholesterol and sphingolipids.</p>
+        <h6>Caveolae (<em>"small caves"</em>)</h6>
+        <p>a.k.a. plasmalemmal vesicles. Made of caveolins, proteins associated with cholesterol and sphingolipids.</p>
           <ul>
             <li> can carry larger proteins into the cell</li>
             <li> can join to form vesicular channels through the cell</li>
@@ -144,12 +159,10 @@ Periodic contraction and release of smooth muscle in metarterioles and the preca
 
 Nature of the endothelium and capillary pores varies between organs
 
-<ul>
-  <li> <b>blood brain barrier:</b> <em>tight junctions</em> at intercellular clefts. Only small molecules can pass through capillary wall (water, oxygen, carbon dioxide)*</li>
-  <li> <b>liver:</b> intercellular clefts are wide, almost all dissolved plasma substances can pass into the interstitial space</li>
-  <li> <b>gastrointestinal tract:</b> intercellular cleft size midway between brain and liver.</li>
-  <li> <b>glomeruli of kidneys:</b> fenestrated, allowing easy passage of small molecules and ions</li>
-</ul>
+- <b>blood brain barrier:</b> <em>tight junctions</em> at intercellular clefts. Only small molecules can pass through capillary wall (water, oxygen, carbon dioxide)*</li>
+- <b>liver:</b> intercellular clefts are wide, almost all dissolved plasma substances can pass into the interstitial space</li>
+- <b>gastrointestinal tract:</b> intercellular cleft size midway between brain and liver.</li>
+- <b>glomeruli of kidneys:</b> fenestrated, allowing easy passage of small molecules and ions</li>
 <p>&nbsp;</p>
 <p class="citation">*Increasing evidence that there is vesicular transport for larger molecules across the blood brain barrier.</p>
 

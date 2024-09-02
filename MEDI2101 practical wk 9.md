@@ -10,7 +10,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
+<p class="citation">Practical designed by Assoc. Prof. Mark Butlin.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
 --
 
@@ -34,32 +34,6 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 
 --
 
-### Isometric hand-grip challenge (completed last week)
-#### Rest period
-
-1. Choose a volunteer.
-2. Get their maximum grip strength by starting the recording software and have the volunteer squeeze, with their dominant hand, the hand force meter maximally for 2 seconds. Read off the peak value of force achieved. Enter that value in the spreadsheet: <https://bit.ly/2MkvaCT>
-3. Have them sit down and place a blood pressure cuff on their non-dominant arm.
-4. Fit them with the respiratory belt.
-5. Start the recording software.
-6. On the turn of each minute, start the blood pressure monitor. Enter the value of blood pressure and pulse rate in the spreadsheet.
-7. At the 30 second point of each minute, note the respiratory rate and enter that in the spreadsheet.
-
---
-
-### Isometric hand-grip challenge (completed last week)
-#### Hand-grip challenge and recovery
-
-8. After 5 minutes rest (and 5 blood pressure, pulse rate, and respiratory rate measurements), have the volunteer squeeze and hold the force metre at 30% of the maximum.
-9. Start the blood pressure cuff immediately. Every minute for three minutes, record blood pressure, pulse rate, and respiratory rate. **Watch the force metre on the recording software. Ensure the volunteer is maintaining 30% of their maximum hand-grip strength.**
-10. At three minutes, the volunteer can release the hand-grip. Immediately start the blood pressure monitor. Record blood pressure, pulse rate, and respiratory rate at approximately 30 seconds and 90 seconds following release of the hand-grip. Enter those values into the spreadsheet.
-
-**Repeat for at least one more volunteer in your group.**
-
-<!-- <img src="images/isometric_handgrip_results.png" width="50%"> -->
-
---
-
 ### Valsalva maneuvre
 ####
 
@@ -77,14 +51,42 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 
 --
 
-### Active stand challenge
-####
+### Isometric hand-grip challenge
+#### Rest period
 
-**Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.**
+1. Choose a volunteer.
+2. Get their maximum grip strength by starting the recording software and have the volunteer squeeze, with their dominant hand, the hand force meter maximally for 2 seconds. Read off the peak value of force achieved. Enter that value <a href="https://bit.ly/2MkvaCT">in the spreadsheet</a>.
+3. Have them sit down and place a blood pressure cuff on their non-dominant arm.
+4. Place the SpO<sub>2</sub> monitor on a finger.
+5. Fit them with the respiratory belt.
+6. Start the recording software.
+7. Have the participant rest, seated, for 5 minutes. In each minute enter into the spreadsheet:
+    - heart rate
+    - blood pressure
+    - SpO<sub>2</sub>
+    - respiratory rate
 
 --
 
-### Active stand challenge
+### Isometric hand-grip challenge
+#### Hand-grip challenge and recovery
+
+8. Have the volunteer squeeze and hold the force metre at 30% of the maximum grip force.
+
+9.  Start the blood pressure cuff immediately. During each minute of a 5 minute hand-grip, record the same variables as recorded during rest.<br>**Watch the force metre on the recording software. Ensure the volunteer is maintaining 30% of their maximum hand-grip strength.**
+
+10. At five minutes, the volunteer can release the hand-grip. Immediately start the blood pressure monitor. Record all ther same variables for each minute during 2 minutes of seated recovery period.
+
+**Repeat for at least one more volunteer in your group.**
+
+<!-- <img src="images/isometric_handgrip_results.png" width="50%"> -->
+
+<!-- ### Active stand challenge
+####
+
+**Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.** -->
+
+<!--### Active stand challenge
 
 #### Set up
 
@@ -100,21 +102,17 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 6. Fit them with the pulse oximeter (in this experiment we are mainly concerned with the heart rate).
 7. Start the recording software. Check quality of all signals. Correct instrumentation if the signals are not good.
 
-<p class="citation"><b>*Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.</b></p>
+<p class="citation"><b>*Do not volunteer to be a participant in this study if you often have dizzy spells, or if you often feel light-headed when standing up.</b></p> -->
 
---
-
-### Active stand challenge
+<!-- ### Active stand challenge
 
 #### Supine period
 
 8. With the volunteer supine, repeat each minute over 5 minutes:
    1. At the 30 second point of each minute, start the blood pressure monitor. Enter the value of blood pressure in the spreadsheet ( <https://bit.ly/2MkvaCT> ).
-   2. At the 30 second point of each minute, note the respiratory rate and heart rate and enter that in the spreadsheet.
+   2. At the 30 second point of each minute, note the respiratory rate and heart rate and enter that in the spreadsheet. -->
 
---
-
-### Active stand challenge
+<!-- ### Active stand challenge
 
 #### Active stand period (Keep the data acquisition system recording.)
 
@@ -122,7 +120,7 @@ Most tests measure both the heart rate and blood pressure **response** to a **ch
 10. When the reading on the pressure value on the screen rises to about 120 mmHg, have the volunteer move quickly to a standing position and then <b>stay very still</b>.
 11. Enter the first blood pressure and pulse rate reading into the spreadsheet ( <https://bit.ly/2MkvaCT> ).
 12. Take a respiratory rate value in the first 30 seconds of standing. Enter it into the spreadsheet.
-13. Repeat blood pressure (and pulse rate) and respiratory rate measurements each minute for 3 minutes of standing.
+13. Repeat blood pressure (and pulse rate) and respiratory rate measurements each minute for 3 minutes of standing. -->
 
 <!-- ### Active stand challenge
 
