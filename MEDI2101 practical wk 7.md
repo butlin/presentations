@@ -50,17 +50,17 @@ Doing this will help you write the discussion section of the manuscript (assessm
  
 --
 ### Respect
-####
+#### We are working in a privileged space. So not abuse that privilege.
 
-Many of the activities will involve placing instrumentation on each other and observing each other's cardiovascular and respiratory signals.
+- You can only place instrumentation on someone **if they give you consent** to do so.<br>&nbsp;</br>
+- It is perfectly **reasonable for someone to refuse consent**.<br>&nbsp;</br>
+- **You do not have to have measurement taken** on you at all if you don't want to.<br>(This will not hinder your success in this unit.)<br>&nbsp;</br>
+- You may prefer to place instrumentation on yourself, rather than have someone else do it.<br>&nbsp;</br>
+- <b>Callous ``humour'' (of people's appearance or abilities) is not tolerated</b>.<br>Besides being hurtful:
+  -  it erodes trust in the person speaking the callous ``humour''.
+  -  it undermines collegial, professional, or clinician-patient relationships.
 
-- You can only place instrumentation on someone **if they give you consent** to do so.
-  
-- It is perfectly **reasonable for someone to refuse consent**.
-  
-- **You do not have to have measurement taken** on you at all if you don't want to.<br>(This will not hinder your success in this unit.)
-
-- You may prefer to place instrumentation on yourself, rather than have someone else do it.
+<p class="citation">Piemonte NM, Abreu S. <a href="https://doi.org/10.1001/amajethics.2020.608">Responding to Callous Humor in Health Care. AMA J Ethics. 2020 Jul 1;22(7):E608-614.</a></p>
 
 --
 ### Blood pressure measurement
