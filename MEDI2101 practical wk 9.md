@@ -14,7 +14,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 ### Reminder: Respect
-#### We are working in a privileged space. So not abuse that privilege.
+#### We are working in a privileged space. Do not abuse that privilege.
 
 - You can only place instrumentation on someone **if they give you consent** to do so.<br>&nbsp;</br>
 - It is perfectly **reasonable for someone to refuse consent**.<br>&nbsp;</br>
@@ -25,6 +25,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
   -  it undermines collegial, professional, or clinician-patient relationships.
 
 <p class="citation">Piemonte NM, Abreu S. <a href="https://doi.org/10.1001/amajethics.2020.608">Responding to Callous Humor in Health Care. AMA J Ethics. 2020 Jul 1;22(7):E608-614.</a></p>
+
+- <span style="font-size: 14pt">Be gentle with the equipment. It is expensive. Do not touch equipment that is not involved in the practical.</span>
 
 --
 
