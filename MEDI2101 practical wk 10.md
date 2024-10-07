@@ -85,7 +85,7 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
   <p>Can you hear the differences between the different sites of auscultation?</p>
   <p>S1: (sound 1, "lub") tricuspid and mitral (atrioventricular, bicuspid) valves closing.</p>
   <p>S2: (sound 2, "dub") pulmonary and aortic (semilunar) valves closing.</p>
-  <p>Place the diagram, not the bell, of the stethoscope on the chest.</p>
+  <p>Place the diaphragm, not the bell, of the stethoscope on the chest.</p>
   </div>
   <div class="credit">
   <p>Nusing Education Consultants, 2007 <a href="https://tr-i-life.tumblr.com/post/80135001817/location-of-heart-sounds">https://tr-i-life.tumblr.com/post/80135001817/location-of-heart-sounds</a></p>
