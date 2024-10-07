@@ -73,6 +73,27 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 </p>
 
 --
+### Heart sounds
+#### Practice by placing the stethoscope on yourself
+
+<div class="media">
+  <div class="picture">
+  <img src="images/HeartSounds.webp" width="90%">
+  <img src="images/stethoscope_diaphragm_bell.webp" width="35%">
+  </div>
+  <div class="description">
+  <p>Can you hear the differences between the different sites of auscultation?</p>
+  <p>S1: (sound 1, "lub") tricuspid and mitral (atrioventricular, bicuspid) valves closing.</p>
+  <p>S2: (sound 2, "dub") pulmonary and aortic (semilunar) valves closing.</p>
+  <p>Place the diagram, not the bell, of the stethoscope on the chest.</p>
+  </div>
+  <div class="credit">
+  <p>Nusing Education Consultants, 2007 <a href="https://tr-i-life.tumblr.com/post/80135001817/location-of-heart-sounds">https://tr-i-life.tumblr.com/post/80135001817/location-of-heart-sounds</a></p>
+  <p><a href="https://medicosage.com/wp-content/uploads/2023/05/BELL-AND-DIAPHRAGM-OF-STETHOSCOPE-1024x1024.webp">https://medicosage.com/wp-content/uploads/2023/05/BELL-AND-DIAPHRAGM-OF-STETHOSCOPE-1024x1024.webp</a></p>
+  </div>
+</div>
+
+--
 
 ### Let's play Jeopardy
 #### (sort of)
