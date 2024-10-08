@@ -94,15 +94,14 @@ We are going to measure respiratory rate, heart rate, and blood pressure before 
 </div>
 
 --
+### Let's play...
 
-### Let's play Jeopardy
-#### (sort of)
+<img src="images/jeopardy.jpg" height="320px">
+<img src="images/qr_buzzonk.png" height="320px">
 
 <p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
-
-<img src="images/qr_buzzonk.png" width="200px">
-
 <label for="fname">Room code:</label>
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
-
-<p><a href="https://jeopardylabs.com/play/medi2101-week-10">Jeopardy link</a></p>
+<p class="citation">
+<a href="https://jeopardylabs.com/play/medi2101-week-10">Jeopardy link</a>
+</p>

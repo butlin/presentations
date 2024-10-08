@@ -250,15 +250,14 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 <p class="citationside">Image source: Wellcome Collection gallery (2018-04-06): <a href="https://wellcomecollection.org/works/kpreuaus">https://wellcomecollection.org/works/kpreuaus</a></p>
 
 --
+### Let's play...
 
-### Let's play Jeopardy!
-#### (sort of)
+<img src="images/jeopardy.jpg" height="320px">
+<img src="images/qr_buzzonk.png" height="320px">
 
 <p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
-
-<img src="images/qr_buzzonk.png" width="200px">
-
 <label for="fname">Room code:</label>
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
-
-<p><a href="https://jeopardylabs.com/play/medi2101-week-7-practical">Jeopardy link</a></p>
+<p class="citation">
+<a href="https://jeopardylabs.com/play/medi2101-week-7-practical">Jeopardy link</a>
+</p>

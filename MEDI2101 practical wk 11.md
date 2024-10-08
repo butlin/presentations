@@ -15,7 +15,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ### ECG
 #### Volunteer
 
-Today's experiment requires only one volunteer.
+Today's experiment requires only one volunteer in each group.
 
 They don't have to do any exercise.
 
@@ -25,9 +25,9 @@ There are no contraindications this week.
 ### ECG
 #### Getting started
 
-1. Attach the negative electrode to the right arm (right shoulder). What signal do you get?
-2. Attach the positive electrode to the left leg (just above the left hip). What signal do you get?
-3. Attach the ground electrode to the left arm (left shoulder). What signal do you get?
+1. Attach the negative electrode to the "right arm" (right shoulder). What signal do you get?
+2. Attach the positive electrode to the "left leg" (just above the left hip). What signal do you get?
+3. Attach the ground electrode to the "left arm" (left shoulder). What signal do you get?
 4. What lead configuration have you just created?
 
 --
@@ -65,21 +65,24 @@ The baroreceptors have a natural frequency of around 0.1 Hz (1 cycle every 10 se
 ### ECG
 #### Lead configurations
 
-1. Unclip the leads from the ECG stickers.
+1. Leaving the ECG dots (stickers) on the skin, unclip the leads from the ECG dots.
 2. Rearrange the leads to give a Lead I configuration.
 3. Compare the Lead I signal to the previous signal. What is different?
 4. Why is it different?
 
 --
+### ECG
+#### Simulation
 
-### Let's play Jeopardy
-#### (sort of)
+--
+### Let's play...
+
+<img src="images/jeopardy.jpg" height="320px">
+<img src="images/qr_buzzonk.png" height="320px">
 
 <p>Buzzer link: <a href="https://buzzonk.com/">https://buzzonk.com/</a></p>
-
-<img src="images/qr_buzzonk.png" width="200px">
-
 <label for="fname">Room code:</label>
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
-
-<p><a href="https://jeopardylabs.com/play/medi2101-week-11-practical">Jeopardy link</a></p>
+<p class="citation">
+<a href="https://jeopardylabs.com/play/medi2101-week-11-practical">Jeopardy link</a>
+</p>
