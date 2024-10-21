@@ -160,8 +160,24 @@ Neuroscience Research Australia - NeuRA. Breathlessness and the brain.</a> Profe
 2. Get ready with the spirometer.
 3. Press the "Start" button.
 4. Breathe in deeply, put the spirometer to your mouth and pinching your nose, breath out as hard and fast as possible, pushing, pushing, pushing until you cannot expel any more air.
+5. Breathe back in again as hard and fast as you can.
 
-<img src="images/Lungvolumes.svg" width="40%">
+--
+### Practical activity 1
+#### Perform a lung function test
+
+<img src="images/lung_function_test.webp" width="50%">
+<p class="citation">Modified from <a href="https://i.ytimg.com/vi/xbIKxAk-wIA/maxresdefault.jpg">https://i.ytimg.com/vi/xbIKxAk-wIA/maxresdefault.jpg</a></p>
+
+--
+### Practical activity 1
+#### The four pulmonary volumes and four pulmonary capacities
+
+<img src="images/Lungvolumes.svg" width="65%">
+
+<!-- <p>Volume numbers (y-axis) are approximate normals for a 70 kg adult male, or a 50 kg adult female.</p> -->
+<p class="citation">Modified from <a href="https://commons.wikimedia.org/wiki/File:Lungvolumes.svg">https://commons.wikimedia.org/wiki/File:Lungvolumes.svg</a></p>
+
 
 --
 ### Practical activity 2
@@ -180,6 +196,7 @@ Longest breath hold possible following:
 
 5. exercise.<br>(30 or more squats.)
 
+
 <!--### Practical activity
 #### Capnograph demonstration-->
 --
@@ -192,5 +209,6 @@ Longest breath hold possible following:
 <label for="fname">Room code:</label>
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
 <p class="citation">
-<a href="https://jeopardylabs.com/play/medi2101-week-12-practical">Jeopardy link</a>
+<a href="https://jeopardylabs.com/play/medi2101-week-12-practial">Jeopardy link</a><br>
+<a href="https://jeopardylabs.com/play/medi2101-final-jeopardy">Final Jeopardy link</a>
 </p>
