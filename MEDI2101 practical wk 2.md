@@ -21,6 +21,40 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">Practical designed by Assoc. Prof. Mark Butlin.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
+--
+
+### No learning outcomes? 
+#### But we **LOVE** learning outcomes!
+
+This class introduces the respiratory and cardiovascular devices that we will be using in MEDI2101 - and in assessment 2.
+
+The physiogical measurement classes re-inforces some of the theory (and builds on the learning outcomes) that we have learnt in lectures and the on-line modules.
+
+If you find yourself standing around not doing much in today's practical then
+you should:
+
+- observe what is happening to the cardiorespiratory parameters being measured.
+- think about what is causing the changes.
+- discuss with people in your group the possible mechanisms that behind the changes.
+
+Doing this will help you write assessment 2.
+
+--
+### Respect
+#### We are working in a privileged space. Do not abuse that privilege.
+
+- You can only place instrumentation on someone **if they give you consent** to do so.<br>&nbsp;</br>
+- It is perfectly **reasonable for someone to refuse consent**.<br>&nbsp;</br>
+- **You do not have to have measurement taken** on you at all if you don't want to.<br>(This will not hinder your success in this unit.)<br>&nbsp;</br>
+- You may prefer to place instrumentation on yourself, rather than have someone else do it.<br>&nbsp;</br>
+- <b>Callous ``humour'' (of people's appearance or abilities) is not tolerated</b>.<br>Besides being hurtful:
+  -  it erodes trust in the person speaking the callous ``humour''.
+  -  it undermines collegial, professional, or clinician-patient relationships.
+
+<p class="citation">Piemonte NM, Abreu S. <a href="https://doi.org/10.1001/amajethics.2020.608">Responding to Callous Humor in Health Care. AMA J Ethics. 2020 Jul 1;22(7):E608-614.</a></p>
+
+- <span style="font-size: 14pt">Be gentle with the equipment. It is expensive. Do not touch equipment that is not involved in the practical.</span>
+
 ---
 ### Practical activity 1
 #### Perform a lung function test
