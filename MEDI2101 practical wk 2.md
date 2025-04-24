@@ -1,4 +1,4 @@
-# MEDI2101 <br>Cardiovascular and Respiratory System.
+<!-- # MEDI2101 <br>Cardiovascular and Respiratory System.
 # Practicals
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -6,12 +6,11 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p class="citation">Practical designed by Assoc. Prof. Mark Butlin and Dr Peter Burke.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
+<p class="citation">Practical designed by Assoc. Prof. Mark Butlin and Dr Peter Burke.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p> -->
 
----
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk7prac" -->
 #### MEDI2101 Cardiovascular and Respiratory System.
-# Week 7<br>Physiological measurement practical<br>&nbsp;<br>Introduction to some respiratory and cardiovascular instrumentation
+# Week 2.<br>Physiology practical.<br>Resting cardiorespiratory physiology.
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
@@ -21,7 +20,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">Practical designed by Assoc. Prof. Mark Butlin.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
---
+---
 ### Resources
 ####
 
@@ -35,18 +34,18 @@ Staff links:
 ### No learning outcomes? 
 #### But we **LOVE** learning outcomes!
 
-This class introduces the respiratory and cardiovascular devices that we will be using in MEDI2101 - and in Assessment Task 3.1 and 3.2.
+This class introduces the respiratory and cardiovascular devices that we will be using in MEDI2101 - and in assessment 2.
 
 The physiogical measurement classes re-inforces some of the theory (and builds on the learning outcomes) that we have learnt in lectures and the on-line modules.
 
-If you find yourself standing around not doing much in todays practical then
+If you find yourself standing around not doing much in today's practical then
 you should:
 
 - observe what is happening to the cardiorespiratory parameters being measured.
 - think about what is causing the changes.
 - discuss with people in your group the possible mechanisms that behind the changes.
 
-Doing this will help you write the discussion section of the manuscript (assessment task 3.2)
+Doing this will help you write assessment 2.
 
 --
 ### Respect
@@ -64,13 +63,13 @@ Doing this will help you write the discussion section of the manuscript (assessm
 
 - <span style="font-size: 14pt">Be gentle with the equipment. It is expensive. Do not touch equipment that is not involved in the practical.</span>
 
---
+---
 ### Blood pressure measurement
 ####
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/bloodpressuremonitoromron.jpg' width='100%'>
+    <img src='images/bloodpressuremonitoromron.webp' width='100%'>
   </div>
   <div class='description'>
     <p>Have a volunteer place the cuff on their non-dominant arm.</p>
@@ -150,7 +149,7 @@ Doing this will help you write the discussion section of the manuscript (assessm
 
 Each person (who wishes to have their blood pressure taken), choose a number in <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>, and enter your blood pressure (as read by the automatic sphygmomanometer). 
 
---
+---
 ### Activity<br>Respiratory belt<br>10 minutes
 
 <div class='media'>
@@ -164,7 +163,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
       <li> Does it look like a respiratory signal? If not, adjust the belt.</li>
       <li> Note the respiratory rate in <a href="https://bit.ly/2MkvaCT" target="_blank">the spreadsheet</a>.
     </ul>
-    <img src='images/respiratorybelt.jpg' width='50%'>
+    <img src='images/respiratorybelt.webp' width='50%'>
     <img src='images/adinstrumentsstart.jpg' width='40%'>
 
   </div>
@@ -227,7 +226,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 
 <p class="citation"><a href="https://flux.qa/X9D24Q">https://flux.qa/X9D24Q</a></p>
 
---
+---
 ### Activity<br>Pulse rate and blood oxygen saturation<br>10 minutes
 ####
 
@@ -249,7 +248,7 @@ Each person (who wishes to have their blood pressure taken), choose a number in 
 </div>
 <p class="citationside">Image source: Wellcome Collection gallery (2018-04-06): <a href="https://wellcomecollection.org/works/kpreuaus">https://wellcomecollection.org/works/kpreuaus</a></p>
 
---
+---
 ### Let's play...
 
 <img src="images/jeopardy.jpg" height="320px">
