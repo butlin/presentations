@@ -1,7 +1,7 @@
-<!-- .slide: data-auto-animate-restart id="MEDI2101Wk11prac"-->
+<!-- .slide: data-auto-animate-restart id="MEDI2101Wk10prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
-### Block 3: Cardiovascular and respiratory integration
-# Week 11 Practical: Electrical activity of the heart
+### Block: Integrated systems
+# Week 11<br>Physiology practical<br>Exercise physiology
 <!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -12,67 +12,63 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p class="citation">Practical designed by Assoc. Prof. Mark Butlin.<br>This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
 --
-### ECG
-#### Volunteer
 
-Today's experiment requires only one volunteer in each group.
-
-They don't have to do any exercise.
-
-There are no contraindications this week.
-
---
-### ECG
-#### Getting started
-
-1. Attach the negative electrode to the "right arm" (right shoulder). What signal do you get?
-2. Attach the positive electrode to the "left leg" (just above the left hip). What signal do you get?
-3. Attach the ground electrode to the "left arm" (left shoulder). What signal do you get?
-4. What lead configuration have you just created?
+<span style="color:red">**If you have asthma or any other breathing difficulties, do NOT be a study volunteer in today's study.**</span>
 
 --
 
-### ECG
-#### What are you detecting?
+### Wall squat
 
-1. Move around. What happens? What are you detecting?
-2. Take some very big deep breaths in and out. What happens? What are you detecting?
-3. Stay still. What is generating the signal that you are observing?
+####
 
--- 
-### ECG 
-#### Electrical source $\longrightarrow$ mechanical event
+We are going to measure respiratory rate, heart rate, and blood pressure before and during a 3 minute wall squat.
 
-1. Pause (stop) the signal acquisition.
-2. Zoom in on a single cardiac cycle.
-3. Identity the following features. For each feature, specify the cellular cause, and the mechanical event that it is associated with:
-   - P wave
-   - QRS complex
-   - T wave
+<p class="fragment">We are going to let Josh explain to us how to do a wall squat. Josh wears a bandana and is a funny guy.</p>
 
 --
-### ECG
-#### Respiratory sinus arrythmia
 
-The baroreceptors have a natural frequency of around 0.1 Hz (1 cycle every 10 seconds).
+### Wall squat
 
-1. Over 1 to 2 minutes, take slow breaths, timing them to have 5 seconds of inspiration, and 5 seconds of expiration. Observe any heart rate changes.
-2. What is the first thing that we are driving when we take these longer, slower breaths with increased tidal volumes?
-3. Can you connect that to a change in arterial blood pressure?
-4. Are your results consistent with a baroreceptor response to the changes in blood pressure?
+####
 
---
-### ECG
-#### Lead configurations
-
-1. Leaving the ECG dots (stickers) on the skin, unclip the leads from the ECG dots.
-2. Rearrange the leads to give a Lead I configuration.
-3. Compare the Lead I signal to the previous signal. What is different?
-4. Why is it different?
+<video data-autoplay data-src="images/wall squat exercise.mp4"></video>
+<p>&nbsp;</p>
+<p class="citation">Josh Wilson <a href="https://www.youtube.com/watch?v=8XdGe7vm6HQ">https://www.youtube.com/watch?v=8XdGe7vm6HQ</a></p>
 
 --
-### ECG
-#### Simulation
+
+### What do you think will happen to heart rate, respiratory rate, and blood pressure during the wall squat? (and why)
+
+####
+
+--
+
+### Wall squat
+
+####
+
+<p>1. Whilst seated and resting, measure your heart rate and blood pressure. Note your respiratory rate. Enter the values into the spreadsheet: <a href="https://bit.ly/2MkvaCT">https://bit.ly/2MkvaCT</a></p>
+
+<span class="fragment">
+<p>2. Whilst doing a wall squat, measure your heart rate and blood pressure each minute for three minutes. Note your respiratory rate. Enter the values into the spreadsheet.</p>
+</span>
+<span class="fragment">
+<p>3. Rest for at least 3 minutes.</p>
+</span>
+
+--
+
+### If we did the same wall squat challenge whilst breathing through a straw, what do you think would happen to heart rate, respiratory rate and blood pressure? (and why)
+####
+
+--
+
+### Wall squat
+
+####
+
+<p>4. Whilst breathing through a straw, repeat the three minute wall squat. Measure heart rate, and blood pressure each minute. Note your respiratory rate. Enter the values in the spreadsheet: <a href="https://bit.ly/2MkvaCT">https&#x3A;//bit.ly/2MkvaCT</a>
+</p>
 
 --
 ### Let's play...
@@ -84,5 +80,6 @@ The baroreceptors have a natural frequency of around 0.1 Hz (1 cycle every 10 se
 <label for="fname">Room code:</label>
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
 <p class="citation">
-<a href="https://jeopardylabs.com/play/medi2101-week-11-practical">Jeopardy link</a>
+<a href="https://jeopardylabs.com/play/medi2101-week-10">Jeopardy link</a>
+<a href="https://jeopardylabs.com/play/medi2101-final-jeopardy">Final Jeopardy link</a>
 </p>

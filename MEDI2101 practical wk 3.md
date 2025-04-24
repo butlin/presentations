@@ -1,7 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk12prac"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
-### Block 3: Cardiovascular and respiratory integration
-# Week 12, Practical: Respiratory function
+### Block: Respiratory
+# Week 3<br>Physiology practical<br>Breath holds.
 <!-- ##### Dr Mark Butlin (PhD, BE, SFHEA) (he/him) -->
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -19,7 +19,7 @@ Central respiratory chemoreception (CRC) fundamentals.
 - Drive to breathe
 - Maintains pH within narrow limits
 
-<quote>Blood carbon dioxide (pCO<sub>2</sub>) as the principal factor that affects the rate and depth of breathing, respiratory sensations, air hunger and breathlessness.</quote>
+<blockquote>Blood carbon dioxide (pCO<sub>2</sub>) as the principal factor that affects the rate and depth of breathing, respiratory sensations, air hunger and breathlessness.</blockquote>
 
 --
 ### Regulation of breathing automaticity by CO<sub>2</sub>
@@ -153,34 +153,7 @@ Central sleep apnoea
 Neuroscience Research Australia - NeuRA. Breathlessness and the brain.</a> Professor Simon Gandevia – CO<sub>2</sub> sensing under paralysis.</p>
 
 --
-### Practical activity 1
-#### Perform a lung function test
-
-1. Click the FVC button.
-2. Get ready with the spirometer.
-3. Press the "Start" button.
-4. Breathe in deeply, put the spirometer to your mouth and pinching your nose, breath out as hard and fast as possible, pushing, pushing, pushing until you cannot expel any more air.
-5. Breathe back in again as hard and fast as you can.
-
---
-### Practical activity 1
-#### Perform a lung function test
-
-<img src="images/lung_function_test.webp" width="50%">
-<p class="citation">Modified from <a href="https://i.ytimg.com/vi/xbIKxAk-wIA/maxresdefault.jpg">https://i.ytimg.com/vi/xbIKxAk-wIA/maxresdefault.jpg</a></p>
-
---
-### Practical activity 1
-#### The four pulmonary volumes and four pulmonary capacities
-
-<img src="images/Lungvolumes.svg" width="65%">
-
-<!-- <p>Volume numbers (y-axis) are approximate normals for a 70 kg adult male, or a 50 kg adult female.</p> -->
-<p class="citation">Modified from <a href="https://commons.wikimedia.org/wiki/File:Lungvolumes.svg">https://commons.wikimedia.org/wiki/File:Lungvolumes.svg</a></p>
-
-
---
-### Practical activity 2
+### Practical activity
 #### Hypothesise, and test hypothesis, under which condition would have the longeset breath hold
 Record <a href="https://bit.ly/2MkvaCT">in the spreadsheet</a> heart rate and SpO<sub>2</sub> before and immediately at the end of the following breath holds. Also record the duration of the breath hold.
 
@@ -210,5 +183,4 @@ Longest breath hold possible following:
 <input style="font-size: 30pt;" type="text" id="roomcode" name="roomcode">
 <p class="citation">
 <a href="https://jeopardylabs.com/play/medi2101-week-12-practial">Jeopardy link</a><br>
-<a href="https://jeopardylabs.com/play/medi2101-final-jeopardy">Final Jeopardy link</a>
 </p>
