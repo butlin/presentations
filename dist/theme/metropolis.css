@@ -34,14 +34,14 @@ body.dark .reveal h6 {
 }
 
 @font-face {
-    font-family: 'Atkinson Hyperlegible';
-    src: url('fonts/AtkinsonHyperlegible-Regular.ttf') format('truetype');
+    font-family: 'Atkinson Hyperlegible Next';
+    src: url('fonts/AtkinsonHyperlegibleNext-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 .reveal {
-    font-family: "Atkinson Hyperlegible", 'Open Sans', sans-serif;
+    font-family: "Atkinson Hyperlegible Next", 'Open Sans', sans-serif;
     font-size: 32px;
     font-weight: normal;
     color: #000000; }
