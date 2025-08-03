@@ -15,7 +15,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;<br>
-#### Learning objective 1
+#### Learning objective
 # Respiratory System Functions
 ### Describe the five major functions of the respiratory system: air conduction, air conditioning and protection, vocalization, gas exchange, and pH regulation.
 
@@ -101,10 +101,12 @@ Functions of the nose
 <figure>
   <img src="images/Respiratory_system_pharynx.svg" alt="" width="50%">
   <figcaption>
-Function of the pharynx
-
-- passage for air and food intake
-- equalise air pressure between the atmosphere and the middle ear through the Eustacian tube    
+Function of the pharynx<br>
+&nbsp;<br>
+<ul>
+  <li style="margin-bottom: 30px;">passage for air and food intake</li>
+  <li style="margin-bottom: 30px;">equalise air pressure between the atmosphere and the middle ear through the Eustacian tube (pharyngotympanic tube)</li>
+</ul>
   </figcaption>
 </figure>
 
@@ -118,12 +120,15 @@ Function of the pharynx
 Function of the larynx
 
 The larynx contains the epiglottis (diversion of food) and the vocal cords (forced breath hold, vocalisation).
-
-- **epiglottis:** elastic cartilage "trap door" that is closed when swallowing food/liquid to prevent food/liquid from entering the trachea (wind pipe)
-- **false vocal cords:** close to block/hold breath eg. when lifting a heavy object (these "vocal" cords don't produce sound)
-- **true vocal cords:** elastic ligaments that when stretched, produce sound as air passes by them.
-  - pitch = degree of stretch
-  - amplitude = amount of air pressure applied
+<ul>
+<li style="margin-bottom: 30px;"><b>epiglottis:</b> elastic cartilage "trap door" that is closed when swallowing food/liquid to prevent food/liquid from entering the trachea (wind pipe)</li>
+<li style="margin-bottom: 30px;"><b>false vocal cords:</b> close to block/hold breath eg. when lifting a heavy object (these "vocal" cords don't produce sound)</li>
+<li><b>true vocal cords:</b> elastic ligaments that when stretched, produce sound as air passes by them.</li>
+  <ul>
+    <li>pitch = degree of stretch</li>
+    <li>amplitude = amount of air pressure applied</li>
+  </ul>
+</ul>
   </figcaption>
 </figure>
 <p>&nbsp</p>
@@ -131,152 +136,15 @@ The larynx contains the epiglottis (diversion of food) and the vocal cords (forc
 
 --
 ### The five major functions of the respiratory system
-#### 1. Conduction of Air
-
-<figure>
-  <img src="images/LungBranches3.png" alt="" width="75%">
-  <figcaption>
-    
-  </figcaption>
-</figure>
-<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach.</em></p>
-
---
-### The five major functions of the respiratory system
-#### 1. Conduction of Air
-
-Airway resistance (\$R$\) and corollary of Poiseuille's law
-
-\begin{equation}
-  R = \dfrac{8\mu L}{\pi r^4}
-\end{equation}
-
-where:
-- $\mu$ fluid viscosity
-- $L$ length of tube
-- $r$ radius of the tube
-
-
-<div class="r-stack">
-<p class="fragment fade-in-then-out">The important thing to remember: resistance is directly proportional to the length of the tube, and inversely proportional to the fourth power of radius.</p>
-<p class="fragment"><em>This means that a change in radius has a dramatic effect on resistance.</em></p>
-</div>
-
---
-### The five major functions of the respiratory system
-#### 1. Conduction of Air
-
-\begin{equation}
-R = \dfrac{8\mu L}{\pi r^4}
-\end{equation}
-
-As flow $Q$ is dependent on resistance:
-
-\begin{equation}
-  Q \propto \dfrac{\Delta P}{R}
-\end{equation}
-
-<span style="color:red">$\downarrow$</span> radius $\rightarrow$ <span style="color:red">$\uparrow$</span> resistance $\rightarrow$ <span style="color:red">$\downarrow$</span> flow
-
-and inversely
-
-<span style="color:green">$\uparrow$</span> radius $\rightarrow$ <span style="color:green">$\downarrow$</span> resistance $\rightarrow$ <span style="color:green">$\uparrow$</span> flow
-
---
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" -->
-
-Which straw has the
-
-greatest resistance?
-
-<p class="fragment">
-$R = \dfrac{8\mu L}{\pi r^4}$
-</p>
-
---
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
-
-Which straw has the
-
-greatest resistance?
-
-$R = \dfrac{8\mu L}{\pi r^4}$
-
-<span style="color:green">
-<p data-id="direction">To decrease resistance and increase flow:</p>
-<ul data-id="directionlist">
-<li> increase the diameter (radius)</li>
-<li> decrease the length</li>
-</ul>
-</span>
-
---
-<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
-
-Which straw has the
-
-greatest resistance?
-
-$R = \dfrac{8\mu L}{\pi r^4}$
-
-<span style="color:red">
-<p data-id="direction">To increase resistance and decrease flow:</p>
-<ul data-id="directionlist">
-<li> decrease the diameter (radius)</li>
-<li> increase the length</li>
-</ul>
-</span>
-
-<!-- slide: data-auto-animate data-background-image="images/LungBranches2.png" data-background-size="contain"
-<table border="0">
-  <tr>
-    <td width="80%"></td>
-    <td>Does the single trachea, or the combination of both bronchi, have the greatest resistance?</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><p class="fragment">$R = \dfrac{8\mu L}{\pi r^4}$</p></td>
-  <tr>
-</table>-->
-
---
-
-<!-- .slide: data-auto-animate data-background-image="images/LungBranches.png" data-background-size="contain" -->
-
---
-### The five major functions of the respiratory system
-#### 1. Conduction of Air
-
-<figure>
-  <img src="images/LungBranches.png" alt="" width="60%">
-  <figcaption>
-    <ul>
-    <li> Air moves through the trachea, bronchi, and bronchioles.</li>
-    <li> Exchange of gases between air and blood occurs at the level of the alveoli (largest cross sectional area, lowest resistance).</li>
-    </ul>
-  </figcaption>
-</figure>
-
---
-### The five major functions of the respiratory system
 #### 2. Conditioning of air and protection from inhaled substances
 
 The respiratory mucosa lining the conducting airways conditions air before it reaches the alveoli.
 
-- **Warming** 
-  - Air is warmed to 37<sup>o</sup>C so core body temp is maintained and to protect the alveoli.
-- **Humidifying** 
-  - Water vapor is added to 100% humidity so the exchange epithelium doesn’t dry.
-- **Filtering** 
-  - Removal of particles and pathogens to protect the body from inflammation and infection.
-    
---
-### The five major functions of the respiratory system
-#### 2. Conditioning of air and protection from inhaled substances
-
-The mucosal lining also **traps** and **transports** some **pathogens**. 
-
-The **ciliary beat** that removes mucous (and trapped pathogens) relies on the thin saline secreted by epithelial cells of the respiratory system.
+<ul>
+<li style="margin-bottom: 30px;"><b>Warming</b><br>Air is warmed to 37<sup>o</sup>C so core body temp is maintained and to protect the alveoli.
+<li style="margin-bottom: 30px;"><b>Humidifying</b><br>Water vapor is added to 100% humidity so the exchange epithelium doesn’t dry.
+<li style="margin-bottom: 30px;"><b>Filtering</b><br>Removal of particles and pathogens to protect the body from inflammation and infection. The <b>ciliary beat</b> that removes mucous (and trapped pathogens) relies on the thin saline secreted by epithelial cells of the respiratory system.
+</ul>
 
 <!--
 ### The five major functions of the respiratory system
@@ -390,7 +258,7 @@ Oxygen needs to travel across the alveolar surface from the alveolar air into th
 
 Carbon dioxide needs to travel in the reverse direction.
 
-This will be covered in greater detail in the following lecture.
+This will be covered in greater detail shortly.
 
 --
 ### The five major functions of the respiratory system
@@ -406,15 +274,11 @@ When carbon dioxide is dissolved in blood (water):
 \mathrm{CO}_2 + \mathrm{H}_2\mathrm{O} \overset{\mathrm{carbonic\~anhydrase}}{\rightarrow} \mathrm{H}_2\mathrm{CO}_3 \rightarrow \mathrm{H}^+ + \mathrm{HCO}^{3-}
 \end{equation}
 
-<p class="fragment">Increasing the concentration of H<sup>+</sup> increases the acidity (decreases pH) and vice versa.</p>
-
---
-### The five major functions of the respiratory system
-#### 4. pH regulation
+Increasing the concentration of H<sup>+</sup> increases the acidity (decreases pH) and vice versa.
 
 By altering the rate of ventilation, the rate of CO<sub>2</sub> movement our of the blood can be modified, thereby changing blood pH. 
 
-Regulation of ventilation (and pH) will be covered next week.
+We will cover this in greater detail in later lectures.
 
 --
 ### The five major functions of the respiratory system
@@ -427,7 +291,7 @@ Speech (or just vocal noise) requires three main processes to work together:
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
 
 --
-#### LO1.2.1 Describe the five major functions of the respiratory system (1): conduction of air; (2): conditioning of air and protection from inhaled substances; (3): vocalisation; (4): gas exchange; and (5): pH regulation
+#### Respiratory System Functions: Describe the five major functions of the respiratory system: air conduction, air conditioning and protection, vocalization, gas exchange, and pH regulation.
 
 #### Reflection quiz
 
@@ -440,9 +304,259 @@ Speech (or just vocal noise) requires three main processes to work together:
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;<br>
-#### Learning objective 2
-# Oxygen cascade
-### Describe the oxygen cascade, the movement of carbon dioxide through the body, and map the key factors that influence gas exchange between the atmosphere and blood.
+#### Learning objective
+# Key terms in fluid movement
+### Define and understand the relationships between pressure, pressure gradient, flow, velocity of flow, resistance, and radius in the context of the cardiovascular and respiratory systems.
+
+--
+### Key terms in fluid movement
+#### Pressure and flow. Bulk fluid movement.
+
+<div style="display: flex; justify-content: space-between; margin-left: 8%; margin-right: 50%;">
+  <div>Tank A</div>
+  <div>Tank B</div>
+</div>
+
+<figure>
+  <img src="images/pressure_and_flow.gif" alt="" width="60%">
+  <figcaption>
+    <ul>
+      <li style="margin-bottom: 30px;">Tank B pressure higher =<br>flow to Tank A</li>
+      <li style="margin-bottom: 30px;">Tank B pressure lower =<br>flow from Tank A</li>
+      <li style="margin-bottom: 30px;">Tank B pressure the same =<br>no flow</li>
+    </ul>
+  </figcaption>
+</figure>
+<p class="citation">Image generated using Microsoft Copilot.</em></p>
+
+--
+### Key terms in fluid movement
+#### Pressure and flow. Bulk fluid movement.
+
+<div style="display: flex; justify-content: space-between; margin-left: 8%; margin-right: 50%;">
+  <div>Atmosphere</div>
+  <div>Lungs</div>
+</div>
+
+<figure>
+  <img src="images/pressure_and_flow.gif" alt="" width="60%">
+  <figcaption>
+    <ul>
+      <li style="margin-bottom: 30px;">Lung pressure higher =<br>flow to atmosphere</li>
+      <li style="margin-bottom: 30px;">Lung pressure lower =<br>flow from atmosphere</li>
+      <li style="margin-bottom: 30px;">Lung pressure the same =<br>no flow</li>
+    </ul>
+  </figcaption>
+</figure>
+<p class="citation">Image generated using Microsoft Copilot.</em></p>
+
+--
+### Key terms
+#### Changing pressure
+
+**Boyle's law**
+
+That pressure ($P$) of a fixed mass of material (e.g. air) is inversely proportional to volume ($V$).
+
+\begin{equation}
+P 	\propto \dfrac{1}{V}
+\end{equation}
+
+The corollary is that if the pressure on a material is changed, the volume must also change proportionally.
+
+\begin{equation}
+P_1\cdot V_1 = P_2 \cdot V_2
+\end{equation}
+
+--
+### Key terms
+#### Changing pressure
+
+<figure>
+  <img src="images/boyleslaw.png" alt="" width="50%">
+  <figcaption>
+Boyle's Law states that if the volume of a fluid is changed, then the pressure must change inversely and proportionally. 
+
+So if we halve the volume, the pressure would double.
+
+\begin{equation}
+P_1\cdot V_1 = P_2 \cdot V_2
+\end{equation}
+  </figcaption>
+</figure>
+<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
+
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/BoylesLaw.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=N5xft2fIqQU">https://www.youtube.com/watch?v=N5xft2fIqQU</a></p>
+  
+--
+### Key terms
+#### Changing pressure
+
+How does Boyle's Law relate to inspiration?
+
+If we increase the volume of the lungs, it will reduce the pressure within the lungs.
+
+$P_1\cdot V_1 = P_2 \downarrow \cdot V_2 \uparrow$
+
+$P_2$ is now less than atmospheric pressure.
+
+<p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the surrounding atmosphere, into the lungs).</p>
+<p class="fragment">This air movement is <b>bulk flow</b> because the entire gas mixture is moving (not individual gases, as in diffusion across a <em>partial pressure</em> gradient).</p>
+
+
+  
+--
+### Key terms
+#### Changing pressure
+
+How does Boyle's Law relate to exhalation?
+
+If we decrease the volume of the lungs, it will increase the pressure within the lungs.
+
+$P_1\cdot V_1 = P_2 \uparrow \cdot V_2 \downarrow$
+
+$P_2$ is now greater than atmospheric pressure.
+
+<p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the lungs, out to the surrounding atmosphere).</p>
+
+
+--
+### Key terms in fluid movement
+#### Resistance
+
+<figure>
+  <img src="images/LungBranches3.png" alt="" width="75%">
+  <figcaption>
+    
+  </figcaption>
+</figure>
+<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach.</em></p>
+
+--
+### Key terms in fluid movement
+#### Resistance
+
+Airway resistance (\$R$\) and corollary of Poiseuille's law
+
+\begin{equation}
+  R = \dfrac{8\mu L}{\pi r^4}
+\end{equation}
+
+where:
+- $\mu$ fluid viscosity
+- $L$ length of tube
+- $r$ radius of the tube
+
+
+<div class="r-stack">
+<p class="fragment fade-in-then-out">The important thing to remember: resistance is directly proportional to the length of the tube, and inversely proportional to the fourth power of radius.</p>
+<p class="fragment"><em>This means that a change in radius has a dramatic effect on resistance.</em></p>
+</div>
+
+--
+### Key terms in fluid movement
+#### Resistance
+
+\begin{equation}
+R = \dfrac{8\mu L}{\pi r^4}
+\end{equation}
+
+As flow $Q$ is dependent on resistance:
+
+\begin{equation}
+  Q \propto \dfrac{\Delta P}{R}
+\end{equation}
+
+<span style="color:red">$\downarrow$</span> radius $\rightarrow$ <span style="color:red">$\uparrow$</span> resistance $\rightarrow$ <span style="color:red">$\downarrow$</span> flow
+
+and inversely
+
+<span style="color:green">$\uparrow$</span> radius $\rightarrow$ <span style="color:green">$\downarrow$</span> resistance $\rightarrow$ <span style="color:green">$\uparrow$</span> flow
+
+--
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" -->
+
+Which straw has the
+
+greatest resistance?
+
+<p class="fragment">
+$R = \dfrac{8\mu L}{\pi r^4}$
+</p>
+
+--
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
+
+Which straw has the
+
+greatest resistance?
+
+$R = \dfrac{8\mu L}{\pi r^4}$
+
+<span style="color:green">
+<p data-id="direction">To decrease resistance and increase flow:</p>
+<ul data-id="directionlist">
+<li> increase the diameter (radius)</li>
+<li> decrease the length</li>
+</ul>
+</span>
+
+--
+<!-- .slide: data-auto-animate data-background-image="images/stainless_steel_drinking_straws.webp" data-background-size="contain" data-background-opacity="0.3" -->
+
+Which straw has the
+
+greatest resistance?
+
+$R = \dfrac{8\mu L}{\pi r^4}$
+
+<span style="color:red">
+<p data-id="direction">To increase resistance and decrease flow:</p>
+<ul data-id="directionlist">
+<li> decrease the diameter (radius)</li>
+<li> increase the length</li>
+</ul>
+</span>
+
+<!-- slide: data-auto-animate data-background-image="images/LungBranches2.png" data-background-size="contain"
+<table border="0">
+  <tr>
+    <td width="80%"></td>
+    <td>Does the single trachea, or the combination of both bronchi, have the greatest resistance?</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><p class="fragment">$R = \dfrac{8\mu L}{\pi r^4}$</p></td>
+  <tr>
+</table>-->
+
+--
+
+<!-- .slide: data-auto-animate data-background-image="images/LungBranches.png" data-background-size="contain" -->
+
+--
+### Key terms in fluid movement
+#### Resistance 
+
+<figure>
+  <img src="images/LungBranches.png" alt="" width="60%">
+  <figcaption>
+    <ul>
+    <li> Air moves through the trachea, bronchi, and bronchioles.</li>
+    <li> Exchange of gases between air and blood occurs at the level of the alveoli (largest cross sectional area, lowest resistance).</li>
+    </ul>
+  </figcaption>
+</figure>
+
+---
+<!-- .slide: data-auto-animate-restart -->
+&nbsp;<br>
+#### Learning objective
+# Lung mechanics
+### Explain how lung pressure and volume change during normal breathing. Relate these changes to airflow and interpret alveolar and intra-pleural pressure changes throughout the respiratory cycle.
 
 --
 <!-- .slide: data-auto-animate data-background-image="images/musclesofrespiration1.png" data-background-size="contain" data-background-position="right" -->
@@ -520,78 +634,6 @@ Upon relaxation, the diaphragm curves upward once more, increasing intrapleural 
 ### Pressure-volume changes during normal breathing
 ####
 
-**Boyle's law**
-
-That pressure ($P$) of a fixed mass of material (e.g. air) is inversely proportional to volume ($V$).
-
-\begin{equation}
-P 	\propto \dfrac{1}{V}
-\end{equation}
-
-The corollary is that if the pressure on a material is changed, the volume must also change proportionally.
-
-\begin{equation}
-P_1\cdot V_1 = P_2 \cdot V_2
-\end{equation}
-
---
-### Pressure-volume changes during normal breathing
-####
-
-<figure>
-  <img src="images/boyleslaw.png" alt="" width="50%">
-  <figcaption>
-Boyle's Law states that if the volume of a fluid is changed, then the pressure must change inversely and proportionally. 
-
-So if we halve the volume, the pressure would double.
-
-\begin{equation}
-P_1\cdot V_1 = P_2 \cdot V_2
-\end{equation}
-  </figcaption>
-</figure>
-<p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p>
-
---
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/BoylesLaw.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=N5xft2fIqQU">https://www.youtube.com/watch?v=N5xft2fIqQU</a></p>
-  
---
-### Pressure-volume changes during normal breathing
-####
-
-How does Boyle's Law relate to inspiration?
-
-If we increase the volume of the lungs, it will reduce the pressure within the lungs.
-
-$P_1\cdot V_1 = P_2 \downarrow \cdot V_2 \uparrow$
-
-$P_2$ is now less than atmospheric pressure.
-
-<p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the surrounding atmosphere, into the lungs).</p>
-<p class="fragment">This air movement is <b>bulk flow</b> because the entire gas mixture is moving (not individual gases, as in diffusion across a <em>partial pressure</em> gradient).</p>
-
-
-  
---
-### Pressure-volume changes during normal breathing
-####
-
-How does Boyle's Law relate to exhalation?
-
-If we decrease the volume of the lungs, it will increase the pressure within the lungs.
-
-$P_1\cdot V_1 = P_2 \uparrow \cdot V_2 \downarrow$
-
-$P_2$ is now greater than atmospheric pressure.
-
-<p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the lungs, out to the surrounding atmosphere).</p>
-
---
-### Pressure-volume changes during normal breathing
-####
-
 <figure>
   <img src="images/lungvolumeandpressure2.png" alt="" width="33%">
   <figcaption>
@@ -658,20 +700,17 @@ That is, the lung collapses.
 </figure>
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p> -->
 
---
-#### LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
+<!--#### LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
 #### Reflection quiz
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cb641f524f73a60089b4" data-background-interactive -->
+--<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cb641f524f73a60089b4" data-background-interactive -->
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cd3a1f524f73a600906f" data-background-interactive -->
+<!--<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cd3a1f524f73a600906f" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;
-#### Learning objective 4
+#### Learning objective
 # Pulmonary Volumes and Capacities
 ### Describe the four pulmonary volumes and the four pulmonary lung capacities.
 
@@ -740,7 +779,7 @@ we can calculate the minute ventilation
 
 --
 
-#### LO1.2.3 Describe the four pulmonary volumes and the four pulmonary lung capacities
+#### Describe the four pulmonary volumes and the four pulmonary lung capacities
 #### Review quiz
 
 --
@@ -754,7 +793,7 @@ we can calculate the minute ventilation
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;
-#### Learning objective 7
+#### Learning objective
 # Gas Diffusion
 ### Communicate the factors that determine the rate of gas diffusion across a membrane.
 
@@ -791,8 +830,6 @@ Capillaries are the smallest of blood vessels and are around the diameter of a s
 --
 ### Diffusion of a gas across a membrane
 ####
-
-**Diffusion of gases (recap)**
 
 - Diffusion is the movement of a material from a region of higher concentration to a region of lower concentration.
 - The pressure of a particular gas (eg. oxygen) in a mix of gases (eg. in air or blood) is called the partial pressure.
@@ -870,10 +907,91 @@ Absorption of oxygen into blood <span style="color:red">at rest</span> and <span
 </figure>
 <p class="citation">Figure 40-5, <em>Guyton and Hall Textbook of Medical Physiology</em></p>
 
+--
+
+### The oxygen cascade
+#### Dalton's law and partial pressure
+
+**Dalton's law**
+
+The sum of the individual pressures that make up a mixture of gases
+is the total pressure of that mixture of gases.
+
+The pressure of an individual gas within a mixture of gases is known
+as the *partial pressure*.
+
+--
+
+### The oxygen cascade
+#### Dalton's law and partial pressure
+
+Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2</sub>) and carbon dioxide (pCO<sub>2</sub>) in atmospheric ("dry") air and humid air (as found in the lungs). In reading this table, note that gases flow from regions of higher partial pressure to lower partial pressure.
+
+<table>
+    <tr>
+        <th></th>
+        <th>dry air </th>
+        <th>100% humid air </th>
+    </tr>
+        <td>Atmospheric pressure </td>
+        <td> 760 mmHg </td>
+        <td> 760 mmHg </td>
+    </tr>
+    <tr>
+        <td>Vapour pressure </td>
+        <td> 0 mmHg </td>
+        <td> 24 mmHg </td>
+    </tr>
+    <tr>
+        <td>Gas pressure (atmospheric pressure - vapour pressure) </td>
+        <td> 760 mmHg </td>
+        <td> 736 mmHg </td>
+    </tr>
+    <tr>
+        <td> pO<sub>2</sub> = 21% \(\times\) gas pressure </td>
+        <td> 160 mmHg </td>
+        <td> 155 mmHg </td>
+    </tr>
+    <tr>
+        <td> pCO<sub>2</sub> = 0.033% \(\times\) gas pressure </td>
+        <td> 0.25 mmHg </td>
+        <td> 0.24 mmHg </td>
+    </tr>
+</table>
+
+<p>&nbsp</p>
+<p class="citation">Extension from D.U. Silverthorn, <em>Human Physiology: An integrated approach.</em></p>
+
+--
+
+### The oxygen cascade
+#### Partial pressure gradients and flow of gases
+
+<figure>
+    <img src="images/oxygen_cascade.png" alt="the oxygen cascade" width="50%">
+    <figcaption>
+        <b>The oxygen cascade.</b> A gas flows from a region of higher partial pressure to a region of lower partial pressure. Therefore, oxygen will flow from the atmosphere right down to the mitochondria along the cascade of partial pressures along that pathway.
+    </figcaption>
+</figure>
+
+<p class="citation">Figure created for MEDI2101</p>
+
+--
+### Movement of carbon dioxide from venous blood to the atmosphere
+####
+
+<figure>
+    <img src="images/co2_cascade.png" alt="Carbon dioxide cascade." width="50%">
+    <figcaption>
+        A gas flows from a region of higher partial pressure to a region of lower partial pressure. Therefore, carbon dioxide will flow from vein, to alveoli, to trachea, and into the atmosphere.
+    </figcaption>
+</figure>
+<p class="citation">Figure created for MEDI2101.</p>
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;
-#### Learning objective 8
+#### Learning objective
 # Ventilation-Perfusion ratio
 ### Explain the clinical quantification of gas exchange using the ventilation-perfusion ratio.
 
