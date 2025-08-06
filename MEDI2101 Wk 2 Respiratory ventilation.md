@@ -291,15 +291,16 @@ Speech (or just vocal noise) requires three main processes to work together:
 1. The buzzing sound of the vibrating air stream must be altered by the shape of the resonator (which includes the throat, as well as the oral and nasal cavities).
 
 --
-#### Respiratory System Functions: Describe the five major functions of the respiratory system: air conduction, air conditioning and protection, vocalization, gas exchange, and pH regulation.
+### Reflection quiz
+#### Respiratory System Functions
+#### Describe the five major functions of the respiratory system: air conduction, air conditioning and protection, vocalization, gas exchange, and pH regulation.
 
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
+<img width="33%" src="images/flux-qr-code.png">
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c2e31f524f73a6007dbf" data-background-interactive -->
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
+<!-- slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c2e31f524f73a6007dbf" data-background-interactive -->
+<!-- sslide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9c7391f524f73a60081d0" data-background-interactive -->
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -405,7 +406,6 @@ $P_2$ is now less than atmospheric pressure.
 
 <p class="fragment">As fluid (includes gases) will move from a region of higher pressure to a region of lower pressure (from the surrounding atmosphere, into the lungs).</p>
 <p class="fragment">This air movement is <b>bulk flow</b> because the entire gas mixture is moving (not individual gases, as in diffusion across a <em>partial pressure</em> gradient).</p>
-
 
   
 --
@@ -550,6 +550,15 @@ $R = \dfrac{8\mu L}{\pi r^4}$
     </ul>
   </figcaption>
 </figure>
+
+--
+<!-- slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9da0b1f524f73a600a74c" data-background-interactive -->
+### Quiz
+#### Key terms in fluid movement
+#### Define and understand the relationships between pressure, pressure gradient, flow, velocity of flow, resistance, and radius in the context of the cardiovascular and respiratory systems.
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -700,12 +709,13 @@ That is, the lung collapses.
 </figure>
 <p class="citation">Silverthorn, D U. <em>Human Physiology, an Integrated Approach</em>.</p> -->
 
-<!--#### LO1.2.2 Explain how lung pressure and volume changes during normal breathing, relate these changes to air flow, and graph and interpret the alveolar and intra-pleural pressure changes across the respiratory cycle.
-#### Reflection quiz
+--
+### Quiz
+#### Lung mechanics
+#### Explain how lung pressure and volume change during normal breathing. Relate these changes to airflow and interpret alveolar and intra-pleural pressure changes throughout the respiratory cycle.
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cb641f524f73a60089b4" data-background-interactive -->
-
-<!--<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9cd3a1f524f73a600906f" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -778,17 +788,12 @@ we can calculate the minute ventilation
 <p class="fragment">There is not much more I can teach you about this formula - but it is important.<br>More important than respiratory rate and tidal volume alone.<p>
 
 --
+# Quiz
+#### Pulmonary Volumes and Capacities
+#### Describe the four pulmonary volumes and the four pulmonary lung capacities.
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
-#### Describe the four pulmonary volumes and the four pulmonary lung capacities
-#### Review quiz
-
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64c9da0b1f524f73a600a74c" data-background-interactive -->
-
---
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/VocalCords.mp4"></video>
-<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
@@ -988,6 +993,15 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 </figure>
 <p class="citation">Figure created for MEDI2101.</p>
 
+--
+# Quiz
+#### Gas Diffusion
+#### Communicate the factors that determine the rate of gas diffusion across a membrane.
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 &nbsp;
@@ -1078,3 +1092,8 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 - emphysema (increased ventilation due to overwork to compensate for lung damage)
 
 <p class="fragment">    We will be revisiting the ventilation-perfusion ratio in the unit content on homeostasis in exercise, and in chronic obstructive pulmonary disease.</p>
+
+--
+<!-- .slide: data-auto-animate data-background="#111111" -->
+<video data-autoplay data-src="images/VocalCords.mp4"></video>
+<p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
