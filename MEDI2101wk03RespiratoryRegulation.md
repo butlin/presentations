@@ -1,8 +1,7 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk3_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 1: Respiratory System
-# LO1.3: Respiratory regulation inputs
-(Week 3, Lecture 1)
+# Week 3: Respiratory regulation inputs
 ##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
@@ -12,20 +11,6 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
-
---
-### MEDI2101 Cardiovascular and Respiratory System
-#### To do in Week 3
-
-<a href="https://ilearn.mq.edu.au/course/view.php?id=70063&section=7"> MEDI2101 iLearn Week 3</a>
-
---
-###
-#### A lot of work?
-
-- In theory, each 10 credit point unit should have around 10 to 12 hours of content / work each week (including time to complete assessments).
-- I have tried to put together the best combination of material for this unit topic.
-- Nothing is compulsory. As an adult learner, you can decide whether you engage a lot or a little.
 
 --
 ###
@@ -42,22 +27,153 @@ The unit staff are here to get you through this unit (not to fail you).
 <p>&nbsp;</p>
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
---
+---
 <!-- .slide: data-auto-animate-restart -->
-Respiration changes in response to the physiological status and surrounding environment. That is a **change** in the physiology or environment needs to be **detected** and a response invoked as a result. The inputs that regulate respiration include:
+&nbsp;<br>
+#### Learning objective
+# Ventilation-perfusion control systems
+### Recgonise the role of control systems to maintain appropriate ventilation and perfusion for homeostasis.
 
-- **higher order brain centres** responding to environmental stressors.
-- **peripheral chemoreceptors** signal received by the glossopharyngeal nerve.
-- **central chemoreceptors** located in the intracranial space
-- **other sensory nerves** 
+--
+### Homeostasis
+####
+
+Homeostasis is a <b>dynamic</b> (always changing) process where a biological system maintains certain variables (e.g. temperature, pH, blood flow to an organ) at an optimal level.
+
+It is about <b>balance</b>, not about being "at rest". For example, dynamic changes are needed to maintain:
+
+- blood pH homeostasis during exercise;
+- blood glucose homeostasis after eating;
+- body temperature homeostasis on a very hot day.
+
+--
+### Homeostasis
+#### For a homeostatic regulation to occur...
+
+1. <b>Change</b>: Something in the body or surrounding environment must <b>change</b>.
+2. <b>Detect</b>: Something in the body must be able to <b>detect</b> that change.
+3. <b>Process</b>: Something in the body must <b>process</b> the signal received from the detector.
+4. <b>Action</b>: The decision from the processing is sent to the respiratory muscles to change minute ventilation.
+
+--
+<!-- .slide: data-background="#111111" data-auto-animate -->
+<p style="color:white;font-size:48px">
+Respiratory rate and tidal volume do not change because we "think" they should.
+</p>
+
+--
+<!-- .slide: data-background="#111111" data-auto-animate -->
+<p style="color:white;font-size:48px">
+If you think tidal volume or respiratory rate changed, first answer:
+</p>
+
+<div >
+<p style="color:white; font-size:36px">What changed in the environmental or in the body first<br>
+$\rightarrow$ How was this detected?<br>
+$\rightarrow$ Where did that signal get sent and how was it processed?<br>
+$\rightarrow$ Where was that signal then sent to change respiratory rate and/or tidal volume?</p>
+</div>
+
+--
+<!-- .slide: data-background-image="images/fishtankheater.jpg" data-auto-animate -->
+<div class="r-stack">
+<img src="images/negative_feedback_heater.svg" width="50%">
+<img class="fragment" src="images/negative_feedback_oxygen.svg" width="50%">
+</div>
+
+--
+### Homeostasis
+#### Negative feedback
+
+The level of something in the body <span style="color:green" data-id="inc1">increases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:red" data-id="inc2">decreases</span> that initial thing.
+
+<span style="font-size:36pt">or</span>
+
+The level of something in the body <span style="color:red" data-id="dec1">decreases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:green" data-id="dec2">increases</span> that initial thing.
+
+
+--
+### Homeostasis
+#### Negative feedback
+
+Minute ventilation <span style="color:green" data-id="inc1">increases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:red" data-id="inc2">decreases</span> minute ventilation.
+
+<span style="font-size:36pt">or</span>
+
+Minute ventilation <span style="color:red" data-id="dec1">decreases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:green" data-id="dec2">increases</span> minute ventilation.
+
+--
+<!-- .slide: data-background-image="images/fishtankheater.jpg" data-auto-animate -->
+### Homeostasis
+#### Negative feedback. Example.
+<div class="r-stack">
+<img src="images/negative_feedback_heater.svg" width="50%">
+</div>
+
+--
+### Homeostasis
+#### Positive feedback
+
+The level of something in the body <span style="color:green" data-id="inc1">increases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:green" data-id="inc2">increases</span> that initial thing.
+
+<span style="font-size:36pt">or</span>
+
+The level of something in the body <span style="color:red" data-id="dec1">dereases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:red" data-id="dec2">decreases</span> that initial thing.
+
+
+--
+### Homeostasis
+#### Positive feedback
+
+Minute ventilation <span style="color:green" data-id="inc1">increases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:green" data-id="inc2">increases</span> minute ventilation.
+
+<span style="font-size:36pt">or</span>
+
+Minute ventilation <span style="color:red" data-id="dec1">dereases</span>.<br>
+$\rightarrow$ This is detected, processed, and a signal fed back that...<br>
+$\rightarrow$ <span style="color:red" data-id="dec2">decreases</span> minute ventilation.
+
+--
+<!-- .slide: data-background-image="images/social_media.png" data-auto-animate -->
+### Homeostasis
+#### Positive feedback. Example.
+<div class="r-stack">
+<img src="images/positive_feedback.svg" width="50%">
+</div>
+
+--
+### Reflection quiz
+#### Ventilation-perfusion control systems
+#### Recgonise the role of control systems to maintain appropriate ventilation and perfusion for homeostasis.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.3.1 Know the normal levels of the three arterial blood parameters that are monitored and used to regulate ventilation: (1) oxygen, (2) carbon dioxide, and (3) pH levels.
+&nbsp;<br>
+#### Learning objective
+# Arterial Blood Parameters
+### Know the normal levels of the three key arterial blood parameters used to regulate ventilation and perfusion: oxygen, carbon dioxide, and pH.
 
 --
 ### Arterial blood gases and pH
-#### Why gases in blood -- this is a respiratory lecture? (Review)
+#### Why gases in blood -- this is a respiratory lecture?
 
 <div class="media">
   <div class="picture">
@@ -73,7 +189,7 @@ Respiration changes in response to the physiological status and surrounding envi
 
 --
 ### Arterial blood gases and pH
-#### Why gases in blood -- this is a respiratory lecture? (Review)
+#### Why gases in blood -- this is a respiratory lecture?
 
 Partial pressures of oxygen and carbon dioxide in the body.
 
@@ -141,19 +257,19 @@ Concentration of carbon dioxide effects fluid pH.
 Dissolving of carbon dioxide in blood (water):
 
 \begin{equation}
-  \mathrm{CO}_2 + \mathrm{H}_2\mathrm{O} \overset{\mathrm{carbonic~anhydrase}}{\longrightarrow} \mathrm{H}_2\mathrm{CO}_3 \longrightarrow \mathrm{H}^+ + \mathrm{HCO}_3^-
+  \mathrm{CO}_2 + \mathrm{H}_2\mathrm{O} \overset{\mathrm{carbonic~anhydrase}}{\rightleftharpoons} \mathrm{H}_2\mathrm{CO}_3 \rightleftharpoons \mathrm{H}^+ + \mathrm{HCO}_3^-
 \end{equation}
 
-<p class="fragment">carbon dioxide + water $\longrightarrow$ carbonic acid $\longrightarrow$ hydrogen ions + bicarbonate ions</p>
+<p class="fragment">carbon dioxide + water $\rightleftharpoons$ carbonic acid $\rightleftharpoons$ hydrogen ions + bicarbonate ions</p>
 
 --
 ### Arterial blood gases and pH
 #### Carbon dioxide in blood
 Carriage of carbon dioxide by haemoglobin:
 
-$\mathrm{CO}_2 + \mathrm{Hb} \longleftrightarrow \mathrm{HbCO}_2$
+$\mathrm{CO}_2 + \mathrm{Hb} \rightleftharpoons \mathrm{HbCO}_2$
 
-carbon dioxide + haemoglobin $\\longleftrightarrow$ carbaminohaemoglobin
+carbon dioxide + haemoglobin $\rightleftharpoons$ carbaminohaemoglobin
 
 --
 ### Arterial blood gases and pH
@@ -225,16 +341,20 @@ Effective functioning of body processes require rather narrow ranges of these pa
 <p class="fragment">If blood oxygen, carbon dioxide, and pH is pathological when outside a normal range, there must be sensors in the body that detect abnormalities to feedback to the respiratory and cardiovascular system to bring these gases / pH back into the normal range.</p>
 
 --
+### Reflection quiz
+#### Arterial Blood Parameters
+#### Know the normal levels of the three key arterial blood parameters used to regulate ventilation and perfusion: oxygen, carbon dioxide, and pH.
 
-#### LO1.3.1 Know the normal levels of the three arterial blood parameters that are monitored and used to regulate ventilation: (1) oxygen, (2) carbon dioxide, and (3) pH levels
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d30da41f524f73a606829f" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.3.2 Identify that central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing
+&nbsp;<br>
+#### Learning objective
+# Chemoreceptor function
+### Identify how central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing.
 
 --
 ### Chemoreceptor input to the respiratory centre
@@ -347,10 +467,10 @@ Centres in the brain that regulate breathing, in addition to receiving signals f
 #### Central chemoreceptors
 
 \begin{equation}
-  \mathrm{CO}\_2 + \mathrm{H}\_2\mathrm{O} \overset{\mathrm{carbonic~anhydrase}}{\longrightarrow} \mathrm{H}\_2\mathrm{CO}\_3 \longrightarrow \mathrm{H}^+ + \mathrm{HCO}_3^-
+  \mathrm{CO}\_2 + \mathrm{H}\_2\mathrm{O} \overset{\mathrm{carbonic~anhydrase}}{\rightleftharpoons} \mathrm{H}\_2\mathrm{CO}\_3 \rightleftharpoons \mathrm{H}^+ + \mathrm{HCO}_3^-
 \end{equation}
 
-carbon dioxide + water $\longrightarrow$ carbonic acid $\longrightarrow$ hydrogen ions + bicarbonate ions
+carbon dioxide + water $\rightleftharpoons$ carbonic acid $\rightleftharpoons$ hydrogen ions + bicarbonate ions
 
 -  CO<sub>2</sub> easily passes through the blood-brain barrier (unlike H<sup>+</sup>)
 -  Therefore, when blood CO<sub>2</sub> rises, so does cerebrospinal fluid CO<sub>2</sub>.
@@ -375,19 +495,20 @@ The chemosensing pathway provides a negative feedback loop for changes in oxygen
 </aside>
 
 --
+### Reflection quiz
+#### Chemoreceptor function
+#### Identify how central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing.
 
-#### LO1.3.2 Identify that central and peripheral chemoreceptors monitor carbon dioxide and oxygen levels to regulate breathing
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d311561f524f73a6068810" data-background-interactive -->
-
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d311f91f524f73a60688cb" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
-## LO1.3.3 Understand the receptors and reflexes affecting respiratory centres: stretch (Hering-Breuer); juxtacapillary; irritant; proprioceptors; thermoreceptors; pain; cough and sneezing; deglutation.
+&nbsp;<br>
+#### Learning objective
+# Respiratory reflexes and receptors
+### Understand the various receptors and reflexes affecting respiratory centers, including stretch (Hering-Breuer), juxtacapillary, irritant, proprioceptors, thermoreceptors, pain, cough, sneezing, and deglutition.
 
 --
 ### Reflex inputs to the respiratory centre
@@ -513,19 +634,12 @@ Also can cause a hyperventillatory response.
 ### Reflex inputs to the respiratory centre
 #### Deglutation reflex
 
-<figure>
-  <video data-autoplay data-src="images/MySwallowStudy.mp4" width="40%"></video>
-  <figcaption>
 <ul>
   <li> During swallowing of the food, respiration is arrested.</li>
   <li> This is a type of apnoea (aka swallowing apnoea or deglutation apnoea).</li>
   <li> Prevents entry of the food particles into the respiratory tract.</li>
   <li> During the swallow, the hyoid bone can be seen elevating, and the epiglottis closing as a result.</li>
 </ul>
-  </figcaption>
-</figure>
-
-<p class="citation"><a href="https://www.youtube.com/watch?v=Ri8bBhw9msQ">https://www.youtube.com/watch?v=Ri8bBhw9msQ</a></p>
 
 --
 ### Reflex inputs to the respiratory centre
@@ -633,9 +747,236 @@ Also can cause a hyperventillatory response.
 <p class="citation">Created for MEDI2101</p>
 
 --
+### Reflection quiz
+#### Respiratory reflexes and receptors
+#### Understand the various receptors and reflexes affecting respiratory centers, including stretch (Hering-Breuer), juxtacapillary, irritant, proprioceptors, thermoreceptors, pain, cough, sneezing, and deglutition.
 
-#### LO1.3.3 Understand the receptors and reflexes affecting respiratory centres: stretch (Hering-Breuer); juxtacapillary; irritant; proprioceptors; thermoreceptors; pain; cough and sneezing; deglutation
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
+---
+<!-- .slide: data-auto-animate-restart -->
+&nbsp;<br>
+#### Learning objective
+# Respiratory centre regulation
+### Recognise the role of the respiratory center in regulating respiration.
 
 --
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64d314aa1f524f73a6068bfc" data-background-interactive -->
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+####
+
+To have an **effect**, the outcome of the respiratory input has to alter minute ventilation. 
+
+This means all respiratory regulatory responses have to illicit a change in either or both:
+
+- breathing rate
+- tidal volume
+
+\begin{equation}
+  \mathrm{minute\~ventilation} = \mathrm{ventilation\~rate} \times \mathrm{tidal\~volume}
+\end{equation}
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+<img src="images/respiratory_control.svg" width="100%"></img>
+
+<p class="citation">Created for MEDI2101</p>
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+
+<figure>
+  <img data-id="medullary" src="images/MedullaryRespiratoryCentre.png" alt="" width="30%">
+  <figcaption>
+<p>Central neural control of spontaneous breathing, conscious control of breathing, and modification of ventilation is:</p>
+<ul>
+ <li> highly complex;</li>
+ <li> still being studied and mapped.</li>
+</ul>
+  </figcaption>
+</figure>
+<p class="citation">Silverthorn, D.U. Human Physiology: An Integrated Approach, 8th Ed. 2019</p>
+<aside class="notes">Simplified pathway of central pathways for respiratory control. The area from the Pons and above is responsible for normal rhythm of breathing. The medulla has a role in modifying ventilation and some rhythm. If the spinal chord is severed below the medulla, breathing will cease. The respiratory centre receives inputs (that can change respiratory rate and depth) from the higher order brain centres, from the peripheral and central chemoreceptors (Section \ref{sec:chemoreceptors}) and from various respiratory sensors (Section \ref{sec:respiratoryreflexes}).}{PRG: pontine respiratory group; NTS: nucleus tractus solitarius; DRG: dorsal respiratory group; VRG: ventral respiratory group.</aside> 
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+<figure>
+  <img data-id="medullary" src="images/MedullaryRespiratoryCentre.png" alt="" width="30%">
+  <figcaption>
+<p>Normal respiration:</p>
+<ul>
+<li> <b>PRG:</b> pontine respiratory group</li>
+<li> <b>NTS:</b> nucleus tractus solitarius</li>
+<li> <b>DRG:</b> dorsal respiratory group</li>
+<li> <b>VRG:</b> ventral respiratory group.</li>
+</ul>
+  </figcaption>
+</figure>
+<p class="citation">Silverthorn, D.U. Human Physiology: An Integrated Approach, 8th Ed. 2019</p>
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+
+<figure>
+  <img data-id="medullary" src="images/MedullaryRespiratoryCentre_LostSinusRhythm.png" alt="" width="30%">
+  <figcaption>
+<p>Sever the pons: Loss of sinus rhythm (but still breathing)</p>
+<ul>
+<li> <span style="color:lightgray"><b>PRG:</b> pontine respiratory group</span></li>
+<li> <b>NTS:</b> nucleus tractus solitarius</li>
+<li> <b>DRG:</b> dorsal respiratory group</li>
+<li> <b>VRG:</b> ventral respiratory group.</li>
+</ul>
+  </figcaption>
+</figure>
+<p class="citation">Modified from Silverthorn, D.U. Human Physiology: An Integrated Approach, 8th Ed. 2019</p>
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+
+<figure>
+  <img data-id="medullary" src="images/MedullaryRespiratoryCentre_NoBreathing.png" alt="" width="30%">
+  <figcaption>
+<p>Sever the medulla: No breathing</p>
+<ul>
+<li> <span style="color:lightgray"><b>PRG:</b> pontine respiratory group</span></li>
+<li> <span style="color:lightgray"><b>NTS:</b> nucleus tractus solitarius</span></li>
+<li> <span style="color:lightgray"><b>DRG:</b> dorsal respiratory group</span></li>
+<li> <span style="color:lightgray"><b>VRG:</b> ventral respiratory group.</span></li>
+</ul>
+  </figcaption>
+</figure>
+<p class="citation">Modified from Silverthorn, D.U. Human Physiology: An Integrated Approach, 8th Ed. 2019</p>
+
+--     
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### 
+
+<figure>
+  <img src="images/MedullaryRespiratoryCentreGuyton.png" alt="" width="50%">
+  <figcaption>
+<p>Simplified pathway of central pathways for respiratory control.</p>
+<ul>
+  <li> <b>pneumotaxic centre</b></li>
+  <ul>
+    <li> arrests duration of inspiratory phase</li>
+    <li> increases rate of respiration</li>
+  </ul>
+  <li> <b>apneustic centre</b></li>
+  <ul>
+    <li> increases depth of inspiration</li>
+  </ul>
+  <li> <b>dorsal respiratory group</b></li>
+  <ul>
+    <li> generates respiratory pacemaker signal</li>
+    <li> generates respiratory ramp signal (changes volume inspired by the lungs)</li>
+    <li> input site of glossopharyngeal nerves (carrying peripheral chemoreceptor signals)</li>
+  </ul>
+  <li> <b>ventral respiratory group</b></li>
+  <ul>
+    <li> is inactive during normal breathing.</li>
+    <li> contributes to inspiration and expiration during increased ventilatory requirements.</li>
+  </ul>
+</ul>
+  </figcaption>
+</figure>
+<p>&nbsp</p>
+<p class="citation">Guyton and Hall Textbook of Medical Physiology</p>
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### Inputs to the respiratory centre
+
+The respiratory centre of the brain sets the respiratory rate and respiratory depth (i.e. minute ventilation) in response to the inputs it receives. These inputs include:
+
+- <b>higher order brain centres</b> responding to environmental stressors.
+- <b>peripheral chemoreceptors</b> signal received by the glossopharyngeal nerve.
+- <b>central chemoreceptors</b> located in the intracranial space
+- <b>other sensory nerves</b> (see previous lecture).
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### Outputs of the respiratory centre
+<figure>
+  <img src="images/respiration_nerves.png" alt="" width="22.5%">
+  <figcaption>
+<p>Nerves involved in the input to (glossopharyngeal nerve) and output of (intercostal and phrenic nerves) the respiratory centre.</p>
+<p>In response to the inputs it receives, the respiratory centre modulates respiratory rate and respiratory depth (i.e. minute ventilation) through:</p>
+<ul>
+  <li> <b>somatic motor neurons</b> including:</li>
+  <ul>
+    <li> <b>phrenic nerve</b> innervates the diaphragm</li>
+    <li> <b>intercostal nerves</b> innervate the intercostal muscles</li>
+  </ul>
+<ul>
+  </figcaption>
+</figure>
+<p class="citation">M. Richardson, Physiology for practice: the mechanisms controlling respiration, Nursing Times, 2003;99(41):48--50.</p>
+
+--
+<!-- .slide: data-auto-animate -->
+### The respiratory centre
+#### Outputs of the respiratory centre
+
+Respiratory regulatory responses have to illicit a change in either or both:
+
+-   breathing rate
+-   tidal volume
+
+\begin{equation}
+  \mathrm{minute\~ventilation} = \mathrm{ventilation\~rate} \times \mathrm{tidal\~volume}
+\end{equation}
+
+--
+<!-- .slide: data-background="#111111" data-auto-animate -->
+<div style="color:white">
+<h3 style="color:white" data-id="comms">Respiratory regulation: communicating</h3>
+<h4></h4>
+<p>(as a professional, or... in assessment task 3 or the final exam)</p>
+
+<p class="fragment">change $\rightarrow$ detected how? $\rightarrow$ processed how? $\rightarrow$ output where? $\rightarrow$ action</p>
+
+--
+<!-- .slide: data-background-image="images/fishtankheater.jpg" data-auto-animate -->
+<div style="color:white">
+<h3 style="color:white" data-id="comms">Respiratory regulation: communicating</h3>
+<h4></h4>
+<p>change $\rightarrow$ detected how? $\rightarrow$ processed how? $\rightarrow$ output where? $\rightarrow$ action</p>
+<div class="r-stack">
+<img src="images/negative_feedback_heater.svg" width="50%">
+<img class="fragment" src="images/negative_feedback_oxygen.svg" width="50%">
+</div>
+
+--
+<!-- .slide: data-auto-animate -->
+<h3 data-id="comms">Respiratory regulation: communicating</h3>
+<h4></h4>
+
+What is one mechanism that increases oxygen intake during walking?
+
+<p>change $\rightarrow$ detected how? $\rightarrow$ processed how? $\rightarrow$ output where? $\rightarrow$ action</p>
+
+<p class="fragment">One of the actions of <span style="color:blue">walking</span> is <span style="color:blue">movement</span> (change)<span class="fragment"> that <span style="color:blue">stimulates proprioceptors</span> (detected).<span class="fragment"> These signal to the <span style="color:blue">respiratory centre</span> of the brain (processed),<span class="fragment"> with resulting <span style="color:blue">increased activity in the phrenic and and intercostal nerves</span> (output)<span class="fragment"> causing an <span style="color:blue">increase in breathing rate and tidal volume</span> (action).<span class="fragment"> This <span style="color:blue">increases minute ventilation and the partial pressure of oxygen in the alveoli</span>, which <span style="color:blue">increases diffusion of oxygen into the blood.</span></span></span></span></span></p>
+
+<p>&nbsp</p>
+<p class="fragment">The vasomotor cortex would also be engaged during exercise - more on this later in the unit.</p>
+
+---
+<!-- .slide: data-auto-animate data-background="#000000" -->
+<video data-autoplay data-src="images/MySwallowStudy.mp4"></video>
+<p class="citation">Deglultation<br><a href="https://www.youtube.com/watch?v=Ri8bBhw9msQ">https://www.youtube.com/watch?v=Ri8bBhw9msQ</a></p>

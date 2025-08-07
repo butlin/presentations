@@ -267,11 +267,11 @@ This will be covered in greater detail shortly.
 When carbon dioxide is dissolved in blood (water):
 
 \begin{equation}
-\mathrm{carbon\~dioxide} + \mathrm{water} \rightarrow \mathrm{carbonic\~acid} \rightarrow \mathrm{hydrogen\~ions} + \mathrm{bicarbonate\~ions}
+\mathrm{carbon\~dioxide} + \mathrm{water} \rightleftharpoons \mathrm{carbonic\~acid} \rightleftharpoons \mathrm{hydrogen\~ions} + \mathrm{bicarbonate\~ions}
 \end{equation}
 
 \begin{equation}
-\mathrm{CO}_2 + \mathrm{H}_2\mathrm{O} \overset{\mathrm{carbonic\~anhydrase}}{\rightarrow} \mathrm{H}_2\mathrm{CO}_3 \rightarrow \mathrm{H}^+ + \mathrm{HCO}^{3-}
+\mathrm{CO}_2 + \mathrm{H}_2\mathrm{O} \overset{\mathrm{carbonic\~anhydrase}}{\rightleftharpoons} \mathrm{H}_2\mathrm{CO}_3 \rightleftharpoons \mathrm{H}^+ + \mathrm{HCO}^{3-}
 \end{equation}
 
 Increasing the concentration of H<sup>+</sup> increases the acidity (decreases pH) and vice versa.
@@ -788,7 +788,7 @@ we can calculate the minute ventilation
 <p class="fragment">There is not much more I can teach you about this formula - but it is important.<br>More important than respiratory rate and tidal volume alone.<p>
 
 --
-# Quiz
+### Quiz
 #### Pulmonary Volumes and Capacities
 #### Describe the four pulmonary volumes and the four pulmonary lung capacities.
 <a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
@@ -994,7 +994,7 @@ Using Dalton's law we can calculate the the partial pressure of oxygen (pO<sub>2
 <p class="citation">Figure created for MEDI2101.</p>
 
 --
-# Quiz
+### Quiz
 #### Gas Diffusion
 #### Communicate the factors that determine the rate of gas diffusion across a membrane.
 <a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
@@ -1093,7 +1093,7 @@ $\mathrm{ventilation\~perfusion\~ratio}=\dfrac{\mathrm{alveolar\~ventilation}}{\
 
 <p class="fragment">    We will be revisiting the ventilation-perfusion ratio in the unit content on homeostasis in exercise, and in chronic obstructive pulmonary disease.</p>
 
---
+---
 <!-- .slide: data-auto-animate data-background="#111111" -->
 <video data-autoplay data-src="images/VocalCords.mp4"></video>
 <p class="citation"><a href="https://www.youtube.com/watch?v=BipS88vaFfI">https://www.youtube.com/watch?v=BipS88vaFfI</a></p>
