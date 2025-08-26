@@ -1,23 +1,24 @@
 <!-- .slide: data-auto-animate-restart id="MEDI2101Wk4_1"-->
 #### MEDI2101 Cardiovascular and Respiratory System.
 ### Block 2: Cardiovascular System
-# Week 5: The heart - basics
+# Week 5: The heart
 ##### Assoc. Prof. Mark Butlin (PhD, BE, SFHEA) (he/him)
 
 Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macquarie University. On the land of the Wallumattagal clan of the Dharug Nation.
 
 <a href="https://students.mq.edu.au/support"><img src="images/mq_support.png" alt="Student wellbeing logo. Wallumattagal peoples at Macquarie. LGBTQI+ Safe Space for Everyone" align="right" width=33%></a>
 
----
+--
 <!-- .slide: data-auto-animate-restart data-background="#111111" -->
 <video data-autoplay data-src="images/heart_mayo_clinic.mp4"></video>
 <p class="citation"><a href="https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745">https://www.mayoclinic.org/diseases-conditions/heart-disease/multimedia/circulatory-system/vid-20084745</a></p>
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Relate the gross anatomy of the heart to the function of the heart.
+# Heart Anatomy and Function
+### Relate the gross anatomy of the heart to its functional roles.
 
 --
 <!-- .slide: data-background-image="images/heart-960_720.jpg" data-auto-animate -->
@@ -40,12 +41,12 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 --
 <!-- .slide: data-background-image="images/vertigo.jpg" data-auto-animate -->
 
-<aside class="notes">Free climber, Alex Honnold, on the 914m El Capitan, Yosemite National Park, 2017. <a href="https://en.wikipedia.org/wiki/Alex_Honnold">https://en.wikipedia.org/wiki/Alex_Honnold
-</a></aside>
+<p class="citation">Free climber, Alex Honnold, on the 914m El Capitan, Yosemite National Park, 2017.<br><a href="https://en.wikipedia.org/wiki/Alex_Honnold">https://en.wikipedia.org/wiki/Alex_Honnold
+</a></p>
 
 --
 <!-- .slide:  data-auto-animate -->
-### Function of the heart
+### Heart anatomy and function
 ####
 
 <div class="media">
@@ -65,7 +66,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --    
 <!-- .slide:  data-auto-animate -->
-### Function of the heart
+### Heart anatomy and function
 ####
 
 <div class="media">
@@ -84,7 +85,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 <!-- .slide:  data-auto-animate -->
-### Function of the heart
+### Heart anatomy and function
 ####
 
 <div style="font-size:1.5ex">
@@ -102,8 +103,8 @@ $\begin{eqnarray}
       
 <p>&nbsp</p>
 <p class="citation">For people in Australia born 2000–2002, life expectancy of 80.9 (male) and 85 (female) years (Australian Institute of Health and Welfare, <em>Deaths in Australia</em>, 2019).</p>
---    
-<!-- .slide:  data-auto-animate -->
+
+<!--<!-- .slide:  data-auto-animate 
 ### Function of the heart
 ####
 <div class="media">
@@ -117,11 +118,11 @@ $\begin{eqnarray}
   <div class="credit">
   <p>1950's American Frohse Anatomical Chart: Chest & Abdomen Viscera. AU$286.60 on Ebay (+$89.56 postage).</p>
   </div>
-</div>
+</div>-->
 
 --
 <!-- .slide:  data-auto-animate -->
-### Function of the heart
+### Heart anatomy and function
 #### The four chambers of the human heart
 
 <div class="r-stack">
@@ -134,8 +135,7 @@ $\begin{eqnarray}
 <div>
 <aside class="notes">The four chambers of the human heart and the supplying and distributing veins and arteries.</aside>
 
---
-<!-- .slide:  data-auto-animate data-background-image="images/p42_HeartValvesAndStrings_highres.png" data-background-opacity="0.66" -->
+<!-- slide:  data-auto-animate data-background-image="images/p42_HeartValvesAndStrings_highres.png" data-background-opacity="0.66" 
 <p>A coloured SEM through the heart valves showing:</p>
 <ul>
   <li> mitral valve (center)</li>
@@ -146,7 +146,7 @@ $\begin{eqnarray}
   <li> trabeculae carnae (columnar structures on the innner wall of the ventricle)</li>
 </ul>
 <p>&nbsp</p>
-<p class="citation">USUMU NISHINAGA/SCIENCE PHOTO LIBRARY</p>
+<p class="citation">USUMU NISHINAGA/SCIENCE PHOTO LIBRARY</p>-->
 
 --
 <!-- .slide:  data-auto-animate data-background-image="images/colouring_heart.jpg" data-background-opacity="0.66" data-background-size="contain" -->
@@ -155,8 +155,8 @@ $\begin{eqnarray}
 
 
 --
-<!-- .slide:  data-auto-animate data-background-image="images/CoronaryArteriesOfTheHeart_p3.jpg" data-background-opacity="0.66" data-background-size="contain" data-background-position="right"-->
-### Function of the heart
+<!-- .slide:  data-auto-animate data-background-image="images/CoronaryArteriesOfTheHeart_p3.webp" data-background-opacity="0.66" data-background-size="contain" data-background-position="right"-->
+### Heart anatomy and function
 #### External anatomy, coronary arteries
 
 <p>The coronary arteries that supply the heart muscle with oxygenated blood.</p>
@@ -167,36 +167,37 @@ $\begin{eqnarray}
 
 --
 <!-- .slide:  data-auto-animate -->
-### Function of the heart
+### Heart anatomy and function
 #### External anatomy, the pericardium
 
-<img class="r-stretch" src="images/heart_layers.jpeg">
+<img width="60%" src="images/heart_layers.webp">
 <p class="citation"></p>
 
 --
-#### Learning objective
-#
-###1 Relate the gross anatomy of the heart to the function of the heart
+### Reflection quiz
+#### Heart Anatomy and Function
+#### Relate the gross anatomy of the heart to its functional roles.
 
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc294a1f524f73a60ba264" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Identify that there are three types of myocardial cells: (1) contractile, (2) auto-rhythmic, and (3) conductive.
+# Types of myocardial cells
+### Identify the three types of myocardial cells: contractile, auto-rhythmic, and conductive.
 
---    
-<!-- .slide:  data-auto-animate -->
+<!-- <!-- .slide:  data-auto-animate 
 ### Myocardial cells
 #### Contractile myocardial cells
 <div class="media">
   <div class="picture">
     <div class="r-stack">
-    <img src="images/CardiacCell.jpg" width="100%">
+      <img src="images/CardiacCell.webp" width="100%">
+      <img class="fragment" data-fragment-index="3" src="images/cardiacmusclecells.webp" width="100%">
+      <img class="fragment" data-fragment-index="4" src="images/Cardiac_Myocyte_Histology.png" width="100%">
     </div>
   </div>
   <div class="description">
@@ -212,18 +213,23 @@ $\begin{eqnarray}
   </div>
   <div class="credit">
   </div>
-</div>
+</div>-->
 
 --    
 <!-- .slide:  data-auto-animate -->
-### Myocardial cells
+### Types of myocardial cells
 #### Contractile myocardial cells
 
 <div class="media">
   <div class="picture">
     <div class="r-stack">
-    <img class="fragment" data-fragment-index="3" src="images/cardiacmusclecells.jpg" width="100%">
-    <img class="fragment" data-fragment-index="4" src="images/Cardiac_Myocyte_Histology.png" width="100%">
+      <img src="images/CardiacCell.webp" width="100%">
+      <!--<img class="fragment" data-fragment-index="3" src="images/cardiacmusclecells.webp" width="100%">-->
+      <!--<img class="fragment" data-fragment-index="4" src="images/Cardiac_Myocyte_Histology.png" width="100%">-->
+    </div>
+    <div class="r-stack">
+      <img class="fragment" data-fragment-index="3" src="images/cardiacmusclecells.webp" width="100%">
+      <img class="fragment" data-fragment-index="4" src="images/Cardiac_Myocyte_Histology.png" width="100%">
     </div>
   </div>
   <div class="description">
@@ -240,18 +246,17 @@ $\begin{eqnarray}
   <div class="credit">
   </div>
 </div>
-
 --
 <!-- .slide:  data-auto-animate data-background-image="images/p13_CapillariesOfTheHeart.jpg"-->
 
 <h3 style="color:white">Mitochondria occupies about 1/3rd of the fibre - a high energy demand.</h3>
 <h3 class="fragment" style="color:white">Cardiac myocytes consume 70-80% of the blood oxygen delivered - about twice that of most other cells in the body.</p>
 
-<p class="citation">DENNIS KUNKEL MICROSCOPY/SCIENCE PHOTO LIBRARY</p>
+<p class="citation" style="color:white">Photo source: Dennis Kunkel Microscopy/Science Photo Library</p>
 
 --
 <!-- .slide:  data-auto-animate -->
-### Myocardial cells
+### Types of myocardial cells
 #### Myocardial autorhythmic cells (pacemaker or excitatory cells)
 
 <ul>
@@ -263,7 +268,7 @@ $\begin{eqnarray}
 
 --
 <!-- .slide:  data-auto-animate -->
-### Myocardial cells
+### Types of myocardial cells
 #### Conductive myocardial cells
 <ul>
   <li> provide a pathway for conduction of action potentials through the heart</li>
@@ -273,20 +278,20 @@ $\begin{eqnarray}
 </ul>
 
 --
+### Reflection quiz
+#### Types of Myocardial Cells
+#### Identify the three types of myocardial cells: contractile, auto-rhythmic, and conductive.
 
-#### Learning objective
-#
-###2 Identify that there are three types of myocardial cells.
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2ad81f524f73a60ba2b4" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Compare and contrast action potentials of myocardial auto-rhythmic and contractile cells (and recognise that these differ from action potentials in nerves and other types of muscle).
+# Action potentials
+### Compare and contrast the action potentials of myocardial auto-rhythmic and contractile cells, recognizing their differences from typical action potentials.
 
 --
 <!-- .slide:  data-auto-animate -->
@@ -295,7 +300,7 @@ $\begin{eqnarray}
 
 <div class="media">
   <div class="picture">
-  <img data-id="membrane" src="images/MembranePotential.jpg" width="100%">
+  <img data-id="membrane" src="images/MembranePotential.webp" width="100%">
   </div>
   <div class="description">
   <p>The cell membrane by allowing some ions to travel across but not others creates a potential difference between the inside and outside of the cell.</p>
@@ -312,7 +317,7 @@ $\begin{eqnarray}
 
 <div class="media">
   <div class="picture">
-  <img data-id="membrane" src="images/MembranePotential2.jpg" width="100%">
+  <img data-id="membrane" src="images/MembranePotential2.webp" width="100%">
   </div>
   <div class="description">
   <p>The potential difference across a cell membrane is the same principle as a simple battery, where a potential difference between two materials (or solutions) exists.</p>
@@ -409,7 +414,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 <div class="media">
   <div class="picture">
-  <img data-id="ap" src="images/Action_potentials.jpg" width="100%">
+  <img data-id="ap" src="images/Action_potentials.webp" width="100%">
   </div>
   <div class="description">
   <p>Cardiac myocytes have a vastly different action potential to nerve cells. In typical nerve cells, the action potential duration is about 1 ms</p>
@@ -427,7 +432,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 <div class="media">
   <div class="picture">
-  <img data-id="ap" src="images/ActionPotential.png" width="66%">
+  <img data-id="ap" src="images/ActionPotential.png" width="80%">
   </div>
   <div class="description">
   <p>Duration of action potential (the plateau) is largely due to the influx of calcium, which is unique to cardiac muscle cells.</p>
@@ -459,48 +464,45 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 ### Action potentials
 #### Myocardial excitation-contraction coupling
 
-<img src="images/muscle_contraction.jpg" width="90%">
+<img src="images/muscle_contraction.webp" width="90%">
 
 <p>ATP: adenosine triphospate. ADP: adenosine diphosphate. Pi: phosphate. See Kreb's cycle.</p>
 
 --
+### Reflection quiz
+#### Action potentials
+#### Compare and contrast the action potentials of myocardial auto-rhythmic and contractile cells, recognizing their differences from typical action potentials.
 
-#### Learning objective
-#
-###3 Compare and contrast action potentials of myocardial auto-rhythmic and contractile cells (and recognise that these differ from action potentials in nerves and other types of muscle).
-#### Reflection quiz
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2c481f524f73a60ba348" data-background-interactive -->
-
---
-<!-- .slide: data-background-iframe="https://flux.qa/#/presentations/64b753e21f524f73a6f606cd/64b753bc1f524f73a6f606c1?tab=polls&poll=64dc2dcf1f524f73a60ba3a2" data-background-interactive -->
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Describe the conduction of electrical signals through the heart.
+# Electrical conduction
+### Describe the pathway of electrical signal conduction through the heart.
 
 --
 <!-- .slide:  data-auto-animate -->
-### Conduction of electrical signals
-#### 
+### Electrical conduction
+####
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/Heart_electrical1.jpg' width='45%'>
+    <img src='images/Heart_electrical1.webp' width='50%'>
   </div>
   <div class='description'>
     <p>Conduction pathway of the heart.</p>
-    <ul>
+    <ol>
       <li> sinoatrial (SA) node</li>
       <li> atrioventricular (AV) node</li>
       <li> bundle of His</li>
       <li> left bundle branch</li>
       <li> right bundle branch</li>
       <li> Purkinje fibres</li>
-    </ul>
+    </ol>
   </div>
   <div class='credit'>
     <p></p>
@@ -509,7 +511,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Conduction of electrical signals
+### Electrical conduction
 #### Approximate action potential conduction velocities in various tissues
 <table>
   <tr>
@@ -538,7 +540,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Conduction of electrical signals
+### Electrical conduction
 ####
 
 <div class='media'>
@@ -562,7 +564,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Conduction of electrical signals
+### Electrical conduction
 ####
 
 <div class='media'>
@@ -579,29 +581,37 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 </div>
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/ConductionPathwayoftheHeart.mp4"></video>
-<p class="citation"><a href="http://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
+### Reflection quiz
+#### Electrical conduction
+#### Describe the pathway of electrical signal conduction through the heart.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Identify the waves, segments and intervals of an electrocardiogram (ECG) and relate these electrical events to the mechanical events of the cardiac cycle.
+# Electrocardiogram (ECG)
+### Identify the waves, segments, and intervals of an ECG and relate these electrical events to the mechanical events of the cardiac cycle.
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
-####
+### Electrocardiogram (ECG)
+#### and related mechanical events
+
 <p>The sum of potential differences across the heart can be represented as a moving dipole.</p>
 <img src="images/ECGDipole.png" width="50%">
+&nbsp;&nbsp;&nbsp;
+<img src="images/ECGDipole.gif" width="20%">
 
 <!-- \animategraphics[autoplay,loop,scale=0.6]{1}{images/ECGDipole}{1}{4} -->
 <!-- \animategraphics[autoplay,loop,scale=0.6]{4}{images/ECGDipole}{1}{4} -->
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### Einthoven's triangle -- measuring heart electrical activity
 <div class='media'>
   <div class='picture'>
@@ -619,7 +629,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### Einthoven's triangle -- measuring heart electrical activity
 <div class='media'>
   <div class='picture'>
@@ -635,7 +645,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### Einthoven's triangle -- measuring heart electrical activity
 <div class='media'>
   <div class='picture'>
@@ -654,12 +664,12 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 <!-- .slide: data-auto-animate data-background-image="images/Willem_Einthoven_ECG.jpg" data-background-size="contain" -->
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
+<!-- .slide: data-auto-animate data-background="#000000" -->
 <video data-autoplay data-src="images/ECG_BusinessCard.mp4"></video>
 <p class="citation"><a href="https://www.youtube.com/watch?v=lcakOUh1XOs">https://www.youtube.com/watch?v=lcakOUh1XOs</a></p>
 
 --
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### 
 <img src='images/ecg.svg' width='55%'>
 
@@ -681,7 +691,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
   
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### Wiggers' diagram
 <div class='media'>
   <div class='picture'>
@@ -701,12 +711,12 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG - bipolar limb leads
 
 <div class='media'>
   <div class='picture'>
-    <img src='images/ECG_bipolar.jpg' width='100%'>
+    <img src='images/ECG_bipolar.png' width='100%'>
   </div>
   <div class='description'>
     <p>The bipolar limb leads are the direct connection of two of the three physical leads of Einthoven's triangle.</p>
@@ -718,11 +728,11 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG - augmented unipolar limb leads
 <div class='media'>
   <div class='picture'>
-    <img src='images/ECG_augmented.jpg' width='100%'>
+    <img src='images/ECG_augmented.png' width='100%'>
   </div>
   <div class='description'>
     <p>The augmented unipolar limb leads have the same configuration as the bipolar limb leads, but two of the limbs are connected to the negative terminal, and the other limb to the positive terminal.</p>
@@ -739,11 +749,11 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG - chest (precordial) leads
 <div class='media'>
   <div class='picture'>
-    <img src='images/ECG_chest_diagram.jpg' width='80%'>
+    <img src='images/ECG_chest_diagram.png' width='80%'>
   </div>
   <div class='description'>
     <p>The 6 chest (precordial) leads have:</p>
@@ -751,7 +761,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
        <li>  Negative electrode connected jointly to the LA, RA and LL.</li>
        <li>  Positive electrode connected to a single chest electrode (6 different positions for 6 different leads).</li>
     </ul>
-    <img src='images/ECG_chest.jpg' width='25%'>
+    <img src='images/ECG_chest.png' width='25%'>
   </div>
   <div class='credit'>
     <p></p>
@@ -760,7 +770,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG
 <div class='media'>
   <div class='picture'>
@@ -796,7 +806,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 </div>
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
+<!-- .slide: data-auto-animate data-background="#e7e7e7ff" -->
 <video data-autoplay data-src="images/ECG1-ECGFirstPrinciples.mp4"></video>
 <p class="citation"><a href="https://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
 
@@ -807,11 +817,11 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG
 <div class='media'>
   <div class='picture'>
-    <img src='images/ECG_normal_intervals.jpg' width='100%'>
+    <img src='images/ECG_normal_intervals.png' width='100%'>
   </div>
   <div class='description'>
     <p>The various intervals of the ECG. The length of these intervals gives information on whether there are normal conduction pathways in the heart, or some pathology.</p>
@@ -824,16 +834,16 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### The 12 lead ECG
 <div class='media'>
   <div class='picture'>
-    <img src='images/ECG_normal_intervals.jpg' width='100%'>
+    <img src='images/ECG_normal_intervals.png' width='100%'>
   </div>
 
 --
-### Wait! What? A "U" wave?
-#### What is the U wave?
+### Electrocardiogram (ECG)
+#### Wait! What? A "U" wave? What is the U wave?
 <p>Usually not present.
 <p>Thought to indicate some kind of pathology.</p>
 <p>Cause? Theories include:</p>
@@ -846,12 +856,7 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 </div>
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" -->
-<video data-autoplay data-src="images/ECG2-PQRST.mp4"></video>
-<p class="citation"><a href="https://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
-
---
-### Electrocardiogram and related mechanical events
+### Electrocardiogram (ECG)
 #### Diagnosis
 
 <p>The ECG leads can be used to help diagnose different conditions.</p>
@@ -882,27 +887,31 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 <p>Myocardial infarction</p>
 
 --
-<!-- .slide: data-auto-animate data-background="#111111" data-visibility="hidden" -->
-<p style="font-size:1.0ex;color:white">Extension information (not part of MEDI2101 assessable material). For those that are interested in more information about the use of the ECG in diagnoses of heart conditions, this video gives a succinct summary. <a href="https://www.youtube.com/watch?v=XCmtP7597PI">www.handwrittentutorials.com</a></p>
+### Reflection quiz
+#### Electrocardiogram (ECG)
+#### Identify the waves, segments, and intervals of an ECG and relate these electrical events to the mechanical events of the cardiac cycle.
 
-<video data-autoplay data-src="images/ECG3-SegmentsIntervalsDiseases.mp4"></video>
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
+&nbsp;
 #### Learning objective
-#
-## Define the following key terms and explain the relationship between them: (i) stroke volume, (ii) cardiac output, and (iii) heart rate.
+# Key cardiac terms
+### Define cardiac contractility, ejection fraction, stroke volume, cardiac output, heart rate, and explain the relationships between these terms.
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
+### Key cardiac terms
 #### The diastolic and systolic phases of the heart
 <img src="images/Human_healthy_pumping_heart_en.png" width="63%">
 
 --
-<!-- .slide: data-auto-animate data-background-image="images/LV_volume.jpg" data-background-size="contain" -->
+<!-- .slide: data-auto-animate data-background-image="images/LV_volume.jpg" data-background-size="contain" data-background="#000000" -->
 
-<p>Angiogram with contrast in the left ventricle at end diastole and end systole.<p>
+<p style="color:white;">Angiogram with contrast in the left ventricle at end diastole and end systole.<p>
 <p>&nbsp</p>
 <p>&nbsp</p>
 <p>&nbsp</p>
@@ -917,15 +926,15 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
+### Key cardiac terms
 #### Pressure-volume loop
 <img src="images/pressure_volume_loop.svg" width="45%">
 <p class="citation">Created for MEDI2101</p>
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
-#### 
+### Key cardiac terms
+#### Quantifying the output of the heart
 
 \begin{equation}
   \mathrm{Stroke\~Volume}=\mathrm{end\~diastolic\~volume}-\mathrm{end\~systolic\~volume}
@@ -933,12 +942,14 @@ E\_{Na+} & = & \dfrac{8.314 \times 310}{+1 \times 96485} \times  ln \dfrac{144}{
 
 <p>the <b>volume</b> of blood ejected by the left ventricle into the aorta (or right ventricle into the pulmonary artery) in a <b>single beat of the heart</b>. Usually expressed in ml.</p>
 
+<center>
 <img src="images/LV_volume.jpg" width="40%">
+</center>
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
-####
+### Key cardiac terms
+#### Quantifying the output of the heart
 
 \begin{equation}
   \mathrm{Stroke\~Volume}=\mathrm{end\~diastolic\~volume}-\mathrm{end\~systolic\~volume}
@@ -955,8 +966,8 @@ $\begin{align}
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
-####
+### Key cardiac terms
+#### Quantifying the output of the heart
 $\begin{align}
 \mathrm{CO} &= \mathrm{SV} \times \mathrm{HR}
 \end{align}$
@@ -971,8 +982,8 @@ $\begin{align}
 
 --
 <!-- .slide:  data-auto-animate -->
-### Quantifying the output of the heart
-####
+### Key cardiac terms
+#### Quantifying the output of the heart
 $\begin{align}
 \mathrm{CO} &= \mathrm{SV} \times \mathrm{HR}
 \end{align}$
@@ -987,20 +998,67 @@ $\begin{align}
 <p class="fragment">*Accurate Doppler ultrasound requires measurement of the angle of insonation and knowledge of the arterial cross sectional area - not easy things to measure. So transesophageal Doppler is more accurate than some methods, but still not highly accurate.</p>
 <p class="fragment">**As the Doppler probe is in the oesophagus and does not cross any membranes / skin, it is technically non-invasive.</p>
 
-#### Learning objective
-#
-<ass="notes">## LO2.1.7 Define the following key terms and explain the relationships between them: after-load, pre-load, arterial resistance, contractility, ejection fraction, end diastolic volume. ### Left ventricular dynamics</aside>
+--
+<!-- .slide:  data-auto-animate -->
+### Key cardiac terms
+#### Ejection fraction
 
----
-<!-- .slide: data-auto-animate-restart -->
-#### Learning objective
-#
-## Be familiar with the Wiggers' Diagram relating left heart pressures and volumes with heart sounds and the electrocardiogram.
-<p class="citation">See this week's on-line module in iLearn.</p>
+\begin{equation}
+  \mathrm{Stroke\~Volume}=\mathrm{end\~diastolic\~volume}-\mathrm{end\~systolic\~volume}
+\end{equation}
+
+\begin{equation}
+  \mathrm{ejection\~fraction}=\dfrac{\mathrm{Stroke\~Volume}}{\mathrm{end\~diastolic\~volume}}
+\end{equation}
+
+<center>
+<img src="images/LV_volume.jpg" width="40%">
+</center>
 
 --
 <!-- .slide:  data-auto-animate -->
-### Wiggers' diagram
-#### Connects electrical activity, heart sounds, left ventricular volume, and left ventricular/atrial and aortic blood pressure.
+### Key cardiac terms
+#### Cardiac contractility
 
-<img src="images/Wiggers_Diagram10.png" width="40%">
+\begin{equation}
+  \mathrm{Stroke\~Volume}=\mathrm{end\~diastolic\~volume}-\mathrm{end\~systolic\~volume}
+\end{equation}
+
+\begin{equation}
+  \mathrm{ejection\~fraction}=\dfrac{\mathrm{Stroke\~Volume}}{\mathrm{end\~diastolic\~volume}}
+\end{equation}
+
+<center>
+<img src="images/LV_volume.jpg" width="40%">
+</center>
+
+The greater the <b>cardiac contractility</b> (force of contraction of the contractile cardiomyocytes)...
+- the lower the end systolic volume.
+- the greater the stroke volume.
+
+---
+<!-- .slide: data-auto-animate-restart -->
+&nbsp;
+#### Learning objective
+# Wiggers Diagram
+### Understand the Wiggers' Diagram, which relates left heart pressures and volumes with heart sounds and the electrocardiogram.
+
+See this week's on-line module in iLearn.
+
+<img src="images/Wiggers_Diagram10.png" width="33%">
+
+---
+<!-- .slide: data-auto-animate data-background="#e7e7e7ff" -->
+<video data-autoplay data-src="images/ConductionPathwayoftheHeart.mp4"></video>
+<p class="citation"><a href="http://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
+
+--
+<!-- .slide: data-auto-animate data-background="#e7e7e7ff" -->
+<video data-autoplay data-src="images/ECG2-PQRST.mp4"></video>
+<p class="citation"><a href="https://www.handwrittentutorials.com">www.handwrittentutorials.com</a></p>
+
+--
+<!-- .slide: data-auto-animate data-background="#e7e7e7ff" data-visibility="hidden" -->
+<p style="font-size:1.0ex;color:white">Extension information (not part of MEDI2101 assessable material). For those that are interested in more information about the use of the ECG in diagnoses of heart conditions, this video gives a succinct summary. <a href="https://www.youtube.com/watch?v=XCmtP7597PI">www.handwrittentutorials.com</a></p>
+
+<video data-autoplay data-src="images/ECG3-SegmentsIntervalsDiseases.mp4"></video>
