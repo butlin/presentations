@@ -14,8 +14,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Describe the structure of a capillary network and identify types of capillaries according to degree of permeability.
+# Capillary network structure
+### Describe the structure of a capillary network and identify types of capillaries according to degree of permeability.
 
 --
 ### Capillaries (Revision)
@@ -108,11 +108,20 @@ The intermittent flow in individual capillaries averaged across a capillary bed 
   </div>
 </div>
 
+--
+### Reflection quiz
+#### Capillary network structure
+#### Describe the structure of a capillary network and identify types of capillaries according to degree of permeability.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Describe caveolae and intercellular clefts and their function within capillaries.
+# Caveolae and intercellular clefts
+### Describe the function of caveolae and intercellular clefts within capillaries.
   
 --
 ### Endothelial cells of capillaries: caveloae and intercellular clefts
@@ -179,11 +188,20 @@ Nature of the endothelium and capillary pores varies between organs
 <p>&nbsp;</p>
 <p class="citation" style="color:white">Endothelial cell later from the inner surface of the blood vessels in a rat brain.<br>The cells have been stained for the tight-junction-associated protein zonula occludens-1 (green) and the nuclei using DAPI (blue).<br>(DANIEL SCHROEN, CELL APPLICATION INC./SCIENCE PHOTO LIBRARY)</p>
 
+--
+### Reflection quiz
+#### Caveolae and intercellular clefts
+#### Describe the function of caveolae and intercellular clefts within capillaries.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Describe the principle of diffusion in the context of transfer of material across the endothelium of capillaries.
+# Diffusion and Starling's hypothesis
+### Explain the principle of diffusion and Starling's hypothesis in the context of material transfer across capillary endothelium.
 
 --
 ### Transfer of material across the endothelium
@@ -430,11 +448,20 @@ Average forces across the capillary wall over the length of the capillary<br>(Pr
 <p style="color:white;font-size:1.5em">But where does the fluid from the <br>0.3 mmHg outward pressure go?</p>
 <p style="color:white;font-size:1.5em" class="fragment">LO2.4.6 Describe the function of the lymphatic system and broadly its anatomy.</p>
 
+--
+### Reflection quiz
+#### Diffusion and Starling's hypothesis
+#### Explain the principle of diffusion and Starling's hypothesis in the context of material transfer across capillary endothelium.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Understand that understanding of physiology is constantly evolving with new evidence, and apply this understanding specifically to the Starling hypothesis.
+# Evolving physiology
+### Understand that physiological knowledge evolves with new evidence, specifically applying this to the Starling hypothesis.
 
 --
 ### Revising the Starling hypothesis
@@ -501,174 +528,282 @@ Average forces across the capillary wall over the length of the capillary<br>(Pr
 <p>&nbsp;</p>
 <p class="citation">Yuan SY, Rigor RR.<br><a href="https://www.ncbi.nlm.nih.gov/books/NBK54123/">Regulation of Endothelial Barrier Function.</a><br>San Rafael (CA): Morgan & Claypool Life<br>Sciences; 2010. Chapter 2, Structure and<br>Function of Exchange Microvessels.</p>
 
----
-<!-- .slide: data-auto-animate-restart -->
-#### Learning objective
-#
-## List the constituents of the interstitium.
+--
+### Reflection quiz
+#### Evolving physiology
+#### Understand that physiological knowledge evolves with new evidence, specifically applying this to the Starling hypothesis.
 
-<p class="citation">See this week's on-line module in iLearn.</p>
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
 
----
-<!-- .slide: data-auto-animate-restart -->
-#### Learning objective
-#
-## Describe the function of the lymphatic system and broadly its anatomy.
-
-<p class="citation">See this week's on-line module in iLearn.</p>
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Define lymphodema and identify the common causes of the condition.
+# Interstitium constituents
+### List the constituents of the interstitium.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
-<!--<!-- .slide: data-auto-animate-restart 
-Do your best to have a break this mid-session break.<br>
-You have earned the break - the first half of MEDI2101 is the busiest, most intensive half.<br>
-&nbsp;<br>
-We look forward to welcoming you back in Week 8. The second half of the Cardiovascular and Respiratory unit is the most interesting half.-->
+--
+### The interstitium
+####
+
+<div class='media'>
+  <div class='picture'>
+    <img src='images/interstitium_GuytonAndHall.webp' width='100%'>
+  </div>
+  <div class='description'>
+    <p>The insterstitium is the space between cells.<br>It constitutes about 15 to 20% of the body volume.<br>It is made up of...</p>
+      <ul>
+        <li><b>Solid elements</b></li>
+          <ul>
+            <li><b>collagen fibres</b> provide tensional strength in the tissue</li>
+            <li><b>proteoglycan filaments</b> extremely thin, providing a "brush pile" (mat) in the interstitium.</li>
+          </ul>
+        <li><b>Gel</b></li>
+          <ul>
+            <li> Surrounding proteoglycan filaments.</li>
+            <li> Similar protein constituents as plasma.</li>
+            <li> Along with collagen, provides the bulk of the interstitium.</li>
+          </ul>
+        <li><b>Free fluid</b></li>
+          <ul>
+            <li> small channels of fluid throughout the interstitia.</li>
+            <li> in normal tissue, comprises around 1\of the volume.</li>
+          </ul>
+      </ul>
+  </div>
+  <div class='credit'>
+    <p>Image: Guyton and Hall Textbook of Medical Physiology.</p>
+</p>
+  </div>
+</div>
+
+--
+### Reflection quiz
+#### Interstitium constituents
+#### List the constituents of the interstitium.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
-\subsection{The interstitium}
-\frame{
-  \startsubframe
-  The insterstitium is the space between cells. It constitutes about 15\of the body volume. Is made up of:
-%
-  \begin{columns}
-    \column{0.33\textwidth}
-      \begin{block}{Solid elements}
-        <ul>
-          <li>\textbf{collagen fibres} provide tensional strength in the tissue</li>
-          <li>\textbf{proteoglycan filaments} extremely thin, providing a ``brush pile'' (mat) in the interstitium.</li>
-        </ul>
-      \end{block}
-    \column{0.33\textwidth}
-      \begin{block}{Gel}
-        <ul>
-        <li> Surrounding proteoglycan filaments.</li>
-        <li> Similar protein constituents as plasma.</li>
-        <li> Along with collagen, provides the bulk of the interstitium.</li>
-      </ul>
-      \end{block}
-    \column{0.33\textwidth}
-      \begin{block}{Free fluid}
-        <ul>
-          <li> small channels of fluid throughout the interstitia.</li>
-          <li> in normal tissue, comprises around 1\of the volume.</li>
-        </ul>
-      \end{block}
-  \end{columns}
-}
-%
-\frame{
-  \startsubframe%
-  \graphic{interstitium_GuytonAndHall}{1}%
-  {height=0.7\textheight}{width=0.65\textwidth}%
-  {The major elements of the interstitium.}%
-  {Guyton and Hall Textbook of Medical Physiology.}%
-}
-%
-\subsection{Lymphatic system}
-\frame{
-  \startsubframe
-%
-  \begin{block}{Function:}
-    Reabsorb extravascular proteins, colloids, and particulates and return them to the vascular space.
-  \end{block}
-%
-  <ul>
-    <li> Discovered at the same time that William Harvey (re)discovered the circulation.</li>
-    <li> But much less researched as a whole than even vascular endothelial cells.</li>
-    <li> Total fluid flow through lymph is around 2 to 3 L/day ($\approx$ 120 ml/hr).</li>
-    <li> Yet if all lymph flow stops, death will follow in as little as 24 hours.</li>
-  </ul>
-}
-%
-\subsubsection{Structure of the lymphatic system}
-  \frame{
-    \startsubframe%
-    \begin{columns}
-      \column{0.45\textwidth}
-      \graphic{LymphaticSystem_DorlandsDictionary}{1-2}%
-      {width=\textwidth}{width=0.9\textwidth}%
-      {The lymphatic system.}%
-      {Dorland's Medical Dictionary.}%
-      \column{0.55\textwidth}
-      <ul>
-        <li><1-> In all tissue</li>
-        <li><1-> Superficial skin, CNS, muscle endomysium and bones carry only pre-lympahatics, which in turn drain into the lymphatic system (or, in the brain, to the cerebrospinal fluid).</li>
-        <li><2> Lower body and left upper body drain by the thoracic duct into the left internal jugular and subclavian vein.</li>
-        <li><2> Upper right body drains by the lymph duct in the right internal jugular and subclavian vein.</li>
-      </ul>
-    \end{columns}
-  }
-%
-  \only<presentation>{
-    \frame{
-      \startsubframe%
-      \includegraphics[width=\textwidth]{LymphaticSystem_DorlandsDictionary2}
-    }
-  }
-%
-  \frame{
-    \startsubframe%
-    \begin{columns}
-      \column{0.35\textwidth}
-        \graphic{LymphaticCapillary_GuytonAndHall}{1}%
-        {width=\textwidth}{width=0.6\textwidth}%
-        {Terminal lymphatic capillary.}%
-        {Guyton and Hall Textbook of Medical Physiology.}%
-      \column{0.65\textwidth}
-      \begin{block}{Lymphatic capillaries}
-        <ul>
-          <li> Formed by single layer of endothelial cells.</li>
-          <li> Anchored by collagen filaments.</li>
-          <li> Overlapping of endothelial cells forms a valve-like structure, reducing retrograde flow.</li>
-        </ul>
-      \end{block}
-    \end{columns}
-  }
-%
-\subsubsection{Lymph flow}
-  \frame{
-    \startsubframe%
-    \begin{block}{The lymphatic capillary pump}
-      <ul>
-        <li> As fluid enters the interstitial space, the tissue swells and pulls on the lymphatic capillary anchoring fibres.</li>
-        <li> This allows fluid to flow into the capillary.</li>
-        <li> As fluid exits the tissue, swelling decreases, compressing the lymphatic capillary (may also be assisted by external pressures on the tissue).</li>
-      </ul>
-    \end{block}
-  }
-%
-  \frame{
-    \startsubframe%
-    \begin{block}{Lymphatic pump}
-      <ul>
-        <li> Lymph vessels contain smooth muscle.</li>
-        <li> The smooth muscle responds to stretch (as the lymph vessel fills with fluid) by contracting.</li>
-        <li> This pumps fluid past the next valve, into the next segment, stretching smooth muscle in that segment.</li>
-      </ul>
-    \end{block}
-%
-    This mechanism is able to pump lymph from one segment to the next. In larger lymph vessels (e.g. the thoracic duct), pressures as high as 50 to 100 mmHg can be generated.
-  }
-%
-  \frame{
-    \startsubframe%
-    \begin{block}{External compression of the lymphatics}
-      Lymphatic vessels may be compressed by external elements, promoting flow of lymph:
-      <ul>
-        <li> skeletal muscle</li>
-        <li> arteries adjacent to lymphatics</li>
-        <li> things external to the body (tight clothing)</li>
-      </ul>
-    \end{block}
-  }
-%
+<!-- .slide: data-auto-animate-restart -->
+#### Learning objective
+# Lymphatic system
+### Describe the function and broad anatomy of the lymphatic system.
+
+<p class="citation">See this week's on-line module in iLearn.</p>
+
+--
+### Lymphatic system
+#### 
+
+**Function:** Reabsorb extravascular proteins, colloids, and particulates and return them to the vascular space.
+
+- Discovered at the same time that William Harvey (re)discovered the circulation.
+- But much less researched as a whole than even vascular endothelial cells.
+- Total fluid flow through lymph is around 2 to 3 L/day (≈120 ml/hr).
+- Yet if all lymph flow stops, death will follow in as little as 24 hours.
+
+--
+### Lymphatic system
+#### Structure of the lymphatic system
+
+<div class='media'>
+  <div class='picture'>
+    <img src='images/lymphatic_system_DorlandsDictionary.webp' width='100%'>
+  </div>
+  <div class='description'>
+    <ul>
+      <li> In all tissue.</li>
+      <li> Superficial skin, central nervous system, muscle endomysium and bones carry only pre-lympahatics, which in turn drain into the lymphatic system (or, in the brain, to the cerebrospinal fluid).</li>
+      <li> Lower body and left upper body drain by the thoracic duct into the left internal jugular and subclavian vein.</li>
+      <li> Upper right body drains by the lymph duct in the right internal jugular and subclavian vein.</li>
+    </ul>
+  </div>
+  <div class='credit'>
+    <p>Image: Dorland's Medical Dictionary.</p>
+</p>
+  </div>
+</div>
+
+--
+### Lymphatic system
+#### Structure of the lymphatic system. Lympathic capillaries.
+<div class='media'>
+  <div class='picture'>
+    <img src='images/lymphatic_capillary_GuytonAndHall.webp' width='100%'>
+  </div>
+  <div class='description'>
+    <ul>
+      <li> Formed by single layer of endothelial cells.</li>
+      <li> Anchored by collagen filaments.</li>
+      <li> Overlapping of endothelial cells forms a valve-like structure, reducing retrograde flow.</li>
+    </ul>
+  </div>
+  <div class='credit'>
+    <p>Image: Guyton and Hall Textbook of Medical Physiology.</p>
+</p>
+  </div>
+</div>
+
+--
+### Lymphatic system
+#### Lymph flow. The lymphatic capillary pump.
+
+<div class='media'>
+  <div class='picture'>
+    <img src='images/lymphatic_capillary_GuytonAndHall.webp' width='100%'>
+  </div>
+  <div class='description'>
+    <ul>
+      <li> As fluid enters the interstitial space, the tissue swells and pulls on the lymphatic capillary anchoring fibres.</li>
+      <li> This allows fluid to flow into the capillary.</li>
+      <li> As fluid exits the tissue, swelling decreases, compressing the lymphatic capillary (may also be assisted by external pressures on the tissue).</li>
+    </ul>
+  </div>
+  <div class='credit'>
+    <p>Image: Guyton and Hall Textbook of Medical Physiology.</p>
+</p>
+  </div>
+</div>
+
+--
+### Lymphatic system
+#### Lymph flow. Lymphatic pump.
+
+- Lymph vessels contain smooth muscle.
+- The smooth muscle responds to stretch (as the lymph vessel fills with fluid) by contracting.
+- This pumps fluid past the next valve, into the next segment, stretching smooth muscle in that segment.
+
+This mechanism is able to pump lymph from one segment to the next. In larger lymph vessels (e.g. the thoracic duct), pressures as high as 50 to 100 mmHg can be generated.
+
+--
+### Lymphatic system
+#### Lymph flow. External compression of the lymphatics.
+
+Lymphatic vessels may be compressed by external elements, promoting flow of lymph:
+
+- skeletal muscle
+- arteries adjacent to lymphatics
+- things external to the body (tight clothing)
+
+--
+### Reflection quiz
+#### Lymphatic system
+#### Describe the function and broad anatomy of the lymphatic system.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
+---
+<!-- .slide: data-auto-animate-restart -->
+#### Learning objective
+# Lymphoedema
+### Define lymphoedema and identify its common causes
+
+<p class="citation">See this week's on-line module in iLearn.</p>
+
+--
+### Lymphoedema
+####
+Tissue swelling due to inadequate lymph drainage.
+
+May not solely be `lymphatic'. Can be due to any in-balance in the Starling's forces causing insterstitial volume to increase.
+
+<img src="images/Lower_Limb_Lymphedema.png" width='75%'>
+<p class="citation">Image: Principles and Practice of Lymphedema Surgery. Cheng MH, Chang DW, Patel KM (Editors). Elsevier Inc, Oxford, United Kingdom. July 2015.</p>
+
+--
+### Lymphoedema
+#### Disease presentation
+
+<div class='media'>
+  <div class='picture'>
+    <img src="images/Lower_Limb_Lymphedema.png" width='100%'>
+  </div>
+  <div class='description'>
+    <ul>
+      <li>Swelling of limb</li>
+      <li>Limb feels heavy or tight or aches</li>
+      <li>Restricts motion of limb</li>
+      <li>Recurring infection</li>
+      <li>Hardening / thickening of the skin</li>
+    </ul>
+  </div>
+  <div class='credit'>
+    <p>Image: Principles and Practice of Lymphedema Surgery. Cheng MH, Chang DW, Patel KM (Editors). Elsevier Inc, Oxford, United Kingdom. July 2015.</p>
+</p>
+  </div>
+</div>
+
+--
+### Lymphoedema
+#### Primary and secondary lymphoedema
+
+<table border="1">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">Primary</th>
+      <th colspan="3">Secondary</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Distal obliteration</th>
+      <th>Proximal obliteration</th>
+      <th>Congenital hyperplasia</th>
+      <th>Surgery</th>
+      <th>Cancer</th>
+      <th>Infection</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gender</td>
+      <td>Female</td>
+      <td>Either</td>
+      <td>Either</td>
+      <td colspan="3">Either</td>
+    </tr>
+    <tr>
+      <td>Onset</td>
+      <td>Puberty</td>
+      <td>Any age</td>
+      <td>Birth</td>
+      <td colspan="3">Following intervention</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Ankle (bilateral)</td>
+      <td>Leg (unilateral)</td>
+      <td>Leg (uni- or bilateral)</td>
+      <td colspan="3">Limb (unilateral)</td>
+    </tr>
+    <tr>
+      <td>Progression</td>
+      <td>Slow</td>
+      <td>Rapid</td>
+      <td>Progressive</td>
+      <td colspan="3">Varies</td>
+    </tr>
+  </tbody>
+</table>
+
+--
+### Lymphoedema
+#### Current treatment = management
+
+- exercise (skeletal muscle compression)
+- massage (external compression)
+- pneumatic compression (external compression)
+- compression garments
+
+<!--%
 \subsection{Diseases}
   \subsubsection{Peripheral vascular disease}
   \frame{
@@ -770,96 +905,4 @@ We look forward to welcoming you back in Week 8. The second half of the Cardiova
     {Example of retinal vessel abnormalities.}%
     {}%
   }
-%
-  \subsubsection{Lymphoedema}
-  \frame{
-    \startsubframe%
-    \graphic{lymphoedema_severe}{1}%
-    {height=0.7\textheight}{width=0.3\textwidth}%
-    {Severe lymphoedema.}%
-    {Mortimer, P. Lymphatic Disease. In: A Textbook of Vascular Medicine. 1996.}%
-    \only<presentation>{
-    \includegraphics[height=0.7\textheight]{lymphoedema_arm}
-    }
-  }
-%
-  \frame{
-    \startsubframe%
-%
-    \begin{block}{Lymphoedema}
-      Tissue swelling due to inadequate lymph drainage.
-%
-      May not solely be `lymphatic'. Can be due to any in-balance in the Starling's forces causing insterstitial volume to increase.
-    \end{block}
-  }
-%
-  \frame{
-    \startsubframe%
-%
-    \graphic{LymphoedemaProtein_TextbookVascularMedicine}{1}%
-    {height=0.5\textheight}{width=0.8\textwidth}%
-    {Relationship between interstitial fluid to plasma protein concentration (Ci/Cp) and arm volume in a series of patients with breast cancer related arm swelling. The results are contrary to expectations in lymphoedema where reduced lymph drainage should raise interstitial protein concentration. The result suggests that capillary filtration is increased, not decreased.}%
-    {Mortimer, P. Lymphatic Disease. In: A Textbook of Vascular Medicine. 1996.}%
-%
-    \only<presentation>{Relationship between interstitial fluid to plasma protein concentration (Ci/Cp) and arm volume in a series of patients with breast cancer related arm swelling. The results are contrary to expectations in lymphoedema where reduced lymph drainage should raise interstitial protein concentration. The result suggests that capillary filtration is increased, not decreased.}
-  }
-%
-  \frame{
-    \startsubframe%
-    \only<presentation>{\small}
-    \tableslide{
-\begin{tabular}{lcccccc}
-\hline
-          & \multicolumn{3}{c}{primary} & \multicolumn{3}{c}{secondary}\\
-          \cline{2-4}\cline{5-7}
-          & distal      & proximal    & congenital & surgery & cancer & infection\\
-          & obliteration& obliteration &hyperplasia & \\
-\\
-\hline
-gender    & female      & either      & either    & \multicolumn{3}{c}{either}\\
-onset     & puberty     & any age     & birth     & \multicolumn{3}{c}{following intervention}\\
-location  & ankle       & leg         & leg       & \multicolumn{3}{c}{limb}\\
-          & (bilateral) & unilateral  & uni- or bilateral & \multicolumn{3}{c}{unilateral}\\
-progression%
-          & slow        & rapid       & progressive & \multicolumn{3}{c}{varies}\\
-\hline
-\end{tabular}
-    }%
-    {Examples of primary and secondary lymphoedema.}%
-    {}%
-    \only<presentation>{\normalsize}
-  }
-%
-  \frame{
-    \startframe%
-    \begin{block}{Presentation}
-      <ul>
-        <li> Swelling of limb</li>
-        <li> Limb feels heavy or tight or aches</li>
-        <li> Restricts motion of limb</li>
-        <li> Recurring infection</li>
-        <li> Hardening / thickening of the skin</li>
-      </ul>
-    \end{block}
-  }
-%
-  \frame{
-    \startsubframe%
-    \begin{block}{Current treatment = management}
-      <ul>
-        <li> exercise (skeletal muscle compression)</li>
-        <li> massage (external compression)</li>
-        <li> pneumatic compression (external compression)</li>
-        <li> compression garments</li>
-      </ul>
-    \end{block}
-%
-    \only<presentation>{
-    \includegraphics[height=0.25\textheight]{LymphoedemaExercise}
-    \includegraphics[height=0.25\textheight]{LymphoedemaPneumatic}
-    \includegraphics[height=0.25\textheight]{LymphoedemaCompression}
-    \includegraphics[height=0.25\textheight]{LymphoedemaMassage}
-    }
-  }
-%
-
+%-->
