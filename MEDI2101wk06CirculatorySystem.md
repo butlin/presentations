@@ -215,13 +215,30 @@ This is a limited occurrence in the human body:
   </div>
   <div class='description'>
     <p>Blood circulates from the heart, through arteries, through a capillary network, and into veins and then back to the heart.</p>
-    <p>Portal systems are a rare exceptions to this, where one capillary network drains through a vein to another capillary network.</p> 
-    <p>The diagram on the left shows the hepatic portal system, with the hepatic portal vein draining blood from the gastrointestinal tract to the liver.</p>
+    <p>Portal systems are a rare exceptions to this, where one capillary network drains through a vein to another capillary network.</p>
   </div>
   <div class='credit'>
   </div>
 </div>
 <p class="citationside">Image source: <a href="http://cnx.org/content/col11496/1.6/">Anatomy & Physiology, Connexions.</a></p>
+
+--
+### The organisation of the cardiovascular system
+#### The exception to the rule: Portal systems
+<div class='media'>
+  <div class='picture'>
+    <img src='images/Blood_Flow_Through_the_Heart.webp' width='100%'>
+  </div>
+  <div class='description'>
+    <p><b>hepatic portal system:</b> collects nutrients (and toxins) from the gastrointestinal tract and delivers to the liver.</p>
+    <p><b>hypophyseal portal system:</b> neurohormones released from the hypothalamus are delivered to the pituitary stalk.</p>
+    <p><b>
+  </div>
+  <div class='credit'>
+  </div>
+</div>
+<p class="citationside">Image source: <a href="http://cnx.org/content/col11496/1.6/">Anatomy & Physiology, Connexions.</a></p>
+
 
 --
 ### Reflection quiz

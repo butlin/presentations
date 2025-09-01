@@ -56,8 +56,8 @@ $\begin{equation}
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Explain how venous return to the heart can be altered (respiratory pump; skeletal muscle pump; abdominal compression reflex; sympathetic stimulation of the systemic veins).
+# Venous return mechanisms
+### Explain how venous return to the heart can be altered by the respiratory pump, skeletal muscle pump, abdominal compression reflex, and sympathetic stimulation of systemic veins.
 
 --
 ### Altered venous return to the heart
@@ -200,11 +200,20 @@ As the venous system is very compliant, a change in body position can alter the 
 
 When standing, there is a greater hydrostatic pressure (greater weight of the fluid) toward the feet than there is closer to the heart. This means that when we stand, the compliant venous system is more distended, and there is an increased blood volume in the lower extremities. This also impacts on venous return of blood to the heart, as the flow of blood must overcome the hydrostatic pressure within the column of fluid that is the veins.
 
+--
+### Reflection quiz
+#### Venous return mechanisms
+#### Explain how venous return to the heart can be altered by the respiratory pump, skeletal muscle pump, abdominal compression reflex, and sympathetic stimulation of systemic veins.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Explain how venous return to the heart impacts cardiac output and blood volume (Frank-Starling law of the heart; the three atrial reflexes (Bainbridge reflex, volume reflex, cardiopulmonary baroreceptors))
+# Impact on cardiac output
+### Explain how venous return affects cardiac output and blood volume, incorporating the Frank-Starling law and the three atrial reflexes (Bainbridge reflex, volume reflex, cardiopulmonary baroreceptors).
 
 --
 ### Altered venous return to the heart
@@ -358,13 +367,21 @@ These receptors have a **negative feedback** to the central nervous system in re
   </div>
 </div>
 
+--
+### Reflection quiz
+#### Impact on cardiac output
+#### Explain how venous return affects cardiac output and blood volume, incorporating the Frank-Starling law and the three atrial reflexes (Bainbridge reflex, volume reflex, cardiopulmonary baroreceptors).
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Describe the differential sympathetic and parasympathetic innervation of the heart and systemic vasculature, including a description of the vasomotor centre of the brain.
+# Autonomic innervation
+### Describe the differential sympathetic and parasympathetic innervation of the heart and systemic vasculature, including the role of the vasomotor center in the brain.
 
 --
 ### Sympathetic and parasympathetic innervation
@@ -669,11 +686,20 @@ A rapid rise in blood pressure is invoked by:
 <img src="images/ValsalvaVasovagalFigure2.png">
 <p class="citation">Data/image source: Macquarie University Blood Pressure and Vascular Function Laboratory</p>
 
+--
+### Reflection quiz
+#### Autonomic innervation
+#### Describe the differential sympathetic and parasympathetic innervation of the heart and systemic vasculature, including the role of the vasomotor center in the brain.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Outline the key steps of the baroreceptor reflex, include the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, arteriolar and myocardial targets, and the resulting systemic changes.
+# Baroreceptor reflex
+## Outline the key steps of the baroreceptor reflex, including the stimulus, sensors, changes in autonomic outputs, arteriolar and myocardial targets, and resulting systemic changes.
 
 --
 ### Baroreceptor reflex
@@ -785,12 +811,20 @@ A rapid rise in blood pressure is invoked by:
 <p>&nbsp;</p>
 <p class="citation">Guyton and Hall Textbook of Medical Physiology.</p>
 
+--
+### Reflection quiz
+#### Baroreceptor reflex
+#### Outline the key steps of the baroreceptor reflex, including the stimulus, sensors, changes in autonomic outputs, arteriolar and myocardial targets, and resulting systemic changes.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
 
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Outline the key steps of the chemoreceptor reflex, including the: stimulus, sensors, changes in sympathetic and parasympathetic outputs, the arteriolar and myocardial targets, and the local and systemic changes.
+# Chemoreceptor reflex
+### Outline the key steps of the chemoreceptor reflex, including the stimulus, sensors, changes in autonomic outputs, arteriolar and myocardial targets, and local and systemic changes.
 
 --
 ### Chemoreceptor reflex
@@ -924,11 +958,20 @@ Why is intracranial pressure instead of venous pressure in this equation?
 </blockquote>
 <p class="citation">*Guyton and Hall Textbook of Medical Physiology.</p>
 
+--
+### Reflection quiz
+#### Chemoreceptor reflex
+#### Outline the key steps of the chemoreceptor reflex, including the stimulus, sensors, changes in autonomic outputs, arteriolar and myocardial targets, and local and systemic changes.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Understand how changes in blood volume alter systemic arterial blood pressure
+# Blood volume and blood pressure
+### Understand how changes in blood volume alter systemic arterial blood pressure.
 
 --
 ### Blood volume and systemic arterial blood pressure
@@ -973,11 +1016,20 @@ If total blood volume is increased, blood pressure will increase.
 <p>&nbsp;</p>
 <p class="citation">See this week's on-line module in iLearn.</p>
 
+--
+### Reflection quiz
+#### Blood volume and blood pressure
+#### Understand how changes in blood volume alter systemic arterial blood pressure.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Use the prior knowledge of the cardiovascular regulatory pathways to describe responses to physiological challenges.
+# Cardiovacsular responses
+### Use knowledge of cardiovascular regulatory pathways to describe responses to physiological challenges.
 
 --
 ### Bringing it all together
