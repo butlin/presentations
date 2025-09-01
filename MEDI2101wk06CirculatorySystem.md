@@ -69,7 +69,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 ### History of the "discovery" of circulation
-#### (Re)"discovery" of the circulation: 1628. William Harvey.
+#### (Re)-"discovery" of the circulation: 1628. William Harvey.
 <div class="media">
   <div class="picture">
   <img src="images/HarveyBook.jpg" width="75%">
@@ -84,7 +84,7 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 
 --
 ### History of the "discovery" of circulation
-#### (Re)"discovery" of the circulation: 1628. William Harvey.
+#### (Re)-"discovery" of the circulation: 1628. William Harvey.
 
 <img src="images/HarveyVenousReturn.png" width="66%">
 
@@ -95,8 +95,8 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Recognise the transport functions of the cardiovascular system (giving examples of the transport of materials: (i) entering, (ii) moving within, and (iii) leaving the body).
+# Transport functions
+### Recognise the transport functions of the cardiovascular system, providing examples of materials entering, moving within, and leaving the body.
 
 --
 ### The transport functions of the cardiovascular system
@@ -115,11 +115,20 @@ The main functions of the circulatory system are:
   -  helps regulate body temperature
   -  regulates water content of cells
 
+--
+### Reflection quiz
+#### Transport functions
+#### Recognise the transport functions of the cardiovascular system, providing examples of materials entering, moving within, and leaving the body.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Recall the organisation of the cardiovascular system, including: (i) the central location of the heart, (ii) major blood vessels, (iii) pulmonary and systemic divisions of the circulation, and (iv) key portal systems.
+# Cardiovascular organisation
+### Recall the organisation of the cardiovascular system, including the central location of the heart, major blood vessels, pulmonary and systemic circulations, and key portal systems.
 
 --
 ### The organisation of the cardiovascular system
@@ -214,11 +223,20 @@ This is a limited occurrence in the human body:
 </div>
 <p class="citationside">Image source: <a href="http://cnx.org/content/col11496/1.6/">Anatomy & Physiology, Connexions.</a></p>
 
+--
+### Reflection quiz
+#### Cardiovascular organisation
+#### Recall the organisation of the cardiovascular system, including the central location of the heart, major blood vessels, pulmonary and systemic circulations, and key portal systems.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Compare and contrast the structure, mechanical properties and functions of the five major types of blood vessels: (1) arteries, (2) arterioles, (3) capillaries, (4) venules, and (5) veins.
+# Blood vessel structure and function
+### Compare and contrast the structure, mechanical properties, and functions of the five major types of blood vessels: arteries, arterioles, capillaries, venules, and veins.
 
 --
 ### The five major types of blood vessels
@@ -479,11 +497,20 @@ During times of high oxygen demand this can be mobilised (due to signals receive
 </ul>
 <p>Fenestrated and sinusoidal capillaries allow absorption and filtration of water and ions from blood to other body cells.</p>
 
+--
+### Reflection quiz
+#### Blood vessel structure and function
+#### Compare and contrast the structure, mechanical properties, and functions of the five major types of blood vessels: arteries, arterioles, capillaries, venules, and veins.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Describe the pressure changes that occur during the cardiac cycle and relate these to blood flow through the heart and vessels.
+# Cardiac cycle pressure changes
+### Describe the pressure changes during the cardiac cycle and relate these to blood flow through the heart and vessels.
 
 --
 ### Systemic arterial pressure over the cardiac cycle
@@ -548,11 +575,20 @@ $\begin{eqnarray}
 <img data-id="waves" src='images/waves.png' width='80%'>
 <p class="citationside">Image: Avolio AP, Butlin M, Walsh A. Arterial blood pressure measurement and pulse wave analysis–their role in enhancing cardiovascular assessment. 2010; 31 : R1–47.</p>
 
+--
+### Reflection quiz
+#### Cardiac cycle pressure changes
+#### Describe the pressure changes during the cardiac cycle and relate these to blood flow through the heart and vessels.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Explain the relationship of blood flow, pressure gradients and resistance and use Poiseuille's Law to explain the factors that influence resistance.
+# Blood flow dynamics
+### Explain the relationship between blood flow, pressure gradients, and resistance, using Poiseuille's Law to describe the factors influencing resistance.
 
 --
 ### Blood flow, pressure gradients and resistance
@@ -693,11 +729,20 @@ flow = \dfrac{P_1 - P_2}{resistance}
 </div>
 <p class="citationside">Image: Medical Colouring in Book</p>
 
+--
+### Reflection quiz
+#### Blood flow dynamics
+#### Explain the relationship between blood flow, pressure gradients, and resistance, using Poiseuille's Law to describe the factors influencing resistance.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Define mean arterial pressure (MAP) and explain the relationship between MAP, cardiac output and total peripheral resistance.
+# Mean arterial pressure
+### Define mean arterial pressure and explain its relationship with cardiac output and total peripheral resistance.
 
 --
 ### MAP, CO and total peripheral resistance
@@ -743,11 +788,20 @@ It can be modified by:
 - combined regional changes in arteriolar resistance
 - combined regional changes in regulation at the pre-capillary area
 
+--
+### Reflection quiz
+#### Mean arterial pressure
+#### Define mean arterial pressure and explain its relationship with cardiac output and total peripheral resistance.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Understand that there is local (regional) short-term and long-term autoregulation of blood flow and the mechanisms driving that regulation (oxygen, metabolic, and myogenic theories; angiogenesis and collateral circulation).
+# Blood flow regulation
+### Understand the mechanisms of local (regional) short-term and long-term autoregulation of blood flow, including oxygen, metabolic, and myogenic theories, as well as angiogenesis and collateral circulation.
 
 --
 ### Local (regional) blood flow autoregulation
@@ -914,8 +968,8 @@ i.e. direct myogenic response of smooth muscle to stretch decreases vessel diame
 ---
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
-#
-## Recall the constituents of blood and their general function with detailed knowledge of red blood cells and haemoglobin.
+# Blood constituents
+### Recall the constituents of blood and their general functions, with detailed knowledge of red blood cells and hemoglobin.
 
 <p class="citation">See this week's on-line module in iLearn.</p>
 
