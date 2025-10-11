@@ -12,6 +12,16 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
+--
+### 
+#### Extension reading
+
+In past weeks, the recommended text if you wanted to take extension reading was<br><em>Guyton and Hall's Textbook of Medical Physiology</em>.
+
+For renal physiology, I find that<br><em>D.U. Silverthorn. Human Physiology, An Integrated Approach</em><br>provides a more succinct summary of the topic area.
+
+The chapter readings continue to be an extension study resource only, not a mandatory core to the unit.
+
 <!-- #####################################LEARNING OBJECTIVE########################################### -->
 ---
 <!-- .slide: data-auto-animate-restart -->
