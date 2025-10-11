@@ -1,3 +1,6 @@
 {
-    "ltex.additionalRules.enablePickyRules": true
+    "ltex.additionalRules.enablePickyRules": true,
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    }
 }

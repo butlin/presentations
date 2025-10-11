@@ -12,6 +12,4 @@ Macquarie Medical School, Faculty of Medicine, Health and Human Sciences<br>Macq
 <p>&nbsp;</p>
 <p class="citation">This material is provided to you as a Macquarie University student for your individual research and study purposes only. You cannot share this material without permission. Macquarie University is the copyright owner of (or has licence to use) the intellectual property in this material. Legal and/or disciplinary actions may be taken if this material is shared without the University’s written permission.</p>
 
---
-
-Stay tuned for new material to be uploaded
+---

@@ -570,7 +570,6 @@ Average forces across the capillary wall over the length of the capillary<br>(Pr
         <li><b>Free fluid</b></li>
           <ul>
             <li> small channels of fluid throughout the interstitia.</li>
-            <li> in normal tissue, comprises around 1\of the volume.</li>
           </ul>
       </ul>
   </div>
