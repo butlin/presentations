@@ -62,7 +62,7 @@ The chapter readings continue to be an extension study resource only, not a mand
 
 <img width="66%" src="images/nephron_pearson.png">
 
-<p class="citation">Image source: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
+<p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
 
 --
 ### Reflection quiz
@@ -97,7 +97,7 @@ The chapter readings continue to be an extension study resource only, not a mand
     border-radius: 10px;
     background-color: transparent;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;
 "></div>
@@ -677,7 +677,7 @@ With increased tubule flow, the macula densa cells release paracrine signals* ca
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;
 "></div>
@@ -706,7 +706,7 @@ Therefore >99% of fluid filtered is reabsorbed.
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;
 "></div>
@@ -720,6 +720,10 @@ Therefore >99% of fluid filtered is reabsorbed.
     - unwanted foreign substances are not readily reabsorbed, clearing them from blood plasma.
     - wanted substances (glucose, acids) are readily reabsorbed.
 2. Allows for large volume regulation of ions and water to allow for relatively quick regulation.
+
+<div style="margin-bottom: 10px"></div>
+<img src="images/swimming_pool_filter.webp" width="66%">
+<p class="citationside">Image: <a href="https://intheswim.com/blog/top-swimming-pool-sand-filter-problems.html">Blog: Top 5 swimming pool sand filter problems.</a></p>
 
 --
 ### Tubular Reabsorption
@@ -907,7 +911,7 @@ Reabsorption occurs by different mechanisms...
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;
 "></div>
@@ -933,7 +937,7 @@ Reabsorption occurs by different mechanisms...
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;
 "></div>
@@ -980,7 +984,7 @@ Reabsorption occurs by different mechanisms...
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;s
 "></div>
@@ -993,7 +997,7 @@ Reabsorption occurs by different mechanisms...
     border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(254, 255, 169, 0.2); /* light glow */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 1); /* glowing effect */
+    box-shadow: 0 0 60px rgba(0, 0, 0, 1); /* glowing effect */
     z-index: 2;
     pointer-events: none;s
 "></div>

@@ -401,14 +401,22 @@ h1.titleslide {
     line-height: 1.3; 
 }
 
-p.citation {
+/* p.citation {
     position:absolute !bottom;
     left:0px;
     bottom: 0px;
     padding: 0px;
     margin: 0px;
-    width:100%; 
-    /* font-style: italic; */
+    width:100%;
+    font-size: 0.4em;
+    color: #C6007E;
+    text-align:right;
+} */
+
+p.citation {
+    position:absolute !bottom;
+    right: 1em;
+    bottom: 1em;
     font-size: 0.4em;
     color: #C6007E;
     text-align:right;
@@ -651,6 +659,28 @@ figcaption {
 .reveal .imgrot15c {transform: rotate(-15deg)}
 .reveal .imgrot30c {transform: rotate(-30deg)}
 .reveal .imgrot45c {transform: rotate(-45deg)}
+
+
+/*********************************************
+ * UP AND DOWN ARROWS
+ *********************************************/
+ 
+.up-arrow::before {
+    content: "↑";
+    color: red;
+}
+.down-arrow::before {
+    content: "↓";
+    color: blue;
+}
+.up-arrow {
+    color: red;
+}
+
+.down-arrow {
+    color: blue;
+}
+
 
 /*********************************************
  * NAVIGATION CONTROLS
