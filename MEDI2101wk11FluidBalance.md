@@ -484,59 +484,7 @@ Clearance of K<sup>+</sup> is around 10 to 20%.
 <!-- .slide: data-auto-animate-restart -->
 #### Learning objective
 # Acid-Base Balance
-### Provide an overview of acid-base balance, including major buffering systems and respiratory/renal compensations.
-
---
-### Acid-Base Balance
-####
-pH is a measure of the H<sup>+</sup> concentration in a solution.
-
-<table>
-    <tr>
-        <td style="text-align: center;">High H<sup>+</sup> concentration</td>
-        <td style="text-align: center;"></td>
-        <td style="text-align: center;">Low H<sup>+</sup> concentration</td>
-    </tr><tr>
-        <td style="text-align: center;">Acidic</td>
-        <td style="text-align: center;">Neutral</td>
-        <td style="text-align: center;">Basic</td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">pH < 7 </td>
-        <td style="text-align: center;">pH = 7 </td>
-        <td style="text-align: center;">pH > 7  </td>
-    </tr>
-</table>
-
---
-### Acid-Base Balance
-####
-
-For the human body:
-
-<table>
-    <tr>
-        <td style="text-align: center;">High H<sup>+</sup> concentration</td>
-        <td style="text-align: center;"></td>
-        <td style="text-align: center;">Low H<sup>+</sup> concentration</td>
-    </tr><tr>
-        <td style="text-align: center;">Acidosis</td>
-        <td style="text-align: center;">Normal</td>
-        <td style="text-align: center;">Alkalosis</td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">pH < 7.38 </td>
-        <td style="text-align: center;">pH between 7.38 and 7.42 </td>
-        <td style="text-align: center;">pH > 7.42  </td>
-    </tr>
-</table>
-<div style="margin-bottom: 20px;"></div>
-
-- pH changes can denature proteins or change their function.
-- Abnormal pH affects the nervous system...
-    - Acidosis:  Neurons become less excitable; central nervous system depression.
-    - Alkalosis: Neurons become hyperexcitable; severe can lead to muscle tetanus.
-- pH disturbances are also associated with K<sup>+</sup> disturbances.
+### Provide an overview of the respiratory and renal mechanisms of acid-base balance, including major buffering systems.
 
 --
 ### Acid-Base Balance
@@ -784,6 +732,11 @@ There are two mechanisms that allow for this in the proximal tubule.
 <p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
     </div>
     <div style="flex: 0 0 60%; padding: 0px;">
+<p><b>Type A intercalated cells. Compensation for acidosis.</b></p>
+<ul>
+    <li>H<sup>+</sup> secretion.</li>
+    <li>HCO<sub>3</sub><sup>-</sup> reabsorption.</li>
+</ul>
     </div>
 </div>
 
@@ -796,11 +749,84 @@ There are two mechanisms that allow for this in the proximal tubule.
 <p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
     </div>
     <div style="flex: 0 0 60%; padding: 0px;">
+<p><b>Type B intercalated cells. Compensatioan for alkalosis.</b></p>
+<ul>
+    <li>H<sup>+</sup> reabsorbed.</li>
+    <li>HCO<sub>3</sub><sup>-</sup> secreted.</li>
+</ul>
     </div>
 </div>
 
 --
-### Acid-Base Balance
+### Reflection quiz
+#### Acid-base Balance.
+#### Provide an overview of the respiratory and renal mechanisms of acid-base balance, including major buffering systems.
+
+<a href="https://flux.qa/DA285K">flux.qa/DA285K</a>
+
+<img width="33%" src="images/flux-qr-code.png">
+
+<!-- #####################################LEARNING OBJECTIVE########################################### -->
+---
+<!-- .slide: data-auto-animate-restart -->
+#### Learning objective
+# Arterial Blood Gases
+### Classify arterial blood gas results in terms of acid-base balance and compensation.
+
+--
+### Arterial Blood Gases
+####
+pH is a measure of the H<sup>+</sup> concentration in a solution.
+
+<table>
+    <tr>
+        <td style="text-align: center;">High H<sup>+</sup> concentration</td>
+        <td style="text-align: center;"></td>
+        <td style="text-align: center;">Low H<sup>+</sup> concentration</td>
+    </tr><tr>
+        <td style="text-align: center;">Acidic</td>
+        <td style="text-align: center;">Neutral</td>
+        <td style="text-align: center;">Basic</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">pH < 7 </td>
+        <td style="text-align: center;">pH = 7 </td>
+        <td style="text-align: center;">pH > 7  </td>
+    </tr>
+</table>
+
+--
+### Arterial Blood Gases
+####
+
+For the human body:
+
+<table>
+    <tr>
+        <td style="text-align: center;">High H<sup>+</sup> concentration</td>
+        <td style="text-align: center;"></td>
+        <td style="text-align: center;">Low H<sup>+</sup> concentration</td>
+    </tr><tr>
+        <td style="text-align: center;">Acidosis</td>
+        <td style="text-align: center;">Normal</td>
+        <td style="text-align: center;">Alkalosis</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">pH < 7.38 </td>
+        <td style="text-align: center;">pH between 7.38 and 7.42 </td>
+        <td style="text-align: center;">pH > 7.42  </td>
+    </tr>
+</table>
+<div style="margin-bottom: 20px;"></div>
+
+- pH changes can denature proteins or change their function.
+- Abnormal pH affects the nervous system...
+    - Acidosis:  Neurons become less excitable; central nervous system depression.
+    - Alkalosis: Neurons become hyperexcitable; severe can lead to muscle tetanus.
+- pH disturbances are also associated with K<sup>+</sup> disturbances.
+
+--
+### Arterial Blood Gases
 #### Acid-base disturbances
 
 **Respiratory acidosis**: hypoventilation &rarr; <span style="color: red">🡅</span>P<sub>CO<sub>2</sub></sub> &rarr; <span style="color: blue">🡇</span>pH
@@ -812,7 +838,7 @@ There are two mechanisms that allow for this in the proximal tubule.
 **Metabolic alkalosis**: loss of H<sup>+</sup> through excessive vomiting or excessive ingestion of bicarbonate-containing antacids &rarr; <span style="color: red">🡅</span>pH
 
 --
-### Acid-Base Balance
+### Arterial Blood Gases
 #### Acid-base disturbances
 
 <table>
@@ -853,7 +879,7 @@ There are two mechanisms that allow for this in the proximal tubule.
 </table>
 
 --
-### Acid-Base Balance
+### Arterial Blood Gases
 #### Acid-base compensation
 
 <img src="images/acid_base_compensation_silverthorn.png" width="100%">
@@ -865,7 +891,7 @@ There are two mechanisms that allow for this in the proximal tubule.
 <p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
 
 --
-### Acid-Base Balance
+###  Arterial blood gases
 #### Tic-tac-toe
 Rules:
 - Two in a column indicates that condition.
@@ -908,7 +934,7 @@ Rules:
 <p><span class="fragment">Respiratory alkalosis</span><span class="fragment">, partially compensated.</span></p>
 
 --
-### Acid-Base Balance
+###  Arterial blood gases
 #### Tic-tac-toe
 Rules:
 - Two in a column indicates that condition.
@@ -951,7 +977,7 @@ Rules:
 <p><span class="fragment">Metabolic alkalosis</span><span class="fragment">, uncompensated.</span></p>
 
 --
-### Acid-Base Balance
+###  Arterial blood gases
 #### Tic-tac-toe
 Rules:
 - Two in a column indicates that condition.
