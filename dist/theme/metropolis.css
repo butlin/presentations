@@ -76,7 +76,7 @@ body.dark .reveal h6 {
  * Usage:
  * <section class="intro"id="intro"><div class="logo-wrapper"><div class="logo"><span class="visually-hidden">MEDI2101 Cardiovascular and Respiratory System</span></div></div></section><section class="title"id="title"><div class="grid-wrapper"><div class="header"><div class="logo logo--full"><span class="visually-hidden">Week 3 Lecture 1</span></div></div><div class="content"><h1>Respiratory regulation inputs </h1><div class="description">This is where the description goes. Keep it short and sweet. </div></div><div class="credit"><hr/><div class="label"></div><div class="name">Mark Butlin <span style="font-size: 0.5em">(PhD, BE, SFHEA)</span></div><div class="role"></div></div></div></section>
  ********************************************/
-.reveal .slides section.title .grid-wrapper {
+/* .reveal .slides section.title .grid-wrapper {
     box-sizing: border-box;
     display: grid;
     grid-template-areas:
@@ -101,7 +101,7 @@ body.dark .reveal h6 {
 
 .credit {
     grid-area: credit;
-}
+} */
 
 /*********************************************
  * TWO COLUMN LAYOUT
@@ -151,42 +151,6 @@ Column 2 Content
     text-align:right;
 }
 
-
-/* @media (min-width: 1280px) {
-    .content {
-        display: grid;
-        grid-template-areas:
-            "picture description"
-            ". credit";
-        grid-template-columns: auto 40%;
-        grid-template-rows: 6vmin 1fr auto;
-        grid-column-gap: 10vmin;
-    }
-
-    .picture {
-        grid-area: picture;
-    }
-
-    .description {
-        grid-area: description;
-    }
-
-    .credit {
-        grid-area: credit;
-    }
-}
-
-@media (max-width: 568px) {
-    .grid-wrapper {
-        grid-template-areas: "picture""credit""description";
-        grid-template-columns: auto;
-    }
-
-    .credit {
-        justify-self: end;
-    }
-} */
-
 /*********************************************
  * HEADERS
  *********************************************/
@@ -194,7 +158,8 @@ Column 2 Content
 .reveal h2,
 .reveal h3,
 .reveal h4,
-.reveal h5 {
+.reveal h5,
+.reveal h6  {
     margin: 0 0 10px 0;
     color: #000000;
     font-weight: normal;
@@ -204,114 +169,9 @@ Column 2 Content
     text-shadow: none;
     word-wrap: break-word; }
 
-.reveal h6 {
-    font-weight: normal;
-    line-height: 1;
-    letter-spacing: normal;
-    text-transform: none;
-    text-shadow: none;
-    word-wrap: break-word; 
-}
-
-/* .reveal h1 {
-    font-size: 1.77em; 
-    padding-bottom:16px;
-    data-id: "title";
-        background-image: linear-gradient(-225deg,
-            #373A36 0%,
-            #D6001C 25%,
-            #C6007E 50%,
-            #80225F 75%,
-            #373A36 100%);
-        background-size: auto auto;
-        background-clip: border-box;
-        color: #fff;
-        background-clip: text;
-        text-fill-color: transparent;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        animation: textclip 2s linear infinite;
-        display: inline-block;
-} */
-
-.reveal h1 {
-    display: block;
-    margin-left: -50px;
-    padding-left: 50px;
-    margin-right: -50px;
-    padding-right: 50px;
-    margin-top: -11px;
-    padding-top: 11px;
-    padding-bottom: 8px;
-    border: 0px solid #000000;
-    /* padding: 50px 50px 50px 8px 50px; */
-    width: 100%;
-    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
-    background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
-    /* for opera 11.1 to 12.0 */
-    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
-    /* for firefox 3.6 to 15 */
-    background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
-    background-attachment: initial;
-    background-size: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-position: initial;
-    background-repeat: initial;
-    color: white;
-    font-size: 1.77em;
-    data-id: "title";
-}
-
-.reveal h2 {
-    /* margin: 200px 0px 200px 0px; */
-    data-id: "title";
-    /* border-bottom: 2px solid #C6007E; */
-    /* text-transform: uppercase; */
-    background-image: linear-gradient(-225deg,
-                #373A36 0%,
-                #D6001C 25%,
-                #C6007E 50%,
-                #80225F 75%,
-                #373A36 100%);
-    background-size: auto auto;
-    background-clip: border-box;
-    /* background-size: 200% auto; */
-    color: #fff;
-    background-clip: text;
-    text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: textclip 2s linear infinite;
-    display: inline-block;
-    font-size: 48px;
-}
-
-.reveal h3 {
-    display: block;
-    margin-left: -50px;
-    padding-left: 50px;
-    margin-right: -50px;
-    padding-right: 50px;
-    margin-top: -11px;
-    padding-top: 11px;
-    padding-bottom: 8px;
-    border: 0px solid #000000;
-    /* padding: 50px 50px 50px 8px 50px; */
-    width: 100%;
-    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); /* for opera 11.1 to 12.0 */ 
-    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%); /* for firefox 3.6 to 15 */ background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
-    background-attachment: initial;
-    background-size: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-position: initial;
-    background-repeat: initial;
-    color: white;
-    font-size: 1.30em;
-    data-id: "title";
-}
-
+.reveal h1,
+.reveal h2,
+.reveal h3,
 .reveal h4 {
     display: block;
     margin-left: -50px;
@@ -320,10 +180,9 @@ Column 2 Content
     padding-right: 50px;
     margin-top: -11px;
     padding-top: 11px;
-    padding-bottom: 4px;
-    border: 0px solid #000000;
-    /* padding: 50px 50px 50px 8px 50px; */
+    padding-bottom: 8px;
     width: 100%;
+    color: white;
     background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
     background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
     /* for opera 11.1 to 12.0 */
@@ -336,43 +195,56 @@ Column 2 Content
     background-clip: initial;
     background-position: initial;
     background-repeat: initial;
-    color: white;
-    font-size: .9em;
-    padding-bottom:10px;
-    /* border-bottom: 2px solid #C6007E; */
-    content: data-id:("subtitle");
 }
 
+.reveal h1 {
+    data-id: "title";
+    font-size: 1.77em;
+}
 
+.reveal h2 {
+    data-id: "title";
+    font-size: 48px;
+}
 
-h1.title {
+.reveal h3 {
+    data-id: "title";
+    font-size: 1.30em;
+}
+
+.reveal h4 {
+    data-id:"subtitle";
+    font-size: .9em;
+}
+
+/* h1.title {
     text-shadow: none;
     font-weight: 700;
     border-bottom: 2px solid #C6007E;
     padding-bottom:16px;
-}
+} */
 
-h2.author, h3.date {
+/* h2.author, h3.date {
     font-size: .6em;
-}
+} */
 
-h2.learningoutcome {
+/* h2.learningoutcome {
     margin: 200px 0px 200px 0px;
     data-id: "title";
-}
+} */
 
-.level2 h1 {
+/* .level2 h1 {
     font-size:1.57em;
     font-variant: small-caps;
     text-transform: lowercase;
-}
+} */
 
-h1.titleslide {
+/* h1.titleslide {
     font-variant: small-caps;
     font-size:1.67em;
     padding-bottom: 10px;
     border-bottom: 2px solid #C6007E;
-}
+} */
 
 /*********************************************
  * MAKE A SINGLE SLIDE SCROLLABEL
@@ -401,18 +273,6 @@ h1.titleslide {
     line-height: 1.3; 
 }
 
-/* p.citation {
-    position:absolute !bottom;
-    left:0px;
-    bottom: 0px;
-    padding: 0px;
-    margin: 0px;
-    width:100%;
-    font-size: 0.4em;
-    color: #C6007E;
-    text-align:right;
-} */
-
 p.citation {
     position:absolute !bottom;
     right: 1em;
@@ -424,10 +284,9 @@ p.citation {
 
 p.citationleft {
     position: absolute !bottom;
-    left: 0px;
-    bottom: 0px;
+    left: 0em;
+    bottom: 0em;
     width: 100%; 
-    /* font-style: italic; */
     font-size: 0.4em;
     color: #C6007E;
     text-align: left;
@@ -436,14 +295,13 @@ p.citationleft {
 p.citationside{
     position: absolute;
     top: 190px;
-    bottom: auto;
+    bottom: 0em;
     left: 100%;
     right: auto;
     pointer-events: none;
-    text-align: left;
+    text-align: right;
     writing-mode: vertical-rl;
     transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
-    /* font-style: italic; */
     font-size: 0.3em;
     color: #C6007E;
 }
@@ -627,28 +485,10 @@ figcaption {
     caption-side: inline-end;
 }
 
-/* .reveal section img { */
-    /* margin: 15px 0px; */
-    /* background: rgba(255, 255, 255, 0.12); */
-    /* class: "r-stretch" */
-    /* border: 4px solid #000; */
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);  */
-    /* }  */
 
-/* .reveal section img.plain {
-    border: 0;
-    box-shadow: none; } */
-
-/* .reveal a img {
-    -webkit-transition: all 0.15s linear;
-    -moz-transition: all 0.15s linear;
-    transition: all 0.15s linear; }
-
-/* .reveal a:hover img {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: #51483D;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); } */
-
+/*********************************************
+ * IMAGE ROTATION
+ *********************************************/
 .reveal .imgrot5 {transform: rotate(5deg)}
 .reveal .imgrot10 {transform: rotate(10deg)}
 .reveal .imgrot15 {transform: rotate(15deg)}
@@ -664,8 +504,7 @@ figcaption {
 /*********************************************
  * UP AND DOWN ARROWS
  *********************************************/
- 
-.up-arrow::before {
+ .up-arrow::before {
     content: "↑";
     color: red;
 }
@@ -717,10 +556,17 @@ figcaption {
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-    background: rgba(235, 129, 27, .4); }
+    background: rgba(5, 5, 5, .2);
+    height: 6px;
+}
 
 .reveal .progress span {
-    background: #C6007E;
+    background: -webkit-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    background-image: -o-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for opera 11.1 to 12.0 */
+    background-image: -moz-linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
+    /* for firefox 3.6 to 15 */
+    background-image: linear-gradient(left, #76232f 0%, #a6192e 20%, #d6001c 51%, #c6007e 70%, #80225f 100%);
     -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
     -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
     transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
