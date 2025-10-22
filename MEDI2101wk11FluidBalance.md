@@ -347,7 +347,7 @@ The renal countercurrent multiplier is an additional mechanism that, by locally 
 x=1.1\mathrm{~litres}
 \end{equation}
 </p>
-<p>This water would also need to be taken up by the ECF, causing oedema.</p>
+<p>This water would also need to be taken up by the ECF.</p>
 
 --
 ### Sodium Homeostasis and ECF Volume
@@ -360,8 +360,17 @@ x=1.1\mathrm{~litres}
 --
 ### Sodium Homeostasis and ECF Volume
 #### 
-<img src="images/salt_homeostasis_silverthorn.png" width="33%">
+<div style="display: flex; width: 100%">
+    <div style="flex: 0 0 33%; padding: 0px;">
+<img src="images/salt_homeostasis_silverthorn.png" width="100%">
 <p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
+    </div>
+    <div style="flex: 0 0 67%; padding: 0px;">
+<p>Thirst is a homeostatic driven process.</p>
+<p>Water intake ties into the renal and cardiovascular processes covered so far.</p>
+    </div>
+</div>
+
 --
 ### Reflection quiz
 #### Sodium Homeostasis and Extacellular Fluid (ECF) Volume.
