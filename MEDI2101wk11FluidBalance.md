@@ -106,7 +106,7 @@ Where is that water?
         <td>38 L</td>
     </tr>
 </table>
-
+<p class="citation">Intracellular would also include water in red blood cells.</p>
 --
 ### Water Balance
 ####
@@ -190,15 +190,23 @@ $$
     <li>This allows kidneys to reduce the amount of water loss.</li>
     <li>Kidneys cannot increase plasma volume by drawing from urine.</li>
 </ul>
+<p>That is, if dehydrated, the kidneys cannot "rescue" the situation by adding more water. They can only reduce further water loss.</p>
     </div>
 </div>
 
 --
 ### Water Balance
 ####  Kidneys conserve, but do <b>not</b> add water
-
-<img src="images/vasopressin_renal_tubules_silverthorn.png" width="66%">
+<div style="display: flex; width: 100%">
+    <div style="flex: 0 0 66%; padding: 10px;">
+<img src="images/vasopressin_renal_tubules_silverthorn.png" width="100%">
 <p class="citation">Image: D.U. Silverthorn. Human Physiology, An Integrated Approach.</p>
+    </div>
+    <div style="flex: 0 0 34%; padding: 10px;">
+<p>If the filtrate is highly concentrated (high osmolarity), it drives increased water reabsorption.</p>
+<p>If the filtrate is dilute (low osmolarity), it reduces water reabsorption.</p>
+    </div>
+</div>
 
 --
 ### Water Balance
