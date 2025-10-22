@@ -98,7 +98,7 @@ Where is that water?
         <td>10 L</td>
     </tr><tr>
         <td>plasma</td>
-        <td>$\frac{1}{12}$</td>
+        <td>1/12</td>
         <td>3 L</td>
     </tr><tr>
         <td>total</td>
