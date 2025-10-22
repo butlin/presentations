@@ -388,8 +388,6 @@ x=1.1\mathrm{~litres}
 </div>
 
 --
-
---
 ### Reflection quiz
 #### Sodium Homeostasis and Extacellular Fluid (ECF) Volume.
 #### Outline sodium balance and ECF volume control, emphasizing RAAS and natriuretic peptides.
