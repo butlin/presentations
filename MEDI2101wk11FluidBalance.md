@@ -372,6 +372,24 @@ x=1.1\mathrm{~litres}
 </div>
 
 --
+### Sodium Homeostasis and ECF Volume
+#### Renin-Angiotensin-Aldosterone System (RAAS)
+<div style="display: flex; width: 100%">
+    <div style="flex: 0 0 33%; padding: 0px;">
+<img src="images/RAAS_guyton.png" width="100%">
+<p class="citation">Image: Guyton and Hall Textbook of Medical Physiology.</p>
+    </div>
+    <div style="flex: 0 0 67%; padding: 0px;">
+<p>Renin: produced by juxtaglomerular cells of the kidneys, mainly in arterioles afferent to the glomeruli.</p>
+<p>Cascade leads to salt and water retention.</p>
+<p>Angiotensin II also stimulates aldosterone secretion by the adrenal gland. This increases sodium reabsorption at the kidney tubules.</p>
+<p>The sodium reabsorption drives further water reasbsorption.</p>
+    </div>
+</div>
+
+--
+
+--
 ### Reflection quiz
 #### Sodium Homeostasis and Extacellular Fluid (ECF) Volume.
 #### Outline sodium balance and ECF volume control, emphasizing RAAS and natriuretic peptides.
