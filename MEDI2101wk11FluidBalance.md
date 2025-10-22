@@ -196,7 +196,7 @@ $$
 
 --
 ### Water Balance
-####  Kidneys conserve, but do <b>not</b> add water
+####  Water reabsorption by osmosis
 <div style="display: flex; width: 100%">
     <div style="flex: 0 0 66%; padding: 10px;">
 <img src="images/vasopressin_renal_tubules_silverthorn.png" width="100%">
@@ -210,7 +210,7 @@ $$
 
 --
 ### Water Balance
-#### Vasopressin controls water reabsorption
+#### Vasopressin regulated water reabsorption
 <div style="display: flex; width: 100%">
     <div style="flex: 0 0 33%; padding: 10px;">
 <ol>
@@ -337,8 +337,16 @@ The renal countercurrent multiplier is an additional mechanism that, by locally 
 <h5>If they do drink water...</h5>
 <p>Normal body Na<sup>+</sup> is 140 mOsm/litre.</p>
 <p>To reduce the 155 mOsm of Na<sup>+</sup> to 140 mOsm, the person would need to drink...</p>
-<p>$155\mathrm{~mOsm/}x\mathrm{~litres}=140\mathrm{~mOsm/litre}$</p>
-<p>$x=1.1\mathrm{~litres}$</p>
+<p>
+\begin{equation}
+155\mathrm{~mOsm/}x\mathrm{~litres}=140\mathrm{~mOsm/litre}
+\end{equation}
+</p>
+<p>
+\begin{equation}
+x=1.1\mathrm{~litres}
+\end{equation}
+</p>
 <p>This water would also need to be taken up by the ECF, causing oedema.</p>
 
 --
