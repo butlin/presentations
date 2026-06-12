@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="Week_3_Ventilation_and_gas_exchange"
+  version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2
+                      imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2
+                      adlcp_rootv1p2.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+
+  <organizations default="Week_3_Ventilation_and_gas_exchange_org">
+    <organization identifier="Week_3_Ventilation_and_gas_exchange_org">
+      <title>Week 3: Ventilation and gas exchange</title>
+      <item identifier="item_1" identifierref="resource_1">
+        <title>Week 3: Ventilation and gas exchange</title>
+      <item identifier="item_2" identifierref="resource_2">
+        <title>Respiratory System Functions</title>
+      </item>
+      <item identifier="item_3" identifierref="resource_3">
+        <title>Key terms in fluid movement</title>
+      </item>
+      <item identifier="item_4" identifierref="resource_4">
+        <title>Lung mechanics</title>
+      </item>
+      <item identifier="item_5" identifierref="resource_5">
+        <title>Pulmonary Volumes and Capacities</title>
+      </item>
+      <item identifier="item_6" identifierref="resource_6">
+        <title>Gas Diffusion</title>
+      </item>
+      <item identifier="item_7" identifierref="resource_7">
+        <title>Ventilation-Perfusion ratio</title>
+      </item>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+  <resource identifier="resource_1"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_2"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/1">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_3"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/2">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_4"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/3">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_5"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/4">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_6"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/5">
+    <file href="index.html"/>
+  </resource>
+  <resource identifier="resource_7"
+            type="webcontent"
+            adlcp:scormtype="sco"
+            href="index.html#/6">
+    <file href="index.html"/>
+  </resource>
+  </resources>
+
+</manifest>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="410.9053mm"
+   height="164.85194mm"
+   viewBox="0 0 410.9053 164.85194"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="respiratory_control.svg"
+   inkscape:export-filename="C:\Users\MQ20073221\OneDrive - Macquarie University\learning and teaching\2019\MEDI211\Lectures\images\respiratory_control.png"
+   inkscape:export-xdpi="100.045"
+   inkscape:export-ydpi="100.045">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path898"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#aa0050;fill-opacity:1;fill-rule:evenodd;stroke:#aa0050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path892"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-97"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-94" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-50" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-82"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-42" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-54"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1201-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1199-39" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="921.04171"
+     inkscape:cy="175.89719"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(122.03861,-35.596742)">
+    <path
+       style="fill:none;stroke:#aa0050;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 173.49107,116.32738 h 44.60119"
+       id="path881"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffe8;fill-opacity:1;stroke:#aa0050;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect817"
+       width="129.62572"
+       height="66.817383"
+       x="43.56493"
+       y="84.253448" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.730217"
+       y="119.53303"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="57.730217"
+         y="119.53303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">respiratory centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.27950272"
+       y="40.421253"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="0.279504"
+         y="40.421253"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332">peripheral chemoreceptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="48.358753"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan831" /><tspan
+         sodipodi:role="line"
+         x="0.27950445"
+         y="56.296253"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan833">central (medullary) chemoreceptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="64.233749"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan835" /><tspan
+         sodipodi:role="line"
+         x="0.2795015"
+         y="72.171249"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan837">emotional stimulii (higher order brain)</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="80.108749"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan839" /><tspan
+         sodipodi:role="line"
+         x="0.27949974"
+         y="88.046249"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan841">motor cortex (higher order brain)</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="95.983749"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan843" /><tspan
+         sodipodi:role="line"
+         x="0.27950251"
+         y="103.92125"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan845">'j' receptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="111.85875"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan851" /><tspan
+         sodipodi:role="line"
+         x="0.27950352"
+         y="119.79625"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan853">irritant receptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="127.73375"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan855" /><tspan
+         sodipodi:role="line"
+         x="0.27950263"
+         y="135.67125"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan857">pain receptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="143.60875"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan859" /><tspan
+         sodipodi:role="line"
+         x="0.27950418"
+         y="151.54625"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan861">proprioceptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="159.48375"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan863" /><tspan
+         sodipodi:role="line"
+         x="0.27950352"
+         y="167.42125"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan865">stretch receptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="175.35875"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan867" /><tspan
+         sodipodi:role="line"
+         x="0.27950504"
+         y="183.29625"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan869">thermoreceptors</tspan><tspan
+         sodipodi:role="line"
+         x="0.27950272"
+         y="191.23375"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan871" /><tspan
+         sodipodi:role="line"
+         x="0.27950555"
+         y="199.17125"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan873">touch receptors (pharaynx)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="224.01483"
+       y="114.66846"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="224.01483"
+         y="114.66846"
+         style="stroke-width:0.26458332">respiratory muscles</tspan><tspan
+         sodipodi:role="line"
+         x="224.01483"
+         y="122.60596"
+         style="stroke-width:0.26458332"
+         id="tspan879">(alter breathing rate</tspan><tspan
+         sodipodi:role="line"
+         x="224.01483"
+         y="130.54346"
+         style="stroke-width:0.26458332"
+         id="tspan5323">    and tidal volume)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201)"
+       d="M 2.2678571,40.732143 39.407191,77.827852"
+       id="path1191"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-9)"
+       d="M 1.2322655,53.328354 36.103744,86.266327"
+       id="path1191-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-4)"
+       d="M 1.2322649,69.959307 37.237672,94.20383"
+       id="path1191-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-2)"
+       d="M 0.47631271,86.968236 36.103743,101.76335"
+       id="path1191-30"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-7)"
+       d="m 1.6102409,102.84324 34.1911221,5.42131"
+       id="path1191-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-97)"
+       d="M 2.3661939,118.26464 35.347791,115.59725"
+       id="path1191-55"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-5)"
+       d="M 2.74417,133.45931 35.347795,123.308"
+       id="path1191-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-8)"
+       d="M 1.9882171,150.46823 35.347791,131.62346"
+       id="path1191-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-82)"
+       d="M 1.9882171,166.72121 35.725762,139.18299"
+       id="path1191-37"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-54)"
+       d="M 1.6102418,180.32835 35.725767,148.25442"
+       id="path1191-38"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1201-1)"
+       d="M 0.85428917,196.9593 38.749576,157.32585"
+       id="path1191-83"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

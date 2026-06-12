@@ -1,0 +1,805 @@
+/**
+ * Metropolis theme for reveal.js — Macquarie University
+ * Dark-first design with typographic hierarchy (no colour blocks on headings).
+ * Derived from the original Metropolis/serif theme by Vince Hodges (MIT licence).
+ *
+ * Colour palette:
+ *   Dark burgundy : #76232f
+ *   Mid red       : #a6192e
+ *   Brand red     : #d6001c
+ *   Brand magenta : #c6007e
+ *   Deep purple   : #80225f
+ *
+ * Usage:
+ *   Default (dark) : <body>
+ *   Warm off-white : <body class="warm">   ← recommended for images with dark text
+ *   Near-white     : <body class="light">
+ */
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+    background: #1a1a1a;
+    background-color: #1a1a1a;
+}
+
+/* Warm off-white variant — best for images with black/dark text on transparent bg */
+body.warm {
+    background: #f2f0eb;
+    background-color: #f2f0eb;
+}
+
+body.warm .reveal-viewport {
+    background-color: #f2f0eb;
+}
+
+body.warm .reveal {
+    color: #1a1a1a;
+}
+
+body.warm .reveal h1,
+body.warm .reveal h2 {
+    color: #1a1a1a;
+    border-bottom-color: #d6001c;
+}
+
+body.warm .reveal h3 {
+    color: #1a1a1a;
+    border-left-color: #c6007e;
+}
+
+body.warm .reveal h4 {
+    color: #a6192e;
+}
+
+body.warm .reveal h5,
+body.warm .reveal h6 {
+    color: #1a1a1a;
+}
+
+body.warm .reveal a {
+    color: #80225f;
+}
+
+body.warm .reveal a:hover {
+    color: #d6001c;
+}
+
+body.warm .reveal blockquote {
+    background: rgba(198, 0, 126, 0.07);
+    border-left-color: #c6007e;
+}
+
+body.warm .reveal pre {
+    background: #e8e4dc;
+    border-left-color: #d6001c;
+}
+
+body.warm .reveal code {
+    color: #a6192e;
+    background: rgba(166, 25, 46, 0.1);
+}
+
+body.warm .reveal pre code {
+    color: #1a1a1a;
+    background: none;
+}
+
+body.warm .reveal table {
+    border-top-color: #d6001c;
+    border-bottom-color: #d6001c;
+}
+
+body.warm .reveal table th {
+    color: #1a1a1a;
+    border-bottom-color: #a6192e;
+}
+
+body.warm .reveal table td {
+    border-bottom-color: rgba(0, 0, 0, 0.12);
+}
+
+body.warm .reveal .progress {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+body.warm .reveal .controls .navigate-left,
+body.warm .reveal .controls .navigate-left.enabled  { border-right-color:  #c6007e; }
+body.warm .reveal .controls .navigate-right,
+body.warm .reveal .controls .navigate-right.enabled { border-left-color:   #c6007e; }
+body.warm .reveal .controls .navigate-up,
+body.warm .reveal .controls .navigate-up.enabled    { border-bottom-color: #c6007e; }
+body.warm .reveal .controls .navigate-down,
+body.warm .reveal .controls .navigate-down.enabled  { border-top-color:    #c6007e; }
+
+body.warm .reveal .controls .navigate-left.enabled:hover  { border-right-color:  #d6001c; }
+body.warm .reveal .controls .navigate-right.enabled:hover { border-left-color:   #d6001c; }
+body.warm .reveal .controls .navigate-up.enabled:hover    { border-bottom-color: #d6001c; }
+body.warm .reveal .controls .navigate-down.enabled:hover  { border-top-color:    #d6001c; }
+
+/* Near-white variant */
+body.light {
+    background: #fafafa;
+    background-color: #fafafa;
+}
+
+body.light .reveal-viewport {
+    background-color: #fafafa;
+}
+
+body.light .reveal {
+    color: #1a1a1a;
+}
+
+body.light .reveal h1,
+body.light .reveal h2 {
+    color: #1a1a1a;
+    border-bottom-color: #d6001c;
+}
+
+body.light .reveal h3 {
+    color: #1a1a1a;
+    border-left-color: #c6007e;
+}
+
+body.light .reveal h4 {
+    color: #a6192e;
+}
+
+body.light .reveal h5,
+body.light .reveal h6 {
+    color: #1a1a1a;
+}
+
+body.light .reveal a {
+    color: #80225f;
+}
+
+body.light .reveal a:hover {
+    color: #d6001c;
+}
+
+body.light .reveal blockquote {
+    background: rgba(198, 0, 126, 0.07);
+    border-left-color: #c6007e;
+}
+
+body.light .reveal pre {
+    background: #f0f0f0;
+    border-left-color: #d6001c;
+}
+
+body.light .reveal code {
+    color: #a6192e;
+    background: rgba(166, 25, 46, 0.1);
+}
+
+body.light .reveal pre code {
+    color: #1a1a1a;
+    background: none;
+}
+
+body.light .reveal table {
+    border-top-color: #d6001c;
+    border-bottom-color: #d6001c;
+}
+
+body.light .reveal table th {
+    color: #1a1a1a;
+    border-bottom-color: #a6192e;
+}
+
+body.light .reveal table td {
+    border-bottom-color: rgba(0, 0, 0, 0.12);
+}
+
+body.light .reveal .progress {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+body.light .reveal .controls .navigate-left,
+body.light .reveal .controls .navigate-left.enabled  { border-right-color:  #c6007e; }
+body.light .reveal .controls .navigate-right,
+body.light .reveal .controls .navigate-right.enabled { border-left-color:   #c6007e; }
+body.light .reveal .controls .navigate-up,
+body.light .reveal .controls .navigate-up.enabled    { border-bottom-color: #c6007e; }
+body.light .reveal .controls .navigate-down,
+body.light .reveal .controls .navigate-down.enabled  { border-top-color:    #c6007e; }
+
+body.light .reveal .controls .navigate-left.enabled:hover  { border-right-color:  #d6001c; }
+body.light .reveal .controls .navigate-right.enabled:hover { border-left-color:   #d6001c; }
+body.light .reveal .controls .navigate-up.enabled:hover    { border-bottom-color: #d6001c; }
+body.light .reveal .controls .navigate-down.enabled:hover  { border-top-color:    #d6001c; }
+
+/* Legacy dark class — kept for backwards compatibility */
+body.dark {
+    background: #1a1a1a;
+    background-color: #1a1a1a;
+}
+
+body.dark .reveal {
+    color: #e8e8e8;
+}
+
+body.dark .reveal h1,
+body.dark .reveal h2,
+body.dark .reveal h3,
+body.dark .reveal h4,
+body.dark .reveal h5,
+body.dark .reveal h6 {
+    color: #e8e8e8;
+}
+
+@font-face {
+    font-family: 'Atkinson Hyperlegible Next';
+    src: url('fonts/AtkinsonHyperlegibleNext-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.reveal {
+    font-family: "Atkinson Hyperlegible Next", 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    color: #e8e8e8;
+}
+
+::selection {
+    color: #fff;
+    background: #d6001c;
+    text-shadow: none;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal .slides > section,
+.reveal .slides > section > section {
+    line-height: 1.3;
+    font-weight: inherit;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+
+.reveal-viewport {
+    background-color: #1a1a1a;
+}
+
+/*********************************************
+ * TWO COLUMN LAYOUT
+ *********************************************/
+.container {
+    display: flex;
+    gap: 2em;
+}
+
+.col {
+    flex: 1;
+}
+
+/*********************************************
+ * MEDIA SLIDE
+ *********************************************/
+.media {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.picture {
+    grid-column: 1;
+    grid-row: 1 / 3;
+}
+
+.description {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.credit {
+    grid-column: 2;
+    grid-row: 2;
+    font-style: italic;
+    font-size: 0.4em;
+    color: #c6007e;
+    text-align: right;
+}
+
+/*********************************************
+ * HEADERS — typographic hierarchy, no colour blocks
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    margin: 0 0 16px 0;
+    color: #ffffff;
+    font-weight: normal;
+    line-height: 1.1;
+    letter-spacing: normal;
+    text-transform: none;
+    text-shadow: none;
+    word-wrap: break-word;
+    background: none;
+    padding: 0;
+}
+
+/* h1 — large title with brand-red underline */
+.reveal h1 {
+    font-size: 1.77em;
+    font-weight: 700;
+    border-bottom: 3px solid #d6001c;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* h2 — section title with thinner accent */
+.reveal h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    border-bottom: 2px solid #a6192e;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+/* h3 — left border accent in magenta */
+.reveal h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+    border-left: 4px solid #c6007e;
+    padding-left: 12px;
+    margin-left: 0;
+    color: #f0f0f0;
+}
+
+/* h4 — small, magenta-tinted, uppercase label */
+.reveal h4 {
+    font-size: 0.95em;
+    font-weight: 600;
+    color: #c6007e;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/*********************************************
+ * SCROLLABLE SLIDE
+ *********************************************/
+.scrollable {
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+    height: 500px;
+}
+
+/*********************************************
+ * OTHER
+ *********************************************/
+.speaker-notes:before {
+    content: "Notes";
+    display: block;
+    margin-bottom: 10px;
+    opacity: .5;
+}
+
+.reveal p {
+    font-size: 0.75em;
+    margin: 16px 0;
+    line-height: 1.5;
+}
+
+p.citation {
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    font-size: 0.4em;
+    color: #c6007e;
+    text-align: right;
+}
+
+p.citationleft {
+    position: absolute;
+    left: 0em;
+    bottom: 0em;
+    width: 100%;
+    font-size: 0.4em;
+    color: #c6007e;
+    text-align: left;
+}
+
+p.citationside {
+    position: absolute;
+    top: 190px;
+    bottom: 0em;
+    left: 100%;
+    right: auto;
+    pointer-events: none;
+    text-align: right;
+    writing-mode: vertical-rl;
+    transform: translate(-50%, -50%) scale(100%) rotate(-180deg);
+    font-size: 0.3em;
+    color: #c6007e;
+}
+
+.reveal img,
+.reveal video,
+.reveal iframe {
+    max-width: 95%;
+    max-height: 95%;
+}
+
+.reveal strong,
+.reveal b {
+    font-weight: bold;
+}
+
+.reveal em {
+    font-style: italic;
+}
+
+/*********************************************
+ * LISTS
+ *********************************************/
+.reveal ol,
+.reveal dl,
+.reveal ul {
+    font-size: 0.75em;
+    display: inline-block;
+    text-align: left;
+    margin: 0 0 0 1em;
+    line-height: 1.6;
+}
+
+.reveal ol {
+    list-style-type: decimal;
+}
+
+.reveal ul {
+    list-style-type: disc;
+}
+
+.reveal ul ul {
+    list-style-type: square;
+}
+
+.reveal ul ul ul {
+    list-style-type: circle;
+}
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+    display: block;
+    margin-left: 40px;
+}
+
+.reveal dt {
+    font-weight: bold;
+}
+
+.reveal dd {
+    margin-left: 40px;
+}
+
+/*********************************************
+ * BLOCKQUOTE
+ *********************************************/
+.reveal q,
+.reveal blockquote {
+    quotes: none;
+}
+
+.reveal blockquote {
+    display: block;
+    position: relative;
+    width: 85%;
+    margin: 20px 0;
+    padding: 12px 20px;
+    font-style: normal;
+    border-left: 4px solid #c6007e;
+    background: rgba(198, 0, 126, 0.08);
+    box-shadow: none;
+    border-radius: 0 4px 4px 0;
+}
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+    display: inline-block;
+}
+
+.reveal q {
+    font-style: italic;
+}
+
+/*********************************************
+ * CODE BLOCKS
+ *********************************************/
+.reveal pre {
+    display: block;
+    position: relative;
+    width: 90%;
+    margin: 20px auto;
+    text-align: left;
+    font-size: 0.55em;
+    font-family: monospace;
+    line-height: 1.4em;
+    word-wrap: break-word;
+    background: #2a2a2a;
+    border-left: 3px solid #d6001c;
+    border-radius: 0 4px 4px 0;
+    box-shadow: none;
+}
+
+.reveal code {
+    font-family: monospace;
+    color: #f0f0f0;
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+}
+
+.reveal pre code {
+    display: block;
+    padding: 12px 16px;
+    overflow: auto;
+    max-height: 400px;
+    word-wrap: normal;
+    color: #e8e8e8;
+    background: none;
+}
+
+/*********************************************
+ * TABLES
+ *********************************************/
+.reveal table {
+    font-size: 0.55em;
+    margin: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-bottom: 2px solid #d6001c;
+    border-top: 2px solid #d6001c;
+}
+
+.reveal table th {
+    font-weight: bold;
+    border-bottom: 2px solid #a6192e;
+    color: #ffffff;
+}
+
+.reveal table td {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.reveal table th,
+.reveal table td {
+    text-align: left;
+    padding: 0.3em 0.6em;
+}
+
+.reveal table th[align="center"],
+.reveal table td[align="center"] {
+    text-align: center;
+}
+
+.reveal table th[align="right"],
+.reveal table td[align="right"] {
+    text-align: right;
+}
+
+.reveal table tr:last-child td {
+    border-bottom: none;
+}
+
+/*********************************************
+ * MISC TYPE
+ *********************************************/
+.reveal sup {
+    vertical-align: super;
+    font-size: 0.7em;
+}
+
+.reveal sub {
+    vertical-align: sub;
+    font-size: 0.7em;
+}
+
+.reveal small {
+    display: inline-block;
+    font-size: 0.6em;
+    line-height: 1.2em;
+    vertical-align: top;
+}
+
+.reveal small * {
+    vertical-align: top;
+}
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+    color: #c6007e;
+    text-decoration: none;
+    line-height: 1.3em;
+    transition: color 0.15s ease;
+}
+
+.reveal a:hover {
+    color: #d6001c;
+    text-shadow: none;
+    border: none;
+}
+
+/*********************************************
+ * IMAGES AND FIGURES
+ *********************************************/
+figure {
+    display: flex;
+    float: left;
+    text-align: left;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0;
+    padding: 0;
+}
+
+figcaption {
+    padding: 0.5em;
+    flex: 1;
+    caption-side: inline-end;
+}
+
+/*********************************************
+ * IMAGE ROTATION
+ *********************************************/
+.reveal .imgrot5   { transform: rotate(5deg);   }
+.reveal .imgrot10  { transform: rotate(10deg);  }
+.reveal .imgrot15  { transform: rotate(15deg);  }
+.reveal .imgrot30  { transform: rotate(30deg);  }
+.reveal .imgrot45  { transform: rotate(45deg);  }
+.reveal .imgrot5c  { transform: rotate(-5deg);  }
+.reveal .imgrot10c { transform: rotate(-10deg); }
+.reveal .imgrot15c { transform: rotate(-15deg); }
+.reveal .imgrot30c { transform: rotate(-30deg); }
+.reveal .imgrot45c { transform: rotate(-45deg); }
+
+/*********************************************
+ * UP AND DOWN ARROWS
+ *********************************************/
+.up-arrow::before {
+    content: "↑";
+    color: #d6001c;
+}
+
+.down-arrow::before {
+    content: "↓";
+    color: #c6007e;
+}
+
+.up-arrow   { color: #d6001c; }
+.down-arrow { color: #c6007e; }
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+    border-right-color: #c6007e;
+}
+
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+    border-left-color: #c6007e;
+}
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+    border-bottom-color: #c6007e;
+}
+
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+    border-top-color: #c6007e;
+}
+
+.reveal .controls .navigate-left.enabled:hover  { border-right-color:  #d6001c; }
+.reveal .controls .navigate-right.enabled:hover { border-left-color:   #d6001c; }
+.reveal .controls .navigate-up.enabled:hover    { border-bottom-color: #d6001c; }
+.reveal .controls .navigate-down.enabled:hover  { border-top-color:    #d6001c; }
+
+/*********************************************
+ * PROGRESS BAR — gradient retained for branding
+ *********************************************/
+.reveal .progress {
+    background: rgba(255, 255, 255, 0.1);
+    height: 4px;
+}
+
+.reveal .progress span {
+    background-image: linear-gradient(
+        to right,
+        #76232f 0%,
+        #a6192e 20%,
+        #d6001c 51%,
+        #c6007e 70%,
+        #80225f 100%
+    );
+    transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+}
+
+/*********************************************
+ * OPENDYSLEXIC FONT TOGGLE
+ *********************************************/
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('fonts/OpenDyslexic-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('fonts/OpenDyslexic-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body.dyslexic .reveal,
+body.dyslexic .reveal p,
+body.dyslexic .reveal li,
+body.dyslexic .reveal td,
+body.dyslexic .reveal th,
+body.dyslexic .reveal blockquote {
+    font-family: 'OpenDyslexic', sans-serif;
+    font-size: 1.2em;
+}
+
+/* Headings need separate treatment as they have their own sizing */
+body.dyslexic .reveal h1,
+body.dyslexic .reveal h2,
+body.dyslexic .reveal h3,
+body.dyslexic .reveal h4,
+body.dyslexic .reveal h5,
+body.dyslexic .reveal h6 {
+    font-family: 'OpenDyslexic', sans-serif;
+    font-size: 1.5em;
+}
+
+/* Keep code blocks untouched */
+body.dyslexic .reveal pre,
+body.dyslexic .reveal code {
+    font-family: monospace;
+    font-size: inherit;
+}
+
+/* The toggle button itself */
+#font-toggle-btn {
+    position: fixed;
+    bottom: 28px;
+    left: 64px;
+    z-index: 9999;
+    padding: 6px 12px;
+    font-size: 13px;
+    background: rgba(30, 30, 30, 0.75);
+    color: #e8e8e8;
+    border: 1px solid #c6007e;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'OpenDyslexic', sans-serif;
+    transition: background 0.2s ease;
+}
+
+#font-toggle-btn:hover {
+    background: #c6007e;
+    color: #ffffff;
+}
+
+body.warm #font-toggle-btn,
+body.light #font-toggle-btn {
+    background: rgba(240, 240, 240, 0.85);
+    color: #1a1a1a;
+}

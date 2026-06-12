@@ -244,5 +244,47 @@
                 }
             });
         </script>
+
+                <!-- Script for the Open Dyslexic font button --->
+        <!-- Button sits outside the reveal slides, fixed to the page -->
+        <button id="font-toggle-btn" aria-pressed="false">Switch to Open Dyslexic font</button>
+
+        <script src="dist/reveal.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script>
+        Reveal.initialize({
+            plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+        });
+        </script>
+
+        <!-- Font toggle script AFTER the button and AFTER reveal.js -->
+        <script>
+        const btn = document.getElementById('font-toggle-btn');
+        const body = document.body;
+
+        if (localStorage.getItem('dyslexicFont') === 'true') {
+            body.classList.add('dyslexic');
+            btn.textContent = 'Switch to Atkinson Hyperlegible font';
+            btn.setAttribute('aria-pressed', 'true');
+        }
+
+        btn.addEventListener('click', function () {
+            const isActive = body.classList.toggle('dyslexic');
+            btn.textContent = isActive ? 'Switch to Atkinson Hyperlegible font' : 'Switch to Open Dyslexic font';
+            btn.setAttribute('aria-pressed', isActive);
+            localStorage.setItem('dyslexicFont', isActive);
+        });
+
+        Reveal.on('slidechanged', function(event) {
+            const btn = document.getElementById('font-toggle-btn');
+            if (event.indexh === 0 && event.indexv === 0) {
+                btn.style.display = 'block';
+            } else {
+                btn.style.display = 'none';
+            }
+        });
+        </script>
     </body>
 </html>
